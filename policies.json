@@ -1,0 +1,858 @@
+[
+  {
+    "id": "ins-2026-11-02",
+    "title": "增强安全类目商业责任险：取消 1 万美元月销售额门槛",
+    "regions": [
+      "US"
+    ],
+    "category": "保险",
+    "status": "即将生效",
+    "announced": "2026-09-03",
+    "effective": "2026-11-02",
+    "zh": "2026年9月3日，亚马逊在美国卖家论坛发布通知：自2026年11月2日起，在增强安全类目有在售链接的卖家，不论是否达到单月总收入1万美元，都要为这些商品维持商业责任险。公开转述给出的保额仍是每次事故100万美元、累计100万美元。中国大陆注册卖家新提交的保单必须来自 Amazon Insurance Accelerator，否则会被拒；11月2日前已提交且合格的保单可用到到期。类目外商品的1万美元门槛据转述未取消。免赔额不超过1万美元，且需把 Amazon.com Services LLC 及其关联方列为附加被保险人。",
+    "orig": "Secondary reports of the 3 September 2026 US Seller Forums notice: sellers with products in enhanced-safety categories “will now be required to maintain a commercial liability insurance policy that covers those products, regardless of whether they meet the USD 10,000 gross proceeds in a month threshold.” From 2 November 2026, newly submitted policies from Mainland China-based sellers that were not obtained through the Amazon Insurance Accelerator will be rejected. A valid policy submitted before that date can be used until it expires.",
+    "plain": "这是啥：美国增强安全类目不再看一个月有没有做到1万美元，只要这些商品在售，就要有商业责任险。\n跟你有没有关系：只影响在美国卖增强安全类目的人。不卖这类的不用管；别的类目据转述仍要月销售额到1万美元才要求买。中国大陆注册的，11月2日后新交保单必须来自亚马逊保险加速器，否则会被拒；这之前已交且合格的，可以用到到期。\n你要做的事：卖这类的，办一份覆盖这些商品的责任险：每次和累计各100万美元，免赔不超过1万美元，并把亚马逊相关公司列为附加被保险人。不卖就不用做。",
+    "outlook": "推测是出事要赔得起，也好对上安全方面的要求，不是为了多卖货。和检测改由实验室直传、危险品要填问卷是一套：安全类目从小卖家到材料都在收紧。",
+    "sourceName": "MarketplaceMax 对美国卖家论坛通知的转述",
+    "sourceUrl": "https://marketplacemax.com/insights/amazon-liability-insurance-november-2-2026/"
+  },
+  {
+    "id": "title-75",
+    "title": "标题 75 字符 + Item Highlights 125 字符",
+    "regions": [
+      "US",
+      "CA",
+      "MX",
+      "EU",
+      "GLOBAL"
+    ],
+    "category": "Listing与目录",
+    "status": "已生效",
+    "announced": "2026-06-10",
+    "effective": "2026-08-10",
+    "zh": "2026年6月10日宣布：除媒体类目外，商品名称上限75字符（含空格）；新增可搜索的 Item Highlights，上限125字符。7月27日起对超限标题给 AI 建议。欧洲卖家论坛转载的官方问答写明：自2026年8月10日起，Item Highlights 在桌面和移动端显示在商品名称下方。同一问答称商品名称和 Item Highlights 都是搜索输入，没有写哪一个优先。品牌审核窗口在第三方追踪里被记为14天。追踪页称已有超过9.84亿条标题被更新，该数字来自第三方对卖家新闻的摘录。",
+    "orig": "Amazon Europe forum repost, 2 August 2026: “Yes, effective as of 10 August 2026, Item highlights will display beneath the Item name across desktop and mobile.” “With this update, you’ll still have 200 characters to list your important product information; those characters will be split between Item name (75 characters) and Item highlights (125 characters).” A later secondary quote attributed to Seller Central: “Your search and discoverability are unchanged. Item name and Item highlights are both inputs for search, and one isn’t prioritized over the other.”",
+    "plain": "这是啥：除了媒体类，商品名字最多75个字（含空格），多出来的卖点写到名字下面的亮点栏，亮点最多125个字，两边都能被搜到。\n跟你有没有关系：卖非媒体商品的人要改，站点包括美国、加拿大、墨西哥、欧洲和多站点。只卖媒体类的不用管这条字数。8月10日起，亮点会显示在电脑和手机的商品名下面。\n你要做的事：把超长标题改到75个字以内，剩下的卖点挪进亮点栏。媒体类不用做。",
+    "outlook": "推测是为了买家在手机上更快看懂，不是政府要求。和AI真人图必须打标记是同一方向：页面更干净，也更好分辨。",
+    "sourceName": "Amazon Seller Forum 转载的欧洲公告问答",
+    "sourceUrl": "https://seller-forum.com/t/answers-to-your-product-title-update-questions/19550"
+  },
+  {
+    "id": "ai-people-tag",
+    "title": "写实 AI 生成人物的图片和视频必须打 IPTC 标记",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "Listing与目录",
+    "status": "已生效",
+    "announced": "2026-07-22",
+    "effective": "2026-07-22",
+    "zh": "第三方政策追踪记载：2026年7月22日起，Listing 和 A+ 中含写实 AI 生成人物的图片、视频，上传前要在 XMP 的 dc:subject 写入 IPTC 关键词 contains-synthetic-performer。亚马逊再向顾客显示标识。适用范围被记为全球站点。只含真实人物、影视游戏角色，或没有写实人物的素材，追踪页称豁免。",
+    "orig": "Autopilot tracker, citing Amazon Seller News: “Images and video that contain photorealistic AI-generated people require the IPTC keyword contains-synthetic-performer in the dc:subject (XMP) field before upload. Amazon then shows customers an indicator.” In effect since 22 July 2026. Applies to listings and A+ content, all stores worldwide.",
+    "plain": "这是啥：商品页和A+里，看起来像真人、但是AI做出来的图片和视频，上传前必须打上合成人物标记，亚马逊再给顾客看标识。\n跟你有没有关系：材料写的是全球站点。只用真人实拍、影视或游戏角色、或者画面里没有写实人物的，不用管。\n你要做的事：有这种图或视频的，上传前写上标记词 contains-synthetic-performer。没有就不用做。",
+    "outlook": "推测是为了买家分清真人和合成人，少被误导。和标题改短是同一件事：管的是页面可不可信，不是加一笔费用。",
+    "sourceName": "Autopilot Amazon Policy Tracker（引用 Seller News）",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "tic-direct",
+    "title": "受管制类目检测报告须由认可实验室直接回传",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2026-07-21",
+    "effective": "2026-07-21",
+    "zh": "2026年7月21日卖家新闻被追踪为：膳食补充剂、儿童玩具、电动出行等需要 TIC 的类目，合规结果必须由认可的检测、检验、认证机构直接提供，卖家自行上传文件不再被接受。追踪页写检测从收到样品起通常约30天，路径是账户状况里的政策合规。站点范围本次材料没有逐国列出。",
+    "orig": "Autopilot tracker: “Compliance results must come directly from an approved testing, inspection and certification provider. Self-uploading documents is no longer accepted. Applies to categories including dietary supplements, children’s toys and e-mobility.”",
+    "plain": "这是啥：膳食补充剂、儿童玩具、电动出行这类要检测的商品，结果必须由认可的检测机构直接交给亚马逊，自己上传文件不再算数。\n跟你有没有关系：只卖这些类目的人要改。不卖这些的不用管。材料没逐国写清站点。从收到样品算起，检测通常大约30天。\n你要做的事：让认可的实验室直接回传结果，不要自己上传。不卖这些类目就不用做。",
+    "outlook": "推测是为了对上政府合规，避免卖家自己改报告。和责任险取消小卖家豁免、危险品问卷是一套：安全类目从检测、保险到问卷都要过第三方。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "fuel-surcharge",
+    "title": "FBA 等履约费加收 3.5% 燃油与物流附加费",
+    "regions": [
+      "US",
+      "CA",
+      "MX"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2026-04-02",
+    "effective": "2026-04-17",
+    "zh": "加拿大卖家帮助页写明：自2026年4月17日起，3.5% 燃油与物流相关附加费适用于美国和加拿大的 FBA 履约费，以及从美国发往加拿大、墨西哥、巴西的 Global Store Seller Supervised 报价。附加费加在履约费上，不是加在售价上。Buy with Prime 与 MCF 的生效日，第三方追踪记为2026年5月2日。追踪页称美国 FBA 平均约每件 0.17 美元，这是第三方估算，不是帮助页原文。",
+    "orig": "Amazon.ca Seller Central help: “Starting April 17, 2026, a 3.5% fuel and logistics-related surcharge will be applied to fulfilment fees across Fulfilment by Amazon (FBA) in the US and Canada as well as to Global Store Seller Supervised offers from the US into Canada, Mexico, and Brazil.”",
+    "plain": "这是啥：美国和加拿大的FBA配送费再加3.5%油价和物流附加，加在配送费上，不加在售价上。\n跟你有没有关系：只影响走美国或加拿大FBA的人，以及从美国发往加拿大、墨西哥、巴西、由卖家自己管理的跨境报价。完全自己发货、不走这些配送的不用管。多渠道发货和Buy with Prime，追踪记的是5月2日起算。\n你要做的事：走这些配送的，按加上3.5%之后的配送费重算。不走就不用做。",
+    "outlook": "推测是亚马逊把油价和运费上涨转给卖家，不是政府加税。和2026年每件多8美分、10月旺季加价叠在一起：基础费可以不涨，总运费仍会涨。",
+    "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
+    "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA"
+  },
+  {
+    "id": "eu-fees-2026",
+    "title": "欧洲站 2026 年佣金与 FBA 费用下调",
+    "regions": [
+      "EU"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2025-12-08",
+    "effective": "2026-02-01",
+    "zh": "卖家论坛一篇公告写：2026年欧洲店铺费用平均每件降低 £0.15 / €0.17。2025年12月15日起，英德法意西包裹型 FBA 履约费平均再降 £0.26 / €0.32；服装配饰佣金，£15/€15 及以下从 8% 降到 5%，£15–20 / €15–20 从 15% 降到 10%。2026年2月1日起：家居新品类 £20/€20 及以下佣金从 15% 降到 8%；宠物服装和食品 £10/€10 以下从 15% 降到 5%；食品和维生素矿物质补充剂 £10/€10 以下从 8% 降到 5%；低价 FBA 费率在多数类目扩到 £20/€20 及以下，新纳入商品平均再降 £0.40 / €0.45。秒杀可变费用上限降为英国 £200、德国 €300、法意西 €100。",
+    "orig": "Seller forum announcement text: “In 2026, we will make one of our largest-ever fee reductions, lowering fees by an average of £0.15/€0.17 per unit sold in our European stores.” Parcel FBA fees reduced by an average of £0.26/€0.32 from 15 December 2025 in the UK, Germany, France, Italy and Spain. From 1 February 2026, Home Products referral fees fall from 15% to 8% at and up to £20/€20; Pet Clothing and Food from 15% to 5% up to £10/€10; Grocery and Gourmet and Vitamins, Minerals and Supplements from 8% to 5% up to £10/€10.",
+    "plain": "这是啥：欧洲店的费用在降，平均每件少0.15英镑或0.17欧元。低价的服装配饰、家居、宠物服装和食品、食品杂货和维生素补充剂，佣金降得更多，低价配送也扩到更多商品。\n跟你有没有关系：只影响在欧洲站卖货的人。只做美国或其他站点的不用管。不是每个品类的佣金都降。秒杀浮动费也设了上限：英国200英镑、德国300欧元、法意西100欧元。\n你要做的事：按你在欧洲卖的品类和价格，用新费率重算。不在欧洲卖就不用做。",
+    "outlook": "推测是为了在欧洲留住买家和卖家，用更低费用跟别的平台抢。和2025年12月欧洲配送费下调是同一轮让利，和美国加燃油费不是一个方向。",
+    "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US"
+  },
+  {
+    "id": "mx-zero-fee",
+    "title": "墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索",
+    "regions": [
+      "MX"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2026-07-15",
+    "effective": "2026-07-15",
+    "zh": "墨西哥媒体 Merca2.0 报道：amazon.com.mx 对2026年7月15日及之后首次发布并开售的新卖家，报名期至2026年12月30日，最多五个月免推荐佣金和部分物流费。累计减免上限每卖家5万墨西哥比索。前90天广告花费占销售额 5%（TACoS）可多一个月；同期至少 80% 销量走 FBA 可再多一个月。报道称需墨西哥税务住所、账户正常、遵守政策。本次没有打开到亚马逊墨西哥官方条款页。",
+    "orig": "No Amazon original text was retrieved in this pass. Merca2.0 reports: eligible new sellers on Amazon.com.mx — first product listed and offered on or after 15 July 2026 — can receive up to five months without referral fees and certain logistics fees, enrollment through 30 December 2026, capped at 50,000 pesos per seller.",
+    "plain": "这是啥：墨西哥新卖家可以免佣金和一部分物流费，最多五个月，每家累计最多免5万比索。\n跟你有没有关系：只限2026年7月15日及以后第一次发布并开售、并在12月30日前报名的墨西哥新卖家。老店和其他站点不用管。前90天广告花费占销售额5%可多免一个月，同期至少80%销量走FBA可再多一个月，但每家最多5万比索。报道还要求墨西哥税务住所、账户正常。\n你要做的事：符合的新店去报名。老店不用做。",
+    "outlook": "推测是亚马逊用免费用换墨西哥新卖家，并把货往FBA里赶。美加同期主要是不涨或小涨，墨西哥是在花钱拉新店。",
+    "sourceName": "Merca2.0",
+    "sourceUrl": "https://www.merca20.com/amazon-mexico-cero-comisiones-nuevos-vendedores-2026/"
+  },
+  {
+    "id": "multichannel",
+    "title": "卖家平台多渠道工具：可连接 eBay、Shopify、TikTok、Walmart",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "灰度推广",
+    "announced": "2026-09-24",
+    "effective": "2026-09-24",
+    "zh": "2026年9月24日 About Amazon 文章，作者 Mary Beth Westmoreland：卖家平台新增多渠道工具，可连接 eBay、Shopify、TikTok、Walmart 的订单、链接和分析。先向美国站卖家分批开放，不另收费。当前能力是连接账户、导入并关联站外链接、查看多渠道销售和订单、用少数点击做跨渠道发货。更多渠道和能力在随后数月推出。文章写卖家自行决定连接哪些渠道、共享哪些数据，可随时断开；有访问控制，卖家数据不与其他卖家共享，也不用于亚马逊零售决策。",
+    "orig": "About Amazon, 24 September 2026: “Multichannel selling tools will roll out gradually to sellers in the U.S. store over the coming months, at no additional cost to sellers.” Available now: connect eBay, Shopify, TikTok, and Walmart accounts, import and link off-Amazon listings, view multichannel sales and orders, and fulfill across channels.",
+    "plain": "这是啥：美国卖家后台可以连上eBay、Shopify、TikTok、沃尔玛，一起看订单、链接和数据，不另收费。\n跟你有没有关系：只分批给美国站，不是人人已经有。不在美国卖、也不在这些平台卖的，不用管。连哪些、共享什么，自己决定，随时能断开。\n你要做的事：想用的话，在后台把要用的平台连上。不想用就不用做。",
+    "outlook": "推测是亚马逊想当卖家的总后台，连别的平台的订单也留在这里。和用Claude查店、多渠道发货是一套，为的是亚马逊自己，不是政府。",
+    "sourceName": "About Amazon",
+    "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools"
+  },
+  {
+    "id": "claude-plugin",
+    "title": "卖家工具向外部 AI 代理开放，美国站 Claude 插件为测试版",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "灰度推广",
+    "announced": "2026-09-23",
+    "effective": "2026-09-23",
+    "zh": "GeekWire 2026年9月23日报道：亚马逊在 Accelerate 宣布卖家插件，可在 Anthropic Claude 或亚马逊 Quick 里查库存、改价、改链接。插件在美国站为 beta，国际扩展在后。报道称外部代理需表明身份并遵守站点规则；同周亚马逊阻止了 Meta Muse 代客购物。卖家业务数据是否被模型方看见，报道引亚马逊称助手侧看不到其他业务数据。本次没有 About Amazon 原文页。",
+    "orig": "GeekWire, 23 September 2026: Amazon announced a plugin so sellers can run account checks from Anthropic’s Claude or Amazon’s Quick assistant. “The plugin is in beta in Amazon’s U.S. stores, with international expansion to follow.”",
+    "plain": "这是啥：美国站正在测试，可以用Claude或亚马逊自己的助手查库存、改价、改链接。\n跟你有没有关系：只在美国站、而且是测试版，其他站点还在后面。不用这类助手的人不用管。外面的工具得表明身份并守规则。\n你要做的事：要用就在美国站打开这个测试插件。不用就不用做。",
+    "outlook": "推测是让卖家用官方助手管店，少用外面的爬虫。和多渠道工具同一目的：操作留在亚马逊接口里，数据也不外流。",
+    "sourceName": "GeekWire",
+    "sourceUrl": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/"
+  },
+  {
+    "id": "gwd-compliance",
+    "title": "全球仓配扩展与一次送检试点",
+    "regions": [
+      "US",
+      "CA",
+      "EU",
+      "GLOBAL"
+    ],
+    "category": "FBA与物流",
+    "status": "灰度推广",
+    "announced": "2026-09-24",
+    "effective": "2026-12-31",
+    "zh": "2026年9月24日 About Amazon，作者 Sunny Jain：多国销售卖家平均收入高 70%，该数字是亚马逊给出的平均值，不是单个卖家结果。合规工具让卖家一次检测、多国认证；试点卖家报告合规成本最高节省 60%。玩具先行，电子和婴儿产品计划在年底前跟上；2027年再扩类目，并打算在生产前给出要求与成本。Global Warehousing and Distribution 目前连接美国，年底前扩展到英国、日本、德国、法国、意大利、西班牙、加拿大。扩展后一次入仓可覆盖这八国；仓储成本比美国 AWD 低最多 45%，补货进 FBA 快最多 5 天。这些百分比是亚马逊公开表述。",
+    "orig": "About Amazon, 24 September 2026: “Starting with toys, sellers now have a single consolidated specification covering what to test, how to label, and what packaging each destination country requires.” “GWD connects today to the U.S. and will expand to seven more countries, including the UK, Japan, Germany, France, Italy, Spain, and Canada, by the end of the year.”",
+    "plain": "这是啥：货可以一次入仓，再分到美国以及年底前要接上的英国、日本、德法意西和加拿大。玩具可以做一次检测，给多国用。\n跟你有没有关系：想走这套全球仓、或把玩具卖到多国的人才用得上。只在一个国家卖的不用管。电子和婴儿产品计划年底前跟上，2027年再扩类目。\n你要做的事：要这么跨境的，去看自己能不能一次入仓、一次检测。不跨境就不用做。",
+    "outlook": "推测是让卖家一次备货就卖多国，货和检测都走亚马逊的网络。和出口卖到更多国家、泛欧要在荷兰有在售是一套：跨境库存放在它的仓里。",
+    "sourceName": "About Amazon",
+    "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools"
+  },
+  {
+    "id": "fba-export",
+    "title": "FBA Export 扩大到 175 个以上新目的地",
+    "regions": [
+      "US",
+      "CA"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-09-28",
+    "effective": "2026-09-28",
+    "dateNote": "2026-09-28 是公布日。SellerKit 写：已经开通的卖家会在此后约 8 天内自动加入新目的地。来源没有另给一个法规截止日，所以生效记成同一天，不是第二个日期。",
+    "zh": "SellerKit 2026年9月28日：FBA Export 扩展到 175 个以上新目的地，已参加的卖家在接下来约 8 天内自动开启。站点写为美国和加拿大。这一天是公布日，不是另一个单独的生效截止日。本次没有打开到亚马逊公告原文。",
+    "orig": "SellerKit, 28 September 2026: FBA Export expands to more than 175 new destinations and is auto-enabled for existing participants over the next eight days. US and Canada.",
+    "plain": "这是啥：已经开通FBA出口的人，大约8天内会被自动打开175个以上新的收货国家。\n跟你有没有关系：只影响美国和加拿大、而且本来就参加了出口的卖家。没开通出口的、自己发货的，不用管。这一天是公布日，不是另设的截止日期。\n你要做的事：已经开通的不用单独申请。没开通就不用做。",
+    "outlook": "推测是让更多国家的买家买到美加仓库里的货，亚马逊多一笔跨境订单。和一次入仓卖多国连着，都是把现有库存卖远，不是新的禁售。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "dg-questions",
+    "title": "四类商品新建或编辑链接须回答危险品合规问题",
+    "regions": [
+      "US"
+    ],
+    "category": "合规与安全",
+    "status": "即将生效",
+    "announced": "2026-09-25",
+    "effective": "2026-10-26",
+    "zh": "SellerKit 记2026年9月25日：自2026年10月26日起，新建或编辑四类商品链接时要回答新的合规问题，用于识别危险品。四类是制冷器具、减震器与悬挂升高支撑、记号笔与书写工具、泳池与水疗水处理产品。站点记为美国。",
+    "orig": "SellerKit: “Starting October 26, 2026, sellers who create new listings or edit existing ones in four product groups will have to answer new compliance questions that help Amazon identify dangerous goods.” Groups: refrigerant appliances; shock absorbers and suspension lift supports; markers and writing instruments; pool and spa water treatment products.",
+    "plain": "这是啥：新建或修改四类商品链接时，要多答一组问题，用来判断是不是危险品。\n跟你有没有关系：只影响美国站卖制冷器具、减震和悬挂升高件、记号笔和书写工具、泳池和水疗水处理的人。不卖这四类的不用管。10月26日起，新建或编辑才要答。\n你要做的事：改这四类链接时把问题答完。不卖就不用做。",
+    "outlook": "推测是为了运输安全和危险品规定，先在链接上把风险问出来。和锂电池不合规就改陆运、实验室直接交检测是一套：危险品从问卷管到怎么运。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "gpsr",
+    "title": "欧盟 GPSR：责任人、标签与卖家平台提交",
+    "regions": [
+      "EU"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2024-12-13",
+    "effective": "2024-12-13",
+    "zh": "卖家帮助页写：GPSR 适用于多数非食品消费品。需要欧盟境内责任人、责任人联系方式印在标签、制造商联系方式以及警告与安全信息印在标签，并在卖家平台提交标签上的信息。制造商可以在任何国家，但必须另有欧盟责任人。批量可提交制造商和责任人信息；警告与安全图片、文件需按 ASIN 提交。审核最长可达14个工作日。每个欧盟店铺要分别提交。帮助页有一版限定 Amazon Haul，论坛指引则面向一般 GPSR 政策，两者范围不要混用。",
+    "orig": "Seller Central help: “To comply with the General Product Safety Regulation (GPSR) policy, which applies to most non-food consumer products, you need the following: A Responsible Person based in the EU … The Responsible Person’s contact information on the product label … The contact information of the manufacturer and any warning and safety information on the product label.” Forum guidance: submissions are reviewed in up to 14 working days, and steps must be taken separately for each EU store.",
+    "plain": "这是啥：卖到欧洲的大多数非食品，包装上要印欧盟境内负责人的联系方式，后台也要提交标签上的信息。\n跟你有没有关系：只影响在欧洲站卖这类商品的人。食品、以及不卖欧洲的，不用管。每个欧洲店铺要单独交，审核最长大约14个工作日。有一版帮助只写了Haul，别和一般要求混用。\n你要做的事：找一个欧盟境内的负责人，写上标签并在后台提交。不卖欧洲就不用做。",
+    "outlook": "这是欧盟法律，要买家出事时找得到欧洲境内的人，不是亚马逊自己加的门槛。和包装回收注册是两笔账：一个管产品安全，一个管包装垃圾。",
+    "sourceName": "Seller Central Help：提交 GPSR 信息",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US"
+  },
+  {
+    "id": "ppwr",
+    "title": "欧盟包装与包装废弃物：生产者责任仍按成员国执行",
+    "regions": [
+      "EU"
+    ],
+    "category": "税务与包装",
+    "status": "已生效",
+    "announced": "2026-08-12",
+    "effective": "2026-08-12",
+    "zh": "卖家帮助页长期要求：在欧盟销售的包装商品须符合欧洲包装与包装废弃物规定，包括在销售所在成员国加入授权回收体系，并可能要展示回收标识。2026年9月 ppc.land 称 Regulation (EU) 2025/40 自2026年8月12日起适用，卖家须向回收体系注册，并在发货成员国指定授权代表。该条例适用日本次没有打开 EUR-Lex 核对。",
+    "orig": "Amazon help: “Packaged products you sell in the EU must comply with the European Packaging and Packaging Waste regulations,” including joining an authorized collection and recycling scheme in any member state where you sell. ppc.land, 29 September 2026, states Regulation (EU) 2025/40 began to apply on 12 August 2026 and requires registration with take-back systems and an authorised representative in each member state shipped to.",
+    "plain": "这是啥：在欧洲卖带包装的商品，要加入你销售所在国的包装回收体系，发到几个国家往往就要注册几份。\n跟你有没有关系：只影响卖到欧盟、而且商品有包装的人。不卖欧洲的不用管。这和产品安全负责人不是同一份材料。\n你要做的事：按你发货的成员国去做包装回收注册。不卖欧洲就不用做。",
+    "outlook": "这是欧盟要各国有人回收包装，政府要的，不是为了让买家少退货。不要和产品安全负责人混：检测和负责人代替不了这份注册。",
+    "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US"
+  },
+  {
+    "id": "inform",
+    "title": "美国高销量卖家 INFORM 消费者法信息核验",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "已生效",
+    "announced": "2026-06-29",
+    "effective": "2026-06-29",
+    "zh": "追踪页记2026年6月29日提醒：过去12个月交易满200笔且收入满5000美元的美国卖家，须保持身份、地址、银行和税务信息已核验。不做要求的核验或年度认证，账户可被停用。",
+    "orig": "Autopilot tracker: “High-volume sellers must keep identity, address, bank and tax details verified. Accounts that skip required verification or annual certification can be deactivated.” US sellers with 200+ transactions and $5,000+ revenue in 12 months.",
+    "plain": "这是啥：美国卖得多的店，身份、地址、银行和税务信息要保持已核验，还要做年度确认，不做账户可能被停用。\n跟你有没有关系：只限过去12个月交易满200笔、并且收入满5000美元的美国卖家。没到这个量、或不在美国卖的，不用管。\n你要做的事：到量的店去完成核验和年度确认。没到量就不用做。",
+    "outlook": "这是美国法律要大卖家露出真实身份，保护买家。和关联账户、品牌权限改用账户编号是一套：店必须对得上真人。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "safe-t",
+    "title": "美国自发货 SAFE-T 索赔窗口改为 30 天",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "已生效",
+    "announced": "2026-01-21",
+    "effective": "2026-02-16",
+    "zh": "2026年1月21日宣布，2月16日起：美国自发货订单的 SAFE-T 索赔须在退货送达或退款较晚者之后30天内提交，原先为60天。进行中的索赔不受影响。",
+    "orig": "Autopilot tracker: “Claims for US seller-fulfilled orders must be filed within 30 days of return delivery or refund, whichever is later, down from 60 days.” Effective 16 February 2026.",
+    "plain": "这是啥：美国自己发货的订单，退货索赔从60天改成30天，从退货送达或退款较晚的那天算起。\n跟你有没有关系：只影响美国站、自己发货的人。走FBA的不用管。已经在处理中的索赔不受影响。2月16日起按30天。\n你要做的事：自己发货的，在这30天内提交索赔。走FBA就不用做。",
+    "outlook": "推测是亚马逊少背卖家拖很久才提的退货账，所以窗口砍半。和退货特别多也要付处理费同一方向：退货成本更多留给卖家。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "commingle",
+    "title": "FBA 混储结束：转售商须贴亚马逊条码",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2025-12-08",
+    "effective": "2026-03-31",
+    "zh": "追踪页：2026年3月31日及之后发出的库存，品牌代表可使用制造商条码、不必贴亚马逊标签；转售商即使有制造商条码也必须贴亚马逊条码。没有制造商条码的商品一律要贴。追踪页范围写的是全部 FBA 卖家，公告链接在美国 Seller Central，其他站点是否同日本次未核对。",
+    "orig": "Autopilot tracker: “Brand Representatives can rely on manufacturer barcodes without Amazon stickers. Resellers must apply Amazon barcode stickers even when a manufacturer barcode exists.” Inventory shipped on or after 31 March 2026.",
+    "plain": "这是啥：2026年3月31日及以后发给亚马逊仓的货，转卖别人品牌的必须贴亚马逊条码；品牌自己卖、有厂家条码的可以不贴。\n跟你有没有关系：只影响美国FBA里的转卖商，以及没有厂家条码的货。品牌自己卖并且有厂家条码的，不用贴。自己发货的不用管。别的站点这次没核对。\n你要做的事：跟卖的，发货前贴上亚马逊条码。品牌自营有厂家条码的不用贴。",
+    "outlook": "推测是为了买家拿到对版的货，也方便追到是哪一个卖家发的。和品牌改用账户编号、关联店铺一起，混在一起卖的路被关掉。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "handling-featured-variation",
+    "title": "自发货处理时间、黄金购物车资格门、变体向导下线",
+    "regions": [
+      "US",
+      "GLOBAL"
+    ],
+    "category": "Listing与目录",
+    "status": "已生效",
+    "announced": "2026-05-27",
+    "effective": "2026-06-29",
+    "zh": "三条卖家新闻被追踪为：2026年6月29日起，自发货 SKU 的处理时间必须匹配实际发货速度；持续比所填时间快至少一天的 SKU 会被标记，30天内不改则由亚马逊接管，并给180天迟发率保护。定制、手工、重货 LTL 豁免。7月6日：黄金购物车去掉卖家资格前置门槛，所有报价按价格、配送速度和表现排序，标准本身不变，全年逐步推出，追踪页写全部站点。7月21日：变体新增改到添加商品页，变体向导于2026年8月底前停用。",
+    "orig": "Autopilot tracker: seller-fulfilled SKUs must carry handling times that match actual shipping speed, live since 29 June 2026. Featured Offer seller-eligibility step is being dropped, rolling out through end of 2026, all stores. Variation Wizard retires by the end of August 2026.",
+    "plain": "这是啥：自己发货填写的处理时间必须跟实际发货速度一致；购物车不再先卡卖家资格；旧的变体向导到8月底停用。\n跟你有没有关系：处理时间只卡自己发货、而且不在定制、手工、重货卡车豁免里的人。持续比所填时间快至少一天的会被标记，30天不改就由亚马逊接管，并给180天迟发保护。走FBA的不用改天数。购物车资格门是各站点全年逐步去掉。新建变体改到添加商品页，旧向导8月底前停用。\n你要做的事：自己发货且不在豁免里的，把处理时间改成实际发货速度。走FBA或属于豁免的不用做。",
+    "outlook": "推测是买家看到的到货天数必须是真的，购物车就直接比价格和速度。和重货可在后台买卡车面单是同一类自己发货的事，但这条把定制、手工和重货卡车豁免了。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "us-apparel-ref-2024",
+    "title": "美国服装 20 美元以下推荐费下调",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-01-15",
+    "zh": "2023年12月5日美国费用公告：服装售价低于 20 美元的推荐费自 2024年1月15日起下调。15 美元以下从 17% 降到 5%，15 到 20 美元从 17% 降到 10%。其他推荐费不变。",
+    "orig": "Amazon, 5 December 2023: “For items priced under $15, we will decrease referral fees from 17% to 5%. For products priced between $15 and $20, we will decrease referral fees from 17% to 10%. Other referral fees will remain unchanged. These reduced fees will apply starting January 15, 2024.”",
+    "plain": "这是啥：美国卖低于20美元的衣服，佣金变低了：15美元以下从17%降到5%，15到20美元从17%降到10%。\n跟你有没有关系：只影响美国站卖这个价位服装的人。别的品类、以及不在美国卖衣服的，不用管。其他佣金不变。\n你要做的事：卖这个价位衣服的，按新佣金重算。不卖就不用做。",
+    "outlook": "推测是为了让买家买到更便宜的衣服。2025和2026年美国佣金基本不涨，这档低价服装优惠一直留着。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-sipp-2024",
+    "title": "原包装发货计划（SIPP）履约费折扣",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-02-05",
+    "zh": "同一份 2023年12月5日公告：符合 Ships in Product Packaging 的商品，自 2024年2月5日起给履约费折扣，幅度按尺寸和重量从 0.04 美元到 1.32 美元。",
+    "orig": "Amazon, 5 December 2023: fulfillment-fee discounts for eligible products in the Ships in Product Packaging program “will apply starting February 5, 2024,” ranging from $0.04 to $1.32 depending on size and weight.",
+    "plain": "这是啥：商品用自己的包装直接寄给顾客、并且符合这个计划的，美国配送费可以少一点，按尺寸和重量大约少0.04到1.32美元。\n跟你有没有关系：只影响美国FBA、而且包装已经能直接发给顾客的商品。要亚马逊另外装箱的、或不在美国走FBA的，不用管。\n你要做的事：包装合格的，去走原包装发货拿这笔折扣。不合格就不用做。",
+    "outlook": "推测是亚马逊少用自己的盒子，省包装和人工。和同年的入库费、低库存费是一套：配送费可以降，但省下来的包装才给你折扣。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-inbound-placement-2024",
+    "title": "美国 FBA 入库配置服务费",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-03-01",
+    "dateNote": "2024-03-01 是费用规则开始适用的日子。公告写费用在收货后 45 天收取，所以第一笔实际扣费和履约费下调落在同一天 2024-04-15。卡片上的生效日是规则日，不是第一笔账单日。",
+    "zh": "2023年12月5日宣布：标准尺寸和大件新增入库配置服务费，自 2024年3月1日起适用，收货后 45 天收取。公告给出的平均数是标准件每件 0.27 美元、大件每件 1.58 美元。货分送到多个仓可以减费，甚至减到 0。",
+    "orig": "Amazon, 5 December 2023: “These fees will be effective starting March 1, 2024, and the fees will be charged 45 days after products are received.” Averages stated: $0.27 per unit for standard-sized products and $1.58 per unit for Large Bulky-sized products.",
+    "plain": "这是啥：美国FBA如果货只进一个仓、让亚马逊再分发，就要付入库配置费；自己分到多个仓，费用可以降，甚至降到0。\n跟你有没有关系：只影响往美国FBA发标准件或大件的人。自己发货、不在美国入仓的不用管。规则从3月1日起算，收货后45天才扣。公告里的平均数是标准件每件0.27美元、大件每件1.58美元。\n你要做的事：发货前选定分几个仓。能自己分开的，这笔费可以少付或不付。",
+    "outlook": "推测是亚马逊不再免费把货搬到离买家近的仓。和低库存费、配送费下调一起看：离买家近的库存，费用逼你自己安排好。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-low-inventory-2024",
+    "title": "美国标准件低库存水平费",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-04-01",
+    "zh": "2023年12月5日宣布，2024年4月1日起：标准尺寸如果相对销量长期库存不足，收低库存水平费。公告写维持超过约四周的可售库存可以避开。新专业卖家和刚做 FBA 的父 ASIN 有豁免窗口，天数以帮助页为准，本条不复述未在公告摘要里写出的天数。",
+    "orig": "Amazon, 5 December 2023: “These fees will apply starting April 1, 2024.” The fee applies to standard-sized products with consistently low inventory relative to unit sales. “Sellers can avoid this fee by maintaining more than four weeks of inventory relative to sales.”",
+    "plain": "这是啥：美国标准件如果相对销量长期库存不够，会加一笔低库存费；可售库存够卖大约四周就能避开。\n跟你有没有关系：只影响美国FBA的标准件。大件、自己发货、不在美国卖的不用管。新专业卖家和新做FBA的父商品有一段豁免，天数以帮助页为准。\n你要做的事：标准件维持大约四周以上的可售库存。不卖标准件就不用为这条备货。",
+    "outlook": "推测是为了买家不断货，配送才快，断货就罚卖家。和入库费同一目的：货要提前、要散开放在亚马逊仓里。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-storage-2024",
+    "title": "美国标准件非旺季月仓储费下调",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-04-01",
+    "zh": "同一公告：标准尺寸非旺季月仓储费自 2024年4月1日起平均每立方英尺降 0.09 美元，从 0.87 美元降到 0.78 美元，适用于 1 月到 9 月的非旺季。非标准尺寸不变。",
+    "orig": "Amazon, 5 December 2023: non-peak monthly storage fees for standard-size products fall by an average of $0.09 per cubic foot, from $0.87 to $0.78, “starting April 1, 2024.” Non-standard sizes unchanged. The reduction applies January through September.",
+    "plain": "这是啥：美国标准件在1月到9月的仓储费变少了，平均每立方英尺从0.87美元降到0.78美元。\n跟你有没有关系：只影响美国FBA的标准件。非标准尺寸不变，这次只降1月到9月的非旺季。自己发货的不用管。\n你要做的事：不用额外操作，淡季仓储会按新费率算。",
+    "outlook": "推测是用便宜的淡季仓储换卖家提前备货。和低库存罚款、10月旺季加价配合：淡季鼓励压货，旺季再把运费加回去。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-fulfillment-cut-2024",
+    "title": "美国 FBA 履约费下调（标准件与大件）",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-04-15",
+    "zh": "2023年12月5日宣布：自 2024年4月15日起，标准尺寸履约费平均每件降 0.20 美元，大件平均每件降 0.61 美元。售价低于 10 美元的商品继续另有每件 0.77 美元折扣。公告写这一天也是入库配置费开始被收取的日子。",
+    "orig": "Amazon, 5 December 2023: “On average, we will decrease FBA fulfillment fee rates for standard-sized products by $0.20 per unit and for Large Bulky-sized products by $0.61 per unit. These fees will apply starting April 15, 2024, the same date that the first inbound placement fees will begin to be charged.” Products priced below $10 keep an additional $0.77 per-unit discount.",
+    "plain": "这是啥：美国FBA配送费平均降了，标准件每件大约少0.20美元，大件大约少0.61美元；但同一天开始收第一笔入库配置费。\n跟你有没有关系：只影响美国FBA。自己发货的不用管。售价低于10美元的，原有每件0.77美元折扣还在。\n你要做的事：把配送费下降和入库费放在一起重算。不走美国FBA就不用做。",
+    "outlook": "推测是明面配送费降给买家看，再用入库费把成本拿回来。和低库存费、入库费要一起算，不是单纯让利。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "us-returns-fee-2024",
+    "title": "高退货率商品的退货处理费扩到服装鞋类以外",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2023-12-05",
+    "effective": "2024-06-01",
+    "zh": "2023年12月5日宣布：退货处理费自 2024年6月1日起扩到服装和鞋类以外、退货率在同类里最高的那一档商品。服装和鞋类原有算法继续，公告写平均不变。不是所有退货都收。",
+    "orig": "Amazon, 5 December 2023: the returns processing fee “will only apply to products that have the highest return rates relative to other products in their category and will apply starting June 1, 2024.” Apparel and shoes are excluded from the expansion.",
+    "plain": "这是啥：退货处理费扩到服装鞋类以外，但只收同类里退货率最高的那一档，不是每一件退货都收。\n跟你有没有关系：只影响美国站、退货率在同类里最高的那一档非服装。服装和鞋类仍按原来的算法，公告说平均不变。退货不多的、自己发货的，不用管。\n你要做的事：非服装里退货特别高的，看清会不会被收这笔费。不高就不用做。",
+    "outlook": "推测是退货太贵，亚马逊转给退得多的卖家，也逼页面写清楚。和索赔窗口缩到30天同一方向：退货这笔账更多算卖家的。",
+    "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees"
+  },
+  {
+    "id": "bundles-consumable-2024",
+    "title": "消耗品捆绑：必须原厂包装",
+    "regions": [
+      "US"
+    ],
+    "category": "Listing与目录",
+    "status": "已生效",
+    "announced": "2024-10-14",
+    "effective": "2024-10-14",
+    "dateNote": "2024-10-14 是规则生效日。转述没有另给一个更早的公布日，所以发布记成同一天。站点范围原文没有点名，本条先标美国，因为引用的是美国卖家新闻体系。",
+    "zh": "Seller Essentials 引亚马逊规则：2024年10月14日起，食品杂货、健康美容、婴儿、宠物这些消耗品，只有原厂做好的捆绑才能上架。卖家自己把两袋零食装进一个盒子，不再算合规捆绑。",
+    "orig": "Seller Essentials, citing Amazon: “The rule that took effect on October 14, 2024 said that for consumables (grocery, health and beauty, baby products, and pet products), only bundles created and packaged by the original manufacturer could be listed.”",
+    "plain": "这是啥：食品杂货、健康美容、婴儿、宠物这些消耗品，只有原厂做好的套装才能上架，自己把两袋装进一个盒子不算。\n跟你有没有关系：只影响自己拼这些消耗品套装的人。本条按美国卖家新闻来标，原文没点名站点。不卖这些、或只卖原厂套装的，不用管。\n你要做的事：自己拼的这类套装改成原厂包装，或不要再当一个商品卖。没在拼就不用做。",
+    "outlook": "推测是保护买家，尤其是吃的和用在身上的，不让卖家自己拼套装。2027年扩到大多数实物套装，是同一政策的第二步。",
+    "sourceName": "Seller Essentials（引用亚马逊捆绑政策）",
+    "sourceUrl": "https://selleressentials.com/amazon-bundle-policy-2027/"
+  },
+  {
+    "id": "us-fees-2025",
+    "title": "2025 年美国推荐费与 FBA 费不上调",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2024-11-19",
+    "effective": "2025-01-15",
+    "dateNote": "卡片生效日 2025-01-15 是大件入库配置费下调和一批选品激励的日期。新父 ASIN 入库配置费豁免的货件窗口更早，从 2024-12-01 到 2025-03-31。",
+    "zh": "2024年11月19日公告：2025 年不提高美国推荐费和 FBA 费，不新增费种。大件在最少分仓档的入库配置费自 2025年1月15日起平均每件降 0.58 美元。符合 FBA 新选品计划的新父 ASIN，在 2024年12月1日到 2025年3月31日创建的货件里，每个父 ASIN 前 100 件免入库配置费。",
+    "orig": "Amazon, 19 November 2024: “we will not increase US referral and FBA fees and will not introduce any new fee types.” Large-bulky inbound placement fees for minimal splits fall an average of $0.58 per unit effective January 15, 2025. New parent ASINs in the FBA New Selection program are exempt on the first 100 units for shipments created December 1, 2024 to March 31, 2025.",
+    "plain": "这是啥：2025年美国佣金和FBA费不涨，也不新增费种；大件如果少分仓，入库配置费平均每件降0.58美元。\n跟你有没有关系：只影响美国卖家。不在美国卖的不用管。符合新选品计划的新父商品，在2024年12月1日到2025年3月31日创建的货件里，每个父商品前100件免入库配置费。\n你要做的事：有大件的，少分仓可以按更低的入库费发。没有大件就不用为这条改发货。",
+    "outlook": "推测是2024年刚加完入库费和低库存费，2025年先稳住卖家。和2026年只加8美分、再加3.5%燃油费连着看：不涨的是基础表，后面还有附加。",
+    "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025"
+  },
+  {
+    "id": "us-fees-2026",
+    "title": "2026 年美国 FBA 费平均每件上调约 0.08 美元",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2025-10-15",
+    "effective": "2026-01-15",
+    "dateNote": "生效日 2026-01-15 来自帮助页：“除非另有说明，变更自 2026年1月15日起。”公布日 2025-10-15 来自政策追踪对卖家新闻的记载，帮助页页眉没有印这个日期。",
+    "zh": "美国帮助页：2026 年 FBA 费平均每件售出上调 0.08 美元，不到商品均价的 0.5%。2025 年推荐费和 FBA 费没有上调。不新增 FBA 费种。除非另有说明，变更自 2026年1月15日起，且上调前至少给 90 天。标准尺寸、售价 10 到 50 美元这一档，小号标准件平均加 0.25 美元，大号标准件平均加 0.05 美元。",
+    "orig": "Amazon Seller Central help: “In 2026, FBA fees will increase by an average of $0.08 per unit sold, or less than 0.5% of an average item’s selling price.” “Unless otherwise noted, all changes will be effective January 15, 2026.” Autopilot dates the announcement October 15, 2025.",
+    "plain": "这是啥：2026年美国FBA费平均每件大约多8美分，不到商品均价的0.5%，没有新的FBA费种。\n跟你有没有关系：只影响美国FBA。自己发货的不用管。10到50美元的标准件里，小号平均多0.25美元，大号平均多0.05美元，不是每件都正好多8美分。\n你要做的事：按你的尺寸和价格档重算每件利润。不走美国FBA就不用做。",
+    "outlook": "推测是用很小的涨幅盖住人工和运费，避免一次大改价。和4月燃油附加费、10月旺季价是三笔，不要只看这8美分。",
+    "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US"
+  },
+  {
+    "id": "us-coupon-cap-2025",
+    "title": "美国优惠券可变费用单券上限 2000 美元",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2025-10-15",
+    "effective": "2025-11-05",
+    "dateNote": "生效日是帮助页写的“2025年11月5日及之后创建的优惠券”。公布日沿用 2026 年费用公告被追踪到的 2025-10-15。",
+    "zh": "同一份美国 2026 费用帮助页：2025年11月5日及之后创建的优惠券，可变费用单券封顶 2000 美元。页面写这是为了黑色星期五和网络星期一之前让预算更可预期。",
+    "orig": "Amazon help: “Coupons variable fees will be capped at $2000 per coupon, effective for coupons created on or after November 5, 2025.”",
+    "plain": "这是啥：美国在2025年11月5日及以后新开的优惠券，浮动手续费一张最多收到2000美元。\n跟你有没有关系：只影响美国、而且会开优惠券的人。不开券的不用管。这是为了黑色星期五和网络星期一之前，预算更好估。\n你要做的事：开大促券的，按最多2000美元来做预算。不开券就不用做。",
+    "outlook": "推测是让大促费用可预期，也防止一张券把钱花穿。和加拿大优惠券最多500加元是同一招，只是上限不同。",
+    "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US"
+  },
+  {
+    "id": "ca-fees-2026",
+    "title": "加拿大 2026 年推荐费与 FBA 费不上调，优惠券封顶 500 加元",
+    "regions": [
+      "CA"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2025-11-05",
+    "effective": "2025-11-05",
+    "dateNote": "帮助页没有印新闻稿日期。2025-11-05 是页上写明的优惠券封顶和清算计划生效日，所以发布和生效都记这一天。2026 年费率本身不上调，MCF 结构调整的生效日是 2026-01-15，写在正文里，没有单独占卡片生效日。",
+    "zh": "加拿大帮助页：2026 年不上调加拿大推荐费和 FBA 费。自 2025年11月5日起，优惠券可变费用单券封顶 500 加元；同时推出 FBA Liquidations，费用是 15% 推荐费加按尺寸重量的处理费，0 到 5 公斤处理费 0.25 到 1.90 加元，超过 5 公斤每公斤再加 0.20 加元。加拿大 MCF 自 2026年1月15日起改为按尺寸分段，并按一单多件给递减折扣。",
+    "orig": "Amazon.ca help: “For 2026, we’re pleased to announce there will be no increases to Canada Referral and Fulfilment by Amazon fees.” “effective November 5, 2025” variable coupon fees are capped at CAD 500 per coupon. MCF structure changes “will be effective January 15, 2026.”",
+    "plain": "这是啥：2026年加拿大佣金和FBA费不涨；11月5日起新优惠券浮动手续费一张最多500加元；另外上了FBA清货。\n跟你有没有关系：只影响加拿大卖家。不在加拿大卖的不用管。清货是15%佣金再加按重量的处理费，只有走清货的才付。多渠道发货从2026年1月15日起改成按尺寸算，一单多件有递减折扣。\n你要做的事：会开券或会清货的，按新上限和新处理费算。只是正常卖、不用这两样的，不用做。",
+    "outlook": "推测是加拿大用不上调基础费来留卖家。和美国小涨再加燃油费相比，加拿大基础表更稳，但燃油附加费仍然会加上。",
+    "sourceName": "Amazon.ca 卖家帮助：2026 年加拿大费用",
+    "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/G201411300?locale=en-CA"
+  },
+  {
+    "id": "peak-fees-2026",
+    "title": "2026 年旺季履约费：10 月 15 日至 1 月 14 日",
+    "regions": [
+      "US",
+      "CA",
+      "MX"
+    ],
+    "category": "费用",
+    "status": "即将生效",
+    "announced": "2026-04-17",
+    "effective": "2026-10-15",
+    "dateNote": "生效日 2026-10-15 是帮助页写的旺季区间起点，终点是 2027-01-14。发布日记成附加费同一页上已经写明的 2026-04-17，因为这份帮助页没有单独的新闻稿日期。若你按发布时间筛选，它会出现在 2026 年 4 月，而不是 10 月。",
+    "zh": "远程履行帮助页：2026年10月15日到 2027年1月14日，旺季履约费适用于 FBA、从美国远程履行到加拿大、墨西哥和巴西、MCF，以及 Buy with Prime。页面写旺季费率相对非旺季的每件加幅，平均与上一年相同。燃油与物流附加费照样加在这些费用上。",
+    "orig": "Amazon help: “holiday peak fulfilment fees will apply from October 15, 2026 to January 14, 2027 for FBA, Remote Fulfilment with FBA into Canada, Mexico and Brazil, Multi-Channel Fulfilment (MCF) and Buy with Prime. On average, the rate cards for holiday peak fulfilment fees will have the same per unit increase over non-peak rates as last year.”",
+    "plain": "这是啥：2026年10月15日到2027年1月14日，配送费按旺季加价，平均每件比淡季多出来的幅度和上一年一样。\n跟你有没有关系：只影响走FBA、从美国远程履约到加拿大墨西哥巴西、多渠道发货、或Buy with Prime的人。完全自己发货、不走这些的不用管。油价和物流附加费仍会叠在上面。\n你要做的事：10月中之后用这些配送的，按旺季价重算。自己发货就不用做。",
+    "outlook": "推测是旺季运力贵，成本转给卖家，买家仍要快送达。和3.5%燃油费叠在一起，10月中之后这些配送每件会再跳一档。",
+    "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
+    "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA"
+  },
+  {
+    "id": "lithium-air-2026",
+    "title": "带锂离子电池的 FBA 商品：空运合规，否则改走陆运",
+    "regions": [
+      "US"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2025-11-20",
+    "effective": "2026-01-01",
+    "dateNote": "公布日 2025-11-20。资料要在 2025-12-31 前交。规则生效日是 2026-01-01。卡片按生效日排序时会落在 2026 年 1 月。",
+    "zh": "政策追踪引卖家新闻：带锂离子电池、走 FBA 的商品，合规信息截止 2025年12月31日，2026年1月1日起生效。没有确认合规的，改为只能陆运。建链接或重新发布时要回答电池问题。追踪页的来源文章在美国 Seller Central。",
+    "orig": "Autopilot tracker, citing Seller News announced November 20, 2025: information due December 31, 2025; effective January 1, 2026. Products without confirmed compliance move to ground-only fulfillment. Sellers answer battery compliance questions when listing or relisting.",
+    "plain": "这是啥：带锂离子电池、走FBA的商品，没确认合规就不能空运，只能改走更慢的陆运。\n跟你有没有关系：只影响美国FBA里带这种电池的货。不带电池的、自己发货的不用管。建链接或重新发布时要回答电池问题。资料要在2025年12月31日前交，2026年1月1日起生效。\n你要做的事：带电池的，把合规资料交上。不带电池就不用做。",
+    "outlook": "这是航空危险品规定，为了运输安全，不是亚马逊故意把货放慢。和危险品问卷是一套：电池先问清楚，不合规就改走陆运。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "related-accounts-2026",
+    "title": "关联账户：先申诉责任账户",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "政策说明",
+    "announced": "2026-03-26",
+    "effective": "2026-03-26",
+    "dateNote": "2026-03-26 是说明文章的公布日，不是一条新禁令的起始日。追踪页把它写成既有政策的解释，所以生效记成同一天。",
+    "zh": "2026年3月26日卖家新闻被追踪为：多账户卖家如果被认定关联，应先在账户状况里申诉那个被认定的责任账户，再去申诉其他关联账户。这是对既有规则的说明。",
+    "orig": "Autopilot tracker, announced March 26, 2026: “Appeal the responsible account via Account Health before appealing related accounts.” Standing policy, not a new start date.",
+    "plain": "这是啥：几个店被认定关联时，要先处理被点名的那个责任账户，再去处理其他关联店。\n跟你有没有关系：只影响美国、而且账户已经被认定关联的人。只有一个店、没被关联的，不用管。这是对旧规则的说明，不是一条新禁令。\n你要做的事：被关联的，先在账户状况里申诉那个责任账户。没被点名就不用做。",
+    "outlook": "推测是不让被封的卖家换个店再开。和身份年审、品牌改用账户编号一起，都是把人钉住，不是新的税。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "account-id-roles",
+    "title": "品牌权限改用 Account ID，不再只用邮箱",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "账户与身份",
+    "status": "已生效",
+    "announced": "2026-08-05",
+    "effective": "2026-07-29",
+    "dateNote": "生效日 2026-07-29 早于公布日 2026-08-05。追踪页把 8月5日当成新闻日期，把 7月29日当成规则已经生效的日子。按发布时间排序和按生效时间排序，这条的位置会不同。",
+    "zh": "追踪页：2026年8月5日新闻，权限分配自 7月29日起改用 Account ID。品牌备案管理员和有销售角色的人，在设置、管理账户里找到 Account ID，用它分配角色。",
+    "orig": "Autopilot tracker: announced August 5, 2026; effective July 29, 2026. “Find your Account ID under Settings, then Manage Accounts, and use it for role assignments.” Applies to Brand Registry administrators and selling-role holders.",
+    "plain": "这是啥：给人开品牌后台权限时要填账户编号，只发邮箱不行。\n跟你有没有关系：只影响品牌备案管理员、以及有销售角色、要给别人开权限的人。从不给人开权限的不用管。规则从7月29日已经生效。\n你要做的事：开权限时改用账户编号，在设置里的管理账户可以找到。不开权限就不用做。",
+    "outlook": "推测是邮箱可以借，账户编号才能对上真实店主。和关联账户、美国身份年审同一目的：谁在操作必须查得到人。",
+    "sourceName": "Autopilot Amazon Policy Tracker",
+    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker"
+  },
+  {
+    "id": "eu-fee-cut-2025",
+    "title": "欧洲履约费下调，低价 FBA 扩到 20 英镑或 20 欧元",
+    "regions": [
+      "EU"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2025-12-02",
+    "effective": "2025-12-15",
+    "dateNote": "公布日 2025-12-02。包裹履约费下调自 2025-12-15，这是卡片上的生效日。低价 FBA 扩到 20 英镑或 20 欧元是 2026-01-05，写在正文，不另占一张卡片。",
+    "zh": "Seller Magnet 引亚马逊欧洲费用公告（2025年12月2日）：全欧平均每件降 0.15 英镑或 0.17 欧元。英国、德国、法国、意大利、西班牙的包裹履约费自 2025年12月15日起平均降 0.26 英镑或 0.32 欧元。低价 FBA 优惠自 2026年1月5日起扩到售价不超过 20 英镑或 20 欧元的商品，多数品类适用。",
+    "orig": "Seller Magnet, citing Amazon’s European fee announcement of 2 December 2025: fees cut by “an average of £0.15/€0.17 per unit sold across Europe,” including a parcel fulfilment cut averaging “£0.26/€0.32” in the UK, Germany, France, Italy and Spain from 15 December 2025, and reduced Low-price FBA rates extended to products “priced at or below £20/€20” from 5 January 2026.",
+    "plain": "这是啥：欧洲配送费在降，英德法意西的包裹配送费从12月15日起平均每件少0.26英镑或0.32欧元；低价配送优惠扩到20英镑或20欧元及以下。\n跟你有没有关系：只影响在欧洲、尤其是英德法意西走FBA的人。不在欧洲卖的不用管。低价优惠从2026年1月5日起扩到多数品类。全欧平均每件少0.15英镑或0.17欧元。\n你要做的事：卖低价商品的，看自己有没有进到新的低价配送档。不在欧洲走FBA就不用做。",
+    "outlook": "推测是欧洲低价竞争紧，用更低配送费留住买家和卖家。和2026年2月欧洲佣金下调是同一轮让利，和美国加燃油费不是一个方向。",
+    "sourceName": "Seller Magnet（引用亚马逊欧洲费用公告）",
+    "sourceUrl": "https://blog.sellermagnet.com/post/amazon-pan-european-fba-2026/en"
+  },
+  {
+    "id": "pan-eu-nl-2026",
+    "title": "泛欧 FBA：必须有有效的荷兰报价",
+    "regions": [
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-09-03",
+    "effective": "2026-09-03",
+    "dateNote": "2026-09-03 是帮助页写的“自该日起”适用日，新货和已有库存都算。比利时要到 2027-02-26 才加入同样要求，那是下一个日期，不是这一天。",
+    "zh": "Seller Magnet 引泛欧 FBA 帮助页：自 2026年9月3日起，所有泛欧商品，包括新的和已经在计划里的，都要有一个有效的荷兰报价，才能加入并继续享受泛欧权益。荷兰本身不拿来满足两国入库的最低要求。比利时自 2027年2月26日起加入同样要求。两国入库只能在德国、法国、意大利、西班牙或波兰完成。",
+    "orig": "Seller Magnet quotes Amazon’s Pan-European FBA help: “Starting on 3 September 2026, all Pan-EU FBA products (new and existing) must have an active Netherlands offer to enrol and to continue receiving Pan-EU benefits.” Belgium joins on 26 February 2027.",
+    "plain": "这是啥：做泛欧的商品必须有一个有效的荷兰在售，才能加入并继续用泛欧配送。\n跟你有没有关系：只影响欧洲泛欧FBA，新货和已经在计划里的都算。不做泛欧、自己发货的不用管。荷兰本身不算两国入库，入库仍要在德法意西或波兰。比利时要到2027年2月26日才同样要求。\n你要做的事：做泛欧的，给商品开一个荷兰在售。不做泛欧就不用做。",
+    "outlook": "推测是泛欧要在荷兰也有在售，买家在那边才买得到。和一次入仓卖多国连着，但货仍主要在德法意西波，不是为了把货堆进荷兰仓。",
+    "sourceName": "Seller Magnet（引用泛欧 FBA 帮助页）",
+    "sourceUrl": "https://blog.sellermagnet.com/post/amazon-pan-european-fba-2026/en"
+  },
+  {
+    "id": "bundles-2027",
+    "title": "大多数实物捆绑须原厂包装，2027 年 1 月 11 日",
+    "regions": [
+      "US"
+    ],
+    "category": "Listing与目录",
+    "status": "即将生效",
+    "announced": "2026-09-14",
+    "effective": "2027-01-11",
+    "dateNote": "发布 2026-09-14，生效 2027-01-11。按生效时间筛选时，这条会出现在 2027，而不是 2026。",
+    "zh": "Seller Essentials 引 2026年9月14日卖家新闻：自 2027年1月11日起，大多数做成一个 ASIN 的实物捆绑，必须由原厂或品牌包装。2024年10月只限制消耗品，这次扩到多数品类。豁免：每个品牌都有授权书的重新包装、礼品类目节点、相机产品类型、用虚拟捆绑工具做的虚拟捆绑。",
+    "orig": "Seller Essentials, citing Seller News of 14 September 2026: “Amazon’s manufacturer-packaged bundle rule expands from consumables to most physical bundles on January 11, 2027.” Exemptions named: authorized repacks with a letter of authorization from every brand, gifting browse nodes, camera product types, and virtual bundles.",
+    "plain": "这是啥：2027年1月11日起，大多数做成一个商品卖的实物套装，必须原厂或品牌包装，不能再自己装箱。\n跟你有没有关系：只影响美国站自己拼实物套装的人。各品牌都有授权的重新包装、礼品类目、相机类、以及用虚拟套装工具做的，可以继续。不拼套装的不用管。\n你要做的事：自己装箱又没有豁免的，改成原厂包装或改成虚拟套装。不拼就不用做。",
+    "outlook": "推测是买家抱怨自己拼的套装货不对，所以从2024年的食品美妆扩到大多数实物。虚拟套装还留着，禁的是自己装箱，不是组合销售本身。",
+    "sourceName": "Seller Essentials（引用 2026-09-14 卖家新闻）",
+    "sourceUrl": "https://selleressentials.com/amazon-bundle-policy-2027/"
+  },
+  {
+    "id": "listing-protection-2026",
+    "title": "Listing Protection：违规处理期间链接先保持在售",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "灰度推广",
+    "announced": "2026-09-29",
+    "effective": "2026-12-31",
+    "dateNote": "2026-09-29 是 Accelerate 上的公布日。2026-12-31 不是开关日，是“覆盖全部美国账户健康保障卖家”的目标日。按生效时间排序时，它会排到 2026 年底。",
+    "zh": "SellerKit 记 2026年9月29日：Listing Protection 在违规被标出后，卖家处理期间链接保持在售，并给出步骤和申诉错误的路径。亚马逊说 2026 年底前覆盖全部美国账户健康保障（AHA）卖家，2027 年扩到全球。",
+    "orig": "SellerKit, 29 September 2026: “When a violation is flagged, the listing stays live while the seller works to resolve it.” The program “will reach all Account Health Assurance (AHA) sellers in the US by year-end and expand worldwide in 2027.”",
+    "plain": "这是啥：违规被标出来之后，有账户健康保障的卖家在处理期间，链接先保持在售，并给步骤和申诉路径。\n跟你有没有关系：先给美国有账户健康保障的卖家，目标是2026年底覆盖全部这类美国卖家，2027年再扩到全球。没有这个保障的，先不用管。年底这个日期是覆盖目标，不是统一开关日。\n你要做的事：被点名违规时按给出的步骤去改。没被点名就不用做。",
+    "outlook": "推测是误下架会同时伤到买家和卖家，所以有保障的店先卖着改。和关联停用相反：处罚还在，但不再先把链接拿掉。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "ltl-buy-shipping-2026",
+    "title": "重货可用 Buy Shipping 购买 LTL 面单",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "即将生效",
+    "announced": "2026-09-30",
+    "effective": "2026-10-01",
+    "dateNote": "公布日是 2026-09-30。来源只写“10 月起”，没有具体日，生效日记成 2026-10-01。区域配送计价是 2027 年初的计划，不是这个生效日。",
+    "zh": "SellerKit 2026年9月30日，引 Accelerate 2026：10 月起，自发货的重货和超大件可以通过 Buy Shipping 购买零担（LTL）面单。区域配送计价计划在 2027 年初。站点记为美国。",
+    "orig": "SellerKit, 30 September 2026: “Starting in October, sellers can buy less-than-truckload (LTL) shipping labels through Amazon Buy Shipping,” with regional delivery pricing for heavy and bulky items planned for early 2027. US.",
+    "plain": "这是啥：美国自己发的重货和超大件，从10月起可以在后台直接买零担卡车面单。\n跟你有没有关系：只影响美国、而且自己发重货或超大件的人。走亚马逊仓发货的、不发重货的，不用管。按区域计价是2027年初的计划，不是现在这张面单要改的。\n你要做的事：要发这类货的，到后台买卡车面单。不发就不用做。",
+    "outlook": "推测是大件也要送到买家家里，所以卡车发货被收进亚马逊的面单。和发货时间必须填真实是一件事：重货一样会被计时，慢了会影响购物车。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "lending-2026",
+    "title": "亚马逊贷款年底前对所有美国卖家开放",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "灰度推广",
+    "announced": "2026-09-29",
+    "effective": "2026-12-31",
+    "dateNote": "2026-09-29 是公布日。2026-12-31 是“对所有卖家开放、不再要邀请”的目标日，不是已经对每个人打开的日子。",
+    "zh": "SellerKit 2026年9月29日：Amazon Lending 将在 2026 年底前对所有卖家开放，不再需要邀请，并增加最高 500 万美元的 SBA 支持贷款。站点记为美国。",
+    "orig": "SellerKit, 29 September 2026: Amazon Lending will open to every seller by the end of 2026 without an invitation, and adds SBA-backed loans up to $5 million. US.",
+    "plain": "这是啥：年底前美国卖家不用等邀请，也能申请亚马逊贷款，并增加最高500万美元、有小企业局支持的贷款。\n跟你有没有关系：只面向美国卖家，而且是年底前逐步放开，不是今天每个人都能申请。不在美国卖、或不需要这笔钱的，不用管。\n你要做的事：需要钱的，年底前再看申请入口开了没有。不需要就不用做。",
+    "outlook": "推测是用贷款把备货和广告留在站内。和低库存要罚款、FBA要你提前压货是一套：有货才能卖，钱也可以从亚马逊这边出。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "ads-agent-2026",
+    "title": "美国广告：全漏斗广告已开放，DVA+ 10 月底铺开",
+    "regions": [
+      "US"
+    ],
+    "category": "广告",
+    "status": "灰度推广",
+    "announced": "2026-09-29",
+    "effective": "2026-09-29",
+    "dateNote": "2026-09-29 是公布日，也是全漏斗广告对美国广告主开放的日子。DVA+ 只写“10 月底起铺开”，没有单独日期，所以没有把它写成卡片生效日。",
+    "zh": "SellerKit 2026年9月29日，unBoxed 2026：Amazon Ads Agent 的全漏斗广告已对全部美国广告主开放。DVA+ 自 10 月底起逐步推出。",
+    "orig": "SellerKit, 29 September 2026: Full-Funnel Campaigns are available now for all US advertisers. DVA+ rolls out from late October.",
+    "plain": "这是啥：美国广告主现在可以开全流程广告；另一种叫DVA+的视频广告从10月底起逐步开放。\n跟你有没有关系：只影响在美国投广告的人。不投广告的、不在美国卖的，不用管。全流程广告公布当天已经对全部美国广告主开放。\n你要做的事：要投的，可以直接开全流程广告。不投广告就不用做。",
+    "outlook": "推测是让广告预算更自动地花在亚马逊广告位上。和11月邀请买家评分连着，都是把广告和成交绑得更紧。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "review-requests-2026",
+    "title": "广告侧 Review Requests：2026 年 11 月邀请已验证买家评分",
+    "regions": [
+      "US"
+    ],
+    "category": "广告",
+    "status": "即将生效",
+    "announced": "2026-09-29",
+    "effective": "2026-11-01",
+    "dateNote": "公布日 2026-09-29。来源只写 2026 年 11 月，没有具体日，生效日记成 2026-11-01。Alexa 品牌对话是 2027 年 1 月的美国计划，不是这个生效日。",
+    "zh": "SellerKit 2026年9月29日：Review Requests 于 2026 年 11 月上线，用来邀请已验证买家给商品评分。Branded Conversations 计划 2027 年 1 月在美国通过 Alexa 提供商品信息。",
+    "orig": "SellerKit, 29 September 2026: “Review Requests launch in November 2026 to invite verified buyers to rate products, and Branded Conversations launch in the US in January 2027.”",
+    "plain": "这是啥：11月可以用官方工具邀请已经验证过的买家给商品评分，不是让你私下发消息要好评。\n跟你有没有关系：只影响美国站卖家。不在美国卖的不用管。用Alexa讲商品信息是2027年1月的计划，不是这个月要做的。\n你要做的事：想要更多评分的，11月用这个邀请工具。不想邀请就不用做。",
+    "outlook": "推测是为了买家看到更多真实评分，同时把要评分留在官方工具里。和AI真人图打标记同一方向：评价和图片都要更可信。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "mcf-prime-2026",
+    "title": "MCF 商户可给自有网站加 Prime 配送",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-09-24",
+    "effective": "2026-09-24",
+    "dateNote": "2026-09-24 是 Accelerate 公布日。SellerKit 把它写成已经宣布可用，没有另给一个更晚的生效日。MCF Preferred Pricing 的 15% 到 25% 折扣是六个月，不是永久费率。",
+    "zh": "SellerKit 2026年9月24日：MCF 商户可以给自己的网站加上 Prime 配送，不另收费。MCF Preferred Pricing 在六个月内对履约费给 15% 到 25% 的折扣。站点记为美国。",
+    "orig": "SellerKit, 24 September 2026: MCF merchants can add Prime delivery to their own websites at no extra cost. MCF Preferred Pricing offers 15–25% off fulfillment fees for six months. US.",
+    "plain": "这是啥：用亚马逊多渠道发货的人，可以给自己的网站加上Prime配送，不另收费。\n跟你有没有关系：只影响美国、而且已经用多渠道发货、有自己网站的人。只在亚马逊站内卖、自己发货的，不用管。履约费的15%到25%折扣只给六个月，不是永久降价。\n你要做的事：已经用多渠道发货、又有自己网站的，去加上Prime配送。没有就不用做。",
+    "outlook": "推测是让独立站的货也走亚马逊的仓和Prime标志。和多渠道工具、FBA出口是一套：货在它仓里，订单可以来自站外。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "multichannel-tools-2026",
+    "title": "卖家平台接入 eBay、Shopify、TikTok、沃尔玛",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "灰度推广",
+    "announced": "2026-09-24",
+    "effective": "2026-09-24",
+    "dateNote": "2026-09-24 是公布日。摘要写“逐步向美国卖家推出”，没有完成日，所以生效记成公布日，状态是灰度，不是已经全量。",
+    "zh": "SellerKit 2026年9月24日：卖家平台的多渠道工具逐步向美国卖家开放，不另收费，可连接 eBay、Shopify、TikTok 和沃尔玛并管理订单。",
+    "orig": "SellerKit, 24 September 2026: multichannel tools for eBay, Shopify, TikTok, and Walmart roll out gradually to US sellers at no extra cost.",
+    "plain": "这是啥：卖家后台可以连上eBay、Shopify、TikTok和沃尔玛，一起管订单，工具不另收费。\n跟你有没有关系：只是逐步给美国卖家，不是已经全员开放。不在美国卖、也不在这四个平台卖的，不用管。\n你要做的事：用得上的，等后台出现入口再去连接。不用这些平台就不用做。",
+    "outlook": "推测是亚马逊想把别的平台的订单留在自己后台，不是政府要求。和后台连接eBay等平台是同一件事。",
+    "sourceName": "SellerKit FBA Updates",
+    "sourceUrl": "https://sellerkit.me/fba-updates"
+  },
+  {
+    "id": "at-parcel-tax-2026-10-01",
+    "title": "奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税",
+    "regions": [
+      "EU"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2026-10-01",
+    "effective": "2026-10-01",
+    "dateNote": "2026-10-01 是奥地利包裹税法生效日，也是亚马逊结账开始显示这笔费用的日子。税本身是每单或每包裹 €2.00，亚马逊对顾客显示的常见金额是含 20% 增值税的 €2.40。",
+    "zh": "奥地利财政部说明：2026年10月1日起，发往奥地利私人消费者的包裹，按每个包裹 €2.00 征税，也可以改按每笔订单 €2.00。通过平台成交的，税额算在平台头上。公开报道引亚马逊给顾客的提示：结账时单独显示 €2.40（含增值税），每笔订单一笔，和包了几个包裹无关。企业对企业的订单不收。",
+    "orig": "Austrian Ministry of Finance: from 1 October 2026, domestic parcel delivery in distance sales of goods is subject to a parcel delivery tax of EUR 2 per parcel, or alternatively per order. Sales through an online marketplace are attributed to the marketplace. Contemporary reports quote Amazon’s checkout notice of EUR 2.40 including VAT, once per order to Austria.",
+    "plain": "这是啥：发到奥地利个人买家的订单，结账会多一笔包裹税。税是每包裹或每单2欧元，亚马逊给顾客看的常见金额是含增值税的2.40欧元，一单一笔。\n跟你有没有关系：只影响卖到奥地利、而且买家是个人的订单。企业对企业的不收。不发奥地利的不用管。包了几个包裹，显示的仍是每订单一笔。\n你要做的事：不用自己去收，亚马逊会在结账页代收并显示。不卖到奥地利就不用做。",
+    "outlook": "这是奥地利政府向包裹收的税，算在平台头上，不是亚马逊为了提高佣金。亚马逊只是代收，并在结账页显示给顾客。",
+    "sourceName": "奥地利财政部包裹税说明",
+    "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html"
+  },
+  {
+    "id": "fba-meltable-2026-08-31",
+    "title": "美国 FBA 按品类分时段重新接收可融化库存",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-08-28",
+    "effective": "2026-08-31",
+    "dateNote": "论坛公告写从 2026-08-31 起可再次入仓。第一批是软糖、蛋白棒、饼干和包衣糖果，顾客可买日是 2026-09-14。巧克力、巧克力涂层坚果水果、焦糖和明胶软糖要到 2026-09-21 才能入仓，2026-10-05 起可售。卡片生效日记第一批入仓日。",
+    "zh": "美国卖家论坛公告：2026年8月31日起，可融化库存可以再发给 FBA，按品类分两批。包衣软糖、果胶软糖、蛋白棒、饼干和包衣糖果从 8月31日 入仓，9月14日 起可售。巧克力、巧克力涂层坚果或水果、焦糖和明胶软糖从 9月21日 入仓，10月5日 起可售。可融化指在约 68°C 下会化的食品。",
+    "orig": "Amazon Seller Central forum, “Send meltable inventory to FBA starting August 31, 2026”: gummies (coated and pectin), protein bars, cookies, and coated candy can be sent from August 31 and are available for orders on September 14. Chocolate, chocolate-coated nuts or fruit, caramel, and gelatin gummies can be sent from September 21 and are available on October 5.",
+    "plain": "这是啥：美国会化掉的食品可以分两批重新送进FBA，不是所有这类商品同一天开放。\n跟你有没有关系：只影响美国FBA、卖大约68°C会化的食品的人。包衣软糖、果胶软糖、蛋白棒、饼干和包衣糖果从8月31日入仓，9月14日起可卖。巧克力、巧克力涂层坚果或水果、焦糖和明胶软糖从9月21日入仓，10月5日起可卖。不卖这些的不用管。\n你要做的事：按你的品类到了可入仓的那天再送仓。不卖会化的食品就不用做。",
+    "outlook": "推测是夏天高温会让食品化掉，所以先停收、天凉再按品类开门。这是仓储条件，不是新的销售禁令。",
+    "sourceName": "Amazon Seller Central 论坛",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358"
+  },
+  {
+    "id": "sc-provider-2026-09-01",
+    "title": "Seller Central 服务商访问要重新核验，授权 365 天",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "已生效",
+    "announced": "2026-09-01",
+    "effective": "2026-09-01",
+    "dateNote": "论坛写明 2026-09-01 起升级。授权有效期 365 天。卖家没收到重新授权邮件就可以不动。",
+    "zh": "美国卖家论坛：2026年9月1日起，代运营、自由职业者或虚拟助理要先完成企业核验，才能再获得卖家授权。授权 365 天后过期，到期前会通知卖家决定是否续开。权限由卖家勾选。没收到邮件就不用操作。到期不重新授权，对方会失去后台权限，之后仍可恢复。",
+    "orig": "Amazon Seller Central forum, “Enhanced security for service provider access on Seller Central”: “As of September 1, 2026, we’ve upgraded how service providers access your Seller Central account.” Providers must complete business verification, authorizations expire after 365 days, and sellers choose the permissions. If no email arrives, no action is required.",
+    "plain": "这是啥：给代运营、自由职业者或助理开的后台权限，365天后过期，对方要先完成企业核验才能继续用。\n跟你有没有关系：只影响美国站、而且把后台开给服务商的人。没收到重新授权邮件的不用管。到期不续，对方会失去权限，之后仍可恢复。这不是关店。\n你要做的事：收到邮件再决定是否续开，并勾选要给的权限。没收到邮件就不用做。",
+    "outlook": "推测是为了减少无关的人长期留在卖家后台，和谁能操作这家店是一件事。过期只是收回权限，不是关店。",
+    "sourceName": "Amazon Seller Central 论坛",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2"
+  },
+  {
+    "id": "fba-partial-refund-2026-10-13",
+    "title": "FBA 部分退款可以按退货原因来设",
+    "regions": [
+      "US",
+      "CA",
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-13",
+    "effective": "2026-10-13",
+    "dateNote": "2026-10-13 是卖家论坛写出「现在可以按退货原因设置」的日子。部分退款这个功能更早已经有，这次新增的是按原因配置。帮助页没有另写一个生效日。",
+    "zh": "美国、英国、德国、法国、意大利、西班牙、加拿大的 FBA 卖家，可以让符合条件的买家拿一部分退款、商品自己留下，不用寄回仓库。2026年10月13日论坛更新：可以按退货原因来决定退不退这一部分钱。两种开法：全店按原因设不同比例，最多三套；或者用表格只给指定商品开。已经开过的，符合条件的原因会继续退一部分。这个功能本身不另收费。危险品、卫生用品、本来就不能退的商品不能用。买家资格由亚马逊审核，不够格的还是整件退回仓库。",
+    "orig": "Amazon Seller Central help, FBA Partial Refunds: the program lets you offer a partial refund without requiring the item to be returned, in the US, UK, Germany, France, Italy, Spain, and Canada. A seller forum update says you can now choose which return reasons qualify, either for all ASINs or for selected ASINs. Hazmat, hygiene products, and non-returnable items are not eligible. If a customer is not eligible, the item is returned to a fulfillment center as usual.",
+    "plain": "这是啥：买家可以少退一点钱，东西自己留下，不用寄回FBA仓。现在还能按退货原因决定开不开。\n跟你有没有关系：只影响美国、加拿大和欧洲的FBA。自己发货的不用管。危险品、卫生用品、本来就不能退的，也开不了。\n你要做的事：想少处理退货，就去FBA设置里打开，并选哪些退货原因可以只退一部分钱。不想用就不用开。",
+    "outlook": "推测是亚马逊想少搬一次退货，卖家也能少付来回运费。和退货处理费、退得特别多要加钱是一套：货不寄回来，这笔来回成本就没有。",
+    "sourceName": "Amazon Seller Central：FBA Partial Refunds",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US"
+  }
+]

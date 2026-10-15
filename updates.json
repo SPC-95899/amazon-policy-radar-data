@@ -1,0 +1,463 @@
+[
+  {
+    "date": "2026-10-14",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "早上 06:44 的任务跑了，但读不到这个网站的文件，所以没有写入日志，也没有发布到页面上。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-13",
+    "status": "完成",
+    "finishedAt": "2026-10-13 06:48",
+    "summary": "早上的任务找到了 FBA 部分退款可以按退货原因设置，但没有写进这个网站。这次补进库。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "fba-partial-refund-2026-10-13",
+        "title": "FBA 部分退款可以按退货原因来设"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "status": "完成",
+    "finishedAt": "2026-10-12 17:02",
+    "summary": "17:02 重新测试。公开来源没有比库里更新、且能对上原文的新政策。Sub-Same Day 竞价只有二手报道，没有官方页，不入库。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-11",
+    "status": "完成",
+    "finishedAt": "2026-10-11 06:44",
+    "summary": "每日任务跑完，结论是没有新政策。当时的指令规定无新增不改文件，所以网站日志当时没动。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-10",
+    "status": "完成",
+    "finishedAt": "2026-10-10 11:10",
+    "summary": "测试运行同一套每日流程。调度仍在，下一次自动触发约 2026-10-11 11:01。这次把已核实、但还没写进政策库的 3 条补了进去。没有发现比这些更新的公开新规。",
+    "addedCount": 3,
+    "items": [
+      {
+        "id": "at-parcel-tax-2026-10-01",
+        "title": "奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税"
+      },
+      {
+        "id": "fba-meltable-2026-08-31",
+        "title": "美国 FBA 按品类分时段重新接收可融化库存"
+      },
+      {
+        "id": "sc-provider-2026-09-01",
+        "title": "Seller Central 服务商访问要重新核验，授权 365 天"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "status": "完成",
+    "finishedAt": "2026-10-09 09:09",
+    "summary": "当天任务有运行。可见记录没有列出新增政策。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-08",
+    "status": "完成",
+    "finishedAt": "2026-10-08 09:01",
+    "summary": "新增 1 条。奥地利包裹税自 2026-10-01 起，发往奥地利的 B2C 订单由亚马逊按每单 €2.00 加 20% 增值税代收，顾客侧常见 €2.40。这是奥地利法律，不是亚马逊自己新定的平台费。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "at-parcel-tax-2026-10-01",
+        "title": "奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "status": "完成",
+    "finishedAt": "2026-10-07 09:54",
+    "summary": "新增 3 条可核实政策。库更新到 46 条。",
+    "addedCount": 3,
+    "items": [
+      {
+        "id": "dg-questions-2026-10-26",
+        "title": "四类商品新建或编辑链接须回答危险品问题"
+      },
+      {
+        "id": "ins-2026-11-02",
+        "title": "增强安全类目商业责任险取消月销售额门槛"
+      },
+      {
+        "id": "pan-eu-nl-2027-02-26",
+        "title": "泛欧 FBA 须有荷兰在售报价"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-05",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-04",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-03",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-02",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-10-01",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-30",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-29",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-28",
+    "status": "完成",
+    "finishedAt": "2026-09-28 17:01",
+    "summary": "新增 7 条，来源都是 Seller Central 论坛或官方转引。库更新到 43 条。下面是当次写明的 4 条，其余在折叠里。",
+    "addedCount": 4,
+    "items": [
+      {
+        "id": "bundle-2026-09-30",
+        "title": "商品捆绑政策扩展至大多数品类"
+      },
+      {
+        "id": "uk-epr-2026-09",
+        "title": "英国站 EPR 代付服务费改按月入账"
+      },
+      {
+        "id": "nl-pl-easyship-2026-09-29",
+        "title": "荷兰/波兰 Easy Ship 改由亚马逊管理退货与客服"
+      },
+      {
+        "id": "au-rrp-2026-09-28",
+        "title": "澳洲站参考价政策收紧"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-26",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-25",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-24",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-23",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-22",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-21",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-20",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-19",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-18",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-17",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-16",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-15",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-14",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-13",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-12",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-11",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-10",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-09",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-08",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-07",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-06",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-05",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-04",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-03",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-02",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-09-01",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-31",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-30",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-29",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-28",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-27",
+    "status": "未完成",
+    "finishedAt": null,
+    "summary": "这一天没有留下运行记录。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-26",
+    "status": "完成",
+    "finishedAt": "2026-08-26 09:03",
+    "summary": "库内已有 32 条，上次更新停在 2026-08-25。继续区分还没入库、且能核实的新政策。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
+    "date": "2026-08-25",
+    "status": "完成",
+    "finishedAt": "2026-08-25 09:03",
+    "summary": "读完已有库，开始并行检索最新政策。这一条记录没有列出具体新增标题。",
+    "addedCount": 0,
+    "items": []
+  }
+]

@@ -1,5 +1,78 @@
 [
   {
+    "id": "vmp-wave-2026-10-13",
+    "title": "FBA 虚拟多件装：11 月 10 日前审核，11 月 11 日自动上架",
+    "regions": [
+      "US"
+    ],
+    "category": "Listing与目录",
+    "status": "即将生效",
+    "announced": "2026-10-13",
+    "effective": "2026-11-11",
+    "dateNote": "2026-10-13 是亚马逊 FBA 团队给部分品牌卖家发通知的日子（卖家在论坛转贴原文）。亚马逊 10 月 28 日前建好，11 月 10 日前可删，11 月 11 日没删的开卖。",
+    "zh": "亚马逊 FBA 团队通知部分品牌卖家：会给多件购买需求强的单件 FBA 商品自动建「虚拟多件装」链接，用现有单件库存发货，不用自己重新打包。2026年10月28日前全部建好；2026年11月10日前可以审核、改价或删除；2026年11月11日起没删的会对买家开卖。每个多件装有自己的 ASIN 和 SKU，作为原链接的变体出现，默认按单件价乘件数定价，可设折扣、优惠券或广告。在「管理所有库存」里筛选 VMP_ 查看。",
+    "orig": "Amazon FBA notice (reposted by a seller on SellersAskSellers): “We’ll create all virtual multipacks by October 28, 2026, and you’ll have through November 10, 2026, to review or delete them before they’re available to customers. On November 11, 2026, all virtual multipacks that you haven’t deleted will be available for customers to purchase.” “To review your virtual multipacks, go to Manage All Inventory, and filter for VMP_.”",
+    "plain": "这是啥：亚马逊会自动把你的单件 FBA 商品组合成「几件一起卖」的新链接，用你仓里现有的单件货发。\n跟你有没有关系：只有收到通知的美国站 FBA 品牌卖家才有；不删的话 11 月 11 日会自动开卖，价格和标题是亚马逊建的。\n你要做的事：10 月 28 日后到 11 月 10 日前，在「管理所有库存」搜 VMP_，检查价格、标题和件数；不想要的就删掉，想要的可以设折扣。",
+    "outlook": "推测主要服务亚马逊和消费者：买家一次多买几件，客单价上去，亚马逊不用多一道包装。品牌卖家可能多卖货，但要防止价格或描述出错。库内相关：《消耗品捆绑：必须原厂包装》《大多数实物捆绑须原厂包装，2027 年 1 月 11 日》。",
+    "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
+    "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630"
+  },
+  {
+    "id": "fba-return-grading-2026-10-14",
+    "title": "FBA 退货可以自己定「算不算全新」的标准",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-14",
+    "effective": "2026-10-14",
+    "dateNote": "2026-10-14 是亚马逊 FBA 团队通知「现在可以」设置的日子（卖家在论坛转贴原文）。通知没写单独的生效日。",
+    "zh": "亚马逊 FBA 团队通知：卖家现在可以告诉亚马逊怎么判定退回来的 FBA 商品能不能当全新再卖，包括封口、包装、配件、真伪和功能等标准，以及不符合时怎么处理。可以按单个 ASIN、全店或上传表格设规则。亚马逊把你的标准当参考，和默认流程一起用；没设规则的 ASIN 继续用默认判定。可配合 Grade and Resell（退货二手转卖）使用。入口在「Customized grading」设置。",
+    "orig": "Amazon FBA notice (reposted by a seller on SellersAskSellers): “You can now tell us how you want your Fulfillment by Amazon (FBA) customer returns evaluated for resale. With customized grading, you provide input on what ‘sellable as new’ means for your products and how returns that don’t meet your criteria are handled.” “ASINs that aren’t covered by a rule continue to use our default grading process.”",
+    "plain": "这是啥：买家退回 FBA 仓的货，你可以自己定什么样还算「全新能卖」，什么样不算、怎么处理。\n跟你有没有关系：美国站 FBA 卖家都能用；不设就按亚马逊原来的标准判，不会变差。\n你要做的事：退货多、容易被误判的商品（比如拆了封但没用过），去「Customized grading」设置里写清楚标准；也可以全店一套规则或上传表格。",
+    "outlook": "推测服务卖家和亚马逊：少把好货判成不可售，减少卖家损失和亚马逊处理成本；也服务消费者，买到的「全新」更靠谱。亚马逊只当参考，结果不一定完全照你的标准。库内相关：《FBA 部分退款可以按退货原因来设》《高退货率商品的退货处理费扩到服装鞋类以外》。",
+    "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Set your own grading criteria for FBA returns",
+    "sourceUrl": "https://sellersasksellers.com/t/set-your-own-grading-criteria-for-fba-returns/7633"
+  },
+  {
+    "id": "us-fbm-business-hour-2026",
+    "title": "美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架",
+    "regions": [
+      "US"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": "2026-06-30",
+    "effective": "2026-09-30",
+    "dateNote": "论坛公告发布于 2026-06-30；考核从 2026-09-30 开始；2026-10-30 起不达标的自发货报价可能对企业买家下架。",
+    "zh": "亚马逊美国站卖家论坛公告：自 2026年9月30日起，自发货（FBM）发给亚马逊企业买家（Amazon Business）的包裹，在对方营业时间内送达的比例须不低于 90%（按滚动 14 天计算）。9月30日低于 90% 会收到通知和改进建议；到 2026年10月30日仍未改善，自发货报价可能对企业买家下架。FBA 和自营报价不受影响。同时使用自动处理时间、配送设置自动化和购买配送（Buy Shipping）发出的订单保证满足要求。",
+    "orig": "Amazon Seller Forums (US): “Starting September 30, 2026, you’ll need to maintain a Business Hour Delivery Rate of 90% or higher… If your rate doesn't improve by October 30, your seller-fulfilled offers may be deactivated for Amazon Business customers. Fulfillment by Amazon (FBA) and retail offer eligibility will not be impacted.”",
+    "plain": "这是啥：美国站自己发货卖给企业买家的单，要在对方上班时间送到，比例不能低于 90%。\n跟你有没有关系：只管自发货；你走 FBA 的货完全不受影响。10 月 30 日起不达标，自发货链接可能对企业买家不显示。\n你要做的事：如有自发货，去账户状况看「营业时间送达率」；不够就同时开自动处理时间、配送设置自动化和购买配送，用这三样发的单算达标。",
+    "outlook": "推测主要服务企业买家和亚马逊：企业周末或下班没人签收，送错时间会退件、重派。亚马逊借此推自家购买配送等工具。库内相关：《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》《自发货处理时间、黄金购物车资格门、变体向导下线》。",
+    "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987"
+  },
+  {
+    "id": "li-device-tic-2026-09-30",
+    "title": "锂电池智能家居和电子产品：须经亚马逊认可的第三方检测机构核验",
+    "regions": [
+      "US",
+      "CA"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2026-09-30",
+    "effective": "2026-09-30",
+    "dateNote": "美国、加拿大论坛公告都发于 2026-09-30，同日生效；通知分批发送，2026-11-16 前发完。",
+    "zh": "亚马逊美国站和加拿大站卖家论坛公告：自 2026年9月30日起，用可充电锂电池（锂离子、锂聚合物、磷酸铁锂）的智能家居和消费电子产品，如安防摄像头、可视门铃、智能锁、传感器、万用表、游戏机、平板、蓝牙音箱、耳机、显示器等，须通过亚马逊认可的第三方检测认证（TIC）机构核验，不再直接向亚马逊交文件。商品页要写型号或零件号以及制造商或品牌；商业保险证明要在卖家平台保持有效。不合规的链接可能被下架，交齐材料前不恢复。镍氢、镍镉、普通干电池、纯插电、圆柱或纽扣锂电池的产品，以及单独的电池、医疗器械、钟表、遥控器等不在范围内。通知分批发送，2026年11月16日前发完（美国在账户状况页面，加拿大在产品合规页面）。加拿大的检测报告须来自 SCC 认可实验室、12 个月内出具。",
+    "orig": "Amazon Seller Forums (US): “Your products must now be verified through an Amazon-authorized third-party testing, inspection, and certification (TIC) service provider. You'll no longer submit compliance documents directly to Amazon.” “Non-compliant listings may be deactivated and won't be reactivated until compliant documentation is submitted through the TIC process.” “Notifications are rolling out in phases… starting September 30, 2026, with all notifications completed by November 16, 2026.”",
+    "plain": "这是啥：带可充电锂电池的电子产品（耳机、音箱、摄像头、智能锁等），合规材料要先交给亚马逊认可的检测机构审，不能再直接交给亚马逊。\n跟你有没有关系：只要你在美国或加拿大卖这类带锂电池的电子产品就有关系；纽扣电池、干电池、纯插电的产品不算。不合规会被下架。\n你要做的事：11 月 16 日前常看账户状况（加拿大看产品合规）里的通知；找认可的检测机构提交报告，商品页补上型号和品牌，确认商业保险证明有效。",
+    "outlook": "推测主要服务消费者安全，也帮亚马逊降低电池起火等责任风险；检测费用落在卖家身上。库内相关：《受管制类目检测报告须由认可实验室直接回传》《带锂离子电池的 FBA 商品：空运合规，否则改走陆运》《增强安全类目商业责任险：取消 1 万美元月销售额门槛》。",
+    "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7"
+  },
+  {
     "id": "eu-fbm-delivery-2026",
     "title": "欧洲自发货：准时送达率与企业营业时间送达率须达 90%",
     "regions": [

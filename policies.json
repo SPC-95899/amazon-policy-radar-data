@@ -1,5 +1,22 @@
 [
   {
+    "id": "eu-fbm-delivery-2026",
+    "title": "欧洲自发货：准时送达率与企业营业时间送达率须达 90%",
+    "regions": [
+      "EU"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": null,
+    "effective": "2026-07-15",
+    "zh": "亚马逊 SP-API 更新说明：自 2026年7月15日起，德法意西四站自发货（FBM）准时送达率须不低于 90%，2026年9月1日起不达标的链接可能被下架或不能新建 FBM 链接。自 2026年9月30日起，企业买家营业时间送达率须不低于 90%，2026年10月30日起不达标链接可能对企业买家下架。账户级默认处理时间只保留 0 天和 1 天；2026年7月1日起从欧盟外直发欧盟、低于 150 欧元走 IOSS 的包裹须用认可承运商，并提供亚马逊 IOSS 号和 ASIN。同时启用自动处理时间、配送设置自动化和购买配送的订单不计入两项指标。英国只适用营业时间送达率、处理时间和跨境清关部分。",
+    "orig": "Amazon SP-API changelog: “Starting September 30, 2026, sellers must maintain a business hour delivery rate of 90% or higher… Starting October 30, 2026, if performance remains below 90%, non-compliant listings may be deactivated for business customers.” On-time delivery rate (DE, FR, IT, ES): 90% from July 15, 2026; enforcement from September 1, 2026.",
+    "plain": "这是啥：欧洲站自发货要考核准时送达率和企业买家营业时间送达率，都要 90% 以上，不达标会被下架链接。\n跟你有没有关系：只影响在德法意西英自发货的卖家，FBA 不受影响；10 月 30 日起开始按营业时间送达率处理企业买家链接。\n你要做的事：查这两个指标；来不及达标就同时开自动处理时间、配送设置自动化和购买配送，这样订单不计入考核；从欧盟外直发的确认用认可承运商。",
+    "outlook": "推测主要服务消费者（尤其企业买家）和亚马逊：送达更准时，减少投诉。欧盟清关部分服务政府（欧盟海关改革）。库内相关：《自发货处理时间、黄金购物车资格门、变体向导下线》《重货可用 Buy Shipping 购买 LTL 面单》。",
+    "sourceName": "Amazon SP-API Changelog：EU FBM Requirements",
+    "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status"
+  },
+  {
     "id": "ins-2026-11-02",
     "title": "增强安全类目商业责任险：取消 1 万美元月销售额门槛",
     "regions": [

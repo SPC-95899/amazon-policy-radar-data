@@ -37,7 +37,7 @@
 
 ## 5. 校验、提交、推送
 1. `for f in policies.json updates.json meta.json; do python3 -m json.tool $f >/dev/null || exit 1; done`；检查 id 唯一、plain 三行。
-2. `git add -A && git commit -m "daily: $TODAY (+N)" && git push origin main`。
+2. （首次在新机器上先运行 `gh auth setup-git`，否则 HTTPS 推送会要用户名）`git add -A && git commit -m "daily: $TODAY (+N)" && git push origin main`。
 3. 推送失败：先 `git pull --rebase` 再推；仍失败则日志状态为"未完成"并报告原因。
 
 ## 6. 验证线上

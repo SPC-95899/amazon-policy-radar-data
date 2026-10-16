@@ -14,6 +14,13 @@
 - 政府/监管来源（如 FTC、CBSA、SAT、欧盟/各国税务机关）在涉及亚马逊卖家时。
 - 可信行业新闻（Marketplace Pulse、Seller Magnet、sellerkit 等）仅用于发现线索，尽量追溯到官方原文。
 
+### 来源分级（优先 A）
+- **A**：亚马逊官方公开页（sell.amazon.com、可打开的 sellercentral 帮助页（JS 渲染，用 `google-chrome --headless=new --dump-dom` 读取）、aboutamazon.com / sellingpartners.aboutamazon.com / press.aboutamazon.com、advertising.amazon.com、developer-docs.amazon SP-API）以及官方政府 / 欧盟法规页。
+- **B**：Seller Central 论坛中亚马逊官方账号（News_Amazon 等）的公告帖，或需登录的官方页。
+- **C**：第三方媒体、工具站、转贴论坛。只能在找不到 A/B 时使用，并在 `verifyNote` 写明“官方原文未找到”。
+- 选 `sourceUrl` 顺序：A > B > C；同一件事已有 C 条目而找到 A/B 时，替换链接并按原文修正事实。
+- 不得用首页、论坛索引、通用追踪页作为 `sourceUrl`；多条共用同一链接时仅限同一份官方公告。
+
 ## 2. 筛选与去重
 仅当同时满足才入库：
 - 有明确日期（至少 `announced`；`effective` 未知时如实说明，不编造）；
@@ -21,11 +28,20 @@
 - 与库内已有条目不是同一件事：比对 `sourceUrl`、标题关键词、站点 + 生效日期。已有条目若只是日期/细节更新，修改原条目而不是新增。
 
 ## 3. 编写条目（字段与现有一致）
-`id`（小写短横线，含年份/日期，唯一）、`title`、`regions`、`category`（优先复用已有分类）、`status`（已生效/即将生效/灰度推广/政策说明，按今天与 effective 比较）、`announced`、`effective`、`zh`、`orig`（原文引用）、`plain`、`outlook`、`sourceName`、`sourceUrl`。
+`id`（小写短横线，含年份/日期，唯一）、`sourceTier`（A/B/C）、`verifiedAt`（核对日期 YYYY-MM-DD）、`verifyNote`（简短中文：HTTP 状态、核对结果、未核实之处）、`title`、`regions`、`category`（优先复用已有分类）、`status`（已生效/即将生效/灰度推广/政策说明，按今天与 effective 比较）、`announced`、`effective`、`zh`、`orig`（原文引用）、`plain`、`outlook`、`sourceName`、`sourceUrl`。
 - `plain` 必须正好三行，用 `\n` 分隔：
   `这是啥：……` / `跟你有没有关系：……` / `你要做的事：……`
 - `outlook`：说明这项政策服务于谁（政府 / 消费者 / 亚马逊），推测内容以"推测"标明；并点名库内相关政策（按标题）。
 - 新条目插入 `policies.json` 开头。同时检查已有条目的 status 是否因到期需改为"已生效"。
+
+## 3.5 链接复查与状态自动更新（每天必做）
+1. **状态按日期自动更新**：对所有条目，若 `effective` ≤ TODAY 且 status 为“即将生效”或“待生效”，改为“已生效”（灰度推广/政策说明不自动改）。
+2. **轮换复查约 10 条**：按 `verifiedAt` 升序（最旧优先，同日按 id）取 10 条：
+   - curl -sL 获取 sourceUrl，记录 ok / 404 / 需登录 / 被拦截（帮助页需 headless Chrome 渲染后再判断）；
+   - 核对 `orig`、`announced`、`effective`、`zh`/`plain` 中关键数字与原文一致，不一致按原文修正；
+   - C 级或失效链接：检索官方 A/B 来源，验证后替换 `sourceUrl`/`sourceName` 并升级 `sourceTier`；找不到就保留并在 `verifyNote` 注明；
+   - 更新 `verifiedAt`=TODAY 与 `verifyNote`。
+3. 当天日志 summary 写明：复查条数、失效链接数、修正项。
 
 ## 4. 写日志（无论成败，必须执行）
 1. 若 `LAST` 与今天之间有缺失日期，每天补一条：`{"date":D,"status":"未完成","finishedAt":null,"summary":"当天任务未运行，无记录（补记）","addedCount":0,"items":[]}`。
@@ -36,7 +52,7 @@
 4. `meta.json`：`lastRunAt` = 当前北京时间 ISO（如 `2026-10-15T09:03:00+08:00`），`lastRunStatus` = 今天的状态，`schemaVersion` 不变。
 
 ## 5. 校验、提交、推送
-1. `for f in policies.json updates.json meta.json; do python3 -m json.tool $f >/dev/null || exit 1; done`；检查 id 唯一、plain 三行。
+1. `for f in policies.json updates.json meta.json; do python3 -m json.tool $f >/dev/null || exit 1; done`；检查 id 唯一、plain 三行、每条都有 sourceTier∈{A,B,C}、verifiedAt、verifyNote。
 2. （首次在新机器上先运行 `gh auth setup-git`，否则 HTTPS 推送会要用户名）`git add -A && git commit -m "daily: $TODAY (+N)" && git push origin main`。
 3. 推送失败：先 `git pull --rebase` 再推；仍失败则日志状态为"未完成"并报告原因。
 

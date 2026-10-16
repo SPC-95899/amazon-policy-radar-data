@@ -1,5 +1,26 @@
 [
   {
+    "id": "business-discount-badge-2026-10-16",
+    "title": "企业购 Business Discount 徽章：单件企业价满 5% 即可展示",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "即将生效",
+    "announced": "2026-10-16",
+    "effective": "2026-10-30",
+    "dateNote": "2026-10-16 是卖家论坛转贴的亚马逊 Business 通知日期。原文写「未来两周内」上线徽章，故生效日按约 2026-10-30 记，以实际铺开为准。",
+    "zh": "亚马逊 Business 通知：未来两周内，企业购将推出新的「Business Discount」徽章。单件企业价相对核定参考价（VRP）至少优惠 5% 时，自动获得徽章，并在搜索和详情页展示划线价与红色优惠百分比。该徽章取代单件企业价上的旧版 Business Savings Blue Badge（BSBB）；单件企业价不再要求 4 星评分。企业价相对 VRP 至少优惠 2% 时，搜索页可显示划线价、详情页显示划线价和优惠百分比，但只有满 5% 才拿徽章。数量折扣的 BSBB 规则不变：首档至少 3% 且 4 星仍可获得旧蓝标。商品须存在 VRP 才会显示徽章、划线价和优惠百分比。",
+    "orig": "Amazon Business notice (reposted): “A new ‘Business Discount’ badge will be available on Amazon Business in the next two weeks. When your single-unit Business Price offers at least 5% savings against a validated reference price (VRP), your offer automatically earns the badge and displays strikethrough price with savings percentage (%).” “Star rating removed: Products no longer need a 4-star rating to qualify.” “When your Business Price offers at least 2% savings against VRP… but only savings of at least 5% earn the badge.” “Quantity Discounts: BSBB for Quantity Discounts is not affected. Offers with at least 3% Quantity Discount on the first tier and a 4-star rating will continue to earn the BSBB as before.”",
+    "plain": "这是啥：卖给企业买家时，单件企业价比参考价便宜至少 5%，商品会戴上新的「企业折扣」徽章，并显示划线价和便宜了百分之几。\n跟你有没有关系：做美国站 Amazon Business、愿意给企业价的卖家有用；不做企业购的不用管。数量折扣还是老规矩（首档 3% + 4 星）。\n你要做的事：想拿徽章，把单件企业价设到比普通零售价至少低 5%，并确认商品有核定参考价（VRP）；数量折扣想保留蓝标就继续满足 3% 和 4 星。",
+    "outlook": "推测主要服务企业买家和亚马逊：让企业采购更快认出「真的便宜」，推卖家多设企业价。徽章本身不强制。库内相关：《美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架》《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》。",
+    "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
+    "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；第三方论坛转贴官方 Business 通知原文，5%/2%/数量折扣3%与去星要求一致；官方公开页未找到"
+  },
+  {
     "id": "vmp-wave-2026-10-13",
     "title": "FBA 虚拟多件装：11 月 10 日前审核，11 月 11 日自动上架",
     "regions": [
@@ -165,8 +186,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方追踪页；已换为卖家论坛官方帖，关键词、全球站点、豁免一致"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；卖家论坛官方帖可打开；contains-synthetic-performer、全球站点表述与条目一致"
   },
   {
     "id": "tic-direct",
@@ -287,8 +308,8 @@
     "sourceName": "GeekWire",
     "sourceUrl": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；GeekWire报道，beta/美国站一致；官方原文页未找到"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；GeekWire原文可打开；Claude插件/卖家工具对外开放表述与条目一致；仍为C"
   },
   {
     "id": "gwd-compliance",
@@ -352,8 +373,8 @@
     "sourceName": "Amazon Seller Forums：New compliance questions for dangerous goods listings apply October 26",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方汇总页；已换为卖家论坛官方帖，10/26与四类一致"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；卖家论坛News_Amazon帖；Starting October 26, 2026与四类危险品问题一致"
   },
   {
     "id": "gpsr",
@@ -452,8 +473,8 @@
     "sourceName": "Amazon Seller Forums：Commingling practices will end effective March 31, 2026",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/106d0747-e5c6-44d8-86f3-7669f11238fe",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方追踪页；已换为论坛官方帖，3/31与品牌代表规则一致"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；卖家论坛官方帖可打开；混储结束/转售商贴码要求与条目一致"
   },
   {
     "id": "handling-featured-variation",
@@ -629,14 +650,14 @@
     "effective": "2024-10-14",
     "dateNote": "2024-10-14 是规则生效日。转述没有另给一个更早的公布日，所以发布记成同一天。站点范围原文没有点名，本条先标美国，因为引用的是美国卖家新闻体系。",
     "zh": "Seller Essentials 引亚马逊规则：2024年10月14日起，食品杂货、健康美容、婴儿、宠物这些消耗品，只有原厂做好的捆绑才能上架。卖家自己把两袋零食装进一个盒子，不再算合规捆绑。",
-    "orig": "Seller Essentials, citing Amazon: “The rule that took effect on October 14, 2024 said that for consumables (grocery, health and beauty, baby products, and pet products), only bundles created and packaged by the original manufacturer could be listed.”",
+    "orig": "Amazon Seller Forums: “Beginning October 14, 2024, you can only list bundles that are created and offered by the original manufacturer, who must be the brand owner for all of the items in the bundle. This update also means that you can no longer mix products manufactured by different companies in the same bundle, nor can you list a bundle under the “Generic” brand or your own brand.” Applies to consumables including grocery, pet, baby, and health and beauty.",
     "plain": "这是啥：食品杂货、健康美容、婴儿、宠物这些消耗品，只有原厂做好的套装才能上架，自己把两袋装进一个盒子不算。\n跟你有没有关系：只影响自己拼这些消耗品套装的人。本条按美国卖家新闻来标，原文没点名站点。不卖这些、或只卖原厂套装的，不用管。\n你要做的事：自己拼的这类套装改成原厂包装，或不要再当一个商品卖。没在拼就不用做。",
     "outlook": "推测是保护买家，尤其是吃的和用在身上的，不让卖家自己拼套装。2027年扩到大多数实物套装，是同一政策的第二步。",
-    "sourceName": "Seller Essentials（引用亚马逊捆绑政策）",
-    "sourceUrl": "https://selleressentials.com/amazon-bundle-policy-2027/",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "来源403被拦截无法打开；2024-10-14日期与ppc.land一致，官方原文未找到"
+    "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "原C级selleressentials链接403 Forbidden；已替换为卖家论坛官方帖并升B；2024-10-14、grocery/pet/baby/health&beauty、须原厂品牌方打包一致"
   },
   {
     "id": "us-fees-2025",
@@ -719,8 +740,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 年加拿大费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/G201411300?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；加拿大帮助页，500加元、清货费、MCF 1/15一致"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；加站帮助页（headless）可见2026不上调推荐费/FBA及coupon封顶；与条目一致"
   },
   {
     "id": "peak-fees-2026",
@@ -805,8 +826,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页；生效日早于公布日（追踪页原样），未核实"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；仍为第三方追踪页；Account ID、7/29生效、8/5公告与追踪表一致；官方原文未找到"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -868,8 +889,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原来源403；已换为论坛官方帖，1/11/2027与豁免一致；公告日约9月中，9/14未精确核实"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；卖家论坛官方帖；January 11, 2027、原厂包装要求与条目一致"
   },
   {
     "id": "listing-protection-2026",
@@ -952,8 +973,8 @@
     "sourceName": "SellerKit FBA Updates",
     "sourceUrl": "https://sellerkit.me/fba-updates",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方汇总；官方unBoxed页确认全漏斗广告，但\"已对全部美国广告主开放\"与DVA+10月底未在官方页核实"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；sellerkit 汇总页可打开；全漏斗广告/DVA+表述仍在，未发现与条目冲突的新数字"
   },
   {
     "id": "review-requests-2026",
@@ -1036,8 +1057,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；奥地利财政部，€2/包裹或订单、10/1一致；€2.40为媒体转述"
+    "verifiedAt": "2026-10-17",
+    "verifyNote": "200；奥地利财政部英文页确认自2026-10-01起每包裹EUR 2（或按订单）；平台视为视同供应商；条目中€2.40含税来自公开报道，原文页写EUR 2"
   },
   {
     "id": "fba-meltable-2026-08-31",

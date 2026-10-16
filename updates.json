@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-17",
+    "status": "完成",
+    "finishedAt": "2026-10-17 06:13",
+    "summary": "定时任务自动运行。检索美/加/墨/欧 Seller Central 论坛与帮助、sellingpartners/aboutamazon、卖家论坛公告、行业新闻与 X（10 月 9 日至今）。新增 1 条：美国 Amazon Business「Business Discount」徽章（10/16 通知，约两周内上线）。旺季履约费、危险品问题、责任险、虚拟多件装、退货自定义判定等已在库内；自发货自动运输时效（8 月已公告）、日本 Agent Policy、欧盟 ECGT 消费者法不是本次窗口新公告或非亚马逊专属政策，未入库。链接复查 10 条：全部可达；修正 1 条（消耗品捆绑原 C 级源 403，已换官方论坛并升 B）。状态按日期自动更新：0 条。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "business-discount-badge-2026-10-16",
+        "title": "企业购 Business Discount 徽章：单件企业价满 5% 即可展示"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "status": "完成",
     "finishedAt": "2026-10-16 06:05",

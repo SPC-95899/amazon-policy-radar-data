@@ -1,5 +1,48 @@
 [
   {
+    "id": "uk-sfp-tier-2026-10-30",
+    "title": "英国 Seller Fulfilled Prime：按尺寸分三档考核，10 月 30 日起",
+    "regions": [
+      "EU"
+    ],
+    "category": "自发货",
+    "status": "即将生效",
+    "announced": "2026-10-14",
+    "effective": "2026-10-30",
+    "dateNote": "2026-10-14 是英国卖家论坛 News_Amazon 发帖日（核对时显示“3 days ago”）。10 月 30 日起按档考核现有指标；标准件“一日达展示≥25%”和超大件“非 Buy Shipping 准时送达率≥97%”两项新要求有宽限期，2027-01-06 才开始真正用于判定资格。",
+    "zh": "亚马逊英国站通知：从 2026 年 10 月 30 日起，英国站自配送 Prime（SFP）资格改为按商品尺寸分三档（标准件、大件、超大件）评估，不再按整个账户评估。周末配送方式、准时发货率、Buy Shipping/Easy Ship 使用率、取消率等现有指标都按档计算。新增要求：标准件档至少 25% 的买家页面浏览要显示一天内送达；超大件档可以用 Buy Shipping/Easy Ship 以外、能回传有效追踪号的任何物流商，但这类订单准时送达率须保持至少 97%。这两项新要求有宽限期，到 2027 年 1 月 6 日才开始用于判定资格，之前低于标准只会收到邮件提醒。即日起可在 SFP 仪表盘看标准件一日达展示比例。",
+    "orig": "News_Amazon (UK Seller Forums): “Starting 30 October 2026, we’re updating the Seller Fulfilled Prime (SFP) eligibility criteria for seller-fulfilled orders in our UK store… we’re introducing three product tiers: standard-size, oversize and extra-large.” “We’ll begin assessing your Prime eligibility under the existing requirements at the tier level instead of the account level.” “For the standard-size tier, at least 25% of customer page views must show a delivery date within one day.” “For the extra-large tier, you can use any logistics provider outside of Amazon Buy Shipping or Easy Ship… provided you continue maintaining an on-time delivery rate of at least 97% for such orders.” “Your Prime eligibility won’t yet be assessed under the new… requirement… until 6 January 2027.”",
+    "plain": "这是啥：英国站自己发货也挂 Prime（SFP）的，10 月 30 日起按标准件、大件、超大件三档分别打分，不再整个账户一起算；标准件还要求至少 25% 的页面显示“一天送到”。\n跟你有没有关系：只影响在英国站做 SFP 的卖家；做 FBA 或不做英国站的不用管。某一档指标差，可能只丢那一档的 Prime 标。\n你要做的事：做英国 SFP 的，现在就去 SFP 仪表盘看每档成绩和标准件一日达比例；在 2027 年 1 月 6 日宽限期结束前，把标准件提速到能显示次日达，超大件若用自己的物流就把准时送达率稳在 97% 以上。",
+    "outlook": "推测主要服务英国消费者和亚马逊：让带 Prime 标的自发货商品真能做到和 FBA 差不多快，保住 Prime 的“快”招牌；同时放开超大件物流商选择，减少卖家被迫用指定渠道。库内相关：《美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架》《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》《自发货处理时间、黄金购物车资格门、变体向导下线》。",
+    "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200；headless Chrome 渲染为 News_Amazon 官方帖，三档、25% 一日达、97% 准时送达、2027-01-06 宽限期均与原文一致；SFP 帮助页需登录未核"
+  },
+  {
+    "id": "nsp-2026-confirm-2026-10-31",
+    "title": "新品入仓计划（2026）：老会员须在 10 月 31 日前确认加入才能继续拿费用抵扣",
+    "regions": [
+      "US",
+      "EU"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2026-06-17",
+    "effective": "2026-07-30",
+    "dateNote": "官方论坛帖未显示具体发帖日（核对时显示“4 months ago”）；PPC Land 报道写 2026-06-17 起即可报名，按此记为公布日。新计划 2026-07-30 生效；旧计划会员的自动过渡优惠只到 2026-10-31，之后须手动确认加入。英国站论坛有同样公告（英镑金额不同），未核对加拿大和墨西哥。",
+    "zh": "亚马逊通知：新版 New Selection Program（2026）自 2026 年 7 月 30 日起生效，旧版计划同日结束。原来已加入旧计划的卖家，7 月 30 日至 10 月 31 日新上架的品牌 FBA ASIN 自动享受新版福利（过渡优惠）；10 月 31 日之后想继续享受，必须在「Enroll in New Selection Program (2026)」页面确认加入。新品福利（从首次入库日起算）：前 100 件按佣金封顶 10%、后 100 件封顶 5%（或你原费率更低者）给即时费用抵扣，抵扣可用于佣金和配送费等主要费用；60 天内可用 50 美元优惠券可变费用抵扣和 75 美元 Vine 报名费抵扣；前 200 件在 120 天内免仓储费、免买家退货费、免清货费；前 200 件 120 天内免低库存水平费和仓储利用率附加费；用 Vine 预上市服务再延长 45 天。不能和新卖家激励叠加，两者都符合时先用新卖家激励。英国站同样适用（优惠券抵扣 40 英镑、Vine 抵扣 60 英镑，英德法意西各站分开计算）。",
+    "orig": "News_Amazon (US Seller Forums): “Effective July 30, 2026, the New Selection Program (2026) launches with increased benefits…” “If you’re currently enrolled in our existing New Selection Program, you’ll automatically receive New Selection Program (2026) benefits for new branded FBA ASINs that launch starting July 30, through October 31, 2026, as an introductory offer.” “To continue to receive New Selection Program (2026) benefits after October 31, you must confirm your enrollment on Enroll in New Selection Program (2026).” “Instant fee credits equivalent to capping referral fees to 10%… on your first 100 units and 5%… on the next 100 units.” “Free storage, free customer returns, free liquidations on your first 200 units for the first 120 days.”",
+    "plain": "这是啥：亚马逊给新品的入仓优惠换成了 2026 新版，老会员 10 月 31 日之前是自动享受，过了这天不去点“确认加入”，以后新上架的品牌新品就拿不到佣金抵扣、免仓储费等优惠。\n跟你有没有关系：只要你原来参加过旧版新品计划、今年 11 月以后还打算发新品进 FBA，就有关系，而且有截止日；已经享受中的老 ASIN 不会被收回。\n你要做的事：10 月 31 日前登录卖家后台，打开「Enroll in New Selection Program (2026)」页面确认加入；英国、欧洲站各自单独确认。",
+    "outlook": "推测主要服务亚马逊：用前 200 件的费用减免吸引品牌卖家多上新品、走 FBA 和 Vine；对卖家是真实省钱，但抵扣比旧版略有收紧（论坛卖家指出免费退货、清货期从 180 天缩到 120 天）。库内相关：《墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索》《2026 年美国 FBA 费平均每件上调约 0.08 美元》《美国标准件低库存水平费》。",
+    "sourceName": "Amazon 美国卖家论坛 News_Amazon：Get increased New Selection Program (2026) benefits starting July 30",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/137ef04f-3fb3-43da-a634-f2fce056048c",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200；headless Chrome 渲染为 News_Amazon 官方帖，7/30 生效、10/31 确认截止、10%/5% 抵扣、$50/$75、200 件 120 天减免均与原文一致；具体发帖日来自 PPC Land（第三方），未在官方页核实"
+  },
+  {
     "id": "business-discount-badge-2026-10-16",
     "title": "企业购 Business Discount 徽章：单件企业价满 5% 即可展示",
     "regions": [
@@ -59,8 +102,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Set your own grading criteria for FBA returns",
     "sourceUrl": "https://sellersasksellers.com/t/set-your-own-grading-criteria-for-fba-returns/7633",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方论坛转贴官方通知，原文与转贴一致；官方页未公开可达"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；第三方论坛转贴官方通知，原文与转贴一致；官方页未公开可达"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -122,8 +165,8 @@
     "sourceName": "Amazon SP-API Changelog：EU FBM Requirements",
     "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；SP-API官方changelog，7/15、9/1、9/30、€150 IOSS一致；补公布日2026-07-01"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；SP-API官方changelog，7/15、9/1、9/30、€150 IOSS一致；补公布日2026-07-01"
   },
   {
     "id": "ins-2026-11-02",
@@ -228,8 +271,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；加拿大帮助页，3.5%、4/17一致；MCF/BwP 5/2与0.17美元为第三方说法，页内无"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；加拿大帮助页，3.5%、4/17一致；MCF/BwP 5/2与0.17美元为第三方说法，页内无"
   },
   {
     "id": "eu-fees-2026",
@@ -248,8 +291,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；论坛官方帖，各费率与12/15、2/1一致；公布日帖子仅显示约11个月前，与eu-fee-cut-2025的12/02不一致待定"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；论坛官方帖，各费率与12/15、2/1一致；公布日帖子仅显示约11个月前，与eu-fee-cut-2025的12/02不一致待定"
   },
   {
     "id": "mx-zero-fee",
@@ -331,13 +374,14 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；About Amazon原文，70%/60%/45%/7国一致"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；About Amazon原文，70%/60%/45%/7国一致"
   },
   {
     "id": "fba-export",
     "title": "FBA Export 扩大到 175 个以上新目的地",
     "regions": [
+      "EU",
       "US",
       "CA"
     ],
@@ -345,16 +389,16 @@
     "status": "已生效",
     "announced": "2026-09-28",
     "effective": "2026-09-28",
-    "dateNote": "2026-09-28 是公布日。SellerKit 写：已经开通的卖家会在此后约 8 天内自动加入新目的地。来源没有另给一个法规截止日，所以生效记成同一天，不是第二个日期。",
-    "zh": "SellerKit 2026年9月28日：FBA Export 扩展到 175 个以上新目的地，已参加的卖家在接下来约 8 天内自动开启。站点写为美国和加拿大。这一天是公布日，不是另一个单独的生效截止日。本次没有打开到亚马逊公告原文。",
-    "orig": "SellerKit, 28 September 2026: FBA Export expands to more than 175 new destinations and is auto-enabled for existing participants over the next eight days. US and Canada.",
-    "plain": "这是啥：已经开通FBA出口的人，大约8天内会被自动打开175个以上新的收货国家。\n跟你有没有关系：只影响美国和加拿大、而且本来就参加了出口的卖家。没开通出口的、自己发货的，不用管。这一天是公布日，不是另设的截止日期。\n你要做的事：已经开通的不用单独申请。没开通就不用做。",
+    "dateNote": "2026-09-28 是公布日（官方英国论坛帖核对时显示“3 weeks ago”，与 SellerTrack 记录的 9 月 28 日一致）。已开通者 8 天内自动开启新目的地，全部账户 30 天内处理完；没有另设截止日，生效按公布日记。",
+    "zh": "亚马逊通知：FBA Export 扩展到 175 个以上新目的地。更新会在 30 天内在受影响账户中完成；已在用 FBA Export 的卖家，新目的地会在 8 天内自动开启，除非你之前停用过某些目的地或商品；停用的目的地会显示在「受限国家」列表里，可随时修改。没在用 FBA Export 的，账户设置不变。国际买家自付国际运费和关税，卖家无额外费用。官方原文见英国站论坛；美国、加拿大同样扩展来自 SellerKit 汇总，未在官方页核实。",
+    "orig": "News_Amazon (UK Seller Forums): “We’re expanding Fulfilment by Amazon (FBA) Export to more than 175 new destinations… The update will process across impacted accounts over the next 30 days. If you already use FBA Export, the new destinations will be automatically enabled over the next eight days, unless you've previously disabled certain destinations or products.” “If you don't currently use FBA Export, there's no change to your account settings.” “International buyers pay international shipping costs and customs duties – there’s no extra cost to you.”",
+    "plain": "这是啥：已经开通 FBA 出口的人，8 天内会被自动打开 175 个以上新的收货国家，买家自己付国际运费和关税。\n跟你有没有关系：只影响本来就开着 FBA 出口的卖家（官方原文是英国站，美国、加拿大来自第三方汇总）；没开通出口的设置不变。\n你要做的事：不想卖到某些国家（比如有合规或售后顾虑），去「出口设置」把它们加进受限国家；想多卖就不用动。",
     "outlook": "推测是让更多国家的买家买到美加仓库里的货，亚马逊多一笔跨境订单。和一次入仓卖多国连着，都是把现有库存卖远，不是新的禁售。",
-    "sourceName": "SellerKit FBA Updates",
-    "sourceUrl": "https://sellerkit.me/fba-updates",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方汇总；官方SG论坛帖证实175+目的地、8天自动开启，美/加站范围未在官方页核实"
+    "sourceName": "Amazon 英国卖家论坛 News_Amazon：FBA Export expands to new destinations",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d2908c90-b115-4777-90d7-dc6e74197566",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200；由 C 级 SellerKit 升级为英国论坛 News_Amazon 官方帖，175+ 目的地、8 天自动开启、30 天完成一致，补充“已停用目的地不自动开”；美/加范围仍仅见第三方"
   },
   {
     "id": "dg-questions",
@@ -393,8 +437,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；帮助页为Haul版；\"最长14个工作日\"来自论坛指引，帮助页未见"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；帮助页为Haul版；\"最长14个工作日\"来自论坛指引，帮助页未见"
   },
   {
     "id": "ppwr",
@@ -847,8 +891,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方博客；已换为论坛官方帖；低价FBA扩展生效日应为2026-02-01，原写1/5有误已修正；与eu-fees-2026内容重叠"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；原为第三方博客；已换为论坛官方帖；低价FBA扩展生效日应为2026-02-01，原写1/5有误已修正；与eu-fees-2026内容重叠"
   },
   {
     "id": "pan-eu-nl-2026",
@@ -1078,8 +1122,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；论坛官方帖，两批日期一致；155°F≈68°C；公布日8/28未精确核实"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；论坛官方帖，两批日期一致；155°F≈68°C；公布日8/28未精确核实"
   },
   {
     "id": "sc-provider-2026-09-01",
@@ -1122,7 +1166,7 @@
     "sourceName": "Amazon Seller Central：FBA Partial Refunds",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；帮助页，7国、不收费、最多三套、限制品类一致"
+    "verifiedAt": "2026-10-18",
+    "verifyNote": "200（10-18 复查可达）；帮助页，7国、不收费、最多三套、限制品类一致"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-fee-category-reassign-2026-10-31",
+    "title": "部分 ASIN 10 月 31 日起被改到新的费用类别，佣金可能跟着变",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "即将生效",
+    "announced": "2026-10-13",
+    "effective": "2026-10-31",
+    "dateNote": "2026-10-13 是 beBOLD Digital 报道日（称亚马逊已开始通知受影响卖家）；亚马逊是给受影响卖家单独发通知，未找到公开的官方公告原文，具体通知日期可能更早。10 月 31 日为报道给出的生效日。",
+    "zh": "据 beBOLD Digital（10 月 13 日）和 Nova Analytics（10 月 14 日）报道：亚马逊正在通知部分卖家，其某些 ASIN 将从 2026 年 10 月 31 日起被重新归入不同的费用类别。费用类别和买家在前台看到的商品分类不一定相同，每个 ASIN 只有一个费用类别；亚马逊用它计算推荐费（佣金），也可能用于结算费、FBA 配送费、FBA 退货处理费等。报道建议卖家用 Fee Preview（费用预览）报告查看每个 ASIN 当前和即将生效的费用类别，测算利润变化；如认为归类错误，可按亚马逊的费用类别争议流程，带上 ASIN、新旧类别、商品属性和对应的费用类别规则去找卖家支持申诉。站点：报道面向美国卖家，未写明是否涉及其他站点。",
+    "orig": "beBOLD Digital, 13 October 2026: “Amazon is reassigning some ASINs to new fee categories effective October 31. Sellers should review affected products, model fee changes, and dispute incorrect classifications before the update takes effect.” “Amazon is notifying affected sellers that some ASINs will move to different fee categories effective October 31.” “A fee category is separate from the category shoppers see on the Amazon storefront.”",
+    "plain": "这是啥：亚马逊在给一部分卖家发通知，说某些商品 10 月 31 日起会被换到另一个“收费类别”，页面看起来一点没变，但每卖一件扣的佣金（有时还有 FBA 费）可能变多或变少。\n跟你有没有关系：只影响收到通知的美国卖家（FBA 和自发货都算，因为都要交佣金）；没收到通知、Fee Preview 里也没显示类别变更的，暂时不用管。\n你要做的事：10 月 31 日前下载 Fee Preview 报告，看哪些 ASIN 的费用类别要改、佣金差多少，重新算利润和广告盈亏线；觉得分错了，就带上 ASIN、新旧类别和商品资料找卖家支持申诉。",
+    "outlook": "推测主要服务亚马逊：按费用类别规则定期审核，把归类不准的商品调到“该收多少就收多少”的类别，佣金收入更准确，有时也会对卖家有利（被调到费率更低的类别）。时间点放在旺季前，对利润薄的商品影响更大。库内相关：《2026 年美国 FBA 费平均每件上调约 0.08 美元》《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国服装 20 美元以下推荐费下调》《2026 年旺季履约费：10 月 15 日至 1 月 14 日》。",
+    "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
+    "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；第三方报道（beBOLD 10/13，Nova Analytics 10/14 引用同一报道），官方原文未找到——亚马逊为单独邮件通知受影响卖家；10/31 生效与 Fee Preview 查看方式两家一致；涉及哪些站点未写明"
+  },
+  {
     "id": "uk-sfp-tier-2026-10-30",
     "title": "英国 Seller Fulfilled Prime：按尺寸分三档考核，10 月 30 日起",
     "regions": [
@@ -145,8 +166,8 @@
     "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；美国论坛官方帖，9/30与11/16一致；\"加拿大同日发布\"本页未体现，未核实"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；美国论坛官方帖复查，TIC 核验与 11/16 通知截止一致；“加拿大同日发布”本页未体现，未核实"
   },
   {
     "id": "eu-fbm-delivery-2026",
@@ -179,14 +200,14 @@
     "announced": "2026-09-03",
     "effective": "2026-11-02",
     "zh": "2026年9月3日，亚马逊在美国卖家论坛发布通知：自2026年11月2日起，在增强安全类目有在售链接的卖家，不论是否达到单月总收入1万美元，都要为这些商品维持商业责任险。公开转述给出的保额仍是每次事故100万美元、累计100万美元。中国大陆注册卖家新提交的保单必须来自 Amazon Insurance Accelerator，否则会被拒；11月2日前已提交且合格的保单可用到到期。类目外商品的1万美元门槛据转述未取消。免赔额不超过1万美元，且需把 Amazon.com Services LLC 及其关联方列为附加被保险人。",
-    "orig": "Secondary reports of the 3 September 2026 US Seller Forums notice: sellers with products in enhanced-safety categories “will now be required to maintain a commercial liability insurance policy that covers those products, regardless of whether they meet the USD 10,000 gross proceeds in a month threshold.” From 2 November 2026, newly submitted policies from Mainland China-based sellers that were not obtained through the Amazon Insurance Accelerator will be rejected. A valid policy submitted before that date can be used until it expires.",
+    "orig": "Amazon Global Selling Korea (official, 2026-09-18), translated: “Starting November 2, 2026, a new criterion is added to the commercial liability insurance requirements for the US marketplace. The existing requirement remains… sellers of products in categories subject to enhanced safety listing requirements must maintain coverage of at least USD 1 million per occurrence and in aggregate even if monthly sales do not reach USD 10,000. The new criterion applies to both new and existing listings.” Deductible “cannot exceed USD 10,000”; “Amazon.com Services LLC, its affiliates and assignees” as additional insured. (Mainland China / Amazon Insurance Accelerator rule from secondary reports of the 3 September 2026 US Seller Forums notice.)",
     "plain": "这是啥：美国增强安全类目不再看一个月有没有做到1万美元，只要这些商品在售，就要有商业责任险。\n跟你有没有关系：只影响在美国卖增强安全类目的人。不卖这类的不用管；别的类目据转述仍要月销售额到1万美元才要求买。中国大陆注册的，11月2日后新交保单必须来自亚马逊保险加速器，否则会被拒；这之前已交且合格的，可以用到到期。\n你要做的事：卖这类的，办一份覆盖这些商品的责任险：每次和累计各100万美元，免赔不超过1万美元，并把亚马逊相关公司列为附加被保险人。不卖就不用做。",
     "outlook": "推测是出事要赔得起，也好对上安全方面的要求，不是为了多卖货。和检测改由实验室直传、危险品要填问卷是一套：安全类目从小卖家到材料都在收紧。",
-    "sourceName": "MarketplaceMax 对美国卖家论坛通知的转述",
-    "sourceUrl": "https://marketplacemax.com/insights/amazon-liability-insurance-november-2-2026/",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方转述；官方论坛公告原文（检索摘要）与条款一致，但未取得可直接打开的官方帖URL"
+    "sourceName": "亚马逊全球开店（韩国）官方动态：11월 2일부터 확대되는 미국 상업 책임 보험 가입 의무（2026-09-18）",
+    "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/us-liability-insurance-2026",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；原 C 级第三方页可达；已换为亚马逊全球开店韩国官方页并升 A：11/2、100 万美元、1 万美元门槛保留、免赔≤1 万、附加被保险人均一致；中国大陆卖家须经 Insurance Accelerator 一项官方页未提，仍来自转述（MarketplaceMax 等）"
   },
   {
     "id": "title-75",
@@ -331,8 +352,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；About Amazon原文，一致"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；About Amazon 原文复查，eBay 等渠道、不另收费一致"
   },
   {
     "id": "claude-plugin",
@@ -477,8 +498,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页，200笔/5000美元与INFORM法一致，官方帖未找到"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；第三方追踪页仍含 INFORM、200 笔/5000 美元，与 INFORM 法一致；官方帖仍未找到"
   },
   {
     "id": "safe-t",
@@ -538,8 +559,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页（一条汇总三项），官方原文未找到"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；追踪页仍含三项；黄金购物车去资格门槛一项已由墨西哥卖家论坛官方帖核实（2026 年 7 月起逐步取消、全球站点、2026 年底完成），因条目合并三项未换链接；处理时间与变体向导两项官方原文未找到"
   },
   {
     "id": "us-apparel-ref-2024",
@@ -821,15 +842,15 @@
     "announced": "2025-11-20",
     "effective": "2026-01-01",
     "dateNote": "公布日 2025-11-20。资料要在 2025-12-31 前交。规则生效日是 2026-01-01。卡片按生效日排序时会落在 2026 年 1 月。",
-    "zh": "政策追踪引卖家新闻：带锂离子电池、走 FBA 的商品，合规信息截止 2025年12月31日，2026年1月1日起生效。没有确认合规的，改为只能陆运。建链接或重新发布时要回答电池问题。追踪页的来源文章在美国 Seller Central。",
-    "orig": "Autopilot tracker, citing Seller News announced November 20, 2025: information due December 31, 2025; effective January 1, 2026. Products without confirmed compliance move to ground-only fulfillment. Sellers answer battery compliance questions when listing or relisting.",
-    "plain": "这是啥：带锂离子电池、走FBA的商品，没确认合规就不能空运，只能改走更慢的陆运。\n跟你有没有关系：只影响美国FBA里带这种电池的货。不带电池的、自己发货的不用管。建链接或重新发布时要回答电池问题。资料要在2025年12月31日前交，2026年1月1日起生效。\n你要做的事：带电池的，把合规资料交上。不带电池就不用做。",
+    "zh": "亚马逊美国卖家论坛官方公告：为符合国际民航组织（ICAO）规定，自 2026 年 1 月 1 日起更新随商品包装的锂离子电池要求。卖带锂离子电池商品的，须在 2025 年 12 月 31 日前提供电池合规信息，商品才能继续空运配送。为 FBA 建链接或重新上架时须回答电池合规问题；具体要求：随商品包装、额定能量超过 2.7 Wh 的锂离子电池，荷电状态须不超过 30%。如果亚马逊无法确认商品符合荷电状态要求，商品将只能走陆运，直至另行通知。",
+    "orig": "Amazon Seller Forums (US): “Effective January 1, 2026, requirements for products packaged with lithium-ion batteries will be updated to comply with the International Civil Aviation Organization (ICAO)…” “you must provide the requested battery compliance information by December 31, 2025 to ensure your products can continue to be fulfilled by air.” “lithium-ion batteries with a watt-hour rating exceeding 2.7 Wh packed with products must have a 30% or less state of charge. If we’re unable to confirm whether your product complies with the state of charge requirement, your product will only be fulfilled by ground transportation until further notice.”",
+    "plain": "这是啥：FBA 商品如果包装里附带锂离子电池（超过 2.7 Wh 的），电量必须充到 30% 以下，并且在后台答完电池问题；亚马逊确认不了的，就不能空运，只能走更慢的陆运。\n跟你有没有关系：只影响美国 FBA 里“随附”锂电池的商品；不带电池的、自己发货的不用管。资料原定 2025 年 12 月 31 日前交，2026 年 1 月 1 日已生效。\n你要做的事：带电池的，确认出厂电量不超过 30%，建链接或重新上架时如实填电池合规问题；已被限成陆运的，补齐资料。不带电池就不用做。",
     "outlook": "这是航空危险品规定，为了运输安全，不是亚马逊故意把货放慢。和危险品问卷是一套：电池先问清楚，不合规就改走陆运。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页，官方原文未找到"
+    "sourceName": "Amazon 美国卖家论坛官方公告：New requirement for products with lithium-ion batteries shipped by air",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2ba13eab-a0e9-43c4-b5e5-0305ae77e945",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；原 C 级追踪页可达；已找到美国论坛官方帖并升 B，补充 2.7 Wh、≤30% 荷电状态、ICAO 等原文细节；announced 2025-11-20 来自原追踪页，论坛帖显示“11 months ago”大致吻合"
   },
   {
     "id": "related-accounts-2026",
@@ -954,8 +975,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方汇总；已换为官方Accelerate回顾页，美国AHA年底/2027全球一致"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；官方 Accelerate 回顾页复查，Listing Protection 与 AHA 表述仍在"
   },
   {
     "id": "ltl-buy-shipping-2026",
@@ -968,15 +989,15 @@
     "announced": "2026-09-30",
     "effective": "2026-10-01",
     "dateNote": "公布日是 2026-09-30。来源只写“10 月起”，没有具体日，生效日记成 2026-10-01。区域配送计价是 2027 年初的计划，不是这个生效日。",
-    "zh": "SellerKit 2026年9月30日，引 Accelerate 2026：10 月起，自发货的重货和超大件可以通过 Buy Shipping 购买零担（LTL）面单。区域配送计价计划在 2027 年初。站点记为美国。",
-    "orig": "SellerKit, 30 September 2026: “Starting in October, sellers can buy less-than-truckload (LTL) shipping labels through Amazon Buy Shipping,” with regional delivery pricing for heavy and bulky items planned for early 2027. US.",
+    "zh": "Supply Chain Dive 2026年9月30日报道，引亚马逊供应链服务副总裁在 Accelerate 2026 上的发言：10 月起，卖家可通过 Buy Shipping（在卖家平台或第三方发货软件中）为重货和超大件订单购买零担（LTL）面单，享受亚马逊协议价和延迟送达保护。按区域设置配送费计划在 2027 年初推出。站点记为美国。",
+    "orig": "Supply Chain Dive, 30 September 2026, quoting Ripley MacDonald (VP, Amazon Supply Chain Services) at Accelerate 2026: “Starting in October, sellers can acquire the LTL labels through Amazon Buy Shipping… via Seller Central and their third-party shipping software.” “When you use LTL through Buy Shipping, you take advantage of Amazon's special negotiated rates and receive protection from late deliveries.” Regional delivery pricing for heavy and bulky items planned for early 2027.",
     "plain": "这是啥：美国自己发的重货和超大件，从10月起可以在后台直接买零担卡车面单。\n跟你有没有关系：只影响美国、而且自己发重货或超大件的人。走亚马逊仓发货的、不发重货的，不用管。按区域计价是2027年初的计划，不是现在这张面单要改的。\n你要做的事：要发这类货的，到后台买卡车面单。不发就不用做。",
     "outlook": "推测是大件也要送到买家家里，所以卡车发货被收进亚马逊的面单。和发货时间必须填真实是一件事：重货一样会被计时，慢了会影响购物车。",
-    "sourceName": "SellerKit FBA Updates",
-    "sourceUrl": "https://sellerkit.me/fba-updates",
+    "sourceName": "Supply Chain Dive：Amazon rolls out new capabilities for bulky package shippers（引述亚马逊副总裁 Accelerate 2026 发言）",
+    "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方汇总；官方Accelerate回顾页未提LTL，未核实"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；原 SellerKit 汇总可达；改用 Supply Chain Dive 记者报道（直接引述亚马逊副总裁），仍为 C 级，官方书面公告未找到"
   },
   {
     "id": "lending-2026",
@@ -996,8 +1017,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方汇总；已换为官方Accelerate回顾页，免邀请、SBA 500万美元一致"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；官方 Accelerate 回顾页复查，SBA 最高 500 万美元仍在"
   },
   {
     "id": "ads-agent-2026",
@@ -1059,8 +1080,8 @@
     "sourceName": "About Amazon 新闻稿：MCF Prime delivery 与 MCF Preferred Pricing",
     "sourceUrl": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原第三方页已无此条；已换为亚马逊新闻稿，免费Prime配送、15–25%六个月一致"
+    "verifiedAt": "2026-10-19",
+    "verifyNote": "200；亚马逊新闻稿复查，Prime 配送与 15–25% 折扣一致"
   },
   {
     "id": "multichannel-tools-2026",

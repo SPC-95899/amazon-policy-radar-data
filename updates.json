@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-19",
+    "status": "完成",
+    "finishedAt": "2026-10-19 06:05",
+    "summary": "定时任务自动运行。检索美/加/墨/欧（含英国）Seller Central 论坛与帮助、sellingpartners/aboutamazon、亚马逊全球开店官方页、SP-API 更新日志及行业新闻（10 月 11 日至今）。新增 1 条：部分 ASIN 10 月 31 日起被重新归入新的费用类别（亚马逊单独通知受影响卖家，官方公开原文未找到，暂按 C 级第三方报道入库）。Business Discount 徽章、英国 SFP 三档、FBA 部分退款按退货原因、危险品问题、责任险、虚拟多件装等已在库内；美国 2026 假日延长退货（至 2027-01-31）仅见第三方报道、官方公告未找到，暂不入库；Seller Central 通行密钥、Amazon Quick、Returns and Recovery Insights 属工具推广非政策；SP-API 企业价（IVP）新受众值属接口更新，未入库。链接复查 10 条：全部可达，失效 0；修正 3 条（商业责任险换为亚马逊全球开店官方页升 A；带锂电池空运要求换为美国论坛官方帖升 B 并补充 2.7Wh/30% 电量细节；LTL 面单换为 Supply Chain Dive 引述亚马逊副总裁的报道），另 1 条（黄金购物车资格门槛）经墨西哥论坛官方帖部分核实。状态按日期自动更新：0 条。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "us-fee-category-reassign-2026-10-31",
+        "title": "部分 ASIN 10 月 31 日起被改到新的费用类别，佣金可能跟着变"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "status": "完成",
     "finishedAt": "2026-10-18 06:04",

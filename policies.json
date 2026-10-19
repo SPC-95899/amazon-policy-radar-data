@@ -1,5 +1,68 @@
 [
   {
+    "id": "eu-uk-surcharge-2pct-2026-11-02",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；英国 Seller Central 论坛 News_Amazon 官方帖（2026-10-19 09:08 UTC 发布），1.5%→2%、FBA 11/2、MCF 11/19、平均每件约 £0.02/€0.02 均与原文一致；德国 Händlerbund 同日报道一致",
+    "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
+    "regions": [
+      "EU"
+    ],
+    "category": "费用",
+    "status": "即将生效",
+    "announced": "2026-10-19",
+    "effective": "2026-11-02",
+    "dateNote": "FBA 从 2026-11-02 起；多渠道配送（MCF）从 2026-11-19 起（英、法、德、意、西）。",
+    "zh": "亚马逊在英国卖家论坛官方公告：因燃油和物流成本继续上涨，2026 年 4 月开始收的燃油与物流附加费，从 2026 年 11 月 2 日起由 1.5% 提高到 2%，适用于英国、法国、德国、意大利、西班牙、波兰、瑞典、荷兰、爱尔兰和比利时的 FBA 配送费；2026 年 11 月 19 日起，英、法、德、意、西五国的多渠道配送（MCF）也同样上调。附加费按配送费计算，不按商品售价；欧洲 FBA 平均每件约多 £0.02/€0.02，具体看商品尺寸。利润分析、收入计算器和费用预览报告已按新费率更新。亚马逊表示会随情况变化继续评估这项附加费。",
+    "orig": "News_Amazon (Amazon.co.uk forums), 19 October 2026: “Starting from November 2, 2026, the fuel and logistics-related surcharge will increase from 1.5% to 2% and will apply to fulfilment fees across Fulfilment by Amazon (FBA) in the UK, France, Germany, Italy, Spain, Poland, Sweden, Netherlands, Ireland and Belgium. On November 19, 2026, this same increase will take effect for Multi-Channel Fulfilment (MCF) in the UK, France, Germany, Italy and Spain.” “On average, this equates to £0.02/€0.02 increase per unit for EU FBA.”",
+    "plain": "这是啥：欧洲和英国的 FBA 配送费附加费从 1.5% 涨到 2%，11 月 2 日起收，多渠道配送 11 月 19 日起跟着涨，平均每件多两便士/两欧分左右。\n跟你有没有关系：只影响在英国和欧盟十国用 FBA 或多渠道配送的卖家；只做美国站的不受影响（美国、加拿大仍是 3.5%，这次没变）。\n你要做的事：做欧洲 FBA 的，打开费用预览或收入计算器看每个 ASIN 多出多少，旺季前把定价和广告盈亏线按新费用重算一遍。",
+    "outlook": "服务亚马逊：把持续上涨的燃油和物流成本再转一部分给卖家，不是政府收费。推测：亚马逊说会继续评估，后续可能再调（涨或降）。库内相关：《FBA 等履约费加收 3.5% 燃油与物流附加费》《欧洲站 2026 年佣金与 FBA 费用下调》《欧洲履约费下调，低价 FBA 扩到 20 英镑或 20 欧元》。",
+    "sourceName": "Amazon.co.uk 卖家论坛（News_Amazon）：Update to FBA and MCF EU fuel and logistics-related surcharge",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/7273b612-67c1-44db-bfba-24eb6f3a46d9"
+  },
+  {
+    "id": "us-holiday-returns-2026-11-01",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；美国 Seller Central 论坛 News_Amazon 官方帖（2026-10-15 19:47 UTC 发布），11/1–12/31 购买可退至 2027-01-31、苹果至 2027-01-15、FBA 和自发货均适用，与原文一致；10-19 运行时只见第三方报道，本次找到官方原文后入库",
+    "title": "美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "即将生效",
+    "announced": "2026-10-15",
+    "effective": "2026-11-01",
+    "dateNote": "适用于 2026-11-01 至 2026-12-31 期间购买的商品，退货截止 2027-01-31（苹果品牌 2027-01-15）。",
+    "zh": "亚马逊在美国卖家论坛官方公告：年末购物季延长标准 30 天退货期，且此政策每年适用。买家在 2026 年 11 月 1 日至 12 月 31 日之间购买的商品，可以退到 2027 年 1 月 31 日；苹果品牌商品退到 2027 年 1 月 15 日。延长期自动适用于你在 Amazon.com 上卖的所有商品，无论 FBA 还是自发货（FBM）。卖家不需要操作，其他退货和退款条件不变。",
+    "orig": "News_Amazon (Amazon.com forums), 15 October 2026: “Our 2026 extended holiday returns policy requires that items that are purchased by your customers between November 1, 2026 and December 31, 2026 can be returned until January 31, 2027, except for Apple brand products which can be returned until January 15, 2027. This extended window automatically applies to all items that you sell on Amazon.com, regardless of whether you use Fulfillment by Amazon (FBA) or Merchant (FBM). No action is required from you.”",
+    "plain": "这是啥：美国站 11 月 1 日到 12 月 31 日卖出的东西，买家可以一直退到明年 1 月 31 日，比平时的 30 天长很多。\n跟你有没有关系：所有美国站卖家都受影响，FBA 和自发货都一样，亚马逊自动执行。\n你要做的事：不用设置；但旺季的退货会拖到 1 月才回来，算 Q4 利润和备 1 月库存时要预留退货量，1 月多盯一下退货原因和可售退货。",
+    "outlook": "主要服务消费者：送礼买错了也能慢慢退，买家敢下单，亚马逊旺季转化更高（帖子原话就是为了“加强年末购物季客流”）。推测：成本主要落在卖家身上，退货集中在 1 月。库内相关：《FBA 退货可以自己定「算不算全新」的标准》《FBA 部分退款可以按退货原因来设》《美国自发货 SAFE-T 索赔窗口改为 30 天》。",
+    "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Extended return window for items bought in November and December 2026",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/fcc4e6f3-5e86-4b04-be84-82f9bcc2558a"
+  },
+  {
+    "id": "us-fbm-prepaid-return-2026-12-18",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；第三方报道（PPC Land 2026-10-19，依据卖家收到的亚马逊邮件截图）；美国论坛有卖家 2026-10-19 贴出同一封 The Amazon Services team 邮件全文（discussions/t/b765c206-6f84-4baf-9388-3f33a614454c），内容一致；官方原文未找到——帮助页 G202072200（预付退货标签）目前还没写 12/18 新规；“大件重货”的定义和临时豁免截止日邮件未写明",
+    "title": "美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款",
+    "regions": [
+      "US"
+    ],
+    "category": "自发货",
+    "status": "即将生效",
+    "announced": "2026-10-19",
+    "effective": "2026-12-18",
+    "dateNote": "2026-10-19 是报道和卖家贴出邮件的日期，亚马逊邮件本身没有显示发送日期，实际通知可能略早。",
+    "zh": "据 PPC Land 报道及卖家在美国论坛贴出的亚马逊邮件：自 2026 年 12 月 18 日起，美国站所有自发货订单的退货（大件重货除外）都必须提供预付退货运单；要求买家自付运费的“仅地址”退货标签不再符合要求，大件重货暂时例外。收到退货请求后 7 个自然日内，卖家必须在“管理自发货退货”流程里上传预付退货标签，或直接全额退款且不要求退货；否则亚马逊可能自动给买家退款（不退货）并从卖家账户扣款。通过买家卖家消息等其他渠道发送的标签不算数。此前（2026 年初）亚马逊已取消高价商品的预付标签豁免。",
+    "orig": "Email from The Amazon Services team (as posted by a seller on the Amazon.com forums and reported by PPC Land, 19 October 2026): “Starting December 18, 2026, all US returns for seller-fulfilled orders (excluding heavy and bulky items) will require a prepaid return shipping label. Address-only labels that require customers to pay for return shipping will no longer meet the requirement, except temporarily for heavy and bulky items.” “Within seven calendar days of a return request, you must either: Upload a prepaid return shipping label … Issue a full refund without requiring customer to return the item.”",
+    "plain": "这是啥：美国站自己发货的订单，从 12 月 18 日起买家退货一律要由你出预付运单，不能再让买家自付运费；7 天内不上传标签也不退款，亚马逊就直接给买家退钱、从你账上扣。\n跟你有没有关系：只影响美国站自发货（FBM）订单，大件重货暂时例外；纯 FBA 的不受影响。\n你要做的事：有自发货的，12 月 18 日前确认后台退货地址、开好亚马逊预付退货标签（Buy Shipping），安排人每天看“管理自发货退货”，7 天内处理；低价商品可以考虑直接退款不退货更省。",
+    "outlook": "主要服务消费者：退货不用掏运费、流程和 FBA 一样省心；也服务亚马逊：统一退货体验、减少客服纠纷。推测：自发货卖家退货成本上升，变相推动更多卖家转 FBA。库内相关：《美国自发货 SAFE-T 索赔窗口改为 30 天》《美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日》《重货可用 Buy Shipping 购买 LTL 面单》。",
+    "sourceName": "PPC Land：Amazon forces prepaid return labels on US seller orders from December 18",
+    "sourceUrl": "https://ppc.land/amazon-forces-prepaid-return-labels-on-us-seller-orders-from-december-18/"
+  },
+  {
     "id": "us-fee-category-reassign-2026-10-31",
     "title": "部分 ASIN 10 月 31 日起被改到新的费用类别，佣金可能跟着变",
     "regions": [
@@ -270,8 +333,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页，未找到官方原文，暂保留"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；仅第三方追踪页，未找到官方原文，暂保留"
   },
   {
     "id": "fuel-surcharge",
@@ -325,15 +388,15 @@
     "status": "已生效",
     "announced": "2026-07-15",
     "effective": "2026-07-15",
-    "zh": "墨西哥媒体 Merca2.0 报道：amazon.com.mx 对2026年7月15日及之后首次发布并开售的新卖家，报名期至2026年12月30日，最多五个月免推荐佣金和部分物流费。累计减免上限每卖家5万墨西哥比索。前90天广告花费占销售额 5%（TACoS）可多一个月；同期至少 80% 销量走 FBA 可再多一个月。报道称需墨西哥税务住所、账户正常、遵守政策。本次没有打开到亚马逊墨西哥官方条款页。",
-    "orig": "No Amazon original text was retrieved in this pass. Merca2.0 reports: eligible new sellers on Amazon.com.mx — first product listed and offered on or after 15 July 2026 — can receive up to five months without referral fees and certain logistics fees, enrollment through 30 December 2026, capped at 50,000 pesos per seller.",
-    "plain": "这是啥：墨西哥新卖家可以免佣金和一部分物流费，最多五个月，每家累计最多免5万比索。\n跟你有没有关系：只限2026年7月15日及以后第一次发布并开售、并在12月30日前报名的墨西哥新卖家。老店和其他站点不用管。前90天广告花费占销售额5%可多免一个月，同期至少80%销量走FBA可再多一个月，但每家最多5万比索。报道还要求墨西哥税务住所、账户正常。\n你要做的事：报道称符合条件的新卖家不用另外报名，亚马逊会自动识别；新店留意后台是否已减免。老店不用做。",
+    "zh": "亚马逊墨西哥卖家论坛官方帖（2026-08-28）：首件商品在 2026 年 7 月 15 日及之后发布的新卖家，以及停售至少 12 个月后在活动期内重新开卖的卖家（须为墨西哥税务住所），可享三个月 0 月租、0 推荐佣金、0 物流费（FBA、Easy Ship、Seller Flex）。前 90 天 TACoS（广告花费÷销售额）保持 5.0% 可多一个月，FBA 销量占比 80.0% 可再多一个月，最多五个月。无需手动报名，亚马逊自动登记；登记期 2026 年 7 月 15 日至 12 月 30 日。每家累计减免上限 5 万墨西哥比索出自 Merca2.0 报道，官方帖未提。",
+    "orig": "Kris_Amazon (Amazon.com.mx forums), 28 August 2026: “Nuevos vendedores: cuentas con su primer producto publicado a partir del 15 de julio de 2026.” “+1 mes: Mantener un TACoS del 5.0% … +1 mes: Mantener un 80.0% de Compromiso FBA.” “No necesitas registrarte manualmente. Amazon inscribe automáticamente a los vendedores elegibles. El periodo de inscripción va del 15 de julio de 2026 al 30 de diciembre de 2026.”",
+    "plain": "这是啥：墨西哥新卖家前三个月免月租、免佣金、免物流费，做得好最多免五个月，据报道每家累计最多免 5 万比索。\n跟你有没有关系：只限 2026 年 7 月 15 日及以后第一次上架、或停售满 12 个月后回来的墨西哥税务住所卖家，12 月 30 日前登记；老店和其他站点不用管。\n你要做的事：不用报名，亚马逊自动识别；新店前 90 天把 TACoS 控在 5%、FBA 销量占到 80%，就能多拿两个月免费期。",
     "outlook": "推测是亚马逊用免费用换墨西哥新卖家，并把货往FBA里赶。美加同期主要是不涨或小涨，墨西哥是在花钱拉新店。",
-    "sourceName": "Merca2.0",
-    "sourceUrl": "https://www.merca20.com/amazon-mexico-cero-comisiones-nuevos-vendedores-2026/",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；墨西哥媒体；报道称符合条件无需另行报名，已修正\"去报名\"表述；官方条款页未找到"
+    "sourceName": "Amazon.com.mx 卖家论坛（Kris_Amazon 官方帖）：¿Sabías que puedes vender con CERO tarifas por tres meses?",
+    "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/f5ce894e-124a-4267-a1b1-5bd365a692eb",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；已由 C 级 Merca2.0 换为墨西哥论坛亚马逊员工官方帖并升 B；补充 0 月租和重新开卖卖家条件；5 万比索上限官方帖未提，仍出自 Merca2.0"
   },
   {
     "id": "multichannel",
@@ -478,8 +541,8 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；帮助页包装要求一致；2025/40条例8/12适用日来自ppc.land，EUR-Lex本次未能打开"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；帮助页包装要求一致；2025/40条例8/12适用日来自ppc.land，EUR-Lex本次未能打开"
   },
   {
     "id": "inform",
@@ -518,8 +581,8 @@
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方追踪页；已换为论坛官方帖，60→30天、2/16一致"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；已换为论坛官方帖，60→30天、2/16一致"
   },
   {
     "id": "commingle",
@@ -828,8 +891,8 @@
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；帮助页，10/15–1/14一致"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；帮助页，10/15–1/14一致"
   },
   {
     "id": "lithium-air-2026",
@@ -870,8 +933,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；仅第三方追踪页，官方原文未找到"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；仅第三方追踪页，官方原文未找到"
   },
   {
     "id": "account-id-roles",
@@ -933,8 +996,8 @@
     "sourceName": "Seller Magnet（引用泛欧 FBA 帮助页）",
     "sourceUrl": "https://blog.sellermagnet.com/post/amazon-pan-european-fba-2026/en",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方博客引帮助页，9/3与比利时2027/2/26；官方帮助页未公开可达"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；第三方博客引帮助页，9/3与比利时2027/2/26；官方帮助页未公开可达"
   },
   {
     "id": "bundles-2027",
@@ -1052,15 +1115,15 @@
     "announced": "2026-09-29",
     "effective": "2026-11-01",
     "dateNote": "公布日 2026-09-29。来源只写 2026 年 11 月，没有具体日，生效日记成 2026-11-01。Alexa 品牌对话是 2027 年 1 月的美国计划，不是这个生效日。",
-    "zh": "SellerKit 2026年9月29日：Review Requests 于 2026 年 11 月上线，用来邀请已验证买家给商品评分。Branded Conversations 计划 2027 年 1 月在美国通过 Alexa 提供商品信息。",
-    "orig": "SellerKit, 29 September 2026: “Review Requests launch in November 2026 to invite verified buyers to rate products, and Branded Conversations launch in the US in January 2027.”",
+    "zh": "Amazon Ads 官方新闻（2026年9月29日）：Review Requests 于 2026 年 11 月上线，用来邀请已验证买家给商品评分。Branded Conversations 计划 2027 年 1 月在美国通过 Alexa 提供商品信息。",
+    "orig": "Amazon Ads news: “Review Requests will launch in November 2026.” “[Branded Conversations] will launch in January 2027 in the United States.”",
     "plain": "这是啥：11月可以用官方工具邀请已经验证过的买家给商品评分，不是让你私下发消息要好评。\n跟你有没有关系：只影响美国站卖家。不在美国卖的不用管。用Alexa讲商品信息是2027年1月的计划，不是这个月要做的。\n你要做的事：想要更多评分的，11月用这个邀请工具。不想邀请就不用做。",
     "outlook": "推测是为了买家看到更多真实评分，同时把要评分留在官方工具里。和AI真人图打标记同一方向：评价和图片都要更可信。",
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原为第三方汇总；已换为Amazon Ads官方页，2026年11月与2027年1月一致；11/01仅表示11月"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；Amazon Ads 官方页，2026 年 11 月与 2027 年 1 月一致；orig 由 SellerKit 转述改为官方原文；11/01 仅表示 11 月"
   },
   {
     "id": "mcf-prime-2026",
@@ -1094,15 +1157,15 @@
     "announced": "2026-09-24",
     "effective": "2026-09-24",
     "dateNote": "2026-09-24 是公布日。摘要写“逐步向美国卖家推出”，没有完成日，所以生效记成公布日，状态是灰度，不是已经全量。",
-    "zh": "SellerKit 2026年9月24日：卖家平台的多渠道工具逐步向美国卖家开放，不另收费，可连接 eBay、Shopify、TikTok 和沃尔玛并管理订单。",
-    "orig": "SellerKit, 24 September 2026: multichannel tools for eBay, Shopify, TikTok, and Walmart roll out gradually to US sellers at no extra cost.",
+    "zh": "About Amazon 官方新闻（2026年9月24日）：卖家平台的多渠道工具逐步向美国卖家开放，不另收费，可连接 eBay、Shopify、TikTok 和沃尔玛并管理订单。",
+    "orig": "About Amazon: “Amazon Seller Central now supports multichannel selling across Amazon, eBay, Shopify, TikTok, and Walmart.”",
     "plain": "这是啥：卖家后台可以连上eBay、Shopify、TikTok和沃尔玛，一起管订单，工具不另收费。\n跟你有没有关系：只是逐步给美国卖家，不是已经全员开放。不在美国卖、也不在这四个平台卖的，不用管。\n你要做的事：用得上的，等后台出现入口再去连接。不用这些平台就不用做。",
     "outlook": "推测是亚马逊想把别的平台的订单留在自己后台，不是政府要求。和后台连接eBay等平台是同一件事。",
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "原第三方页已无此条；已换为About Amazon原文；与multichannel条目重复"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200；About Amazon 原文，eBay/Shopify/TikTok/Walmart 一致；orig 由 SellerKit 转述改为官方原文；与 multichannel 条目重复"
   },
   {
     "id": "at-parcel-tax-2026-10-01",
@@ -1164,8 +1227,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；论坛官方帖，9/1、365天一致"
+    "verifiedAt": "2026-10-20",
+    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；论坛官方帖，9/1、365天一致"
   },
   {
     "id": "fba-partial-refund-2026-10-13",

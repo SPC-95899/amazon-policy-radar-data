@@ -1,5 +1,68 @@
 [
   {
+    "id": "eu-compliance-fast-track-2026-10-20",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；英国 Seller Central 论坛 News_Amazon 官方帖（2026-10-20 17:40 UTC 发布，即北京时间 10-21 01:40），中文内容与原文一致；参与认证机构名单和可用品类在 Seller Central 项目页（需登录），未核实；亚马逊 2024-10 曾在论坛宣布同名项目（当时列出婴幼儿用品、电子产品、手工艺品、窗帘类），这次是明确可用于欧盟",
+    "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
+    "regions": [
+      "EU"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2026-10-20",
+    "effective": "2026-10-20",
+    "dateNote": "论坛帖发布于 2026-10-20 17:40 UTC（北京时间 10-21 凌晨）；帖子写“现在就可以”使用，没有另写生效日。",
+    "zh": "亚马逊在英国卖家论坛官方公告：欧盟站现在可以通过 Compliance Fast-Track（合规快速通道）自动满足产品合规要求。只要商品已由参与项目的认证机构认证，所需的合规文件会被自动调取，卖家不用再手动上传。亚马逊列出的好处是：省去手动提交文件的时间、减少因文件缺失或过期导致的链接中断、合规状态自动保持。参与机构名单和哪些商品符合条件，要到 Seller Central 的 Compliance Fast-Track 项目页查看。",
+    "orig": "News_Amazon (Amazon.co.uk forums), 20 October 2026: “You can now meet product compliance requirements automatically in the EU through Compliance Fast-Track. Once your products have been certified by a participating organisation, the required compliance documentation will be retrieved automatically – no manual uploads needed.” “Reduce the risk of listing disruptions from missing or expired documentation”.",
+    "plain": "这是啥：欧盟站的商品如果是找亚马逊合作的认证机构做的认证，合规文件亚马逊会自己去拿，你不用再一份份上传。\n跟你有没有关系：只管欧盟站；你目前主要做美国站，暂时不用管。以后做欧洲，这能少很多因为缺文件、文件过期被下架的麻烦。\n你要做的事：现在不用做。打算进欧洲时，做检测认证前先去后台 Compliance Fast-Track 页面看合作机构名单，尽量选名单里的机构。",
+    "outlook": "服务亚马逊：少处理缺文件、过期文件的审核和下架工作；也服务政府和消费者：欧盟 GPSR 等法规要求的安全文件更齐全、更真实。推测：亚马逊会继续把检测文件往“认可机构直接回传”的方向推，以后自己上传的文件可能越来越难过审。库内相关：《欧盟 GPSR：责任人、标签与卖家平台提交》《受管制类目检测报告须由认可实验室直接回传》《全球仓配扩展与一次送检试点》。",
+    "sourceName": "Amazon.co.uk 卖家论坛（News_Amazon）：Simplify EU compliance with Compliance Fast-Track programme",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/cb867511-ca2c-4b52-b01d-e68e0e0dc79f"
+  },
+  {
+    "id": "us-nwd-brand-rep-2026-10-27",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；美国卖家论坛卖家帖（2026-10-13 起），多名卖家引用的亚马逊绩效通知原句一致；亚马逊版主 Roberto_Amazon 在帖内回复确认多名品牌所有者/代表收到同一 NWD 通知，并称“有效 Brand Representative 角色的卖家不受 NWD 下架日影响”（2026-10-20 回复）；EcomCrew 2026-10-18 报道称通知约 10-14 发出；官方公开公告和帮助页未找到；哪些品牌被列入、是否全站、具体下架日期（多数通知写 10-27，个别报道写 10-27 或 10-28）以各自账户通知为准",
+    "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）",
+    "regions": [
+      "US"
+    ],
+    "category": "账户与身份",
+    "status": "即将生效",
+    "announced": "2026-10-13",
+    "effective": "2026-10-27",
+    "dateNote": "2026-10-13 是论坛上最早有卖家贴出这类通知的日期，通知本身的发送日期各账户不同（多为 10-13 至 10-15）；10-27 是多数通知写的下架日，个别报道写 10-27 或 10-28。",
+    "zh": "多名美国卖家在论坛贴出亚马逊发来的“No Wholesale Distribution（NWD，不走批发分销）”绩效通知：某些品牌被判定不通过批发、分销或第三方转售渠道销售，这些品牌的商品从 2026 年 10 月 27 日左右起只能由在品牌注册里拥有“品牌代表（Brand Representative）”角色的卖家销售，其他卖家的报价会被移除，并被要求为 FBA 库存创建移除订单。很多本身就是品牌所有者的卖家也收到了通知。亚马逊论坛版主回复确认：账户在品牌福利资格（Brand Benefit Eligibility）里有有效品牌代表角色的，不受这次下架日影响。亚马逊没有公开发布正式公告，范围和日期以各账户收到的通知为准。",
+    "orig": "Amazon performance notification as quoted by sellers on the Amazon.com forums (October 2026): “These products will continue to be available in the Amazon store, but only from sellers with the Brand Representative role.” Roberto_Amazon (forum moderator), 20 October 2026: “sellers with an active Brand Representative role are not impacted by the NWD removal date.” “If your Brand Representative role is active under Brand Benefit Eligibility, your listings and inventory are not at risk.”",
+    "plain": "这是啥：亚马逊给一批品牌上了锁，10 月 27 日起这些品牌的货只能由品牌注册里有「品牌代表」身份的账户卖，别人跟卖或分销的链接会被撤掉、库存要移除。\n跟你有没有关系：你卖自己的品牌，又是品牌代表的话基本不受影响；但很多品牌主也收到了误伤式通知，如果卖货的账户没和品牌正确绑定，自己的链接也可能被撤。\n你要做的事：收到 NWD 通知的，27 日前去品牌注册确认卖货账户有「Brand Representative」角色、账户 ID 对得上，在 Brand Benefit Eligibility 里能看到；有问题马上开 case 并保存通知截图；26、27 日盯一下重点链接还在不在。",
+    "outlook": "服务品牌方和亚马逊：品牌可以把不受控的分销、跟卖挡在门外，亚马逊也减少假货和窜货投诉；对消费者是货源更可控。推测：品牌“门禁”会越来越多，没有授权的批发/分销卖家空间会继续缩小；系统识别角色出错的情况可能还会有。库内相关：《品牌权限改用 Account ID，不再只用邮箱》《Listing Protection：违规处理期间链接先保持在售》《FBA 混储结束：转售商须贴亚马逊条码》。",
+    "sourceName": "Amazon.com 卖家论坛（卖家帖，含亚马逊版主 Roberto_Amazon 回复）：No Wholesale Distribution (NWD)",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/7a9a3733-2e68-49be-a533-dcbeea293fb5"
+  },
+  {
+    "id": "us-restore-to-new-2026-10-21",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；SellersAskSellers 卖家转贴的亚马逊 FBA 团队邮件（邮件日期 2026-09-21，帖子 2026-09-23）；Treecat 2026-09-22 报道内容一致（10-21、改名、70%、$1.50–$4.10）；官方公开页未找到（帮助页需登录）；新增可翻新的具体品类未核实。公告早于本次检索窗口，但今天正式生效且库内没有，所以补录",
+    "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-09-21",
+    "effective": "2026-10-21",
+    "dateNote": "2026-09-21 是卖家转贴的亚马逊邮件日期；2026-10-21 是邮件写的改名和扩容日期。",
+    "zh": "亚马逊 FBA 团队邮件通知：2026 年 10 月 21 日起，原来的 Refurbishment（退货翻新）改名为 Restore to New（恢复为全新），原来的 FBA Grade and Resell（分级转售）改名为 Sell as Used（按二手销售），并把 Restore to New 扩大到更多品类。参加 Restore to New 后，能恢复成全新状态的退货会被重新当作新品上架，每件收 1.50–4.10 美元处理费；恢复不了的，如果你也参加了 Sell as Used，就按二手上架；两项都没参加的，按你的不可售库存设置处理，不收费。两个项目可以只参加一个，也可以都参加。亚马逊称参加 Restore to New 的卖家在符合条件的退货上平均净回收超过 70%。入口在“亚马逊物流库存设置”。",
+    "orig": "Email from the Fulfillment by Amazon team (dated 9/21/2026, as reposted on SellersAskSellers): “On October 21, 2026, we’ll expand and rename our Refurbishment and Fulfillment by Amazon (FBA) Grade and Resell programs to help you recover more value from returned items.” “If we can restore an item to new condition, we’ll relist it as new and charge a processing fee of $1.50–$4.10 per unit.”",
+    "plain": "这是啥：买家退回 FBA 仓的货，亚马逊可以帮你翻新后当全新再卖（每件收 1.5 到 4.1 美元），翻新不了的还能按二手卖，从今天起两个项目改名并扩到更多品类。\n跟你有没有关系：美国站 FBA 卖家都能选；不报名就和以前一样按你的不可售设置处理。像止吠项圈这类小电子宠物用品，退货多是拆了包装、其实没坏，翻新后当新品卖能少亏不少。\n你要做的事：去「亚马逊物流库存设置」看看 Restore to New 和 Sell as Used，退货多、单价高过处理费的商品可以报名；和「自定义退货判定标准」一起设好，先挑几个 ASIN 试一个月看回收账。",
+    "outlook": "服务亚马逊和卖家：退货不再大量销毁或退回，亚马逊多收一笔处理费，卖家多回点本；也服务消费者：有更多便宜的二手或翻新货可买。推测：亚马逊会继续把退货处理做成收费服务，并与退货判定、部分退款等工具打包推广。库内相关：《FBA 退货可以自己定「算不算全新」的标准》《FBA 部分退款可以按退货原因来设》《高退货率商品的退货处理费扩到服装鞋类以外》。",
+    "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 邮件：FBA Grade and Resell is now Sell as Used and includes refurbished items",
+    "sourceUrl": "https://sellersasksellers.com/t/amazon-email-fba-grade-and-resell-is-now-sell-as-used-and-includes-refurbished-items/7576"
+  },
+  {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
     "verifiedAt": "2026-10-20",
@@ -207,8 +270,8 @@
     "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；卖家论坛官方帖，90%、滚动14天、9/30、10/30均一致"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查美国卖家论坛 News_Amazon 官方帖（2026-06-30 发布）：90%、滚动14天、9/30 通知、10/30 起可能对企业买家下架自发货报价、FBA 不受影响、三件工具保证达标均一致"
   },
   {
     "id": "li-device-tic-2026-09-30",
@@ -286,15 +349,15 @@
     "status": "已生效",
     "announced": "2026-06-10",
     "effective": "2026-08-10",
-    "zh": "2026年6月10日宣布：除媒体类目外，商品名称上限75字符（含空格）；新增可搜索的 Item Highlights，上限125字符。7月27日起对超限标题给 AI 建议。欧洲卖家论坛转载的官方问答写明：自2026年8月10日起，Item Highlights 在桌面和移动端显示在商品名称下方。同一问答称商品名称和 Item Highlights 都是搜索输入，没有写哪一个优先。品牌审核窗口在第三方追踪里被记为14天。追踪页称已有超过9.84亿条标题被更新，该数字来自第三方对卖家新闻的摘录。",
-    "orig": "Amazon Europe forum repost, 2 August 2026: “Yes, effective as of 10 August 2026, Item highlights will display beneath the Item name across desktop and mobile.” “With this update, you’ll still have 200 characters to list your important product information; those characters will be split between Item name (75 characters) and Item highlights (125 characters).” A later secondary quote attributed to Seller Central: “Your search and discoverability are unchanged. Item name and Item highlights are both inputs for search, and one isn’t prioritized over the other.”",
+    "zh": "2026年6月宣布：除媒体类目外，商品名称上限75字符（含空格）；新增可搜索的 Item Highlights，上限125字符，两者合计仍是200字符。亚马逊美国卖家论坛官方问答（2026-07-29 发布）写明：7月27日起亚马逊开始用你现有的标题，对不合规链接给出 AI 修改建议，这些改动在 2026 年内陆续进行，期间链接保持在售、可编辑、可搜索；品牌所有者在改动生效前有14天可在 Review Listings Changes 里审核、修改或批准；自2026年8月10日起，Item Highlights 在桌面和移动端显示在商品名称下方；商品名称和 Item Highlights 都是搜索输入，没有哪一个优先；可下载 Category Listings 报告批量修改。问答还称卖家已更新超过9.84亿条标题。",
+    "orig": "News_Amazon (Amazon.com forums), 29 July 2026: “Since then, you’ve updated more than 984 million product titles.” “Item name and Item highlights are both inputs for search, and one isn’t prioritized over the other.” “Brand owners will have 14 days before these changes are implemented to review, modify, and approve AI-generated in Review Listings Changes.” “Yes, effective August 10, 2026, Item highlights will display beneath the Item name across desktop and mobile.” “those characters will be split between Item name (75 characters) and Item highlights (125 characters).”",
     "plain": "这是啥：除了媒体类，商品名字最多75个字（含空格），多出来的卖点写到名字下面的亮点栏，亮点最多125个字，两边都能被搜到。\n跟你有没有关系：卖非媒体商品的人要改，站点包括美国、加拿大、墨西哥、欧洲和多站点。只卖媒体类的不用管这条字数。8月10日起，亮点会显示在电脑和手机的商品名下面。\n你要做的事：把超长标题改到75个字以内，剩下的卖点挪进亮点栏。媒体类不用做。",
     "outlook": "推测是为了买家在手机上更快看懂，不是政府要求。和AI真人图必须打标记是同一方向：页面更干净，也更好分辨。",
-    "sourceName": "Amazon Seller Forum 转载的欧洲公告问答",
-    "sourceUrl": "https://seller-forum.com/t/answers-to-your-product-title-update-questions/19550",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方论坛转载欧洲官方问答，75/125字符、8月10日一致；9.84亿与14天来自追踪站，未核实"
+    "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Answers to your product title update questions",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/302aaac6-6f2b-4d86-bcd2-36fe24f0e6cd",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查：由第三方转载（seller-forum.com）升级为美国卖家论坛 News_Amazon 官方帖（2026-07-29 发布），75/125字符、8月10日显示、14天品牌审核、9.84亿条均与原文一致；6月10日这个公布日期本帖只写“2026年6月”，未在本帖核实"
   },
   {
     "id": "ai-people-tag",
@@ -642,8 +705,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：17%→5%（<$15）、17%→10%（$15–20）、2024-01-15 均一致；7条共用同一公告链接"
   },
   {
     "id": "us-sipp-2024",
@@ -683,8 +746,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：平均 $0.27/$1.58、2024-03-01 起、收货后45天收取均一致；7条共用同一公告链接"
   },
   {
     "id": "us-low-inventory-2024",
@@ -703,8 +766,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：2024-04-01 起、超过四周库存可避开均一致；豁免天数公告未写，仍以帮助页为准；7条共用同一公告链接"
   },
   {
     "id": "us-storage-2024",
@@ -743,8 +806,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：标准件 -$0.20、大件 -$0.61、2024-04-15、低于$10 另有 $0.77 折扣均一致；7条共用同一公告链接"
   },
   {
     "id": "us-returns-fee-2024",
@@ -763,8 +826,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：仅同类退货率最高的商品、2024-06-01、服装鞋类原费用平均不变均一致；7条共用同一公告链接"
   },
   {
     "id": "bundles-consumable-2024",
@@ -805,8 +868,8 @@
     "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners页，0.58美元、前100件、12/1–3/31一致"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200；10-21 复查官方 Selling Partners 2024-11-19 公告：不涨推荐费和 FBA 费、不新增费种、大件少分仓入库配置费平均 -$0.58（2025-01-15）、新父 ASIN 前100件豁免（2024-12-01 至 2025-03-31 货件）均一致"
   },
   {
     "id": "us-fees-2026",
@@ -826,8 +889,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；帮助页，0.08美元、1/15、0.25/0.05一致"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200（headless Chrome 渲染）；10-21 复查帮助页 201411300：平均 +$0.08/件、2026-01-15 生效、至少提前90天、$10–50 小号标准件 +$0.25、大号标准件 +$0.05 均一致；公布日 2025-10-15 帮助页未印，仍来自追踪记载"
   },
   {
     "id": "us-coupon-cap-2025",
@@ -847,8 +910,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200（需JS渲染）；与us-fees-2026共用帮助页，2000美元、11/5一致"
+    "verifiedAt": "2026-10-21",
+    "verifyNote": "200（headless Chrome 渲染）；10-21 复查帮助页 201411300：单券可变费用封顶 $2000、2025-11-05 及之后创建的优惠券均一致"
   },
   {
     "id": "ca-fees-2026",

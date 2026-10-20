@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-21",
+    "status": "完成",
+    "finishedAt": "2026-10-21 06:14",
+    "summary": "检索美/加/墨/欧（含英国）Seller Central 论坛官方公告与帮助页、sellingpartners/aboutamazon、advertising.amazon.com、SP-API 更新日志、FTC/CPSC/HMRC 等监管来源及行业新闻线索（Niceggie、PPC Land、SellerTrack、SellersAskSellers 等，10 月 13 日至今，重点 10/20 以后）。新增 3 条：欧盟合规快速通道（10/20 英国论坛 News_Amazon 官方帖，认证机构认证后合规文件自动调取，B 级）；部分品牌 10/27 起只许品牌代表销售的 NWD 通知（官方公开公告未找到，依据美国论坛卖家帖与亚马逊版主回复，C 级）；FBA 退货翻新改名扩容为 Restore to New / Sell as Used（9/21 邮件，今天 10/21 生效，库内此前没有，按卖家转贴 C 级补录）。美国自发货预付退货标签、ASIN 费用类别重分配仍未找到官方公开原文，保持 C 级；黑五/网一提报截止 10/20、FBA 入仓截止 10/21 和 10/28 属 7 月已公布的旺季日程提醒，不是新政策；北美交易报告改版为 4 月旧公告；英国市场 VAT 视同供应商扩展尚待 10/28 预算正式公布，未入库；SP-API 10 月接口更新与 Ads 工具推广非卖家政策，未入库。链接复查 10 条：全部可达，失效 0；修正 1 条（标题 75 字符条目由第三方转载 C 级换为美国论坛 News_Amazon 官方帖升 B，并据原文补全 7/27 AI 建议、14 天品牌审核、9.84 亿条为官方数字）；其余 9 条（2024/2025/2026 美国费用、优惠券封顶、企业营业时间送达率）关键数字和日期与原文一致。状态按日期自动更新：0 条。",
+    "addedCount": 3,
+    "items": [
+      {
+        "id": "eu-compliance-fast-track-2026-10-20",
+        "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取"
+      },
+      {
+        "id": "us-nwd-brand-rep-2026-10-27",
+        "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）"
+      },
+      {
+        "id": "us-restore-to-new-2026-10-21",
+        "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "status": "完成",
     "finishedAt": "2026-10-20 06:08",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "eu-handling-fee-2026-11-01",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200；欧盟委员会税务与海关总司 EU Customs Reform 官方页 2026-10-07 动态写明 11 月 1 日起征收 2 欧元联盟手续费，金额由委托法规 C(2026)6694 确定；荷兰海关页（douane.nl）同样写 €2/申报行、预计 11/1 生效（今天该链接返回 404，未作主来源）；亚马逊自己如何对英国远程配送订单代收此费用，官方公开说明未找到。",
+    "title": "欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费",
+    "regions": [
+      "EU"
+    ],
+    "category": "税务与包装",
+    "status": "即将生效",
+    "announced": "2026-10-07",
+    "effective": "2026-11-01",
+    "dateNote": "金额由欧委会 2026-09-21 通过的委托法规确定；官方页 10-07 发布指引，写明 11 月 1 日起适用。",
+    "zh": "欧盟海关改革：2026 年 7 月 1 日起已取消 150 欧元以下进口包裹免关税，对网购小包每件（按税则行）征收临时 3 欧元关税；从 2026 年 11 月 1 日起，再对卖给欧盟消费者、从欧盟外直接寄入的远程销售商品征收每件 2 欧元的“联盟手续费”，不论货值高低都收，用于覆盖海关查验成本。缴费和合规责任由平台、卖家或承运商（申报人）承担，不再由消费者承担。已经整批进口、存放在欧盟境内（如 FBA/泛欧仓）再发货的订单不涉及这两项费用。",
+    "orig": "European Commission (Taxation and Customs Union), 07 Oct 2026: “From 1 November 2026, the EU will apply the €2 Union handling fee. Guidance on the Union handling fee are included on the previous Guidance on the €3 customs duty.” Same page: “Non-EU online platforms and sellers are responsible for customs formalities and duty payments for the goods they sell into the EU.”",
+    "plain": "这是啥：从欧盟外（中国、美国、英国）直接寄给欧盟买家的包裹，11 月 1 日起每件商品再多收 2 欧元手续费，叠加 7 月起已经在收的 3 欧元关税。\n跟你有没有关系：你主要做美国站，基本没关系；只有做欧洲站且用自发货直邮、或从英国远程配送到欧盟时才会被收。货先进欧盟 FBA 仓再卖的不收。\n你要做的事：现在不用做。以后做欧洲，低价货别走直邮，先整批进欧盟仓；直邮的话每件成本要多算 5 欧元左右（3 欧关税 + 2 欧手续费）。",
+    "outlook": "服务政府：补贴海关查验成本、打击低报价格和拆单避税，部分收入进欧盟预算；也服务欧盟本土零售商：让直邮小包和本地库存公平竞争。对亚马逊是中性偏利好：把卖家往欧盟本地 FBA 仓推。推测：2028 年 150 欧元门槛全面取消后会按正常税率征关税，直邮模式成本会更高。库内相关：《奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税》《欧盟 GPSR：责任人、标签与卖家平台提交》《泛欧 FBA：必须有有效的荷兰报价》《FBA Export 扩大到 175 个以上新目的地》。",
+    "sourceName": "European Commission – EU Customs Reform（Guidance on the €3 customs duty and Union handling fee）",
+    "sourceUrl": "https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en"
+  },
+  {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
     "verifiedAt": "2026-10-21",
@@ -207,8 +228,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
     "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；第三方论坛转贴官方 Business 通知原文，5%/2%/数量折扣3%与去星要求一致；官方公开页未找到"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；第三方论坛转贴官方 Business 通知原文，5%/2%/数量折扣3%与去星要求一致；官方公开页未找到"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -228,8 +249,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
     "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；第三方论坛转贴官方FBA通知，日期10/28、11/10、11/11与原文一致；官方页未公开可达"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；第三方论坛转贴官方FBA通知，日期10/28、11/10、11/11与原文一致；官方页未公开可达"
   },
   {
     "id": "fba-return-grading-2026-10-14",
@@ -376,8 +397,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；卖家论坛官方帖可打开；contains-synthetic-performer、全球站点表述与条目一致"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；卖家论坛官方帖可打开；contains-synthetic-performer、全球站点表述与条目一致"
   },
   {
     "id": "tic-direct",
@@ -725,8 +746,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
   },
   {
     "id": "us-inbound-placement-2024",
@@ -786,8 +807,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-16",
-    "verifyNote": "200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
   },
   {
     "id": "us-fulfillment-cut-2024",
@@ -847,8 +868,8 @@
     "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "原C级selleressentials链接403 Forbidden；已替换为卖家论坛官方帖并升B；2024-10-14、grocery/pet/baby/health&beauty、须原厂品牌方打包一致"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 原C级selleressentials链接403 Forbidden；已替换为卖家论坛官方帖并升B；2024-10-14、grocery/pet/baby/health&beauty、须原厂品牌方打包一致"
   },
   {
     "id": "us-fees-2025",
@@ -1017,8 +1038,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；仍为第三方追踪页；Account ID、7/29生效、8/5公告与追踪表一致；官方原文未找到"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；仍为第三方追踪页；Account ID、7/29生效、8/5公告与追踪表一致；官方原文未找到"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -1080,8 +1101,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；卖家论坛官方帖；January 11, 2027、原厂包装要求与条目一致"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；卖家论坛官方帖；January 11, 2027、原厂包装要求与条目一致"
   },
   {
     "id": "listing-protection-2026",
@@ -1164,8 +1185,8 @@
     "sourceName": "SellerKit FBA Updates",
     "sourceUrl": "https://sellerkit.me/fba-updates",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；sellerkit 汇总页可打开；全漏斗广告/DVA+表述仍在，未发现与条目冲突的新数字"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；sellerkit 汇总页可打开；全漏斗广告/DVA+表述仍在，未发现与条目冲突的新数字"
   },
   {
     "id": "review-requests-2026",
@@ -1248,8 +1269,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-17",
-    "verifyNote": "200；奥地利财政部英文页确认自2026-10-01起每包裹EUR 2（或按订单）；平台视为视同供应商；条目中€2.40含税来自公开报道，原文页写EUR 2"
+    "verifiedAt": "2026-10-22",
+    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；奥地利财政部英文页确认自2026-10-01起每包裹EUR 2（或按订单）；平台视为视同供应商；条目中€2.40含税来自公开报道，原文页写EUR 2"
   },
   {
     "id": "fba-meltable-2026-08-31",

@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-23",
+    "status": "完成",
+    "finishedAt": "2026-10-23 06:08",
+    "summary": "检索美/加/墨/欧（含英国）Seller Central 论坛官方公告、sell.amazon.com/aboutamazon、SP-API 更新日志及行业新闻线索（ASGTG 10/22、AltoSea 10/22、Niceggie、NovaData、BellaVix 等，10 月 15 日至今）。新增 1 条：欧盟 11/1 起从欧盟外自发货直邮的包裹每件须报 ASIN + 型号/零件号（SP-API 官方更新日志 10/21，A 级）。美国自发货预付退货标签、多渠道工具、Business Discount 徽章、欧洲附加费 2%、商业责任险、费用类别重分配等已在库内；Amazon Business Deals 为 8/31 旧功能、SP-API MCF 追踪号通知为开发者接口更新，未入库；费用类别重分配条目尝试升级到官方帮助页 GFD6HLGAEZC9VBGJ，但 headless 未渲染出正文，保持 C 级；加拿大/墨西哥未发现新官方公告。链接复查 10 条：全部可达（200），失效 0；其中 2 个帮助页今天未渲染出正文，内容沿用上次核对；其余关键日期与原文一致，修正 0。状态按日期自动更新：0 条。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "eu-fbm-customs-identifiers-2026-11-01",
+        "title": "欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "status": "完成",
     "finishedAt": "2026-10-22 06:06",

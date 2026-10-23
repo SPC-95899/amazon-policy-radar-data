@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-24",
+    "status": "完成",
+    "finishedAt": "2026-10-24 06:10",
+    "summary": "检索美/加/墨/欧（含英国）Seller Central 论坛官方公告、sell.amazon 各站、aboutamazon、SP-API 更新日志及行业新闻线索（ecomcrew、My Amazon Guy、SellerShorts、Händlerbund、truebooks 等，10 月 16 日至今）。新增 2 条：卖家后台逐步强制通行密钥登录（亚马逊全球开店官方页，A 级）；有保质期商品可进中国 GWD 仓再补货美国 FBA（Seller Central 新闻 10/12 转贴，C 级）。欧洲附加费 2%、商业责任险、危险品问答、旺季履约费、多渠道工具、退货自定义评级等已在库内；欧洲 AWD 开放为 2 个月前旧公告，未入库；加拿大/墨西哥未发现新官方公告。链接复查 10 条：全部可达（200），失效 0；FBA 退货自定义评级条目由第三方转贴升级为美国论坛官方帖（C→B）；商业责任险条目补核实中国大陆卖家须走 AIA 一项；GPSR 帮助页未渲染出正文，沿用上次核对；修正 2 项。状态按日期自动更新：0 条。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "seller-central-passkey-required-2026-09-18",
+        "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号"
+      },
+      {
+        "id": "gwd-expiration-dated-2026-10-12",
+        "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "status": "完成",
     "finishedAt": "2026-10-23 06:08",

@@ -1,5 +1,48 @@
 [
   {
+    "id": "seller-central-passkey-required-2026-09-18",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200；亚马逊全球开店韩国官方页 2026-09-18：所有亚马逊账号（含 Seller Central、Amazon.com）逐步强制用通行密钥登录，密码仅用于找回，必须时间以各账号邮件和登录页提示为准；美国论坛 News_Amazon 6 月帖“Passkeys coming to Seller Central in July”写明“later in 2026 将对部分账号强制”。没有统一截止日，各账号日期未知。",
+    "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号",
+    "regions": [
+      "US",
+      "CA",
+      "MX",
+      "EU"
+    ],
+    "category": "账户与身份",
+    "status": "灰度推广",
+    "announced": "2026-09-18",
+    "effective": "2026-09-18",
+    "zh": "亚马逊全球开店官方页（2026-09-18）：亚马逊账号登录正逐步强制使用通行密钥（Passkey），适用于包括卖家平台和 Amazon.com 在内的所有亚马逊账号，具体强制时间通过各账号的通知邮件和登录页告知。被轮到的账号登录时会被要求设置或使用通行密钥；密码只保留用于账号找回，不能再用于登录。通行密钥是个人的，多人共用的账号需提前准备：所有访问账号的人都要在“用户权限”页被邀请为子用户（需要一个从未用于亚马逊账号的新邮箱），各自设置自己的通行密钥。建议在两台以上设备注册通行密钥；没有备用设备无法登录时，可向卖家支持提交身份证明，审核后会关闭通行密钥验证、下次登录重新设置。设置路径：卖家平台 → 设置 → 登录设置 → 通行密钥。",
+    "orig": "sell.amazon.co.kr, 2026/09/18（韩文原文意译）: “아마존 계정 로그인에 패스키가 순차적으로 필수로 적용되고 있습니다. 셀러 센트럴과 Amazon.com을 포함한 모든 아마존 계정에 적용되며…” “비밀번호는 복구용으로만 유지되며 로그인에는 사용할 수 없습니다.” News_Amazon (US forum, June 2026): “Passkeys are available to all sellers and will become required for some accounts later in 2026.”",
+    "plain": "这是啥：亚马逊正一个个账号地强制改成用通行密钥（指纹/面容/PIN）登录，轮到你后密码就不能登录了，只能拿来找回账号。\n跟你有没有关系：有，而且很直接。你有员工帮忙发货、建货件，如果大家共用你的主账号密码，轮到你那天他们就全都登不进去了。\n你要做的事：今天就在 设置 → 登录设置 里给主账号在两台设备上建通行密钥；给每个员工在“用户权限”里开子账号（要用没注册过亚马逊的新邮箱），只给他需要的权限，让他们各自建自己的通行密钥。",
+    "outlook": "主要服务亚马逊和消费者：防钓鱼、防账号被盗后改 listing、改收款账户，也减少多人共用账号带来的关联风险；对卖家是一次性麻烦。推测：之后亚马逊会更严格地把“谁在操作”落到具体子用户上，共用主账号的做法会越来越行不通。库内相关：《Seller Central 服务商访问要重新核验，授权 365 天》《品牌权限改用 Account ID，不再只用邮箱》《关联账户：先申诉责任账户》。",
+    "sourceName": "亚马逊全球开店（韩国）：아마존 계정 패스키 적용 안내（2026-09-18）",
+    "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/passkey-login-required"
+  },
+  {
+    "id": "gwd-expiration-dated-2026-10-12",
+    "sourceTier": "C",
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200；EHP Consulting 经亚马逊许可全文转贴 Seller Central News 2026-10-12 公告，365 天/180 天、深圳/上海/宁波、易融化和温度敏感商品不可入均与转贴一致；Seller Central 原文需登录，官方原文未找到公开页。宠物、玩具等类目及“维生素/补充剂除外”来自第三方媒体，原文只写“other eligible categories”。",
+    "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-12",
+    "effective": "2026-10-12",
+    "zh": "Seller Central 新闻（2026-10-12，经 EHP 转贴）：卖家现在可以把有保质期的商品存放在全球仓储配送（GWD），再补货到美国 FBA 运营中心。健康和个人护理、美妆、母婴或其他符合条件类目的卖家，可把剩余保质期在创建货件时 ≥365 天的有保质期商品送到深圳、上海或宁波的 GWD 仓；符合类目中部分商品（如易融化或温度敏感商品）不能存放。商品离开 GWD 时剩余保质期须 ≥180 天。可用自动或手动补货，与其他 GWD 库存一样管理。具体资格以“GWD 商品资格”页面为准。",
+    "orig": "Amazon Seller Central News, October 12, 2026 (repost): “You can now store products with expiration dates in Global Warehousing and Distribution (GWD) and replenish them to Fulfillment by Amazon (FBA) fulfillment centers in the US.” “…if they have 365 days or more of remaining shelf life when you create your shipment.” “When they leave GWD, products must have 180 days or more of remaining shelf life…”",
+    "plain": "这是啥：以前带保质期的货（美妆、个护、母婴等）不能进亚马逊在中国的 GWD 仓，现在可以了，但进仓时保质期至少还剩 1 年，从 GWD 补去美国 FBA 时至少还剩半年。\n跟你有没有关系：只有你卖带保质期的商品、又想先在国内囤货再慢慢补到美国时才有关系；没有保质期商品就无关。\n你要做的事：有这类货的，先在 GWD 发货流程里查具体 ASIN 能不能进；按销量算好进仓数量，别让货在 GWD 里放到保质期不足 180 天出不去。",
+    "outlook": "主要服务亚马逊：把更多类目的货留在中国仓，按需补到美国，减轻美国仓压力、多卖 GWD 仓储和物流服务；对中国卖家是省美国仓储费的选项。推测：后续会随 GWD 扩到英国、日本、欧洲、加拿大，这类保质期商品也会跟着开放。库内相关：《全球仓配扩展与一次送检试点》《美国 FBA 按品类分时段重新接收可融化库存》《2026 年旺季履约费：10 月 15 日至 1 月 14 日》。",
+    "sourceName": "EHP Consulting 转贴 Seller Central News：Store expiration-dated products in Global Warehousing and Distribution（2026-10-12）",
+    "sourceUrl": "https://ehpconsultinggroup.com/store-expiration-dated-products-in-global-warehousing-and-distribution/"
+  },
+  {
     "id": "eu-fbm-customs-identifiers-2026-11-01",
     "sourceTier": "A",
     "verifiedAt": "2026-10-23",
@@ -205,8 +248,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200；headless Chrome 渲染为 News_Amazon 官方帖，三档、25% 一日达、97% 准时送达、2027-01-06 宽限期均与原文一致；SFP 帮助页需登录未核"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；headless Chrome 渲染为 News_Amazon 官方帖，三档、25% 一日达、97% 准时送达、2027-01-06 宽限期均与原文一致；SFP 帮助页需登录未核"
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
@@ -227,8 +270,8 @@
     "sourceName": "Amazon 美国卖家论坛 News_Amazon：Get increased New Selection Program (2026) benefits starting July 30",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/137ef04f-3fb3-43da-a634-f2fce056048c",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200；headless Chrome 渲染为 News_Amazon 官方帖，7/30 生效、10/31 确认截止、10%/5% 抵扣、$50/$75、200 件 120 天减免均与原文一致；具体发帖日来自 PPC Land（第三方），未在官方页核实"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；headless Chrome 渲染为 News_Amazon 官方帖，7/30 生效、10/31 确认截止、10%/5% 抵扣、$50/$75、200 件 120 天减免均与原文一致；具体发帖日来自 PPC Land（第三方），未在官方页核实"
   },
   {
     "id": "business-discount-badge-2026-10-16",
@@ -287,11 +330,11 @@
     "orig": "Amazon FBA notice (reposted by a seller on SellersAskSellers): “You can now tell us how you want your Fulfillment by Amazon (FBA) customer returns evaluated for resale. With customized grading, you provide input on what ‘sellable as new’ means for your products and how returns that don’t meet your criteria are handled.” “ASINs that aren’t covered by a rule continue to use our default grading process.”",
     "plain": "这是啥：买家退回 FBA 仓的货，你可以自己定什么样还算「全新能卖」，什么样不算、怎么处理。\n跟你有没有关系：美国站 FBA 卖家都能用；不设就按亚马逊原来的标准判，不会变差。\n你要做的事：退货多、容易被误判的商品（比如拆了封但没用过），去「Customized grading」设置里写清楚标准；也可以全店一套规则或上传表格。",
     "outlook": "推测服务卖家和亚马逊：少把好货判成不可售，减少卖家损失和亚马逊处理成本；也服务消费者，买到的「全新」更靠谱。亚马逊只当参考，结果不一定完全照你的标准。库内相关：《FBA 部分退款可以按退货原因来设》《高退货率商品的退货处理费扩到服装鞋类以外》。",
-    "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Set your own grading criteria for FBA returns",
-    "sourceUrl": "https://sellersasksellers.com/t/set-your-own-grading-criteria-for-fba-returns/7633",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200（10-18 复查可达）；第三方论坛转贴官方通知，原文与转贴一致；官方页未公开可达"
+    "sourceName": "Seller Central 美国论坛官方公告：Customize how your FBA returns are graded for resale",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/731e6e69-5bfa-4a4f-9685-acb9da76153b",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24）；已从第三方转贴升级为美国卖家论坛官方公告帖（B 级），按类目/ASIN/CSV 设规则、翻新当新品或二手及二手价比例与原条目一致。"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -373,8 +416,8 @@
     "sourceName": "亚马逊全球开店（韩国）官方动态：11월 2일부터 확대되는 미국 상업 책임 보험 가입 의무（2026-09-18）",
     "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/us-liability-insurance-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；原 C 级第三方页可达；已换为亚马逊全球开店韩国官方页并升 A：11/2、100 万美元、1 万美元门槛保留、免赔≤1 万、附加被保险人均一致；中国大陆卖家须经 Insurance Accelerator 一项官方页未提，仍来自转述（MarketplaceMax 等）"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查）；韩国官方页 11/2、100 万美元、1 万美元门槛保留一致；中国大陆卖家 11/2 起新提交保单须经 Amazon Insurance Accelerator、之前已提交的合规保单可用到到期，已由美国卖家论坛官方帖 287d5c33 核实。"
   },
   {
     "id": "title-75",
@@ -459,8 +502,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200（10-18 复查可达）；加拿大帮助页，3.5%、4/17一致；MCF/BwP 5/2与0.17美元为第三方说法，页内无"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；加拿大帮助页 3.5%、4/17 一致；MCF/BwP 5/2 与 0.17 美元为第三方说法，页内无"
   },
   {
     "id": "eu-fees-2026",
@@ -562,8 +605,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200（10-18 复查可达）；About Amazon原文，70%/60%/45%/7国一致"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；About Amazon 原文，70%/60%/45% 一致"
   },
   {
     "id": "fba-export",
@@ -625,8 +668,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-18",
-    "verifyNote": "200（10-18 复查可达）；帮助页为Haul版；\"最长14个工作日\"来自论坛指引，帮助页未见"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；帮助页 JS 渲染，本次未渲染出正文，内容沿用 10-18 核对；\"最长14个工作日\"来自论坛指引，帮助页未见"
   },
   {
     "id": "ppwr",
@@ -665,8 +708,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；第三方追踪页仍含 INFORM、200 笔/5000 美元，与 INFORM 法一致；官方帖仍未找到"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；第三方追踪页仍含 INFORM、200 笔/5000 美元，与 INFORM 法一致；官方帖仍未找到"
   },
   {
     "id": "safe-t",
@@ -726,8 +769,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；追踪页仍含三项；黄金购物车去资格门槛一项已由墨西哥卖家论坛官方帖核实（2026 年 7 月起逐步取消、全球站点、2026 年底完成），因条目合并三项未换链接；处理时间与变体向导两项官方原文未找到"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；追踪页仍含三项；黄金购物车去资格门槛一项已由墨西哥卖家论坛官方帖核实（2026 年 7 月起逐步取消、全球站点、2026 年底完成），因条目合并三项未换链接；处理时间与变体向导两项官方原文未找到"
   },
   {
     "id": "us-apparel-ref-2024",
@@ -1184,8 +1227,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；官方 Accelerate 回顾页复查，SBA 最高 500 万美元仍在"
+    "verifiedAt": "2026-10-24",
+    "verifyNote": "200（10-24 复查可达）；官方 Accelerate 回顾页复查，SBA 最高 500 万美元仍在"
   },
   {
     "id": "ads-agent-2026",

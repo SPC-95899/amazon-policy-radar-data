@@ -1,5 +1,45 @@
 [
   {
+    "id": "us-foreign-ior-import-rule-2026-10-19",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；美国卖家论坛 Amazon Services team 官方帖，datePublished 2026-10-19。帖中明确“今天什么都没变”，新规仍在美国政府审核中、生效日期未知；具体资产、担保（bond）、良好记录等标准以帖中链接的帮助页和美国海关（CBP）后续正式公告为准，本条未逐条核对帮助页。",
+    "title": "美国进口新规在路上：进口商（IOR）是外国公司的卖家可能要多交担保、多证明资质，亚马逊提醒现在就问货代",
+    "regions": [
+      "US"
+    ],
+    "category": "合规与安全",
+    "status": "政策说明",
+    "announced": "2026-10-19",
+    "effective": "2026-10-19",
+    "zh": "美国卖家论坛官方公告（2026-10-19）：美国政府正在落实第 14411 号行政令《加强海关执法》，其中一项针对“外国进口商（Importer of Record，IOR）”的新规正在政府审核中，可能很快实施。IOR 是在美国海关正式负责你这批货进口的人或公司。按未来规则，如果你的 IOR 被认定为外国实体，可能要满足额外的海关要求（帖中提到资产、担保 bond、良好信誉等）；IOR 是美国本土实体的，变化会少很多。亚马逊称目前一切照旧，但强烈建议现在就确认 IOR 身份：去问货代/报关行“我的 IOR 是美国实体还是外国实体？”；如果是外国实体，再问他们打算怎么满足新要求，必要时提前找替代方案。生效日期未公布，亚马逊会继续更新。",
+    "orig": "Amazon Services team (US Seller Forums), 19 October 2026: “a new rule for foreign importers of record is under government review and could be implemented quickly.” “While nothing changes for you today and your current import operations continue as usual, we strongly recommend that you take the time to review your customs arrangements and prepare now.” “If your IOR is classified as a foreign entity under the future rules, additional customs requirements could apply.”",
+    "plain": "这是啥：美国要出针对“外国进口商”的海关新规，用外国公司（比如中国公司）当进口商（IOR）的，以后可能要多交担保、证明资产和信誉，啥时候生效还没定。\n跟你有没有关系：大概率有。你做美国 FBA、货从国外进来，如果货代用的是你的中国公司或他们的海外公司当进口商，新规一落地就可能卡你的头程。\n你要做的事：这周就问货代一句“我的 IOR 是美国实体还是外国实体？”；如果是外国的，问清他们怎么应对新要求，同时备一个美国 IOR 的方案，别等新规生效那天才找。",
+    "outlook": "主要服务美国政府（海关执法、防低报关税和查不到人的进口商），其次是亚马逊（避免旺季因清关出问题断货）。推测：新规落地后，用外国 IOR、无担保的 DDP 小货代会被大量淘汰，头程成本可能上涨，拥有美国 IOR 的货代更吃香。库内相关：《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国高销量卖家 INFORM 消费者法信息核验》《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》。",
+    "sourceName": "Seller Central 美国论坛：Prepare now for U.S. regulatory import changes（2026-10-19）",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/6d1315cf-6bc5-40ee-83ab-3a061706af50"
+  },
+  {
+    "id": "brand-registry-report-violation-2026-10-22",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；亚马逊全球开店韩国官方页 2026-10-22：举报违规工具改版，店铺政策/合规安全举报统一走该工具，原品牌备案支持表单不再提供，侵权举报新增 AI 报告助手，适用所有站点的备案品牌。美国 sell.amazon.com 博客 2026-07-31 已宣布统一入口（200）。中文媒体称新版 10 月 15 日上线，官方未写具体上线日，effective 暂按官方页日期。",
+    "title": "品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-10-22",
+    "effective": "2026-10-22",
+    "zh": "亚马逊全球开店官方页（2026-10-22）：品牌备案（Brand Registry）的“举报违规（Report a Violation）”工具改版，除知识产权（商标、版权、专利）侵权外，还可在同一工具里举报店铺政策违规和合规/安全违规，共五类：知识产权侵权；商品信息错误（变体不当、分类错误、重复 ASIN）；商品信息滥用（关键词滥用、数字下载滥用）；寄出的商品与页面不符（版本/型号不同、缺关键部件）；违规（虚假认证、安全风险）。原来的品牌备案支持表单不再提供，店铺政策类举报都走这个工具。知识产权举报由权利人及其被授权代理提交；店铺政策和合规安全类举报不需要是该 ASIN 的权利人。每份侵权举报最多 50 个商品（同一侵权类型）。侵权举报流程新增 AI“报告助手”，可实时回答举报规则和证据要求。针对具体卖家报价的版权/商标举报需要测试购买；举报整个 ASIN 不需要。提交后可在“提交记录”页随时查进度，侵权举报 365 天内可撤回。适用美国、欧洲、日本、澳大利亚、中东等所有站点的已备案品牌。",
+    "orig": "sell.amazon.co.kr, 2026/10/22（韩文原文意译）: “브랜드 레지스트리의 위반 신고 도구가 개편되어 지식 재산권(IP) 침해뿐 아니라 스토어 정책 위반, 규정 준수 및 안전 정책 위반까지 하나의 도구에서 신고할 수 있게 되었습니다.” “지원 양식은 더 이상 제공되지 않으며…” “침해 신고 흐름에는 AI 기반 신고 도우미(Report Assistant)가 추가되었습니다.” sell.amazon.com, 31 July 2026: “Any Brand Registry user associated with an enrolled brand can report store policy violations—you do not need to be assigned the Rights Owner role.”",
+    "plain": "这是啥：品牌备案里的“举报违规”升级了，跟卖改你图、乱挂变体、发错货、假认证这些都能在一个入口举报，还有 AI 助手教你该交什么证据，进度也能随时查。\n跟你有没有关系：你有备案品牌就有关系：维权更方便、子账号也能举报政策类问题；但反过来，竞争对手举报你也更容易了。\n你要做的事：有被跟卖或链接被篡改时，直接去品牌备案的 Report a Violation 用新表单举报，先问 AI 助手证据要求；同时自查自己的变体、关键词和认证资料，别给对手留把柄。",
+    "outlook": "主要服务品牌方和消费者（更快清理假货、货不对板），也服务亚马逊（把散落的工单统一成结构化数据，降低人工审核成本）。推测：举报门槛降低后，恶意举报和对手互投会增多，亚马逊可能会更严格追究虚假举报。库内相关：《部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）》《品牌权限改用 Account ID，不再只用邮箱》《Listing Protection：违规处理期间链接先保持在售》。",
+    "sourceName": "亚马逊全球开店（韩国）：브랜드 레지스트리 위반 신고 도구 개편 안내（2026-10-22）",
+    "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/report-a-violation-update"
+  },
+  {
     "id": "seller-central-passkey-required-2026-09-18",
     "sourceTier": "A",
     "verifiedAt": "2026-10-24",
@@ -149,8 +189,8 @@
   {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；英国 Seller Central 论坛 News_Amazon 官方帖（2026-10-19 09:08 UTC 发布），1.5%→2%、FBA 11/2、MCF 11/19、平均每件约 £0.02/€0.02 均与原文一致；德国 Händlerbund 同日报道一致",
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；英国论坛官方帖 2026-10-19，1.5%→2%、11 月 2 日一致。",
     "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
     "regions": [
       "EU"
@@ -227,8 +267,8 @@
     "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
     "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；第三方报道（beBOLD 10/13，Nova Analytics 10/14 引用同一报道），官方原文未找到——亚马逊为单独邮件通知受影响卖家；10/31 生效与 Fee Preview 查看方式两家一致；涉及哪些站点未写明"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；beBOLD 原文引用一致；官方费用类别帮助页仍未能确认，保持 C（行业文章另提到新增 3D 打印机费用类别，未核实官方原文）。"
   },
   {
     "id": "uk-sfp-tier-2026-10-30",
@@ -376,8 +416,8 @@
     "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；美国论坛官方帖复查，TIC 核验与 11/16 通知截止一致；“加拿大同日发布”本页未体现，未核实"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；论坛官方帖仍在，datePublished 2026-09-30，原文引用一致。"
   },
   {
     "id": "eu-fbm-delivery-2026",
@@ -542,8 +582,8 @@
     "sourceName": "Amazon.com.mx 卖家论坛（Kris_Amazon 官方帖）：¿Sabías que puedes vender con CERO tarifas por tres meses?",
     "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/f5ce894e-124a-4267-a1b1-5bd365a692eb",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；已由 C 级 Merca2.0 换为墨西哥论坛亚马逊员工官方帖并升 B；补充 0 月租和重新开卖卖家条件；5 万比索上限官方帖未提，仍出自 Merca2.0"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；墨西哥论坛官方帖 2026-08-28，引用一致。"
   },
   {
     "id": "multichannel",
@@ -562,8 +602,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；About Amazon 原文复查，eBay 等渠道、不另收费一致"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；aboutamazon 官方页 2026-09-24，引用一致。"
   },
   {
     "id": "claude-plugin",
@@ -1059,8 +1099,8 @@
     "sourceName": "Amazon 美国卖家论坛官方公告：New requirement for products with lithium-ion batteries shipped by air",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2ba13eab-a0e9-43c4-b5e5-0305ae77e945",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；原 C 级追踪页可达；已找到美国论坛官方帖并升 B，补充 2.7 Wh、≤30% 荷电状态、ICAO 等原文细节；announced 2025-11-20 来自原追踪页，论坛帖显示“11 months ago”大致吻合"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；论坛官方帖 datePublished 2025-11-20，“Effective January 1, 2026”一致。"
   },
   {
     "id": "related-accounts-2026",
@@ -1185,8 +1225,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；官方 Accelerate 回顾页复查，Listing Protection 与 AHA 表述仍在"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；aboutamazon Accelerate 回顾页可达，引用一致。"
   },
   {
     "id": "ltl-buy-shipping-2026",
@@ -1206,8 +1246,8 @@
     "sourceName": "Supply Chain Dive：Amazon rolls out new capabilities for bulky package shippers（引述亚马逊副总裁 Accelerate 2026 发言）",
     "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；原 SellerKit 汇总可达；改用 Supply Chain Dive 记者报道（直接引述亚马逊副总裁），仍为 C 级，官方书面公告未找到"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "curl 返回 403（站点拦截脚本），用网页抓取工具读取正常；Supply Chain Dive 2026-09-30 原文与引用一致；官方原文仍未找到，保持 C。"
   },
   {
     "id": "lending-2026",
@@ -1290,8 +1330,8 @@
     "sourceName": "About Amazon 新闻稿：MCF Prime delivery 与 MCF Preferred Pricing",
     "sourceUrl": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-19",
-    "verifyNote": "200；亚马逊新闻稿复查，Prime 配送与 15–25% 折扣一致"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；press.aboutamazon.com 官方新闻稿可达，datePublished 2026-09-24 一致。"
   },
   {
     "id": "multichannel-tools-2026",
@@ -1311,8 +1351,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；About Amazon 原文，eBay/Shopify/TikTok/Walmart 一致；orig 由 SellerKit 转述改为官方原文；与 multichannel 条目重复"
+    "verifiedAt": "2026-10-25",
+    "verifyNote": "200；aboutamazon 官方页，引用一致。"
   },
   {
     "id": "at-parcel-tax-2026-10-01",

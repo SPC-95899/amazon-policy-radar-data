@@ -210,8 +210,8 @@
   {
     "id": "us-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；美国 Seller Central 论坛 News_Amazon 官方帖（2026-10-15 19:47 UTC 发布），11/1–12/31 购买可退至 2027-01-31、苹果至 2027-01-15、FBA 和自发货均适用，与原文一致；10-19 运行时只见第三方报道，本次找到官方原文后入库",
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。",
     "title": "美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日",
     "regions": [
       "US"
@@ -231,8 +231,8 @@
   {
     "id": "us-fbm-prepaid-return-2026-12-18",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；第三方报道（PPC Land 2026-10-19，依据卖家收到的亚马逊邮件截图）；美国论坛有卖家 2026-10-19 贴出同一封 The Amazon Services team 邮件全文（discussions/t/b765c206-6f84-4baf-9388-3f33a614454c），内容一致；官方原文未找到——帮助页 G202072200（预付退货标签）目前还没写 12/18 新规；“大件重货”的定义和临时豁免截止日邮件未写明",
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，内容与库内一致（12/18 起、7 天、重货大件暂不含）。再次检索官方原文（Seller Central 论坛/帮助页）仍未找到，官方原文未找到，保留 C 级。",
     "title": "美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款",
     "regions": [
       "US"
@@ -520,8 +520,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；仅第三方追踪页，未找到官方原文，暂保留"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
   },
   {
     "id": "fuel-surcharge",
@@ -678,7 +678,7 @@
       "US"
     ],
     "category": "合规与安全",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-09-25",
     "effective": "2026-10-26",
     "zh": "SellerKit 记2026年9月25日：自2026年10月26日起，新建或编辑四类商品链接时要回答新的合规问题，用于识别危险品。四类是制冷器具、减震器与悬挂升高支撑、记号笔与书写工具、泳池与水疗水处理产品。站点记为美国。",
@@ -728,8 +728,8 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；帮助页包装要求一致；2025/40条例8/12适用日来自ppc.land，EUR-Lex本次未能打开"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
   },
   {
     "id": "inform",
@@ -768,8 +768,8 @@
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；已换为论坛官方帖，60→30天、2/16一致"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
   },
   {
     "id": "commingle",
@@ -1078,8 +1078,8 @@
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；帮助页，10/15–1/14一致"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
   },
   {
     "id": "lithium-air-2026",
@@ -1120,8 +1120,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；仅第三方追踪页，官方原文未找到"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
   },
   {
     "id": "account-id-roles",
@@ -1183,8 +1183,8 @@
     "sourceName": "Seller Magnet（引用泛欧 FBA 帮助页）",
     "sourceUrl": "https://blog.sellermagnet.com/post/amazon-pan-european-fba-2026/en",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；第三方博客引帮助页，9/3与比利时2027/2/26；官方帮助页未公开可达"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
   },
   {
     "id": "bundles-2027",
@@ -1309,8 +1309,8 @@
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200；Amazon Ads 官方页，2026 年 11 月与 2027 年 1 月一致；orig 由 SellerKit 转述改为官方原文；11/01 仅表示 11 月"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
   },
   {
     "id": "mcf-prime-2026",
@@ -1414,8 +1414,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-20",
-    "verifyNote": "200（2026-10-20 复查可达）；关键内容与原文一致；论坛官方帖，9/1、365天一致"
+    "verifiedAt": "2026-10-26",
+    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
   },
   {
     "id": "fba-partial-refund-2026-10-13",

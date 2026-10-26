@@ -1,5 +1,46 @@
 [
   {
+    "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "headless Chrome 渲染 sellercentral.amazon.ie 帮助页（Changes to programme policies）成功，原文与引用一致。官方页面未标注这条公告的发布日期，announced 暂取首次公开报道日（SellerMagnet 2026-10-24），实际发布可能更早；“2025-10-06 起 8 国已适用 14 天”出自 SellerMagnet，未在官方页核对。",
+    "title": "欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）",
+    "regions": [
+      "EU",
+      "UK"
+    ],
+    "category": "FBA与物流",
+    "status": "即将生效",
+    "announced": "2026-10-24",
+    "effective": "2026-10-28",
+    "zh": "亚马逊欧洲「计划政策变更」页：为腾出仓库空间、帮卖家省仓储费，亚马逊更新 FBA 库存强制移除政策。从 2026 年 10 月 28 日起，在英国、德国、法国、意大利、西班牙、瑞典、波兰、荷兰、比利时和爱尔兰，如果你没有开启「不可售库存自动设置」（automated unfulfillable settings），亚马逊会在发出通知 14 天后销毁或捐赠你的不可售库存。想避免被处理，可以手动创建移除订单，或把自动设置配置为「清算（Liquidate，回收部分价值）」或「退回（Return，寄到你的退货地址或第三方货代）」。",
+    "orig": "Amazon Seller Central (EU/UK), Changes to programme policies: “Starting October 28, 2026, if you haven't enabled automated unfulfillable settings in the United Kingdom, Germany, France, Italy, Spain, Sweden, Poland, the Netherlands, Belgium, and Ireland, we will dispose of or donate unfulfillable inventory after 14 days' notice.” “To avoid disposal, you can create a manual removal order or configure automated unfulfillable settings to: Liquidate to recover some value; Return to have inventory sent to your return-to address or a third-party freight forwarder.”",
+    "plain": "这是啥：在欧洲 10 个站（英德法意西瑞波荷比爱），你仓里坏了、不能卖的货，如果没提前设好怎么处理，亚马逊发通知后只等 14 天，然后直接销毁或捐掉。\n跟你有没有关系：做欧洲 FBA 就有关系，尤其货在比利时、爱尔兰的；不管就等于默认让亚马逊替你扔货。\n你要做的事：10 月 28 日前去后台「设置 → 亚马逊物流 → 不可售库存自动设置」，选退回（填对英国和欧盟的退货地址）或清算；想留的货，收到通知就马上建移除订单。",
+    "outlook": "主要服务亚马逊（腾出仓库空间、旺季减少压仓），其次是卖家（官方说法是帮省仓储费）。推测：14 天窗口很短，很多卖家会被动丢货，后续可能有更多国家或更短时限；也可能和退货分级、翻新项目配合，把能救的货导去清算或翻新。库内相关：《FBA 退货可以自己定「算不算全新」的标准》《FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖》《泛欧 FBA：必须有有效的荷兰报价》。",
+    "sourceName": "Seller Central 欧洲帮助页：Changes to programme policies（Updates to the FBA inventory required removals policy）",
+    "sourceUrl": "https://sellercentral.amazon.ie/help/hub/reference/external/GQHQGBTD7XB7EECN"
+  },
+  {
+    "id": "us-bfcm-deal-deadline-extended-2026-10-22",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；美国卖家论坛 News_Amazon 官方帖，datePublished 2026-10-22。帖中只写明 Prime 专享折扣（PED）的创建路径，没明确说秒杀（Lightning Deal）和 Best Deal 是否也能报到 11 月 13 日；入仓截止日期未改。加拿大站官方假日帖原本就写 11 月 13 日截止，不受此影响。",
+    "title": "美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日：还能补报，但入仓截止没延",
+    "regions": [
+      "US"
+    ],
+    "category": "广告",
+    "status": "已生效",
+    "announced": "2026-10-22",
+    "effective": "2026-10-22",
+    "zh": "美国卖家论坛官方公告（News_Amazon，2026-10-22）：黑五和网一的促销提报窗口（deal sourcing window）延长到 11 月 13 日（原定 10 月 20 日截止）。亚马逊提醒：① 确保 FBA 库存在各活动的入仓截止日前到仓，详见 Q4 2026 旺季备战手册；② 提报仍开放，创建 Prime 专享折扣：后台「广告 → 价格折扣 → 创建价格折扣」，下拉选「活动（Events）」，再进入第二步添加商品；③ 尽早开广告，让促销商品提前积累流量。",
+    "orig": "News_Amazon (US Seller Forums), 22 October 2026: “The deal sourcing window for Black Friday and Cyber Monday has been extended to November 13, giving you more time to prepare for this sales event.” “Ship your inventory: Ensure your FBA inventory arrives at fulfillment centers ahead of each sales event's cutoff date.” “To create Prime Exclusive Discounts (PEDs) in Seller Central, go to Advertising and select Price Discounts. Click Create a price discount and select Events from the drop-down menu…”",
+    "plain": "这是啥：美国站黑五网一的促销报名，从 10 月 20 日截止延到 11 月 13 日，没赶上的还能补报。\n跟你有没有关系：有，美国站想参加黑五网一的都能用；但延的只是报名，入仓截止没延，仓里没货报了也白报。\n你要做的事：先查 FBA 在库加在途够不够卖，再在 11 月 13 日前去「广告 → 价格折扣 → 创建价格折扣 → 活动」报 Prime 专享折扣；秒杀和 Best Deal 能不能报以后台 Deals 页面为准，同时提前开广告。",
+    "outlook": "主要服务亚马逊（多拉卖家报活动、撑旺季促销数量和消费者看到的折扣），其次是卖家（多一次补救机会）。推测：延期可能说明报名数量没达预期；货不够的卖家报了容易断货，影响排名。库内相关：《2026 年旺季履约费：10 月 15 日至 1 月 14 日》《美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日》《广告侧 Review Requests：2026 年 11 月邀请已验证买家评分》。",
+    "sourceName": "Seller Central 美国论坛：Black Friday Cyber Monday deals deadline extended to November 13（2026-10-22）",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/18142cfc-2700-4fb5-974a-dae42a2f241a"
+  },
+  {
     "id": "us-foreign-ior-import-rule-2026-10-19",
     "sourceTier": "B",
     "verifiedAt": "2026-10-25",
@@ -126,8 +167,8 @@
   {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；英国 Seller Central 论坛 News_Amazon 官方帖（2026-10-20 17:40 UTC 发布，即北京时间 10-21 01:40），中文内容与原文一致；参与认证机构名单和可用品类在 Seller Central 项目页（需登录），未核实；亚马逊 2024-10 曾在论坛宣布同名项目（当时列出婴幼儿用品、电子产品、手工艺品、窗帘类），这次是明确可用于欧盟",
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。",
     "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
     "regions": [
       "EU"
@@ -154,7 +195,7 @@
       "US"
     ],
     "category": "账户与身份",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-13",
     "effective": "2026-10-27",
     "dateNote": "2026-10-13 是论坛上最早有卖家贴出这类通知的日期，通知本身的发送日期各账户不同（多为 10-13 至 10-15）；10-27 是多数通知写的下架日，个别报道写 10-27 或 10-28。",
@@ -394,8 +435,8 @@
     "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查美国卖家论坛 News_Amazon 官方帖（2026-06-30 发布）：90%、滚动14天、9/30 通知、10/30 起可能对企业买家下架自发货报价、FBA 不受影响、三件工具保证达标均一致"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "li-device-tic-2026-09-30",
@@ -480,8 +521,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Answers to your product title update questions",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/302aaac6-6f2b-4d86-bcd2-36fe24f0e6cd",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查：由第三方转载（seller-forum.com）升级为美国卖家论坛 News_Amazon 官方帖（2026-07-29 发布），75/125字符、8月10日显示、14天品牌审核、9.84亿条均与原文一致；6月10日这个公布日期本帖只写“2026年6月”，未在本帖核实"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "ai-people-tag",
@@ -829,8 +870,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：17%→5%（<$15）、17%→10%（$15–20）、2024-01-15 均一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-sipp-2024",
@@ -870,8 +911,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：平均 $0.27/$1.58、2024-03-01 起、收货后45天收取均一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-low-inventory-2024",
@@ -890,8 +931,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：2024-04-01 起、超过四周库存可避开均一致；豁免天数公告未写，仍以帮助页为准；7条共用同一公告链接"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-storage-2024",
@@ -930,8 +971,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：标准件 -$0.20、大件 -$0.61、2024-04-15、低于$10 另有 $0.77 折扣均一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-returns-fee-2024",
@@ -992,8 +1033,8 @@
     "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2024-11-19 公告：不涨推荐费和 FBA 费、不新增费种、大件少分仓入库配置费平均 -$0.58（2025-01-15）、新父 ASIN 前100件豁免（2024-12-01 至 2025-03-31 货件）均一致"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-fees-2026",
@@ -1013,8 +1054,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200（headless Chrome 渲染）；10-21 复查帮助页 201411300：平均 +$0.08/件、2026-01-15 生效、至少提前90天、$10–50 小号标准件 +$0.25、大号标准件 +$0.05 均一致；公布日 2025-10-15 帮助页未印，仍来自追踪记载"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "us-coupon-cap-2025",
@@ -1034,8 +1075,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200（headless Chrome 渲染）；10-21 复查帮助页 201411300：单券可变费用封顶 $2000、2025-11-05 及之后创建的优惠券均一致"
+    "verifiedAt": "2026-10-27",
+    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-10-27 复查，原文引用与关键日期/数字一致。"
   },
   {
     "id": "ca-fees-2026",

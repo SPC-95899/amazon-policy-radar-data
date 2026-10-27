@@ -10,7 +10,7 @@
       "UK"
     ],
     "category": "FBA与物流",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-24",
     "effective": "2026-10-28",
     "zh": "亚马逊欧洲「计划政策变更」页：为腾出仓库空间、帮卖家省仓储费，亚马逊更新 FBA 库存强制移除政策。从 2026 年 10 月 28 日起，在英国、德国、法国、意大利、西班牙、瑞典、波兰、荷兰、比利时和爱尔兰，如果你没有开启「不可售库存自动设置」（automated unfulfillable settings），亚马逊会在发出通知 14 天后销毁或捐赠你的不可售库存。想避免被处理，可以手动创建移除订单，或把自动设置配置为「清算（Liquidate，回收部分价值）」或「退回（Return，寄到你的退货地址或第三方货代）」。",
@@ -188,8 +188,8 @@
   {
     "id": "us-nwd-brand-rep-2026-10-27",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；美国卖家论坛卖家帖（2026-10-13 起），多名卖家引用的亚马逊绩效通知原句一致；亚马逊版主 Roberto_Amazon 在帖内回复确认多名品牌所有者/代表收到同一 NWD 通知，并称“有效 Brand Representative 角色的卖家不受 NWD 下架日影响”（2026-10-20 回复）；EcomCrew 2026-10-18 报道称通知约 10-14 发出；官方公开公告和帮助页未找到；哪些品牌被列入、是否全站、具体下架日期（多数通知写 10-27，个别报道写 10-27 或 10-28）以各自账户通知为准",
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：论坛帖 HTTP 200，卖家转述的通知原文与 orig 一致；亚马逊官方公告原文仍未找到，保留 C 级。",
     "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）",
     "regions": [
       "US"
@@ -209,8 +209,8 @@
   {
     "id": "us-restore-to-new-2026-10-21",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；SellersAskSellers 卖家转贴的亚马逊 FBA 团队邮件（邮件日期 2026-09-21，帖子 2026-09-23）；Treecat 2026-09-22 报道内容一致（10-21、改名、70%、$1.50–$4.10）；官方公开页未找到（帮助页需登录）；新增可翻新的具体品类未核实。公告早于本次检索窗口，但今天正式生效且库内没有，所以补录",
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：SellersAskSellers 转贴 HTTP 200，10 月 21 日改名扩容内容与 orig 一致；官方原文仍未找到，保留 C 级。",
     "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖",
     "regions": [
       "US"
@@ -372,8 +372,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
     "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；第三方论坛转贴官方 Business 通知原文，5%/2%/数量折扣3%与去星要求一致；官方公开页未找到"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：SellersAskSellers 转贴 HTTP 200，徽章规则与 orig 一致；官方原文仍未找到，保留 C 级。"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -541,8 +541,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；卖家论坛官方帖可打开；contains-synthetic-performer、全球站点表述与条目一致"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：论坛官方帖 HTTP 200，IPTC 关键词 contains-synthetic-performer 要求与条目一致。"
   },
   {
     "id": "tic-direct",
@@ -991,8 +991,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-21",
-    "verifyNote": "200；10-21 复查官方 Selling Partners 2023-12-05 费用公告：仅同类退货率最高的商品、2024-06-01、服装鞋类原费用平均不变均一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：官方页 HTTP 200，“highest return rates…starting June 1, 2024”与 orig 一致。"
   },
   {
     "id": "bundles-consumable-2024",
@@ -1012,8 +1012,8 @@
     "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 原C级selleressentials链接403 Forbidden；已替换为卖家论坛官方帖并升B；2024-10-14、grocery/pet/baby/health&beauty、须原厂品牌方打包一致"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：论坛官方帖 HTTP 200，2024 年 10 月 14 日原厂捆绑要求与 orig 一致。"
   },
   {
     "id": "us-fees-2025",
@@ -1182,8 +1182,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；仍为第三方追踪页；Account ID、7/29生效、8/5公告与追踪表一致；官方原文未找到"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：Autopilot 追踪页 HTTP 200，日期与引用一致；官方原文仍未找到，保留 C 级。"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -1245,8 +1245,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；卖家论坛官方帖；January 11, 2027、原厂包装要求与条目一致"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：论坛 News_Amazon 官方帖 HTTP 200，“Effective January 11, 2027”与条目一致。"
   },
   {
     "id": "listing-protection-2026",
@@ -1329,8 +1329,8 @@
     "sourceName": "SellerKit FBA Updates",
     "sourceUrl": "https://sellerkit.me/fba-updates",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；sellerkit 汇总页可打开；全漏斗广告/DVA+表述仍在，未发现与条目冲突的新数字"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：SellerKit 页 HTTP 200，DVA+ 相关内容仍在；官方原文仍未找到，保留 C 级。"
   },
   {
     "id": "review-requests-2026",
@@ -1413,8 +1413,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；奥地利财政部英文页确认自2026-10-01起每包裹EUR 2（或按订单）；平台视为视同供应商；条目中€2.40含税来自公开报道，原文页写EUR 2"
+    "verifiedAt": "2026-10-28",
+    "verifyNote": "10/28 复查：奥地利财政部页 HTTP 200，“2026 年 10 月 1 日起每包裹 EUR 2”与条目一致。"
   },
   {
     "id": "fba-meltable-2026-08-31",

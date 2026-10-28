@@ -1,5 +1,49 @@
 [
   {
+    "id": "eu-uk-fba-returnless-resolutions-2026-10-27",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200；官方论坛 News_Amazon 帖，页面 datePublished=2026-10-27T06:07Z；五国、€1–€75/£1–£75 价格上限、不赔库存、计入退货率但不收高退货率费均与原文一致；帖子未写单独生效日，按“now available”记为发帖日",
+    "title": "欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-27",
+    "effective": "2026-10-27",
+    "zh": "亚马逊在德国、法国、意大利、西班牙、英国站开放 FBA Returnless Resolutions（退款不退货）。卖家报名后，符合条件的退货直接给买家退款、商品留在买家手里，省掉退货处理、仓储和移除费用。设置路径：卖家后台 设置 → 亚马逊物流 → FBA returns evaluation & ownership settings；可按商品最高售价开启（€1.00–€75.00，英国站 £1.00–£75.00），对全部 ASIN 开（可上传 CSV 排除清单）或只对选定 ASIN 开。每笔退货单独评估，符合条件自动退款。结果在 FBA Returns 报告的 Return status 列查看。注意：这类退款不能申请库存赔偿，并且计入退货率；但不收高退货率费用。",
+    "orig": "News_Amazon (UK Seller Forums, 27 Oct 2026): “FBA Returnless Resolutions is now available in our Germany, France, Italy, Spain and UK stores. When you enrol, eligible returns are resolved by refunding the customer and letting them keep the item…” “you can enable Returnless Resolutions by maximum item price (€1.00–€75.00; £1.00–£75.00 on Amazon.co.uk) for all ASINs with an optional CSV exclusion list or for selected ASINs.” “Returns resolved with Returnless Resolutions aren’t eligible for inventory reimbursement, and returnless resolutions count toward your return rate. However, the high return rate fee isn’t charged for returns resolved this way.”",
+    "plain": "这是啥：欧洲五国（德法意西英）的 FBA 卖家现在可以开「退款不退货」：便宜货被退时，亚马逊直接退钱给买家，东西不用寄回仓库。\n跟你有没有关系：只影响在德法意西英做 FBA 的卖家；只做美国站的你这次不受影响。\n你要做的事：做欧洲站的，挑出单价低、寄回来也卖不了的商品，在 FBA 退货设置里按价格上限（最高 75 欧/英镑）开启；注意它会算进退货率，也不能再申请赔偿。",
+    "outlook": "服务对象：主要是亚马逊（少收一次退货、少占仓库）和消费者（退款更快、不用跑去寄件），其次是卖家（低价货省下退回、仓储、移除的钱）。推测：开了以后退货率数字可能上升，亚马逊之后可能会把这类选项和退货处理费、高退货率费更紧地绑在一起。库内相关：《FBA 部分退款可以按退货原因来设》《FBA 退货可以自己定「算不算全新」的标准》《欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）》《高退货率商品的退货处理费扩到服装鞋类以外》。",
+    "sourceName": "Amazon 英国卖家论坛 News_Amazon：Save on returns with FBA Returnless Resolutions",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/539b7501-0467-4103-847a-8321b3728eb4",
+    "dateNote": "英国站论坛 News_Amazon 于 2026-10-27 发帖称“now available”，未另写生效日。只覆盖德国、法国、意大利、西班牙、英国站；美国站同名功能是更早的旧公告，不在本条范围。"
+  },
+  {
+    "id": "eu-uk-avtr-anytime-2026-11-03",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200；英国站论坛官方帖，页面 datePublished=2026-10-26T07:41Z，11/3 起、请求截至请求日前 3 天、两个新列均与原文一致；比利时站论坛有法语同文帖；SP-API 官方公告（developer.amazonservices.com，A 级）佐证内容并说明分批开通，但未写 11/3 日期，故以论坛帖为来源",
+    "title": "欧洲 VAT 交易报告（AVTR）11 月 3 日起月中随时可下，不用再等下月 3 号，还多两列",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "税务与包装",
+    "status": "即将生效",
+    "announced": "2026-10-26",
+    "effective": "2026-11-03",
+    "zh": "从 2026 年 11 月 3 日起，卖家可以在当月任何时间查看和申请亚马逊 VAT 交易报告（AVTR），数据最多到申请日前三天，不用再等到下个月 3 号。同一时间段如果有新数据进来，可以重新申请拿到最新版本。报告新增两列：TRANSACTION_UPDATED_DATE（这笔交易最后更新日期，用来找出上次下载后新增或改动的记录）、GOV_INVOICE_ID（政府分配的电子发票号，目前只有波兰 KSeF 交易有值，以后会加更多国家）。",
+    "orig": "Amazon UK Seller Forums (26 Oct 2026): “Starting 3 November 2026, you can view your Amazon VAT Transactions Report (AVTR) during the month, instead of waiting until the third of the following month.” “You can request a report at any point during the month, for up to three days before your request date.” “A new TRANSACTION_UPDATED_DATE column… A new GOV_INVOICE_ID column shows the government-assigned e-invoice number. This column is only populated for Poland (KSeF) transactions.” SP-API notice: “The change rolls out in phases. Your sellers are enabled over time.”",
+    "plain": "这是啥：欧洲站的 VAT 交易报告以后月中就能随时下，数据只晚 3 天，还多了“最后更新日期”和“电子发票号”两列。\n跟你有没有关系：只影响在英国、欧盟站卖货、要报 VAT 的卖家；只做美国站的不用管。\n你要做的事：做欧洲站的，告诉会计或税务代理 11 月 3 日后可以月中先对账；报表多两列，用 Excel 或软件自动读表的先确认不会出错，月底再下一次最新版再报税。",
+    "outlook": "服务对象：主要是各国税务机关（数据更及时，配合波兰 KSeF 等电子发票制度），其次是卖家和税务代理（对账更早、不用月初挤着弄）。推测：GOV_INVOICE_ID 以后会扩到更多推行电子发票的欧盟国家，报表可能越来越像实时税务数据。库内相关：《奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税》《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》。",
+    "sourceName": "Amazon 英国卖家论坛：Access your VAT Transactions Report anytime",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/b3cca27a-670d-4afe-939f-88caad7fd563",
+    "dateNote": "英国站论坛 2026-10-26 发帖，写明 2026-11-03 起。SP-API 公告说是分批给卖家开通，个别账号可能晚于 11/3 才看到。"
+  },
+  {
     "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
     "sourceTier": "A",
     "verifiedAt": "2026-10-27",
@@ -126,8 +170,8 @@
   {
     "id": "eu-fbm-customs-identifiers-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200；SP-API 官方更新日志 2026-10-21（AntonioM_Amazon）写明 11 月 1 日起欧盟海关要求欧盟外直发 B2C 商品提供产品识别码，适用所有欧盟站、自发货；面向开发者的说明，卖家后台是否另有公告未找到。",
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；SP-API 公告仍含 November 1, 2026、NS-PID/S-PID，与条目一致",
     "title": "欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）",
     "regions": [
       "EU"
@@ -146,8 +190,8 @@
   {
     "id": "eu-handling-fee-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200；欧盟委员会税务与海关总司 EU Customs Reform 官方页 2026-10-07 动态写明 11 月 1 日起征收 2 欧元联盟手续费，金额由委托法规 C(2026)6694 确定；荷兰海关页（douane.nl）同样写 €2/申报行、预计 11/1 生效（今天该链接返回 404，未作主来源）；亚马逊自己如何对英国远程配送订单代收此费用，官方公开说明未找到。",
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；页面仍有 2 欧元手续费与日期表述，与条目一致",
     "title": "欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费",
     "regions": [
       "EU"
@@ -334,7 +378,7 @@
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
-    "title": "新品入仓计划（2026）：老会员须在 10 月 31 日前确认加入才能继续拿费用抵扣",
+    "title": "新品入仓计划（2026）：报名窗口延长到 2027 年 3 月 31 日（原 10 月 31 日确认节点之后仍可报名）",
     "regions": [
       "US",
       "EU"
@@ -343,16 +387,16 @@
     "status": "已生效",
     "announced": "2026-06-17",
     "effective": "2026-07-30",
-    "dateNote": "官方论坛帖未显示具体发帖日（核对时显示“4 months ago”）；PPC Land 报道写 2026-06-17 起即可报名，按此记为公布日。新计划 2026-07-30 生效；旧计划会员的自动过渡优惠只到 2026-10-31，之后须手动确认加入。英国站论坛有同样公告（英镑金额不同），未核对加拿大和墨西哥。",
-    "zh": "亚马逊通知：新版 New Selection Program（2026）自 2026 年 7 月 30 日起生效，旧版计划同日结束。原来已加入旧计划的卖家，7 月 30 日至 10 月 31 日新上架的品牌 FBA ASIN 自动享受新版福利（过渡优惠）；10 月 31 日之后想继续享受，必须在「Enroll in New Selection Program (2026)」页面确认加入。新品福利（从首次入库日起算）：前 100 件按佣金封顶 10%、后 100 件封顶 5%（或你原费率更低者）给即时费用抵扣，抵扣可用于佣金和配送费等主要费用；60 天内可用 50 美元优惠券可变费用抵扣和 75 美元 Vine 报名费抵扣；前 200 件在 120 天内免仓储费、免买家退货费、免清货费；前 200 件 120 天内免低库存水平费和仓储利用率附加费；用 Vine 预上市服务再延长 45 天。不能和新卖家激励叠加，两者都符合时先用新卖家激励。英国站同样适用（优惠券抵扣 40 英镑、Vine 抵扣 60 英镑，英德法意西各站分开计算）。",
-    "orig": "News_Amazon (US Seller Forums): “Effective July 30, 2026, the New Selection Program (2026) launches with increased benefits…” “If you’re currently enrolled in our existing New Selection Program, you’ll automatically receive New Selection Program (2026) benefits for new branded FBA ASINs that launch starting July 30, through October 31, 2026, as an introductory offer.” “To continue to receive New Selection Program (2026) benefits after October 31, you must confirm your enrollment on Enroll in New Selection Program (2026).” “Instant fee credits equivalent to capping referral fees to 10%… on your first 100 units and 5%… on the next 100 units.” “Free storage, free customer returns, free liquidations on your first 200 units for the first 120 days.”",
-    "plain": "这是啥：亚马逊给新品的入仓优惠换成了 2026 新版，老会员 10 月 31 日之前是自动享受，过了这天不去点“确认加入”，以后新上架的品牌新品就拿不到佣金抵扣、免仓储费等优惠。\n跟你有没有关系：只要你原来参加过旧版新品计划、今年 11 月以后还打算发新品进 FBA，就有关系，而且有截止日；已经享受中的老 ASIN 不会被收回。\n你要做的事：10 月 31 日前登录卖家后台，打开「Enroll in New Selection Program (2026)」页面确认加入；英国、欧洲站各自单独确认。",
-    "outlook": "推测主要服务亚马逊：用前 200 件的费用减免吸引品牌卖家多上新品、走 FBA 和 Vine；对卖家是真实省钱，但抵扣比旧版略有收紧（论坛卖家指出免费退货、清货期从 180 天缩到 120 天）。库内相关：《墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索》《2026 年美国 FBA 费平均每件上调约 0.08 美元》《美国标准件低库存水平费》。",
-    "sourceName": "Amazon 美国卖家论坛 News_Amazon：Get increased New Selection Program (2026) benefits starting July 30",
-    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/137ef04f-3fb3-43da-a634-f2fce056048c",
+    "dateNote": "计划本身 2026-07-30 生效（原帖公布日按 PPC Land 记为 2026-06-17）。2026-10-28 美国站论坛新帖（datePublished 2026-10-28T10:47Z）宣布把 2026 版报名窗口延长到 2027-03-31；英国站有同类公告（据 SellerTrack 线索，未逐字核对）。新帖未说明老会员“自动过渡优惠到 10/31”的安排是否变化。未核对加拿大和墨西哥。",
+    "zh": "新版 New Selection Program（2026）自 2026 年 7 月 30 日起生效。2026 年 10 月 28 日亚马逊宣布：2026 版的报名窗口延长到 2027 年 3 月 31 日，卖家可以在此之前报名，为新的品牌商品拿福利。原来已加入旧计划的卖家，7 月 30 日至 10 月 31 日新上架的品牌 FBA ASIN 自动享受新版福利（过渡优惠），之后想继续享受须在「Enroll in New Selection Program (2026)」页面确认加入（新帖未说这一点有变）。新品福利（首次入库起算）：前 100 件佣金封顶 10%、后 100 件封顶 5% 的费用抵扣；前 200 件 120 天内免仓储费、免买家退货费、免清货费，并免低库存水平费和仓储利用率附加费；上架可售后 60 天内可用 50 美元优惠券可变费用抵扣和 75 美元 Vine 报名费抵扣。不能和新卖家激励叠加。英国站同样适用（优惠券抵扣 40 英镑、Vine 抵扣 60 英镑，英德法意西各站分开计算）。",
+    "orig": "News (US Seller Forums, 28 Oct 2026): “We've extended the enrollment window for the Fulfillment by Amazon (FBA) New Selection Program 2026 to March 31, 2027, so you have time to enroll and take advantage of benefits on new branded products.” “Fee credits that cap referral fees to 10% on your first 100 units and 5% on the next 100 units” “Free storage, free customer returns, and free liquidations on your first 200 units for 120 days” “$50 in coupon variable fee credits and $75 in Vine enrollment fee credits, usable within the first 60 days of listing a buyable offer” “New Selection Program 2026 benefits can't be combined with New Seller Incentives.” Earlier post (https://sellercentral.amazon.com/seller-forums/discussions/t/137ef04f-3fb3-43da-a634-f2fce056048c): “To continue to receive New Selection Program (2026) benefits after October 31, you must confirm your enrollment on Enroll in New Selection Program (2026).”",
+    "plain": "这是啥：亚马逊给新品的入仓优惠（佣金抵扣、前 200 件 120 天免仓储费等）报名期延长了，2027 年 3 月 31 日前都能报。\n跟你有没有关系：只要你接下来还要往美国 FBA 发品牌新品就有关系；10 月 31 日不再是“最后机会”，但不报名就拿不到优惠。\n你要做的事：还没确认加入的，抽空去后台「Enroll in New Selection Program (2026)」点报名，最好在发新品入仓之前办好；英国、欧洲站各自单独报。",
+    "outlook": "推测主要服务亚马逊：用前 200 件的费用减免吸引品牌卖家多上新品、走 FBA 和 Vine；对卖家是真实省钱，但抵扣比旧版略有收紧（论坛卖家指出免费退货、清货期从 180 天缩到 120 天）。库内相关：《墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索》《2026 年美国 FBA 费平均每件上调约 0.08 美元》《美国标准件低库存水平费》。推测：10 月底截止前延期，说明报名人数可能没达预期，亚马逊希望明年 Q1 继续拉新品进 FBA。库内相关另见：《FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖》。",
+    "sourceName": "Amazon 美国卖家论坛：Enroll in New Selection Program 2026 by March 31",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/0350c06a-2b11-4a24-b489-f608fb83fc47",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；headless Chrome 渲染为 News_Amazon 官方帖，7/30 生效、10/31 确认截止、10%/5% 抵扣、$50/$75、200 件 120 天减免均与原文一致；具体发帖日来自 PPC Land（第三方），未在官方页核实"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200；新帖 datePublished=2026-10-28T10:47Z，3/31/2027 截止、10%/5%、200 件 120 天、$50/$75 均与原文一致；旧帖（10/31 确认节点）链接见 orig；旧计划公布日 06-17 来自 PPC Land，未在官方页核实"
   },
   {
     "id": "business-discount-badge-2026-10-16",
@@ -393,8 +437,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
     "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；第三方论坛转贴官方FBA通知，日期10/28、11/10、11/11与原文一致；官方页未公开可达"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；第三方论坛转贴，11/10 审核、11/11 上架与条目一致；官方原文仍未找到公开页，保留 C 级"
   },
   {
     "id": "fba-return-grading-2026-10-14",
@@ -477,8 +521,8 @@
     "sourceName": "Amazon SP-API Changelog：EU FBM Requirements",
     "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；SP-API官方changelog，7/15、9/1、9/30、€150 IOSS一致；补公布日2026-07-01"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；SP-API 公告仍含 July 15 / September 1, 2026 与 90%，与条目一致"
   },
   {
     "id": "ins-2026-11-02",
@@ -663,8 +707,8 @@
     "sourceName": "GeekWire",
     "sourceUrl": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；GeekWire原文可打开；Claude插件/卖家工具对外开放表述与条目一致；仍为C"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；GeekWire 报道仍可达，Claude/beta 表述一致；官方公开原文未找到（论坛帖为登录区外摘要），保留 C 级"
   },
   {
     "id": "gwd-compliance",
@@ -729,8 +773,8 @@
     "sourceName": "Amazon Seller Forums：New compliance questions for dangerous goods listings apply October 26",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；卖家论坛News_Amazon帖；Starting October 26, 2026与四类危险品问题一致"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；官方论坛帖仍含 October 26, 2026 与四类商品，与条目一致"
   },
   {
     "id": "gpsr",
@@ -829,8 +873,8 @@
     "sourceName": "Amazon Seller Forums：Commingling practices will end effective March 31, 2026",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/106d0747-e5c6-44d8-86f3-7669f11238fe",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；卖家论坛官方帖可打开；混储结束/转售商贴码要求与条目一致"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；官方论坛帖仍含 March 31, 2026 与条码要求，与条目一致"
   },
   {
     "id": "handling-featured-variation",
@@ -890,8 +934,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；页面仍含 SIPP 与 2 月 5 日表述，与条目一致"
   },
   {
     "id": "us-inbound-placement-2024",
@@ -951,8 +995,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-22",
-    "verifyNote": "200（10/22 复查）；关键日期与数字与来源一致。 200；官方Selling Partners 2024费用公告，数字与日期一致；7条共用同一公告链接"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；页面仍含 0.87→0.78 美元，与条目一致"
   },
   {
     "id": "us-fulfillment-cut-2024",
@@ -1096,8 +1140,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 年加拿大费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/G201411300?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达）；加站帮助页今天 headless 只渲染出页面框架、正文未显示，内容沿用 10-17 核对结果（2026 不上调推荐费/FBA、coupon 封顶 500 加元）"
+    "verifiedAt": "2026-10-29",
+    "verifyNote": "200（10-29 复查）；帮助页 JS 渲染，静态 HTML 可见 500（加元优惠券上限）相关文字；本次 headless 渲染未执行，“不上调”表述沿用前次核对"
   },
   {
     "id": "peak-fees-2026",

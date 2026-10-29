@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-30",
+    "status": "完成",
+    "finishedAt": "2026-10-30 06:08",
+    "summary": "已完成：检索美/加/墨/欧 Seller Central 论坛官方公告（美国、英国、德国、加拿大站）、SP-API 更新日志、aboutamazon/sellingpartners 及行业线索（Niceggie、SellerTrack、ecombrainly 等，约 10/22 至今）。新增 2 条：英国/欧洲黑五周 Deal 提报截止 11/18（英国论坛备战帖）；SP-API 10/26 Listing 属性用法与枚举更新（官方 changelog）。更新：危险品合规问卷扩记欧洲（德法同题公告交叉核对）；Claude/AI 工具条目升为官方论坛 B 级并写入 Quick Plus 年底前免费年；状态按日自动更新 2 条（uk-sfp-tier-2026-10-30, business-discount-badge-2026-10-16）→已生效。未入库：多渠道工具/部分退款按原因/退货不退货/AVTR/美国 BHDR 执法日等已在库；汽车 PreFulfillmentStatusChange 过窄仅开发者；加拿大新 Seller Central 界面与 AI 工具为 Accelerate 旧闻重发。墨西哥未发现新官方公告。链接复查 10 条：HTTP 均可打开（C 级 GWD 效期品第三方文需浏览器 UA），失效 0；C 级官方原文仍未找到 1（gwd-expiration-dated）。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "uk-bfcm-deal-deadline-2026-11-18",
+        "title": "英国/欧洲黑五周促销提报截止 11 月 18 日：Lightning 与 Best Deals，还可报企业购专属 Deal"
+      },
+      {
+        "id": "sp-api-listing-attrs-2026-10-26",
+        "title": "SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "status": "完成",
     "finishedAt": "2026-10-29 06:11",

@@ -1,5 +1,48 @@
 [
   {
+    "id": "uk-bfcm-deal-deadline-2026-11-18",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；英国论坛 Black Friday Week 备战帖与 Peak season 2026 帖均写 Lightning/Best Deals 提报窗口关至 11 月 18 日；费用与入仓日期未在本条展开",
+    "title": "英国/欧洲黑五周促销提报截止 11 月 18 日：Lightning 与 Best Deals，还可报企业购专属 Deal",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "平台工具",
+    "status": "即将生效",
+    "announced": "2026-10-23",
+    "effective": "2026-11-18",
+    "zh": "亚马逊英国卖家论坛《Black Friday Week 2026》备战指南（与更早的 Peak season 2026 公告一致）：面向黑五周与网一的 Lightning Deals、Best Deals 提报窗口在 11 月 18 日关闭。Deal 活动期全程展示，开始时为 Prime 专享。另有 Price Discounts、Vouchers，以及新增的 Amazon Business Deals（面向企业买家的限时促销，无额外报名费，有邮件/推送与企业购活动页曝光）。须是活动推荐的可售 ASIN，费用在创建 Deal 时可见。入仓提醒：英国站黑五相关 FBA 库存应在 10 月 28 日前到达运营中心（备战帖重申）。",
+    "orig": "UK Seller Forums (Black Friday Week 2026 guide): “The deal sourcing window for Lightning Deals and Best Deals for Black Friday and Cyber Monday closes on 18 November.” “🆕 Amazon Business Deals: Exclusive, time-limited deals for organisations buying on Amazon Business. Available at no additional fee…” Peak season 2026 post: deal submission until “November 18 for Black Friday Week”.",
+    "plain": "这是啥：英国/欧洲黑五周的闪电Deal和多日Deal，提报窗口开到 11 月 18 日；今年还多了企业购专属 Deal。\n跟你有没有关系：做英国或欧洲站、想报黑五活动的要管；只做美国站的看美国那条（截止已延到 11 月 13 日）。\n你要做的事：想报的去 Deals Dashboard 看资格和费用，11 月 18 日前交；库存按站点入仓截止准备好。",
+    "outlook": "服务对象：主要是消费者（大促折扣）和亚马逊（拉流量），卖家用 Deal 换曝光但要交促销费。推测：企业购 Deal 会和 Business Discount 徽章、Sponsored Display 打包推。库内相关：《美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日》《2026 年旺季履约费》《企业购 Business Discount 徽章》。",
+    "sourceName": "Amazon 英国卖家论坛",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/5f50cc38-57e9-46cf-9115-56f03fc62873",
+    "dateNote": "提报截止 2026-11-18；备战帖约 2026-10-23 发布，Peak season 帖更早已写同一截止日"
+  },
+  {
+    "id": "sp-api-listing-attrs-2026-10-26",
+    "sourceTier": "A",
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；SP-API 官方 changelog；生效 2026-10-26；影响 Listings Items API 与 JSON_LISTINGS_FEED；产品-only/XSD/XML 不受影响",
+    "title": "SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-10-26",
+    "effective": "2026-10-26",
+    "zh": "亚马逊 SP-API 官方更新说明：自 2026年10月26日起，多站点大量商品类型的 Listing 属性用法与枚举值有更新。使用 Listings Items API v2021-08-01 或 JSON_LISTINGS_FEED 创建/编辑「带报价的商品」时，新增的必填属性必须提供；可选属性可自行填。仅上传产品资料、XSD 或 XML 的方式不受影响。完整变更清单见 SP-API product metadata changes。同周 changelog 另有汽车类订单 ORDER_CHANGE 新类型 PreFulfillmentStatusChange（10月28日起），主要影响汽车预约单开发者。",
+    "orig": "SP-API changelog: “Effective October 26,2026, Amazon will update the attribute usage and enumeration values of numerous product types across Amazon stores.” “Both private and public developers who use the Listings Items API v2021-08-01 and JSON_LISTINGS_FEED… are affected… Product-only listings, XSD feed uploads, and XML feed uploads are not affected.”",
+    "plain": "这是啥：亚马逊改了一大批商品字段怎么填、下拉有哪些选项；用官方接口或 JSON 喂数上架的，新建/改链接时可能突然多出必填项。\n跟你有没有关系：自己点后台手工改链接影响小；用 ERP/软件对接 SP-API 上架的要管。只传资料不带报价的不受影响。\n你要做的事：让技术或软件商对照本月 metadata 变更表，把新必填字段补上，避免改链接报错或上架失败。",
+    "outlook": "服务对象：主要是亚马逊（目录数据更齐，方便合规与履约），其次是用 API 的卖家与软件商。推测：和危险品合规问卷是一套——先在属性里要答案，再在前台问卷里确认。库内相关：《美欧四类商品新建或编辑链接须回答危险品合规问题》《标题结构与 Listing 相关 SP-API 更新》。",
+    "sourceName": "Amazon SP-API 开发者文档",
+    "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-october-updates-to-listing-attribute-usage-and-enumeration-values-and-a-new-notifications-api-order-change-type-value",
+    "dateNote": "属性变更生效 2026-10-26；汽车 PreFulfillmentStatusChange 为 2026-10-28，本条以 Listing 属性为主"
+  },
+  {
     "id": "eu-uk-fba-returnless-resolutions-2026-10-27",
     "sourceTier": "B",
     "verifiedAt": "2026-10-29",
@@ -150,8 +193,8 @@
   {
     "id": "gwd-expiration-dated-2026-10-12",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200；EHP Consulting 经亚马逊许可全文转贴 Seller Central News 2026-10-12 公告，365 天/180 天、深圳/上海/宁波、易融化和温度敏感商品不可入均与转贴一致；Seller Central 原文需登录，官方原文未找到公开页。宠物、玩具等类目及“维生素/补充剂除外”来自第三方媒体，原文只写“other eligible categories”。",
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200（带浏览器 UA）；C 级第三方文仍可打开，官方原文仍未找到；保留并注明",
     "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天",
     "regions": [
       "US"
@@ -362,7 +405,7 @@
       "EU"
     ],
     "category": "自发货",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-14",
     "effective": "2026-10-30",
     "dateNote": "2026-10-14 是英国卖家论坛 News_Amazon 发帖日（核对时显示“3 days ago”）。10 月 30 日起按档考核现有指标；标准件“一日达展示≥25%”和超大件“非 Buy Shipping 准时送达率≥97%”两项新要求有宽限期，2027-01-06 才开始真正用于判定资格。",
@@ -405,7 +448,7 @@
       "US"
     ],
     "category": "平台工具",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-16",
     "effective": "2026-10-30",
     "dateNote": "2026-10-16 是卖家论坛转贴的亚马逊 Business 通知日期。原文写「未来两周内」上线徽章，故生效日按约 2026-10-30 记，以实际铺开为准。",
@@ -458,8 +501,8 @@
     "sourceName": "Seller Central 美国论坛官方公告：Customize how your FBA returns are graded for resale",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/731e6e69-5bfa-4a4f-9685-acb9da76153b",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24）；已从第三方转贴升级为美国卖家论坛官方公告帖（B 级），按类目/ASIN/CSV 设规则、翻新当新品或二手及二手价比例与原条目一致。"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；美国论坛帖仍可打开"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -627,8 +670,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；加拿大帮助页 3.5%、4/17 一致；MCF/BwP 5/2 与 0.17 美元为第三方说法，页内无"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；加拿大帮助页仍可打开（需登录/JS 时也可能 200）"
   },
   {
     "id": "eu-fees-2026",
@@ -647,8 +690,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，生效日期与原文一致）；论坛官方帖，各费率与12/15、2/1一致；公布日帖子仅显示约11个月前，与eu-fee-cut-2025的12/02不一致待定"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；与 eu-fee-cut 同源帖仍可打开；未逐条重核全部费率表"
   },
   {
     "id": "mx-zero-fee",
@@ -692,7 +735,7 @@
   },
   {
     "id": "claude-plugin",
-    "title": "卖家工具向外部 AI 代理开放，美国站 Claude 插件为测试版",
+    "title": "卖家助手 / Amazon Quick / 外部 AI 插件：假期可用，Quick Plus 年底前可免费用一年",
     "regions": [
       "US"
     ],
@@ -700,15 +743,16 @@
     "status": "灰度推广",
     "announced": "2026-09-23",
     "effective": "2026-09-23",
-    "zh": "GeekWire 2026年9月23日报道：亚马逊在 Accelerate 宣布卖家插件，可在 Anthropic Claude 或亚马逊 Quick 里查库存、改价、改链接。插件在美国站为 beta，国际扩展在后。报道称外部代理需表明身份并遵守站点规则；同周亚马逊阻止了 Meta Muse 代客购物。卖家业务数据是否被模型方看见，报道引亚马逊称助手侧看不到其他业务数据。本次没有 About Amazon 原文页。",
-    "orig": "GeekWire, 23 September 2026: Amazon announced a plugin so sellers can run account checks from Anthropic’s Claude or Amazon’s Quick assistant. “The plugin is in beta in Amazon’s U.S. stores, with international expansion to follow.”",
-    "plain": "这是啥：美国站正在测试，可以用Claude或亚马逊自己的助手查库存、改价、改链接。\n跟你有没有关系：只在美国站、而且是测试版，其他站点还在后面。不用这类助手的人不用管。外面的工具得表明身份并守规则。\n你要做的事：要用就在美国站打开这个测试插件。不用就不用做。",
-    "outlook": "推测是让卖家用官方助手管店，少用外面的爬虫。和多渠道工具同一目的：操作留在亚马逊接口里，数据也不外流。",
-    "sourceName": "GeekWire",
-    "sourceUrl": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-29",
-    "verifyNote": "200（10-29 复查）；GeekWire 报道仍可达，Claude/beta 表述一致；官方公开原文未找到（论坛帖为登录区外摘要），保留 C 级"
+    "zh": "美国卖家论坛假期 AI 工具公告：Seller Assistant 在卖家后台内可用，可问经营问题、设自动化工作流（补货、调价等，可选只建议或代执行且有日志）。Amazon Quick 是后台外的 AI 助手，可做文档/表格与深度研究；主账号在 2026年12月31日前注册可免费领 12 个月 Quick Plus（另含两名被授权用户）。Selling partner plugin 可把链接、表现、分析接到 Amazon Quick 与 Anthropic Claude（均为 beta），让外部 AI 在你批准下操作卖家业务。",
+    "orig": "US Seller Forums: “Seller Assistant… Amazon Quick… Every primary account holder can claim a free 12-month Amazon Quick Plus subscription (plus two delegated users) by signing up before December 31, 2026… The selling partner plugin… connects your listings, performance, and analytics to Amazon Quick and Anthropic's Claude (both in beta).”",
+    "plain": "这是啥：亚马逊给卖家推三套 AI：后台里的卖家助手、后台外的 Quick、以及接到 Claude/Quick 的插件。\n跟你有没有关系：美国站卖家都能试；插件还是 beta。想白嫖 Quick Plus 的，要在 12 月 31 日前注册。\n你要做的事：想用就去后台打开卖家助手或领 Quick；接外部 AI 前先看权限和隐私设置，只开最小权限。",
+    "outlook": "服务对象：主要是亚马逊（把卖家留在自家工具链）和愿意试 AI 的卖家。推测：插件权限与审计会收紧，广告侧的 Ads Agent 会和卖家助手更多打通。库内相关：《卖家工具向外部 AI 代理开放》《美国广告：全漏斗广告已开放》。",
+    "sourceName": "Amazon 美国卖家论坛",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/467718ca-3e4d-42d2-b934-1e6771af99d3",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；已换成美国卖家论坛官方帖；Quick Plus 主账号可免费领 12 个月（须 2026-12-31 前注册）与原文一致；Claude/Quick 插件均为 beta",
+    "dateNote": "Accelerate 2026-09 宣布；美国论坛假期提醒帖约三周前（引用为当前 B 级来源）"
   },
   {
     "id": "gwd-compliance",
@@ -730,8 +774,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；About Amazon 原文，70%/60%/45% 一致"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；aboutamazon 新闻页仍可打开"
   },
   {
     "id": "fba-export",
@@ -753,28 +797,29 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：FBA Export expands to new destinations",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d2908c90-b115-4777-90d7-dc6e74197566",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；由 C 级 SellerKit 升级为英国论坛 News_Amazon 官方帖，175+ 目的地、8 天自动开启、30 天完成一致，补充“已停用目的地不自动开”；美/加范围仍仅见第三方"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；英国论坛帖仍可打开"
   },
   {
     "id": "dg-questions",
-    "title": "四类商品新建或编辑链接须回答危险品合规问题",
+    "title": "美欧四类商品新建或编辑链接须回答危险品合规问题",
     "regions": [
-      "US"
+      "US",
+      "EU"
     ],
     "category": "合规与安全",
     "status": "已生效",
     "announced": "2026-09-25",
     "effective": "2026-10-26",
-    "zh": "SellerKit 记2026年9月25日：自2026年10月26日起，新建或编辑四类商品链接时要回答新的合规问题，用于识别危险品。四类是制冷器具、减震器与悬挂升高支撑、记号笔与书写工具、泳池与水疗水处理产品。站点记为美国。",
-    "orig": "SellerKit: “Starting October 26, 2026, sellers who create new listings or edit existing ones in four product groups will have to answer new compliance questions that help Amazon identify dangerous goods.” Groups: refrigerant appliances; shock absorbers and suspension lift supports; markers and writing instruments; pool and spa water treatment products.",
-    "plain": "这是啥：新建或修改四类商品链接时，要多答一组问题，用来判断是不是危险品。\n跟你有没有关系：只影响美国站卖制冷器具、减震和悬挂升高件、记号笔和书写工具、泳池和水疗水处理的人。不卖这四类的不用管。10月26日起，新建或编辑才要答。\n你要做的事：改这四类链接时把问题答完。不卖就不用做。",
-    "outlook": "推测是为了运输安全和危险品规定，先在链接上把风险问出来。和锂电池不合规就改陆运、实验室直接交检测是一套：危险品从问卷管到怎么运。",
-    "sourceName": "Amazon Seller Forums：New compliance questions for dangerous goods listings apply October 26",
+    "zh": "亚马逊美国站与德国站等欧洲卖家论坛公告：自 2026年10月26日起，新建或编辑四类商品链接时要回答新的危险品合规问题，用于识别危险品、开放更多配送方式并减少误分类与不必要的销毁费用。四类是：冰箱/空调/冷冻等制冷器具（确认制冷剂）、减震器与悬挂升高支撑、记号笔与书写工具（墨水属性）、泳池与水疗水处理产品（化学成分与包装）。已有链接不必在 10月26日前主动改；下次创建或编辑时会出现必答题。答不全可能导致上架延迟或履约受限。",
+    "orig": "News_Amazon (US): “Starting October 26, 2026, if you create new listings or edit existing listings for select categories, you’ll be required to answer new compliance questions…” Categories: refrigerators/AC/freezers; shock absorbers and suspension lift supports; markers and writing instruments; pool and spa water treatment products. DE forum same effective date and categories (Ab dem 26. Oktober 2026).",
+    "plain": "这是啥：美欧站新建或改四类商品链接时，要多答一组危险品问题，好让亚马逊判断能不能正常发货。\n跟你有没有关系：卖美国或欧洲站的制冷器具、减震/悬挂件、记号笔书写工具、泳池水处理的要管；不卖这四类的不用管。\n你要做的事：下次改这些链接时把问题答全，别瞎选「不适用」；有 SDS/成分资料的先备好。",
+    "outlook": "服务对象：主要是消费者与承运安全（少运错危险品），也方便亚马逊少付销毁费。推测：问卷会扩到更多品类，并和 Listing 属性（SP-API）强制字段绑得更紧。库内相关：《锂电池空运不合规就改陆运》《实验室检测可直接交亚马逊》《SP-API 10 月起改 Listing 属性用法与枚举值》。",
+    "sourceName": "Amazon 美国卖家论坛 News_Amazon（德国站同题公告已交叉核对）",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-29",
-    "verifyNote": "200（10-29 复查）；官方论坛帖仍含 October 26, 2026 与四类商品，与条目一致"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；美国论坛 News_Amazon 与德国论坛同题公告均确认 2026-10-26 起四类商品新建/编辑须答危险品合规问题；类别与原文一致；德国站帖已核"
   },
   {
     "id": "gpsr",
@@ -793,8 +838,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；帮助页 JS 渲染，本次未渲染出正文，内容沿用 10-18 核对；\"最长14个工作日\"来自论坛指引，帮助页未见"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；帮助页仍可打开"
   },
   {
     "id": "ppwr",
@@ -1247,8 +1292,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；原为第三方博客；已换为论坛官方帖；低价FBA扩展生效日应为2026-02-01，原写1/5有误已修正；与eu-fees-2026内容重叠"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；论坛帖仍可打开；费用下调事实未改；未逐条重核全部费率表"
   },
   {
     "id": "pan-eu-nl-2026",
@@ -1478,8 +1523,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达，公布/生效日期与原文一致）；论坛官方帖，两批日期一致；155°F≈68°C；公布日8/28未精确核实"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；美国论坛帖仍可打开"
   },
   {
     "id": "sc-provider-2026-09-01",
@@ -1522,7 +1567,7 @@
     "sourceName": "Amazon Seller Central：FBA Partial Refunds",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-23",
-    "verifyNote": "200（10-23 复查可达）；帮助页今天 headless 只渲染出页面框架、正文未显示，内容沿用 10-18 核对结果（7 国、不收费、最多三套、限制品类）"
+    "verifiedAt": "2026-10-30",
+    "verifyNote": "200；帮助页仍可打开；按退货原因设置与条目一致"
   }
 ]

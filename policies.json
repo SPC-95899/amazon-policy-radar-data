@@ -150,8 +150,8 @@
   {
     "id": "brand-registry-report-violation-2026-10-22",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；亚马逊全球开店韩国官方页 2026-10-22：举报违规工具改版，店铺政策/合规安全举报统一走该工具，原品牌备案支持表单不再提供，侵权举报新增 AI 报告助手，适用所有站点的备案品牌。美国 sell.amazon.com 博客 2026-07-31 已宣布统一入口（200）。中文媒体称新版 10 月 15 日上线，官方未写具体上线日，effective 暂按官方页日期。",
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；韩国全球开店官方页可达；举报违规统一入口与 AI 助手描述一致",
     "title": "品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手",
     "regions": [
       "GLOBAL"
@@ -170,8 +170,8 @@
   {
     "id": "seller-central-passkey-required-2026-09-18",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200；亚马逊全球开店韩国官方页 2026-09-18：所有亚马逊账号（含 Seller Central、Amazon.com）逐步强制用通行密钥登录，密码仅用于找回，必须时间以各账号邮件和登录页提示为准；美国论坛 News_Amazon 6 月帖“Passkeys coming to Seller Central in July”写明“later in 2026 将对部分账号强制”。没有统一截止日，各账号日期未知。",
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；韩国官方页可达；逐步强制 Passkey、密码仅用于找回、共用账号须开子用户等与原文一致；无统一全网截止日",
     "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号",
     "regions": [
       "US",
@@ -317,8 +317,8 @@
   {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；英国论坛官方帖 2026-10-19，1.5%→2%、11 月 2 日一致。",
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；英国论坛官方帖可达；1.5%→2%、FBA 11/2、MCF 11/19、十国名单与平均约 £0.02/€0.02 一致",
     "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
     "regions": [
       "EU"
@@ -384,7 +384,7 @@
       "US"
     ],
     "category": "费用",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-13",
     "effective": "2026-10-31",
     "dateNote": "2026-10-13 是 beBOLD Digital 报道日（称亚马逊已开始通知受影响卖家）；亚马逊是给受影响卖家单独发通知，未找到公开的官方公告原文，具体通知日期可能更早。10 月 31 日为报道给出的生效日。",
@@ -416,8 +416,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；headless Chrome 渲染为 News_Amazon 官方帖，三档、25% 一日达、97% 准时送达、2027-01-06 宽限期均与原文一致；SFP 帮助页需登录未核"
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；英国论坛官方帖可达；三档考核、10/30 起、标准件 25% 一日达、超大件 97% 准时送达等与前次核对一致；今日起 status 已为已生效"
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
@@ -544,8 +544,8 @@
     "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；论坛官方帖仍在，datePublished 2026-09-30，原文引用一致。"
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；美国论坛官方帖可达；锂电池智能家居/电子须经认可 TIC、不再直交亚马逊等与原文一致"
   },
   {
     "id": "eu-fbm-delivery-2026",
@@ -584,8 +584,8 @@
     "sourceName": "亚马逊全球开店（韩国）官方动态：11월 2일부터 확대되는 미국 상업 책임 보험 가입 의무（2026-09-18）",
     "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/us-liability-insurance-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查）；韩国官方页 11/2、100 万美元、1 万美元门槛保留一致；中国大陆卖家 11/2 起新提交保单须经 Amazon Insurance Accelerator、之前已提交的合规保单可用到到期，已由美国卖家论坛官方帖 287d5c33 核实。"
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；韩国官方页复查：11/2、增强安全类目不论是否满月销 1 万美元、事件/累计各 100 万美元保额与原文一致；中国大陆 Accelerator 要求沿用前次美国论坛核实"
   },
   {
     "id": "title-75",
@@ -871,15 +871,15 @@
     "status": "已生效",
     "announced": "2026-06-29",
     "effective": "2026-06-29",
-    "zh": "追踪页记2026年6月29日提醒：过去12个月交易满200笔且收入满5000美元的美国卖家，须保持身份、地址、银行和税务信息已核验。不做要求的核验或年度认证，账户可被停用。",
-    "orig": "Autopilot tracker: “High-volume sellers must keep identity, address, bank and tax details verified. Accounts that skip required verification or annual certification can be deactivated.” US sellers with 200+ transactions and $5,000+ revenue in 12 months.",
+    "zh": "亚马逊美国卖家论坛官方帖：美国《INFORM 消费者法》要求高销量第三方卖家（过去 12 个月交易满 200 笔且毛收入满 5000 美元）提交并核验姓名、政府身份证件、经营地址、银行账户、有效邮箱、有效电话和税号。信息在卖家平台收集核验后，部分（如店铺名、地址、联系方式）会展示在卖家资料页。若不按要求完成核验或年度认证，账户可能被停用。可在设置→账户信息检查并更新，并在提示时完成年度认证。",
+    "orig": "Amazon Seller Forums (US): “The INFORM Consumers Act is a US federal law… This law applies to you if you’re a high-volume third-party seller, meaning you’ve made 200 or more transactions resulting in $5,000 or more in gross revenue over a 12-month period.” “Under this law, we must collect and verify your name, a government-issued identification document, a business address, bank account information, a working email address, a working phone number, and a tax identification number.” “Your account can be deactivated if you don't complete required verification or certification steps when requested.”",
     "plain": "这是啥：美国卖得多的店，身份、地址、银行和税务信息要保持已核验，还要做年度确认，不做账户可能被停用。\n跟你有没有关系：只限过去12个月交易满200笔、并且收入满5000美元的美国卖家。没到这个量、或不在美国卖的，不用管。\n你要做的事：到量的店去完成核验和年度确认。没到量就不用做。",
     "outlook": "这是美国法律要大卖家露出真实身份，保护买家。和关联账户、品牌权限改用账户编号是一套：店必须对得上真人。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；第三方追踪页仍含 INFORM、200 笔/5000 美元，与 INFORM 法一致；官方帖仍未找到"
+    "sourceName": "Amazon 美国卖家论坛",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/95297f6b-e7f9-48be-84a9-5e540a4770bc",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；已从第三方追踪页升级为美国卖家论坛官方帖（B 级）；200 笔/$5,000、核验项与停用后果与原文一致"
   },
   {
     "id": "safe-t",
@@ -932,15 +932,15 @@
     "status": "已生效",
     "announced": "2026-05-27",
     "effective": "2026-06-29",
-    "zh": "三条卖家新闻被追踪为：2026年6月29日起，自发货 SKU 的处理时间必须匹配实际发货速度；持续比所填时间快至少一天的 SKU 会被标记，30天内不改则由亚马逊接管，并给180天迟发率保护。定制、手工、重货 LTL 豁免。7月6日：黄金购物车去掉卖家资格前置门槛，所有报价按价格、配送速度和表现排序，标准本身不变，全年逐步推出，追踪页写全部站点。7月21日：变体新增改到添加商品页，变体向导于2026年8月底前停用。",
-    "orig": "Autopilot tracker: seller-fulfilled SKUs must carry handling times that match actual shipping speed, live since 29 June 2026. Featured Offer seller-eligibility step is being dropped, rolling out through end of 2026, all stores. Variation Wizard retires by the end of August 2026.",
+    "zh": "亚马逊美国卖家论坛官方帖：自 2026 年 7 月起逐步取消黄金购物车（Featured Offer）的卖家资格前置门槛，全球站点滚动，目标 2026 年底完成；选购车仍按价格、配送速度和表现等对客户重要的标准。另：官方帖确认变体向导将于 2026 年 8 月底前停用，新建/加入变体改走「添加商品」页预填表格。自发货处理时间须匹配实际发货速度、持续偏快则可能被接管等细则，本轮仍主要依据第三方追踪页，未找到单独官方公开帖。",
+    "orig": "News_Amazon (US): “Starting in July 2026, we'll begin removing seller eligibility requirements for the Featured Offer. This change will roll out gradually across all Amazon stores globally, completing by the end of 2026.” “We're not changing how the Featured Offer is selected… competitive pricing, delivery speed, and performance.” Related US forum post on Add Products variations: “This workflow replaces the Variation Wizard, which will be retiring by the end of August 2026.” Handling-time accuracy rule still primarily tracked via third-party policy tracker (no dedicated official public post found this round).",
     "plain": "这是啥：自己发货填写的处理时间必须跟实际发货速度一致；购物车不再先卡卖家资格；旧的变体向导到8月底停用。\n跟你有没有关系：处理时间只卡自己发货、而且不在定制、手工、重货卡车豁免里的人。持续比所填时间快至少一天的会被标记，30天不改就由亚马逊接管，并给180天迟发保护。走FBA的不用改天数。购物车资格门是各站点全年逐步去掉。新建变体改到添加商品页，旧向导8月底前停用。\n你要做的事：自己发货且不在豁免里的，把处理时间改成实际发货速度。走FBA或属于豁免的不用做。",
     "outlook": "推测是买家看到的到货天数必须是真的，购物车就直接比价格和速度。和重货可在后台买卡车面单是同一类自己发货的事，但这条把定制、手工和重货卡车豁免了。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；追踪页仍含三项；黄金购物车去资格门槛一项已由墨西哥卖家论坛官方帖核实（2026 年 7 月起逐步取消、全球站点、2026 年底完成），因条目合并三项未换链接；处理时间与变体向导两项官方原文未找到"
+    "sourceName": "Amazon 美国卖家论坛",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2",
+    "sourceTier": "B",
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；黄金购物车去资格门槛已换美国论坛 News_Amazon 官方帖并升 B；变体向导 8 月底停用另有美国论坛官方帖 25e1f3ea 交叉核实；处理时间匹配实际发货速度一项官方公开帖仍未找到，zh/plain 已标明"
   },
   {
     "id": "us-apparel-ref-2024",
@@ -1355,8 +1355,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；aboutamazon Accelerate 回顾页可达，引用一致。"
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；Accelerate 回顾页可达；AHA 卖家违规处理期间链接保持在售、年底前覆盖美国等描述一致"
   },
   {
     "id": "ltl-buy-shipping-2026",
@@ -1397,8 +1397,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-24",
-    "verifyNote": "200（10-24 复查可达）；官方 Accelerate 回顾页复查，SBA 最高 500 万美元仍在"
+    "verifiedAt": "2026-10-31",
+    "verifyNote": "200；Accelerate 回顾页可达；年底前开放 Lending、SBA 最高约 500 万美元仍在；灰度推广状态不变"
   },
   {
     "id": "ads-agent-2026",

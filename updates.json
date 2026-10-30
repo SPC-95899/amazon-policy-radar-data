@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-10-31",
+    "status": "完成",
+    "finishedAt": "2026-10-31 06:16",
+    "summary": "已完成：检索美/加/墨/欧 Seller Central 论坛公告（美国、英国、德国、法国、意大利、西班牙、加拿大、墨西哥站）、SP-API changelog、sellingpartners/aboutamazon、行业线索（Niceggie、aNavigator、SellerBites、ppc.land、ZonWizard、Marketplace 等，约 10/23 至今）。新增 0 条：黑五 Deal 截止（美/英欧）、欧洲退款不退货、AVTR、不可售库存 14 天、IOR、危险品问答、预付退货标签、费用类别重分配、欧洲附加费 2%、多渠道工具、AI 工具、虚拟多件装、NWD 品牌代表、新品入仓延期等均已在库；BFCM Listing 优化清单仅为运营建议非政策；SP-API Industry Vertical Pricing（10/29）与 Automotive PreFulfillment 偏开发者/可选报名，未入库；英国分期付款门槛降至 £40（论坛帖约两周前、生效 11 月）不在本窗口核心新增范围且此前未入库条目偏旧，未强行补录；加拿大/墨西哥未发现新官方公告。状态按日自动更新 1 条（us-fee-category-reassign-2026-10-31）→已生效。链接复查 10 条：HTTP 全部 200，失效 0；升级 2 条 C→B（inform 换美国论坛 INFORM 官方帖；handling-featured-variation 换美国论坛 Featured Offer 官方帖，变体向导另有官方帖交叉核实，处理时间细则官方帖仍未找到）；关键数字与日期与原文一致，事实修正 0。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-10-30",
     "status": "完成",
     "finishedAt": "2026-10-30 06:08",

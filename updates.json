@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-01",
+    "status": "完成",
+    "finishedAt": "2026-11-01 06:10",
+    "summary": "已完成：检索美/加/墨/欧 Seller Central 论坛与帮助页、SP-API changelog、sellingpartners/aboutamazon、GOV.UK，以及行业线索（Marketplace Officer、PPC Spider、Niceggie、SellerTrack、aNavigator、REVOIC、ZONSEO、NovaData、TMARK、迪迪跨境等，约 10/24 至今）。新增 2 条：① 英国 2027 年 10 月起平台代收 VAT（GOV.UK 2026-10-28，A 级）；② 美国 FBA 旺季国际入仓临时放宽 45/90 天（约 10/30 公告，C 级镜像，官方帖 UUID 未定位）。未入库：黑五 Deal 截止、欧洲退款不退货/AVTR/不可售 14 天、IOR、危险品问答、预付退货标签、费用类别重分配、欧洲附加费 2%、多渠道/AI 工具、虚拟多件装、NWD、新品入仓延期、保险 11/2、Review Requests、EU 海关标识/2 欧元手续费等均已在库；3D Printers 独立费用类别仅见第三方、EU 费用指南 PDF 仍把 3D printers 列在 Business Industrial，未核实官方未入库；SP-API Industry Vertical Pricing / Automotive PreFulfillment 偏开发者未入库；Brand Registry Rank Catalog Contributors 为更早灰度、本窗口无新官方要件未强行补录；加拿大/墨西哥未发现本窗口新官方政策公告。状态按日自动更新 4 条（eu-fbm-customs-identifiers-2026-11-01, eu-handling-fee-2026-11-01, us-holiday-returns-2026-11-01, review-requests-2026）→已生效。链接复查 10 条：HTTP 可达 9、Supply Chain Dive 403（交叉 The Conveyor 核实）失效按拦截计 0 条断链；升级 1 条 C→B（pan-eu-nl 换英国论坛官方帖）；关键数字与日期与原文一致，事实修正 0。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "uk-vat-marketplace-liability-2027-10",
+        "title": "英国 2027 年 10 月起：亚马逊等平台要替达标英国卖家代收 VAT（VAT 注册或单平台年销超 £90,000）"
+      },
+      {
+        "id": "us-fba-intl-inbound-extension-2026-10-30",
+        "title": "美国 FBA 旺季临时放宽国际入仓：多仓后续货 45 天内到、货件自动关闭延到 90 天（8/1–11/30 建的国际计划）"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "status": "完成",
     "finishedAt": "2026-10-31 06:16",

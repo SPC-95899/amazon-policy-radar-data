@@ -1,5 +1,47 @@
 [
   {
+    "id": "uk-vat-marketplace-liability-2027-10",
+    "title": "英国 2027 年 10 月起：亚马逊等平台要替达标英国卖家代收 VAT（VAT 注册或单平台年销超 £90,000）",
+    "regions": [
+      "UK"
+    ],
+    "category": "税务与包装",
+    "status": "即将生效",
+    "announced": "2026-10-28",
+    "effective": "2027-10-01",
+    "dateNote": "GOV.UK 税改说明与事实表均写 “from October 2027”，未给具体日；此处记 2027-10-01 便于排序与状态比较，最终以 HMRC 后续细则为准。",
+    "zh": "英国政府 2026 年 10 月 28 日公布：将把“在线市场平台 VAT 责任”从海外卖家扩展到英国本土卖家。从 2027 年 10 月起，亚马逊等平台须就符合条件的英国商家面向消费者的商品销售代收并上缴 VAT——条件是该商家已 VAT 注册，或虽未注册但在该平台年销售额达到至少 £90,000（各平台分别计算）。不适用于个人闲置买卖、二手货、以及企业对企业（B2B）交易。政府目标是打击漏报 VAT、减少不合规低价冲击合规卖家。细则（门槛如何计算、二手处理、正式实施日等）将由后续二级立法和 HMRC 指引补充。",
+    "orig": "GOV.UK, Extending VAT online marketplace liability (published 28 October 2026): “VAT online marketplace liability rules will be extended to UK businesses where the goods are in the UK at the point of sale and sold to a consumer. Online marketplaces will be responsible for collecting VAT on sales by UK VAT registered businesses, and any other UK business with a minimum annual sales threshold per platform of £90,000. The rules will not apply to non-business (for example, personal) sales, second-hand goods, or business-to-business transactions.” “The government intends that this measure will be implemented from October 2027.” Factsheet: “These rules will apply from October 2027.”",
+    "plain": "这是啥：英国政府规定，2027 年 10 月起亚马逊等平台要帮达标的英国卖家代收 VAT——已注册 VAT，或虽没注册但在该平台一年卖超 9 万英镑的都算；个人闲置、二手、B2B 不收。\n跟你有没有关系：主要影响在英国站卖货、且主体算英国商家的卖家；你目前主做美国站、宠物项圈类，一般暂时没关系。以后开英国站再盯细则。\n你要做的事：现在不用改链接或定价。若计划做英国站，先分清主体是否英国、VAT 注册状态，等 HMRC 2027 年前出操作指引再对接会计；不合规低价竞品以后可能被平台强制加税。",
+    "outlook": "服务对象：英国政府/税务机关（堵漏、抬合规），合规卖家间接受益（减不缴税低价冲击）；平台承担代收与系统改造成本。推测：2027 年前 HMRC 会出卖家与平台操作手册，亚马逊后台可能出现 VAT 代收开关或报告；二级立法可能微调门槛与二手例外。库内相关：《欧洲 VAT 交易报告（AVTR）11 月 3 日起月中随时可下，不用再等下月 3 号，还多两列》《奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税》。",
+    "sourceName": "GOV.UK：Extending VAT online marketplace liability（Budget 2026 税改说明，2026-10-28）",
+    "sourceUrl": "https://www.gov.uk/government/publications/vat-online-marketplace-liability-extension/extending-vat-online-marketplace-liability",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；GOV.UK 税改说明与事实表均可打开；October 2027、£90,000、VAT 注册/平台门槛、排除个人/二手/B2B 与原文一致；未编造具体日。"
+  },
+  {
+    "id": "us-fba-intl-inbound-extension-2026-10-30",
+    "title": "美国 FBA 旺季临时放宽国际入仓：多仓后续货 45 天内到、货件自动关闭延到 90 天（8/1–11/30 建的国际计划）",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-30",
+    "effective": "2026-10-30",
+    "dateNote": "公告约 2026-10-30 发布（镜像帖创建时间）；适用范围是 2026-08-01 至 2026-11-30 期间创建的国际发货计划，不是要求所有货必须 11/30 前到仓。",
+    "zh": "亚马逊 FBA 团队旺季临时调整（美国站公告，经 Sellers Ask Sellers 等转载）：因海运时效拉长、港口延误和海关扣留，对 2026 年 8 月 1 日至 11 月 30 日创建的国际发货计划：① 多目的地计划中，首个货件接收后，其余关联货件到仓窗口从 30 天延到 45 天，此期限内到齐不收删除/弃置缺陷费；② 货件自动关闭窗口延到 90 天。入仓绩效看板仍可能显示缺陷标记，但符合条件的费用会豁免；已收的相关入仓缺陷费会自动退回，可在 Reimbursement report 查看。卖家无需申请，系统自动执行。",
+    "orig": "Fulfillment by Amazon team (US announcement mirrored 30 Oct 2026): “To give you more flexibility, we’ve made two temporary changes for international shipment plans created between August 1 and November 30, 2026: 1. We’ve extended the window for related shipments to arrive after the first shipment in a multi-destination plan is received from 30 to 45 days. … 2. We’ve extended the automatic shipment closure window to 90 days … The defect will still be flagged on your Inbound Performance Dashboard but the fee is waived for eligible shipments … Any inbound defect fees already charged on eligible shipments will be reimbursed. … No action is required.”",
+    "plain": "这是啥：美国 FBA 旺季临时给国际入仓放宽——8 到 11 月建的国际多仓计划，第一票入了以后其余票有 45 天到齐（原来 30 天），货件自动关掉也延到 90 天；该免的缺陷费自动免、已扣的会退。\n跟你有没有关系：有，只要你从海外往美国 FBA 发货、而且发货计划建在 8/1–11/30，海运慢或分仓晚到就不容易被扣缺陷费；纯国内发美国仓的不在这次范围。\n你要做的事：不用申请。把国际多仓计划的“首票接收日”和其余票到仓日分开记，别把 45 天和 90 天混成一个截止；过几天查一下 Reimbursement report 有没有自动退费，看板红字不等于还要交钱。",
+    "outlook": "服务对象：主要是卖家（旺季海运/海关延误下的容错），也减轻亚马逊客服与争议量。推测：窗口仍是临时的，过了 11/30 新建计划可能恢复原规则；看板仍打标说明绩效口径与收费口径暂时脱钩。库内相关：《2026 年旺季履约费：10 月 15 日至 1 月 14 日》《美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日：还能补报，但入仓截止没延》《美国进口新规在路上：进口商（IOR）是外国公司的卖家可能要多交担保、多证明资质，亚马逊提醒现在就问货代》。",
+    "sourceName": "Sellers Ask Sellers 转载美国 FBA 官方公告：Temporary peak season extensions for international FBA shipments（约 2026-10-30）",
+    "sourceUrl": "https://sellersasksellers.com/t/temporary-peak-season-extensions-for-international-fba-shipments/7682",
+    "sourceTier": "C",
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；镜像帖含 FBA 团队原文要点（45/90 天、8/1–11/30 国际计划、自动豁免与退费）；Seller Central 官方帖 UUID 本次未检索到，保持 C；迪迪跨境/TMARK 等交叉指向 News_Amazon 美国论坛同题。"
+  },
+  {
     "id": "uk-bfcm-deal-deadline-2026-11-18",
     "sourceTier": "B",
     "verifiedAt": "2026-10-30",
@@ -130,8 +172,8 @@
   {
     "id": "us-foreign-ior-import-rule-2026-10-19",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；美国卖家论坛 Amazon Services team 官方帖，datePublished 2026-10-19。帖中明确“今天什么都没变”，新规仍在美国政府审核中、生效日期未知；具体资产、担保（bond）、良好记录等标准以帖中链接的帮助页和美国海关（CBP）后续正式公告为准，本条未逐条核对帮助页。",
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；美国论坛官方帖可打开，外国 IOR、EO 14411、询问货代等要点与条目一致；事实修正 0。",
     "title": "美国进口新规在路上：进口商（IOR）是外国公司的卖家可能要多交担保、多证明资质，亚马逊提醒现在就问货代",
     "regions": [
       "US"
@@ -220,7 +262,7 @@
       "EU"
     ],
     "category": "税务与包装",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-21",
     "effective": "2026-11-01",
     "zh": "亚马逊 SP-API 更新日志（2026-10-21）：从 2026 年 11 月 1 日起，欧盟海关要求所有从欧盟外寄入欧盟的 B2C 商品提供产品识别码，适用所有欧盟亚马逊站点的自发货（FBM）订单。每件商品需提供三类信息：ASIN（通过 Buy Shipping 买面单时亚马逊自动填）；制造商零件号或型号（必填，没有就填条码号）；标准识别码如 EAN/GTIN/UPC/ISBN（有就填，可选）。用 Buy Shipping 买面单时，亚马逊不会自动从 listing 带出型号或条码，需要卖家/系统自己提交；亚马逊不校验格式，准确性由卖家负责。自己直接把报关数据发给承运商的，也要加上这些识别码（含在亚马逊外买的面单）。缺少识别码可能导致包裹在海关被扣或退回，费用由卖家承担。",
@@ -240,7 +282,7 @@
       "EU"
     ],
     "category": "税务与包装",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-07",
     "effective": "2026-11-01",
     "dateNote": "金额由欧委会 2026-09-21 通过的委托法规确定；官方页 10-07 发布指引，写明 11 月 1 日起适用。",
@@ -345,7 +387,7 @@
       "US"
     ],
     "category": "FBA与物流",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-15",
     "effective": "2026-11-01",
     "dateNote": "适用于 2026-11-01 至 2026-12-31 期间购买的商品，退货截止 2027-01-31（苹果品牌 2027-01-15）。",
@@ -395,8 +437,8 @@
     "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
     "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；beBOLD 原文引用一致；官方费用类别帮助页仍未能确认，保持 C（行业文章另提到新增 3D 打印机费用类别，未核实官方原文）。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；beBOLD 原文可打开，10/31 费用类别重分配与 Fee Preview/争议建议一致；官方公开公告仍未找到，保持 C；3D Printers 独立类别官方原文仍未核实。"
   },
   {
     "id": "uk-sfp-tier-2026-10-30",
@@ -710,8 +752,8 @@
     "sourceName": "Amazon.com.mx 卖家论坛（Kris_Amazon 官方帖）：¿Sabías que puedes vender con CERO tarifas por tres meses?",
     "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/f5ce894e-124a-4267-a1b1-5bd365a692eb",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；墨西哥论坛官方帖 2026-08-28，引用一致。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；墨西哥论坛官方帖可打开，零佣金/零订阅/FBA 物流费活动表述仍在；事实修正 0。"
   },
   {
     "id": "multichannel",
@@ -730,8 +772,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；aboutamazon 官方页 2026-09-24，引用一致。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；aboutamazon 多渠道工具页可打开，与条目一致；事实修正 0。"
   },
   {
     "id": "claude-plugin",
@@ -1208,8 +1250,8 @@
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；加拿大帮助页可达（体积较大），旺季履约费 2026-10-15 至 2027-01-14 口径与条目及美国论坛 Holiday 2026 公告交叉一致；事实修正 0。"
   },
   {
     "id": "lithium-air-2026",
@@ -1229,8 +1271,8 @@
     "sourceName": "Amazon 美国卖家论坛官方公告：New requirement for products with lithium-ion batteries shipped by air",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2ba13eab-a0e9-43c4-b5e5-0305ae77e945",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；论坛官方帖 datePublished 2025-11-20，“Effective January 1, 2026”一致。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；论坛官方帖可打开，meta description 仍含 Effective January 1, 2026 / lithium-ion / ICAO / 2.7 Wh / 30% state of charge，与条目一致；事实修正 0。"
   },
   {
     "id": "related-accounts-2026",
@@ -1297,7 +1339,7 @@
   },
   {
     "id": "pan-eu-nl-2026",
-    "title": "泛欧 FBA：必须有有效的荷兰报价",
+    "title": "泛欧 FBA：9 月 3 日起必须有有效荷兰报价，比利时 2027 年 2 月 26 日起同样要有",
     "regions": [
       "EU"
     ],
@@ -1306,15 +1348,15 @@
     "announced": "2026-09-03",
     "effective": "2026-09-03",
     "dateNote": "2026-09-03 是帮助页写的“自该日起”适用日，新货和已有库存都算。比利时要到 2027-02-26 才加入同样要求，那是下一个日期，不是这一天。",
-    "zh": "Seller Magnet 引泛欧 FBA 帮助页：自 2026年9月3日起，所有泛欧商品，包括新的和已经在计划里的，都要有一个有效的荷兰报价，才能加入并继续享受泛欧权益。荷兰本身不拿来满足两国入库的最低要求。比利时自 2027年2月26日起加入同样要求。两国入库只能在德国、法国、意大利、西班牙或波兰完成。",
-    "orig": "Seller Magnet quotes Amazon’s Pan-European FBA help: “Starting on 3 September 2026, all Pan-EU FBA products (new and existing) must have an active Netherlands offer to enrol and to continue receiving Pan-EU benefits.” Belgium joins on 26 February 2027.",
+    "zh": "英国卖家论坛官方公告：自 2026 年 9 月 3 日起，所有泛欧 FBA 商品（新的和已有）必须额外有一个有效的荷兰报价，才能加入并继续享受泛欧权益；自 2027 年 2 月 26 日起，加入时还须有比利时有效报价（会提前至少 30 天通知）。受限品、当地标签包装不合规、站点账号暂时停用、尚无荷兰/比利时详情页等情形可申请有限期或无限期豁免。目前不要求必须把货存在荷兰或比利时仓。",
+    "orig": "Amazon UK Seller Forums: “Starting 3 September 2026, all Pan-EU FBA products (new and existing) must have an active offer in the Netherlands in addition to existing listing requirements. Starting 26 February 2027, you must also have an active offer in Belgium for Pan-EU FBA products, at enrollment.” “You’re currently not required to store inventory in the Netherlands or Belgium to participate in Pan-EU FBA.”",
     "plain": "这是啥：做泛欧的商品必须有一个有效的荷兰在售，才能加入并继续用泛欧配送。\n跟你有没有关系：只影响欧洲泛欧FBA，新货和已经在计划里的都算。不做泛欧、自己发货的不用管。荷兰本身不算两国入库，入库仍要在德法意西或波兰。比利时要到2027年2月26日才同样要求。\n你要做的事：做泛欧的，给商品开一个荷兰在售。不做泛欧就不用做。",
     "outlook": "推测是泛欧要在荷兰也有在售，买家在那边才买得到。和一次入仓卖多国连着，但货仍主要在德法意西波，不是为了把货堆进荷兰仓。",
-    "sourceName": "Seller Magnet（引用泛欧 FBA 帮助页）",
-    "sourceUrl": "https://blog.sellermagnet.com/post/amazon-pan-european-fba-2026/en",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
+    "sourceName": "Amazon 英国卖家论坛：Pan-EU FBA to require Netherlands and Belgium offer",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/61296686-3581-4d1a-b3c2-dacbef755b22",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；升级 C→B：改用英国卖家论坛官方帖（Pan-EU FBA to require Netherlands and Belgium offer），确认 2026-09-03 荷兰报价、2027-02-26 比利时报价；原 Seller Magnet 文仍可打开作交叉。"
   },
   {
     "id": "bundles-2027",
@@ -1376,8 +1418,8 @@
     "sourceName": "Supply Chain Dive：Amazon rolls out new capabilities for bulky package shippers（引述亚马逊副总裁 Accelerate 2026 发言）",
     "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "curl 返回 403（站点拦截脚本），用网页抓取工具读取正常；Supply Chain Dive 2026-09-30 原文与引用一致；官方原文仍未找到，保持 C。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "403（Supply Chain Dive 拦截脚本 UA）；The Conveyor 2026-10-01 交叉证实 Accelerate 宣布 10 月起 Buy Shipping 可买 LTL 面单、议价与晚点保护；官方 A/B 原文仍未找到，保持 C。"
   },
   {
     "id": "lending-2026",
@@ -1428,7 +1470,7 @@
       "US"
     ],
     "category": "广告",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-09-29",
     "effective": "2026-11-01",
     "dateNote": "公布日 2026-09-29。来源只写 2026 年 11 月，没有具体日，生效日记成 2026-11-01。Alexa 品牌对话是 2027 年 1 月的美国计划，不是这个生效日。",
@@ -1460,8 +1502,8 @@
     "sourceName": "About Amazon 新闻稿：MCF Prime delivery 与 MCF Preferred Pricing",
     "sourceUrl": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；press.aboutamazon.com 官方新闻稿可达，datePublished 2026-09-24 一致。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；aboutamazon 新闻稿可打开，Prime 配送/履约费优惠表述仍在，与条目一致；事实修正 0。"
   },
   {
     "id": "multichannel-tools-2026",
@@ -1481,8 +1523,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-25",
-    "verifyNote": "200；aboutamazon 官方页，引用一致。"
+    "verifiedAt": "2026-11-01",
+    "verifyNote": "200；与 multichannel 同源 aboutamazon 页 200，内容一致；事实修正 0。"
   },
   {
     "id": "at-parcel-tax-2026-10-01",

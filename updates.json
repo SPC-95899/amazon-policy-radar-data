@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-02",
+    "status": "完成",
+    "finishedAt": "2026-11-02 06:11",
+    "summary": "已完成：检索美/加/墨/欧 Seller Central 论坛与帮助页、SP-API changelog、sellingpartners/aboutamazon/press、GOV.UK，以及行业线索（Marketplace Officer、Niceggie、SellerTrack、ZONSEO、PPC Spider、sellersasksellers、etailment 等，约 10/25 至今）。新增 0 条：保险 11/2、欧洲附加费 2%、AVTR 11/3、虚拟多件装、预付退货、黑五 Deal、退款不退货、不可售 14 天、英国 VAT 平台代收、国际入仓放宽、危险品问答、费用重分配、IOR、NWD、多渠道/AI 工具、Review Requests、EU 海关标识/2 欧元手续费、假日退货、新品入仓延期等均已在库；3D Printers 独立费用类别仍仅见第三方、sell.amazon.com/pricing 未见该类别，官方未核实未入库；英国分期付款门槛降至 £40（论坛帖约两周前、生效「11 月」无确切日）此前已评估未入库，本次仍不强行补录；SP-API Industry Vertical Pricing / 结算报告下线偏开发者未入库；加拿大锂电池 TIC 已与库内 li-device-tic （含 CA）同题；墨西哥本窗口无新官方政策公告。状态按日自动更新 2 条（eu-uk-surcharge-2pct-2026-11-02, ins-2026-11-02）→已生效。链接复查 10 条：HTTP 全部可达（2 条帮助页经 Chrome 渲染），失效 0；升级 2 条 C→B（related-accounts-2026、tic-direct 换美国论坛 News_Amazon 官方帖）；预付退货仍 C 级（官方 UUID 未定位）；关键数字与日期与原文一致，事实修正 0。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-01",
     "status": "完成",
     "finishedAt": "2026-11-01 06:10",

@@ -131,8 +131,8 @@
   {
     "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "headless Chrome 渲染 sellercentral.amazon.ie 帮助页（Changes to programme policies）成功，原文与引用一致。官方页面未标注这条公告的发布日期，announced 暂取首次公开报道日（SellerMagnet 2026-10-24），实际发布可能更早；“2025-10-06 起 8 国已适用 14 天”出自 SellerMagnet，未在官方页核对。",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-11-02 复查可达，含 Oct 28 2026、14 days、Belgium/Ireland；关键数字与库内一致，事实修正 0。",
     "title": "欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）",
     "regions": [
       "EU",
@@ -296,8 +296,8 @@
   {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，英国论坛帖标题含 Compliance Fast-Track；关键内容与库内一致，事实修正 0。",
     "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
     "regions": [
       "EU"
@@ -366,7 +366,7 @@
       "EU"
     ],
     "category": "费用",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-19",
     "effective": "2026-11-02",
     "dateNote": "FBA 从 2026-11-02 起；多渠道配送（MCF）从 2026-11-19 起（英、法、德、意、西）。",
@@ -380,8 +380,8 @@
   {
     "id": "us-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，帖文含 Nov 1–Dec 31 2026 可退至 Jan 31 2027；关键日期与库内一致，事实修正 0。",
     "title": "美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日",
     "regions": [
       "US"
@@ -401,8 +401,8 @@
   {
     "id": "us-fbm-prepaid-return-2026-12-18",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，内容与库内一致（12/18 起、7 天、重货大件暂不含）。再次检索官方原文（Seller Central 论坛/帮助页）仍未找到，官方原文未找到，保留 C 级。",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，内容与库内一致（12/18、7天、重货大件暂不含）。再次检索官方论坛 UUID 仍未定位（仅见高价值件旧帖），官方原文未找到，保留 C 级。",
     "title": "美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款",
     "regions": [
       "US"
@@ -616,7 +616,7 @@
       "US"
     ],
     "category": "保险",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-09-03",
     "effective": "2026-11-02",
     "zh": "2026年9月3日，亚马逊在美国卖家论坛发布通知：自2026年11月2日起，在增强安全类目有在售链接的卖家，不论是否达到单月总收入1万美元，都要为这些商品维持商业责任险。公开转述给出的保额仍是每次事故100万美元、累计100万美元。中国大陆注册卖家新提交的保单必须来自 Amazon Insurance Accelerator，否则会被拒；11月2日前已提交且合格的保单可用到到期。类目外商品的1万美元门槛据转述未取消。免赔额不超过1万美元，且需把 Amazon.com Services LLC 及其关联方列为附加被保险人。",
@@ -684,14 +684,14 @@
     "announced": "2026-07-21",
     "effective": "2026-07-21",
     "zh": "2026年7月21日卖家新闻被追踪为：膳食补充剂、儿童玩具、电动出行等需要 TIC 的类目，合规结果必须由认可的检测、检验、认证机构直接提供，卖家自行上传文件不再被接受。追踪页写检测从收到样品起通常约30天，路径是账户状况里的政策合规。站点范围本次材料没有逐国列出。",
-    "orig": "Autopilot tracker: “Compliance results must come directly from an approved testing, inspection and certification provider. Self-uploading documents is no longer accepted. Applies to categories including dietary supplements, children’s toys and e-mobility.”",
+    "orig": "News_Amazon (Amazon.com forums): “Compliance results must come directly from an approved third-party testing, inspection, and certification provider. You’re no longer able to upload these documents yourself. Testing typically takes 30 days once your provider receives samples… This applies to categories including dietary supplements, children’s toys, and e-mobility products.”",
     "plain": "这是啥：膳食补充剂、儿童玩具、电动出行这类要检测的商品，结果必须由认可的检测机构直接交给亚马逊，自己上传文件不再算数。\n跟你有没有关系：只卖这些类目的人要改。不卖这些的不用管。材料没逐国写清站点。从收到样品算起，检测通常大约30天。\n你要做的事：让认可的实验室直接回传结果，不要自己上传。不卖这些类目就不用做。",
     "outlook": "推测是为了对上政府合规，避免卖家自己改报告。和责任险取消小卖家豁免、危险品问卷是一套：安全类目从检测、保险到问卷都要过第三方。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
+    "sourceName": "Amazon Seller Forums (News_Amazon)：Understand testing, inspection, and certification requirements",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f09dda4e-f582-483a-974c-47ccc89b0f09",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达；已换美国论坛 News_Amazon 官方帖，C→B；关键表述（直接回传、不可自传、约30天）与原文一致，事实修正 0。"
   },
   {
     "id": "fuel-surcharge",
@@ -900,8 +900,8 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-11-02 复查可达，包装/生产者责任相关内容在页；关键日期与库内一致，事实修正 0。"
   },
   {
     "id": "inform",
@@ -940,8 +940,8 @@
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，论坛帖标题含 30 days；关键数字与库内一致，事实修正 0。"
   },
   {
     "id": "commingle",
@@ -1286,14 +1286,14 @@
     "effective": "2026-03-26",
     "dateNote": "2026-03-26 是说明文章的公布日，不是一条新禁令的起始日。追踪页把它写成既有政策的解释，所以生效记成同一天。",
     "zh": "2026年3月26日卖家新闻被追踪为：多账户卖家如果被认定关联，应先在账户状况里申诉那个被认定的责任账户，再去申诉其他关联账户。这是对既有规则的说明。",
-    "orig": "Autopilot tracker, announced March 26, 2026: “Appeal the responsible account via Account Health before appealing related accounts.” Standing policy, not a new start date.",
+    "orig": "News_Amazon (Amazon.com forums): “When you receive a notification that a related account has been deactivated, it means one of your existing accounts violated our policies. To reactivate the related account, you must first address the violation in the underlying account that was responsible by submitting an appeal for each violation… Once your appeal is accepted and the account is reactivated, you can appeal your related account.”",
     "plain": "这是啥：几个店被认定关联时，要先处理被点名的那个责任账户，再去处理其他关联店。\n跟你有没有关系：只影响美国、而且账户已经被认定关联的人。只有一个店、没被关联的，不用管。这是对旧规则的说明，不是一条新禁令。\n你要做的事：被关联的，先在账户状况里申诉那个责任账户。没被点名就不用做。",
     "outlook": "推测是不让被封的卖家换个店再开。和身份年审、品牌改用账户编号一起，都是把人钉住，不是新的税。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，关键日期与库内一致；官方原文未找到，保留 C 级。"
+    "sourceName": "Amazon Seller Forums (News_Amazon)：How to address multiple account policy violations",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/c6536ec9-400e-488f-88dc-2bd73ac7becc",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达；已换美国论坛 News_Amazon 官方帖，C→B；关键申诉顺序与原文一致，事实修正 0。"
   },
   {
     "id": "account-id-roles",
@@ -1481,8 +1481,8 @@
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，Amazon Ads 页含 Review Requests；关键日期与库内一致，事实修正 0。"
   },
   {
     "id": "mcf-prime-2026",
@@ -1586,8 +1586,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-26",
-    "verifyNote": "200；2026-10-26 复查可达，标题/日期与库内一致，未发现变化。"
+    "verifiedAt": "2026-11-02",
+    "verifyNote": "200；2026-11-02 复查可达，帖文含 September 1, 2026 与 365 days；关键数字与库内一致，事实修正 0。"
   },
   {
     "id": "fba-partial-refund-2026-10-13",

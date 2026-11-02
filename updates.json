@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-03",
+    "status": "完成",
+    "finishedAt": "2026-11-03 06:18",
+    "summary": "已完成：检索美/加/墨/欧 Seller Central 论坛与帮助页（含 headless Chrome）、SP-API changelog、sellingpartners/aboutamazon/press、advertising、GOV.UK/行业线索（Marketplace Officer、Niceggie、SellerTrack、wortfilter、TrueBooks、PPC Land、sellersasksellers 等，约 10/26 至今）。新增 2 条：eu-uk-holiday-returns-2026-11-01（英欧假日延长退货，News_Amazon 英国帖 10/30）、mx-isr-per-order-2026-11-07（墨西哥 ISR 预提 11/7 起按订单展示）。未入库/跳过：保险 11/2、欧洲附加费 2%、AVTR 11/3、虚拟多件装、预付退货、黑五 Deal、退款不退货、不可售 14 天、英国 VAT 平台代收、国际入仓放宽、危险品问答、费用重分配、IOR、NWD、EU 海关标识/€2 手续费、美国假日退货、Review Requests、多渠道/AI 等均已在库；3D Printers 独立费用类别仍仅见第三方（Niceggie/Marketplace Officer/MyProfit），sell.amazon.com/pricing 与 Seller Central 费用帮助页经 Chrome 渲染未见 “3D Printers” 类别，官方未核实未入库；英国分期付款门槛降至 £40（Indy_Amazon 论坛帖，标题称 11 月、正文写 end of September，无确切日）此前已评估，本次仍不强行补录；SP-API Industry Vertical Pricing / 结算报告下线偏开发者未入库；加拿大 Grade and Resell 公告为 7 月不在本窗口；加拿大锂电池 TIC 已与库内 li-device-tic（含 CA）同题。状态按日自动更新 1 条（eu-uk-avtr-anytime-2026-11-03）→已生效。链接复查 10 条（title-75, us-apparel-ref-2024, us-bfcm-deal-deadline-extended-2026-10-22, us-coupon-cap-2025, us-fbm-business-hour-2026, us-fees-2025, us-fees-2026, us-fulfillment-cut-2024, us-inbound-placement-2024, us-low-inventory-2024）：HTTP 全部可达（2 条帮助页经 Chrome 渲染），失效 0；升级 0；关键数字与日期与原文一致，事实修正 0。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "eu-uk-holiday-returns-2026-11-01",
+        "title": "欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）"
+      },
+      {
+        "id": "mx-isr-per-order-2026-11-07",
+        "title": "墨西哥所得税（ISR）预提 11 月 7 日起按订单自动计算并展示（不再只看月度一笔）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "status": "完成",
     "finishedAt": "2026-11-02 06:11",

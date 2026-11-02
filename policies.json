@@ -1,5 +1,47 @@
 [
   {
+    "id": "eu-uk-holiday-returns-2026-11-01",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；News_Amazon 英国论坛帖可打开（createdAt 2026-10-30 UTC）；含 Nov 1–Dec 25 2026 可退至 Jan 31 2027、西班牙延至 Feb 6、德意法部分类目 Jan 15；与原文一致。",
+    "title": "欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-10-30",
+    "effective": "2026-11-01",
+    "dateNote": "多数站点：2026-11-01 至 2026-12-25 购买，可退至 2027-01-31 或送达后 30 天（取较晚）；西班牙购买窗延至 2027-01-06、退至 2027-02-06；德/意/法部分品类退至 2027-01-15 或送达后 14 天。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon 官方公告：与往年类似，欧洲各站年末购物季临时延长标准退货窗，方便买家早买。2026 年多数商品在 11 月 1 日至 12 月 25 日购买的，可退到 2027 年 1 月 31 日，或送达后 30 天（取较晚者）。适用于英国、西班牙、德国、意大利、法国、荷兰、波兰、瑞典、比利时、爱尔兰的全部 FBA 与 FBM 订单。例外：西班牙站 11 月 1 日至 2027 年 1 月 6 日购买的可退到 2 月 6 日（或送达后 30 天）；德国、意大利、法国站部分品类退货窗限 2027 年 1 月 15 日或送达后 14 天（品类见各国 Extended Christmas Returns Policy 帮助页）。卖家无需操作，常规退货资格规则不变。",
+    "orig": "News_Amazon (Amazon.co.uk forums), 30 October 2026: “Our 2026 extended holiday returns window allows most items purchased between 1 November 2026 and 25 December 2026, to be returned until 31 January 2027, or within 30 days from delivery, whichever is later. The extended return window applies to all Fulfilment by Amazon (FBA) and Fulfilled by Merchant (FBM) orders in the UK, Spain, Germany, Italy, France, the Netherlands, Poland, Sweden, Belgium and Ireland, with the following exceptions: Items bought in our Spain store between 1 November 2026 and 6 January 2027, can be returned until 6 February 2027, or within 30 days from delivery, whichever is later. For certain products sold in our Germany, Italy and France stores, the return window is limited to 15 January 2027, or within 14 days from delivery, whichever is later. … No action is required from you and all standard return eligibility criteria remain unchanged.”",
+    "plain": "这是啥：欧洲和英国站假日购物季延长退货——多数 11/1–12/25 买的东西可退到明年 1 月 31 日；西班牙更长一点，德意法部分品类更短。\n跟你有没有关系：你主做美国站的话这条是欧洲/英国的事；若开了英欧站，FBA 和自发货订单都会自动适用，退货可能拖到 1–2 月。\n你要做的事：不用改设置。若卖英欧，算旺季利润和 1 月库存时预留退货；德意法卖特定品类的去对应帮助页看是否走 1 月 15 日短窗。",
+    "outlook": "服务对象：消费者（送礼买错可慢退，促早下单）；平台借此抬旺季转化。推测：退货成本主要落在卖家，1–2 月欧洲退货量会抬高。库内相关：《美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日》《欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货》。",
+    "sourceName": "Amazon.co.uk 卖家论坛（News_Amazon）：Changes to returns window for holiday sales",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/18b2c703-6ef4-4f16-859f-bd33ff159ed7"
+  },
+  {
+    "id": "mx-isr-per-order-2026-11-07",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；News_Amazon 墨西哥论坛帖可打开（createdAt 2026-10-29 UTC）；写明 2026-11-07 起按订单自动计算/展示 ISR 预提，原为月度一次扣款；与原文一致。",
+    "title": "墨西哥所得税（ISR）预提 11 月 7 日起按订单自动计算并展示（不再只看月度一笔）",
+    "regions": [
+      "MX"
+    ],
+    "category": "税务与包装",
+    "status": "即将生效",
+    "announced": "2026-10-29",
+    "effective": "2026-11-07",
+    "zh": "亚马逊墨西哥卖家论坛 News_Amazon 官方公告：从 2026 年 11 月 7 日起，墨西哥所得税（ISR）预提将在下单时按订单自动计算并应用，你可以在每笔订单上看到具体预提金额，方便对账和报税。以前是每月从账户扣一笔总额，看不清对应哪些订单。亚马逊称这不改变整体现金流（以前也会扣同样的预提），只是改成按订单可见。适用于所有需 ISR 预提的交易。卖家无需操作；可在付款控制面板「交易」里看「其他」列，或下载结算报告 / 自定义报告核对。",
+    "orig": "News_Amazon (Amazon.com.mx forums), 29 October 2026: “A partir del 7 de noviembre de 2026, calcularemos y aplicaremos automáticamente la retención del impuesto sobre la renta de México a nivel de pedido cuando se realice un pedido. Verás exactamente el monto del impuesto sobre la renta que se retuvo en cada pedido… Anteriormente, la retención del impuesto sobre la renta se cobraba una vez al mes como un débito único de tu cuenta… Esto no afecta tu flujo de caja general, porque antes ya se aplicaba la misma retención. … Aunque no es necesario que hagas nada, puedes revisar la retención por pedido de varias formas en el Panel de control de pagos…”",
+    "plain": "这是啥：墨西哥站卖家被扣的所得税（ISR）预提，从 11 月 7 日起会按每笔订单自动算、并在后台按单显示，不再只是月底一笔糊涂账。\n跟你有没有关系：只影响在墨西哥站卖、且交易要预提 ISR 的卖家；你主做美国站一般暂时无关。\n你要做的事：不用改链接。若开墨西哥站，11 月 7 日后去付款面板按订单核对预提，方便会计对账；金额规则本身亚马逊称没变。",
+    "outlook": "服务对象：税务机关与卖家合规对账（透明度）；平台落实墨西哥预提展示。推测：短期结算明细会变细，会计需按单而不是按月总额对账。库内相关：《墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索》《奥地利包裹税：B2C 订单每单 €2.00，另加 20% 增值税》。",
+    "sourceName": "Amazon.com.mx 卖家论坛（News_Amazon）：La retención del impuesto sobre la renta en México se mostrará por orden a más tardar el 7 de noviembre de 2026",
+    "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/425f6197-e08f-4b73-9bd9-809d6b45bd1d"
+  },
+  {
     "id": "uk-vat-marketplace-liability-2027-10",
     "title": "英国 2027 年 10 月起：亚马逊等平台要替达标英国卖家代收 VAT（VAT 注册或单平台年销超 £90,000）",
     "regions": [
@@ -117,7 +159,7 @@
       "EU"
     ],
     "category": "税务与包装",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-26",
     "effective": "2026-11-03",
     "zh": "从 2026 年 11 月 3 日起，卖家可以在当月任何时间查看和申请亚马逊 VAT 交易报告（AVTR），数据最多到申请日前三天，不用再等到下个月 3 号。同一时间段如果有新数据进来，可以重新申请拿到最新版本。报告新增两列：TRANSACTION_UPDATED_DATE（这笔交易最后更新日期，用来找出上次下载后新增或改动的记录）、GOV_INVOICE_ID（政府分配的电子发票号，目前只有波兰 KSeF 交易有值，以后会加更多国家）。",
@@ -152,8 +194,8 @@
   {
     "id": "us-bfcm-deal-deadline-extended-2026-10-22",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；美国卖家论坛 News_Amazon 官方帖，datePublished 2026-10-22。帖中只写明 Prime 专享折扣（PED）的创建路径，没明确说秒杀（Lightning Deal）和 Best Deal 是否也能报到 11 月 13 日；入仓截止日期未改。加拿大站官方假日帖原本就写 11 月 13 日截止，不受此影响。",
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 Black Friday / November 13 延期，与库内一致，事实修正 0。",
     "title": "美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日：还能补报，但入仓截止没延",
     "regions": [
       "US"
@@ -564,8 +606,8 @@
     "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 90% Business Hour、October 30，与库内一致，事实修正 0。"
   },
   {
     "id": "li-device-tic-2026-09-30",
@@ -650,8 +692,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Answers to your product title update questions",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/302aaac6-6f2b-4d86-bcd2-36fe24f0e6cd",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 75 字符标题与 Item Highlights 125 字符要点，与库内一致，事实修正 0。"
   },
   {
     "id": "ai-people-tag",
@@ -1001,8 +1043,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；服装 ≤$20 推荐费相关表述仍在，事实修正 0。"
   },
   {
     "id": "us-sipp-2024",
@@ -1042,8 +1084,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；inbound placement 相关内容仍在，事实修正 0。"
   },
   {
     "id": "us-low-inventory-2024",
@@ -1062,8 +1104,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；low inventory 相关内容仍在，事实修正 0。"
   },
   {
     "id": "us-storage-2024",
@@ -1102,8 +1144,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；FBA fulfillment 相关内容仍在，事实修正 0。"
   },
   {
     "id": "us-returns-fee-2024",
@@ -1164,8 +1206,8 @@
     "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；2026-11-03 复查 sellingpartners 2025 费用页可达；“not increase”等表述仍在，事实修正 0。"
   },
   {
     "id": "us-fees-2026",
@@ -1185,8 +1227,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；帮助页经 headless Chrome 渲染后可达；可见 2026 / 0.08 相关表述，事实修正 0。"
   },
   {
     "id": "us-coupon-cap-2025",
@@ -1206,8 +1248,8 @@
     "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-27",
-    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-10-27 复查，原文引用与关键日期/数字一致。"
+    "verifiedAt": "2026-11-03",
+    "verifyNote": "200；帮助页经 headless Chrome 渲染后可达；可见 coupon / 2000 相关费用说明，事实修正 0。"
   },
   {
     "id": "ca-fees-2026",

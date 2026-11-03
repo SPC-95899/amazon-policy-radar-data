@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-04",
+    "status": "完成",
+    "finishedAt": "2026-11-04 06:11",
+    "summary": "检索 2026-10-27～2026-11-04：Seller Central 美/加/墨/英/德/法公告论坛、SP-API changelog、sellingpartners/aboutamazon/press、Marketplace Pulse/PPC Land 等。新增 2 条（IVP 扩容 A；DVA 上屏计曝光 C）。状态自动翻转 0 条。轮换复查最旧 verifiedAt 10 条：链接可达 10、失效 0；修正/升级 1（ads-agent-2026 升 A 并按官方页收紧表述）。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "sp-api-ivp-eu-jp-ca-2026-10-29",
+        "title": "企业购行业垂直定价（IVP）扩到加/欧/日：10 月 29 日起可用 API 按教育/医疗/政府等行业设 B2B 价"
+      },
+      {
+        "id": "ads-dva-onscreen-impressions-2027-01-01",
+        "title": "DVA 展示广告曝光改成「出现在屏幕上才算」：2027-01-01 起，站内展示曝光量预计平均少约 63%"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "status": "完成",
     "finishedAt": "2026-11-03 06:18",

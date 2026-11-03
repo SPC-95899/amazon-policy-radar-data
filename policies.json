@@ -1,5 +1,50 @@
 [
   {
+    "id": "sp-api-ivp-eu-jp-ca-2026-10-29",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；SP-API 官方 changelog 可打开；生效 2026-10-29；覆盖 UK/DE/FR/IT/ES/JP/CA；须已加入 Amazon Business Industry Vertical Pricing；与原文一致。",
+    "title": "企业购行业垂直定价（IVP）扩到加/欧/日：10 月 29 日起可用 API 按教育/医疗/政府等行业设 B2B 价",
+    "regions": [
+      "CA",
+      "EU",
+      "UK",
+      "JP"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-10-29",
+    "effective": "2026-10-29",
+    "dateNote": "官方写 Starting October 29, 2026；美国站 IVP 已于 2026 年 5 月上线，本条记加/欧（含英）/日扩容。",
+    "zh": "亚马逊 SP-API 官方更新：自 2026 年 10 月 29 日起，符合条件的第三方卖家可在加拿大、日本以及英国、德国、法国、意大利、西班牙等欧站，通过 Listings Items API 的 purchasable_offer.audience 字段提交行业垂直定价（Industry Vertical Pricing, IVP）受众值，为企业买家按行业（如教育、医疗、政府）设置专属价，并支持单件折扣与数量折扣。此为美国 2026 年 5 月上线后的扩容。变更向后兼容，仅扩展可接受的 audience 值（原有 B2B、ALL 仍可用）。卖家须已加入 Amazon Business Industry Vertical Pricing 计划；未用 IVP 的集成无需改动。",
+    "orig": "SP-API changelog: “Starting October 29, 2026, the Listings Items API will accept new Industry Vertical Pricing (IVP) audience values in the purchasable_offer.audience field for eligible third-party sellers in the EU, JP, and CA Amazon stores.” “IVP allows sellers to set industry-specific prices for B2B buyers based on their industry segment (such as Education, Healthcare, or Government).” “This expansion follows the US launch of IVP support in May 2026.” “Sellers must be enrolled in the Amazon Business Industry Vertical Pricing program to use these audience values.” Stores: United Kingdom, Germany, France, Italy, Spain, Japan, Canada.",
+    "plain": "这是啥：加拿大、欧洲（含英国）和日本站，企业购可以按买家行业（教育/医疗/政府等）单独设价了，还支持数量折扣；用官方 API 改价的人要注意新字段。\n跟你有没有关系：你主做美国站零售的话眼下关系不大；若同时做加/欧/日企业购、或软件帮你改 B2B 价，才有用。未加入 IVP 计划的不用管。\n你要做的事：想按行业给企业买家不同价，先问亚马逊 Business 代表能否加入 IVP，再让技术/ERP 按 changelog 提交新的 audience 值；不打算做企业购行业价就跳过。",
+    "outlook": "服务对象：企业买家（按行业拿到更贴合的价）和亚马逊 Business；推测也方便亚马逊拉高 B2B 成交。库内相关：《企业购 Business Discount 徽章：单件企业价满 5% 即可展示》《SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新》。",
+    "sourceName": "Amazon SP-API 开发者文档",
+    "sourceUrl": "https://developer-docs.amazon.com/sp-api/changelog/industry-vertical-pricing-audience-values-now-available-in-eu-jp-and-ca-amazon-stores"
+  },
+  {
+    "id": "ads-dva-onscreen-impressions-2027-01-01",
+    "sourceTier": "C",
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；PPC Land 2026-11-03 文可打开，文中引用广告主收到的亚马逊 Ads 通知原文要点（含 63%、页面范围、生效日）；官方公开帮助页未找到，故保留 C，verifyNote 标明。",
+    "title": "DVA 展示广告曝光改成「出现在屏幕上才算」：2027-01-01 起，站内展示曝光量预计平均少约 63%",
+    "regions": [
+      "US"
+    ],
+    "category": "广告",
+    "status": "即将生效",
+    "announced": "2026-11-03",
+    "effective": "2027-01-01",
+    "dateNote": "公告经广告主通知于 2026-11-03 公开流传（PPC Land）；生效日官方通知写 January 1, 2027。通知未说明计费是否同步改用新口径。",
+    "zh": "据 PPC Land 2026 年 11 月 3 日报道并引用亚马逊 Ads 发给广告主的通知：自 2027 年 1 月 1 日起，亚马逊商店内的 Display, Video & Audio（DVA）展示广告将不再在广告开始下载到设备时计入曝光（count-on-download），改为广告出现在购物者屏幕上后才计一次曝光。范围包括首页、商品详情页、搜索结果页和订单页等站内展示位。亚马逊预计这些版位上报的曝光量平均约减少 63%，页面靠下的版位降幅更大；并称测试中广告主看到 ROAS 上升、CPA 下降，具体因活动而异。通知未写明结算/CPM 是否改按新口径计费，也未覆盖 DVA 视频/音频、站外库存或 Sponsored 广告。",
+    "orig": "Amazon Ads advertiser notice (quoted by PPC Land, 3 Nov 2026): “On January 1, 2027, we are changing how we count impressions for Display, Video & Audio (DVA) display ads on the Amazon Store. Today, we count an impression when the ad starts to download to the shopper's device. This is known as count-on-download (COD). Starting January 1, 2027, we will count an impression once the ad appears on the shopper's screen.” “This change applies to DVA display ads placements on the Amazon Store, including the homepage, product detail pages, search results pages, and order pages.” “Impression counts on these placements will be about 63% lower on average… placements lower on the page will see a larger decrease in impression count.”",
+    "plain": "这是啥：2027 年 1 月 1 日起，亚马逊站内 DVA 展示广告要「真的出现在屏幕上」才算一次曝光，不再一下载就算；官方预计这类曝光数字平均会少大约六成。\n跟你有没有关系：你在美国投 DVA/原 DSP 展示广告才有关；只投 Sponsored Products/品牌广告、或不投广告的，这条先不用慌。计费会不会一起变，通知没说清楚。\n你要做的事：投 DVA 展示的，把明年 1 月起的曝光、CPM、同比报表预期按「口径变严」重算；别只看曝光掉了就砍预算，先对一下花销和转化。通知没提 Sponsored 搜索广告。",
+    "outlook": "服务对象：主要是广告主与亚马逊广告计量可信度；推测为对齐行业「可见才算」方向，并可能影响拍卖与 CPM 观感。推测：计费若不同步改，报表与账单会对不上，需等官方补充。库内相关：《美国广告：全漏斗广告已开放，DVA+ 10 月底铺开》《广告侧 Review Requests：2026 年 11 月邀请已验证买家评分》。",
+    "sourceName": "PPC Land（引述亚马逊 Ads 广告主通知）",
+    "sourceUrl": "https://ppc.land/amazon-drops-off-screen-ads-from-impression-counts-expects-63-fewer/"
+  },
+  {
     "id": "eu-uk-holiday-returns-2026-11-01",
     "sourceTier": "B",
     "verifiedAt": "2026-11-03",
@@ -359,8 +404,8 @@
   {
     "id": "us-nwd-brand-rep-2026-10-27",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：论坛帖 HTTP 200，卖家转述的通知原文与 orig 一致；亚马逊官方公告原文仍未找到，保留 C 级。",
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；论坛帖可打开，发帖人为普通卖家（非 News_Amazon），Roberto_Amazon 有跟帖；官方公告帖仍未找到，保留 C；事实修正 0。",
     "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）",
     "regions": [
       "US"
@@ -380,8 +425,8 @@
   {
     "id": "us-restore-to-new-2026-10-21",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：SellersAskSellers 转贴 HTTP 200，10 月 21 日改名扩容内容与 orig 一致；官方原文仍未找到，保留 C 级。",
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；SellersAskSellers 转贴页可打开，含 Restore to New / Sell as Used；官方原文仍未找到，保留 C；事实修正 0。",
     "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖",
     "regions": [
       "US"
@@ -543,8 +588,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
     "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：SellersAskSellers 转贴 HTTP 200，徽章规则与 orig 一致；官方原文仍未找到，保留 C 级。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文仍未找到，保留 C；5% 徽章阈值未改。"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -712,8 +757,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：论坛官方帖 HTTP 200，IPTC 关键词 contains-synthetic-performer 要求与条目一致。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；Seller Central 论坛帖可打开；关键要求与库内一致，事实修正 0。"
   },
   {
     "id": "tic-direct",
@@ -1164,8 +1209,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：官方页 HTTP 200，“highest return rates…starting June 1, 2024”与 orig 一致。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；sellingpartners.aboutamazon.com 费用更新页可打开；高退货处理费表述仍在；事实修正 0。"
   },
   {
     "id": "bundles-consumable-2024",
@@ -1185,8 +1230,8 @@
     "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：论坛官方帖 HTTP 200，2024 年 10 月 14 日原厂捆绑要求与 orig 一致。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；论坛帖可打开；消耗品捆绑原厂包装要求仍在；事实修正 0。"
   },
   {
     "id": "us-fees-2025",
@@ -1355,8 +1400,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：Autopilot 追踪页 HTTP 200，日期与引用一致；官方原文仍未找到，保留 C 级。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；第三方追踪页仍可打开并含 Account ID 角色变更条目；官方原文仍未找到，保留 C；事实未改。"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -1418,8 +1463,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：论坛 News_Amazon 官方帖 HTTP 200，“Effective January 11, 2027”与条目一致。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；News_Amazon 论坛帖可打开；2027-01-11 原厂包装要求仍在；事实修正 0。"
   },
   {
     "id": "listing-protection-2026",
@@ -1494,16 +1539,16 @@
     "status": "灰度推广",
     "announced": "2026-09-29",
     "effective": "2026-09-29",
-    "dateNote": "2026-09-29 是公布日，也是全漏斗广告对美国广告主开放的日子。DVA+ 只写“10 月底起铺开”，没有单独日期，所以没有把它写成卡片生效日。",
-    "zh": "SellerKit 2026年9月29日，unBoxed 2026：Amazon Ads Agent 的全漏斗广告已对全部美国广告主开放。DVA+ 自 10 月底起逐步推出。",
-    "orig": "SellerKit, 29 September 2026: Full-Funnel Campaigns are available now for all US advertisers. DVA+ rolls out from late October.",
-    "plain": "这是啥：美国广告主现在可以开全流程广告；另一种叫DVA+的视频广告从10月底起逐步开放。\n跟你有没有关系：只影响在美国投广告的人。不投广告的、不在美国卖的，不用管。全流程广告公布当天已经对全部美国广告主开放。\n你要做的事：要投的，可以直接开全流程广告。不投广告就不用做。",
-    "outlook": "推测是让广告预算更自动地花在亚马逊广告位上。和11月邀请买家评分连着，都是把广告和成交绑得更紧。",
-    "sourceName": "SellerKit FBA Updates",
-    "sourceUrl": "https://sellerkit.me/fba-updates",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：SellerKit 页 HTTP 200，DVA+ 相关内容仍在；官方原文仍未找到，保留 C 级。"
+    "dateNote": "公布日 2026-09-29。开放测试预计 late October 2026；全面可用目标 2027 Q1（约 35 市场）。本条生效日记公布日，状态保持灰度推广。",
+    "zh": "亚马逊广告官方（2026年9月29日）：推出 DVA+，在 Amazon Ads Agent 里用更简单的流程创建 Display/Video/Audio 广告，覆盖流媒体电视、在线视频、展示与音频，可投亚马逊站内与开放互联网。默认四步开投放（目标、商品/品牌 URL、审核 AI 创意、预算），也可打开高级设置做受众、交易、出价等精细控制。目前为美国延长封闭测试；官方预计 2026 年 10 月底进入开放测试，2026 年四季起国际扩展，2027 年一季度目标覆盖约 35 个市场全面可用。封闭测试阶段仅支持发票付款，信用卡计划 2027 年一季度支持。",
+    "orig": "Amazon Ads, 29 September 2026: “DVA+ introduces a simplified way to create Display, Video, and Audio campaigns—and a new way of working within Amazon Ads Agent.” “DVA+ is currently available in extended closed beta in the United States. Open beta is expected to begin late October 2026, with international expansion planned through Q4 2026 and general availability across 35 markets targeted for Q1 2027.” “Payment is invoice-only at closed beta. Credit card support is planned for Q1 2027.”",
+    "plain": "这是啥：美国广告后台多了个 DVA+，能在一个活动里投展示/视频/音频，还能让 AI 帮你粗开，需要时再自己调高级选项。\n跟你有没有关系：只影响在美国用亚马逊广告（尤其想投展示/视频/音频）的卖家；不投广告或只用搜索广告的，可以先不跟。现在还在美国测试，正式大铺要到 2027 年初前后。\n你要做的事：广告账户里若已看到 DVA+，可小预算试；还没有就等开放测试/客户经理开通。付费目前测试期多是发票，别假定能直接刷信用卡。",
+    "outlook": "服务对象：广告主与亚马逊广告（把原 DSP/展示能力塞进 Ads Agent）。推测：和站内 DVA 曝光改「上屏才算」是同一条广告产品线的计量与投放升级。库内相关：《DVA 展示广告曝光改成「出现在屏幕上才算」》《广告侧 Review Requests：2026 年 11 月邀请已验证买家评分》。",
+    "sourceName": "Amazon Ads：Reach new audiences using DVA+",
+    "sourceUrl": "https://advertising.amazon.com/resources/whats-new/dva-plus-display-video-audio-campaigns",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；已升级为 Amazon Ads 官方 DVA+ 页（2026-09-29）；页内写 US 延长封闭测试、open beta 预计 2026 年 10 月底、35 市场 GA 目标 2027 Q1；原 SellerKit「全漏斗已对全部美国广告主开放」未在本页出现，zh 已按官方口径收紧。"
   },
   {
     "id": "review-requests-2026",
@@ -1586,8 +1631,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-28",
-    "verifyNote": "10/28 复查：奥地利财政部页 HTTP 200，“2026 年 10 月 1 日起每包裹 EUR 2”与条目一致。"
+    "verifiedAt": "2026-11-04",
+    "verifyNote": "200；奥地利 BMF 官方页可打开，含 parcel delivery tax / EUR 2 相关内容；关键数字与库内一致，事实修正 0。"
   },
   {
     "id": "fba-meltable-2026-08-31",

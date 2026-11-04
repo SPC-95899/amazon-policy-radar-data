@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-05",
+    "status": "完成",
+    "finishedAt": "2026-11-05 06:18",
+    "summary": "检索 2026-10-28～2026-11-05：Seller Central 美/加/墨/英/德公告论坛、SP-API changelog（含 11/4 Release 索引）、sellingpartners/aboutamazon/press、GOV.UK、Marketplace Officer/PPC Land/Amazon Brand Guide/Niceggie 等。新增 0 条：保险 11/2、欧洲附加费 2%、AVTR、假日退货（美/欧）、国际入仓放宽、MX ISR、VMP、预付退货、黑五 Deal、DVA 曝光口径、IVP 扩容、英国 VAT 平台代收、费用重分配、退款不退货、不可售 14 天、IOR、NWD、危险品问答、多渠道/AI、Review Requests、EU 海关标识/€2 手续费等均已在库；3D Printers 独立费用类别仍仅见第三方，sell.amazon.com/pricing 与 SC 费用帮助页经 Chrome 渲染未见 “3D Printers”，官方未核实未入库；Shop Direct Merchant Workspace 面向站外商户接入 Alexa/搜索非 3P 政策未入库；BFCM 备战清单属运营提醒未入库；SP-API 11/4 Release / 结算报告 11/11 下线偏开发者未入库；英国分期 £40 门槛仍无确切日不强行补录。状态自动翻转 0 条。轮换复查最旧 verifiedAt 10 条（ca-fees-2026, commingle, eu-fbm-customs-identifiers-2026-11-01, eu-fbm-delivery-2026, eu-handling-fee-2026-11-01, eu-uk-avtr-anytime-2026-11-03, eu-uk-fba-returnless-resolutions-2026-10-27, nsp-2026-confirm-2026-10-31, us-sipp-2024, us-storage-2024）：链接可达 10、失效 0；修正/升级 1（us-fba-intl-inbound-extension-2026-10-30 由 C 升 B，换 News_Amazon 美国论坛官方帖）。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-04",
     "status": "完成",
     "finishedAt": "2026-11-04 06:11",

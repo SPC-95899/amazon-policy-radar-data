@@ -1,5 +1,46 @@
 [
   {
+    "id": "us-fees-2027",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；sellingpartners 公告页与 Seller Central 帮助页 G201411300 均可达；平均 +$0.19、2027-01-15、仓储/低库存 2027-02-01 等与原文一致",
+    "title": "2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "即将生效",
+    "announced": "2026-11-05",
+    "effective": "2027-01-15",
+    "dateNote": "履约费等多数变更自 2027-01-15 起；统一月仓储费（取消利用率附加与老旧库存附加、改按库龄一价）与低库存水平费新规则自 2027-02-01 起。燃油与物流附加费维持不变。",
+    "zh": "亚马逊 Selling Partners 与美国卖家帮助页（2026-11-05）：2027 年美国推荐费与 FBA 费用更新。FBA 履约费平均每件售出上调约 0.19 美元（约商品均价的 0.8%），有的涨有的降，多数自 2027年1月15日起。举例：售价 10–50 美元标准件，小号平均约 +0.40 美元、大号平均约 +0.12 美元；售价超 50 美元标准件，小号平均约 +0.70 美元、大号平均约 +0.47 美元。FBA 燃油与物流附加费维持不变。自 2027年2月1日起：取消仓储利用率附加费，取消老旧库存附加费并并入月仓储费，改成单一按库龄计价（周转 6 个月以内的持平或更低、老库存更高）；低库存水平费改为库存低于约 28 天供应量才收，并同时看评估日前后四周实际出货。另有大件/超大件尺寸档重划、部分类目不再享受低价 FBA、Remote Fulfillment 加加墨费率上调、促销月结等，详见帮助页。可在利润分析的 Fee Change Comparison 与收入计算器查看影响。",
+    "orig": "Amazon Selling Partners, November 5, 2026: “On average, FBA fulfillment fees will increase by $0.19 per unit sold, approximately 0.8% of the average item’s selling price… more than two months to plan before most changes take effect on January 15, 2027.” “The FBA fuel and logistics surcharge remains unchanged.” “Effective February 1, 2027, we’ll eliminate the storage utilization surcharge… remove the aged inventory surcharge and combine it with monthly storage fees into a single, age-based rate.” “Effective February 1, the [low-inventory-level] fee will apply only when your inventory falls below 28 days of supply, based on actual shipments in both the four weeks before and after the assessment date.” Seller Central help G201411300 adds size/price band averages (e.g. $10–$50 small standard +$0.40 / large +$0.12).",
+    "plain": "这是啥：2027年美国FBA配送费平均每件大约多19美分（约均价的0.8%），1月15日起；2月1日起仓储改成按库龄一个价（取消利用率附加和老库存附加），低库存费改成大约不够卖28天才收。燃油附加费这次不涨。\n跟你有没有关系：只影响美国FBA。自己发货的不用管配送费；有美国仓存货的要注意2月仓储和低库存新算法。Remote Fulfillment 发加拿大/墨西哥也会涨。\n你要做的事：打开利润分析里的 Fee Change Comparison 和收入计算器，按 ASIN 看2027年费用；旺季备货时算好2月起仓储与低库存规则，别只看平均多19美分。",
+    "outlook": "服务亚马逊：履约成本对账、仓储结构简化好算账；燃油附加费暂时不动。推测：平均涨幅比2026年的约8美分高，卖家会在定价和广告盈亏线上重算。库内相关：《2026 年美国 FBA 费平均每件上调约 0.08 美元》《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国标准件低库存水平费》《美国标准件非旺季月仓储费下调》《2026 年旺季履约费：10 月 15 日至 1 月 14 日》。",
+    "sourceName": "Amazon Selling Partners：Update to US Referral and Fulfillment by Amazon fees for 2027（2026-11-05）",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2027"
+  },
+  {
+    "id": "us-3d-printers-referral-2026-11-05",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；Seller Central 帮助页 G201411300「Referral fees」节可达；3D printers 新档 12%/5%、生效 2026-11-05 与原文一致",
+    "title": "美国 3D 打印机单独推荐费档：首 200 美元 12%、超出部分 5%，2026-11-05 起",
+    "regions": [
+      "US"
+    ],
+    "category": "费用",
+    "status": "已生效",
+    "announced": "2026-11-05",
+    "effective": "2026-11-05",
+    "zh": "美国卖家帮助页「2027 US Referral and Fulfillment by Amazon fees」写明：自 2026年11月5日起，3D 打印机启用更低的单独推荐费档。此前归在 Business, industrial, and scientific supplies。新费率：总售价前 200 美元收 12%，超过 200 美元的部分收 5%。高价机型整体费率会低于原类目。同页还提到 Amazon Renewed 部分类目推广期推荐费 10%，至 2027年10月18日自动适用。",
+    "orig": "Seller Central help G201411300, Referral fees: “Lower referral fee for 3D printers: We're introducing a new, lower referral fee for 3D printers, effective November 5, 2026. Previously, these items were categorized as Business, industrial, and scientific supplies. The new referral fee is 12% on the first $200 of the total sales price, and 5% on any amount above $200.”",
+    "plain": "这是啥：美国站把3D打印机单独拉出一个更低的佣金档，从2026年11月5日起：售价前200美元收12%，超过的部分收5%。\n跟你有没有关系：只影响在美国卖3D打印机的人；卖宠物用品等其他类目的不受影响。\n你要做的事：卖3D打印机的，去费用预览核对新佣金并重算利润；不卖就不用做。",
+    "outlook": "服务卖家与品类扩张：高价3D打印机佣金更友好，方便把工业科学类目拆细。库内相关：《部分 ASIN 10 月 31 日起被改到新的费用类别，佣金可能跟着变》《2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需》。",
+    "sourceName": "Seller Central Help：2027 US Referral and Fulfillment by Amazon fees（Referral fees / 3D printers）",
+    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/G201411300?locale=en-US"
+  },
+  {
     "id": "sp-api-ivp-eu-jp-ca-2026-10-29",
     "sourceTier": "A",
     "verifiedAt": "2026-11-04",
@@ -609,8 +650,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
     "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630",
     "sourceTier": "C",
-    "verifiedAt": "2026-10-29",
-    "verifyNote": "200（10-29 复查）；第三方论坛转贴，11/10 审核、11/11 上架与条目一致；官方原文仍未找到公开页，保留 C 级"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；第三方 SellersAskSellers 转贴仍可达；11/10 审核、11/11 开卖、VMP_ 筛选与条目一致；公开官方 A/B 仍未找到，保留 C 级"
   },
   {
     "id": "fba-return-grading-2026-10-14",
@@ -630,8 +671,8 @@
     "sourceName": "Seller Central 美国论坛官方公告：Customize how your FBA returns are graded for resale",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/731e6e69-5bfa-4a4f-9685-acb9da76153b",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；美国论坛帖仍可打开"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；美国论坛官方帖可达；退货 grading / condition 相关表述仍在，事实修正 0"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -799,8 +840,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；加拿大帮助页仍可打开（需登录/JS 时也可能 200）"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；3.5% fuel、April 17 相关表述仍在，事实修正 0"
   },
   {
     "id": "eu-fees-2026",
@@ -819,8 +860,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；与 eu-fee-cut 同源帖仍可打开；未逐条重核全部费率表"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；与 eu-fee-cut-2025 同帖可达；欧洲 2026 费用相关表述仍在，事实修正 0"
   },
   {
     "id": "mx-zero-fee",
@@ -879,8 +920,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/467718ca-3e4d-42d2-b934-1e6771af99d3",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；已换成美国卖家论坛官方帖；Quick Plus 主账号可免费领 12 个月（须 2026-12-31 前注册）与原文一致；Claude/Quick 插件均为 beta",
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；美国论坛官方帖可达；Seller Assistant / AI 工具假期说明仍在，事实修正 0",
     "dateNote": "Accelerate 2026-09 宣布；美国论坛假期提醒帖约三周前（引用为当前 B 级来源）"
   },
   {
@@ -926,8 +967,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：FBA Export expands to new destinations",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d2908c90-b115-4777-90d7-dc6e74197566",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；英国论坛帖仍可打开"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；英国论坛官方帖可达；175+ 新目的地表述仍在，事实修正 0"
   },
   {
     "id": "dg-questions",
@@ -947,8 +988,8 @@
     "sourceName": "Amazon 美国卖家论坛 News_Amazon（德国站同题公告已交叉核对）",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；美国论坛 News_Amazon 与德国论坛同题公告均确认 2026-10-26 起四类商品新建/编辑须答危险品合规问题；类别与原文一致；德国站帖已核"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；美国论坛官方帖可达；危险品合规问卷相关表述仍在，事实修正 0"
   },
   {
     "id": "gpsr",
@@ -1421,8 +1462,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；论坛帖仍可打开；费用下调事实未改；未逐条重核全部费率表"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；论坛官方帖可达；欧洲履约费下调相关表述仍在，事实修正 0"
   },
   {
     "id": "pan-eu-nl-2026",
@@ -1652,8 +1693,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；美国论坛帖仍可打开"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；美国论坛官方帖可达；可融化库存相关表述仍在，事实修正 0"
   },
   {
     "id": "sc-provider-2026-09-01",
@@ -1696,7 +1737,7 @@
     "sourceName": "Amazon Seller Central：FBA Partial Refunds",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；帮助页仍可打开；按退货原因设置与条目一致"
+    "verifiedAt": "2026-11-06",
+    "verifyNote": "200；帮助页经 headless Chrome 渲染可达；partial refund / return reason 相关表述仍在，事实修正 0"
   }
 ]

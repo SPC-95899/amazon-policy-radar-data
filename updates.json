@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-06",
+    "status": "完成",
+    "finishedAt": "2026-11-06 06:12",
+    "summary": "检索 2026-10-29～2026-11-06：Seller Central 美/加/墨/英公告论坛、sellingpartners（含 11/5 美国 2027 费用官方信）、Seller Central 帮助页 G201411300（Chrome）、SP-API changelog、欧盟税务海关 PID 新闻、PPC Land/Marketplace Officer 等线索。新增 2 条：美国 2027 FBA/仓储/低库存费用包；美国 3D 打印机单独推荐费档（此前未核实，现帮助页官方确认）。跳过：Shop Direct Merchant Workspace（非 3P）、SP-API 结算报告下线（开发者向）、Reporter Assistant（已在品牌备案举报改版条目）、欧盟 PID/€2（库内已有且已生效）、MX ISR/保险/VMP/BFCM 等已知主题。状态自动翻转 0 条（无 effective≤今天 的即将生效项）。链接复查 10 条（verifiedAt 最旧）：全部 HTTP 200，失效 0，事实修正 0；VMP 仍无公开官方 A/B，保留 C。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "us-fees-2027",
+        "title": "2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需"
+      },
+      {
+        "id": "us-3d-printers-referral-2026-11-05",
+        "title": "美国 3D 打印机单独推荐费档：首 200 美元 12%、超出部分 5%，2026-11-05 起"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "status": "完成",
     "finishedAt": "2026-11-05 06:18",

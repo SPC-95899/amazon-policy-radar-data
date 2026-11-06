@@ -1,5 +1,26 @@
 [
   {
+    "id": "ca-fees-2027",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；Seller Central 加拿大帮助页 G201411300「2027 Canada Referral and Fulfilment by Amazon fees」与 News_Amazon 加拿大论坛帖（createdAt 2026-11-05T20:02:05Z）均可打开；平均 +CAD 0.21、2027-01-15、仓储/低库存 2027-02-01、燃油附加费不变等与原文一致",
+    "title": "2027 年加拿大 FBA 费平均每件上调约 0.21 加元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
+    "regions": [
+      "CA"
+    ],
+    "category": "费用",
+    "status": "即将生效",
+    "announced": "2026-11-05",
+    "effective": "2027-01-15",
+    "dateNote": "履约费等多数变更自 2027-01-15 起；统一月仓储费（取消利用率附加与老旧库存附加、改按库龄一价）与低库存水平费新规则自 2027-02-01 起。FBA 燃油与物流附加费维持不变。论坛与帮助页同日公告。",
+    "zh": "亚马逊加拿大卖家帮助页与 News_Amazon 论坛（2026-11-05）：2027 年加拿大推荐费与 FBA 费用更新。FBA 履约费平均每件售出上调约 CAD 0.21（约商品均价的 0.6%），有的涨有的降，多数自 2027年1月15日起。尺寸档从 Envelope/Standard/各级 Oversize 改为 Small Standard、Large Standard、Small Bulky、Large Bulky、Extra Large。FBA 燃油与物流附加费维持不变。自 2027年2月1日起：取消仓储利用率附加费，取消老旧库存附加费并并入月仓储费，改成单一按库龄计价（周转 6 个月以内持平或更低、老库存更高）；低库存水平费改为库存低于约 28 天供应量才收，并同时看评估日前后四周实际出货。另有：Remote Fulfilment 从美国发加拿大平均约 +CAD 0.80/件；PanAmericas 美国到加拿大履约费平均约 +CAD 0.18/件且自 1月15日起也适用燃油附加费；Buy X Get Y 促销引入 CAD 2 预付费 +1% 可变费（上限 CAD 300）；2027年2月起促销改按月账单；MCF 费率上调约 3.5% 并对齐 FBA 尺寸档等。可在利润分析的 Fee Change Comparison 与收入计算器查看影响。",
+    "orig": "Amazon.ca Seller Central help G201411300 / News_Amazon Canada forums, November 5, 2026: “On average, FBA fulfilment fees will increase by CAD 0.21 per unit sold, approximately 0.6% of the average item’s selling price… more than two months to plan before most changes take effect on January 15, 2027.” “The FBA fuel and logistics surcharge remains unchanged.” “Effective 1 February 2027, we’ll eliminate the storage utilisation surcharge… remove the aged inventory surcharge and combine it with monthly storage fees into a single, age-based rate.” “Effective 1 February 2027, the [Low Inventory Level] fee will apply only when your inventory falls below 28 days of supply, based on actual shipments in both the four weeks before and after the assessment date.” Also: Remote Fulfilment US→CA average +CAD 0.80; PanAmericas US→CA average +CAD 0.18; MCF fees increase ~3.5%.",
+    "plain": "这是啥：2027年加拿大FBA配送费平均每件大约多0.21加元（约均价的0.6%），1月15日起；2月1日起仓储改成按库龄一个价（取消利用率附加和老库存附加），低库存费改成大约不够卖28天才收。燃油附加费这次不涨。\n跟你有没有关系：只影响加拿大FBA。主做美国站的可先记一笔；若用 Remote Fulfilment/PanAmericas 从美国发加拿大，履约费也会涨。\n你要做的事：开了加拿大站的，打开利润分析里的 Fee Change Comparison 和收入计算器按 ASIN 看2027年费用；备货时算好2月起仓储与低库存新算法。",
+    "outlook": "服务亚马逊：履约成本对账、仓储结构简化好算账；燃油附加费暂时不动。推测：与美国站同日公布的2027费用包结构接近（美站平均约+$0.19），跨境 Remote/PanAmericas 通道也会跟涨。库内相关：《2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需》《加拿大 2026 年推荐费与 FBA 费不上调，优惠券封顶 500 加元》《FBA 等履约费加收 3.5% 燃油与物流附加费》。",
+    "sourceName": "Seller Central Help：2027 Canada Referral and Fulfilment by Amazon fees（G201411300）",
+    "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/G201411300?locale=en-CA"
+  },
+  {
     "id": "us-fees-2027",
     "sourceTier": "A",
     "verifiedAt": "2026-11-06",
@@ -117,7 +138,7 @@
       "MX"
     ],
     "category": "税务与包装",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-29",
     "effective": "2026-11-07",
     "zh": "亚马逊墨西哥卖家论坛 News_Amazon 官方公告：从 2026 年 11 月 7 日起，墨西哥所得税（ISR）预提将在下单时按订单自动计算并应用，你可以在每笔订单上看到具体预提金额，方便对账和报税。以前是每月从账户扣一笔总额，看不清对应哪些订单。亚马逊称这不改变整体现金流（以前也会扣同样的预提），只是改成按订单可见。适用于所有需 ISR 预提的交易。卖家无需操作；可在付款控制面板「交易」里看「其他」列，或下载结算报告 / 自定义报告核对。",
@@ -172,8 +193,8 @@
   {
     "id": "uk-bfcm-deal-deadline-2026-11-18",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；英国论坛 Black Friday Week 备战帖与 Peak season 2026 帖均写 Lightning/Best Deals 提报窗口关至 11 月 18 日；费用与入仓日期未在本条展开",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；英国论坛 Black Friday Week 备战帖可达；11/18 截止与原文一致",
     "title": "英国/欧洲黑五周促销提报截止 11 月 18 日：Lightning 与 Best Deals，还可报企业购专属 Deal",
     "regions": [
       "UK",
@@ -194,8 +215,8 @@
   {
     "id": "sp-api-listing-attrs-2026-10-26",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；SP-API 官方 changelog；生效 2026-10-26；影响 Listings Items API 与 JSON_LISTINGS_FEED；产品-only/XSD/XML 不受影响",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；SP-API changelog 可达；轮换复查无断链，关键事实未改",
     "title": "SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项",
     "regions": [
       "GLOBAL"
@@ -320,8 +341,8 @@
   {
     "id": "brand-registry-report-violation-2026-10-22",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；韩国全球开店官方页可达；举报违规统一入口与 AI 助手描述一致",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；sell.amazon.co.jp 违规举报改版页可达；轮换复查无断链",
     "title": "品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手",
     "regions": [
       "GLOBAL"
@@ -362,9 +383,9 @@
   },
   {
     "id": "gwd-expiration-dated-2026-10-12",
-    "sourceTier": "C",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200（带浏览器 UA）；C 级第三方文仍可打开，官方原文仍未找到；保留并注明",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；升级 C→B：换美国 Seller Forums News_Amazon 官方帖（createdAt 2026-10-12）；365/180 天、深圳/上海/宁波、美妆个护母婴等与原文一致",
     "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天",
     "regions": [
       "US"
@@ -373,12 +394,12 @@
     "status": "已生效",
     "announced": "2026-10-12",
     "effective": "2026-10-12",
-    "zh": "Seller Central 新闻（2026-10-12，经 EHP 转贴）：卖家现在可以把有保质期的商品存放在全球仓储配送（GWD），再补货到美国 FBA 运营中心。健康和个人护理、美妆、母婴或其他符合条件类目的卖家，可把剩余保质期在创建货件时 ≥365 天的有保质期商品送到深圳、上海或宁波的 GWD 仓；符合类目中部分商品（如易融化或温度敏感商品）不能存放。商品离开 GWD 时剩余保质期须 ≥180 天。可用自动或手动补货，与其他 GWD 库存一样管理。具体资格以“GWD 商品资格”页面为准。",
-    "orig": "Amazon Seller Central News, October 12, 2026 (repost): “You can now store products with expiration dates in Global Warehousing and Distribution (GWD) and replenish them to Fulfillment by Amazon (FBA) fulfillment centers in the US.” “…if they have 365 days or more of remaining shelf life when you create your shipment.” “When they leave GWD, products must have 180 days or more of remaining shelf life…”",
+    "zh": "亚马逊美国卖家论坛 News_Amazon（2026-10-12）：卖家现在可以把有保质期的商品存放在全球仓储配送（GWD），再补货到美国 FBA 运营中心。健康和个人护理、美妆、母婴或其他符合条件类目的卖家，可把剩余保质期在创建货件时 ≥365 天的有保质期商品送到深圳、上海或宁波的 GWD 仓；符合类目中部分商品（如易融化或温度敏感商品）不能存放。商品离开 GWD 时剩余保质期须 ≥180 天。可用自动或手动补货，与其他 GWD 库存一样管理。具体资格以“GWD 商品资格”页面为准。",
+    "orig": "News_Amazon (Amazon.com forums), October 12, 2026: “You can now store products with expiration dates in Global Warehousing and Distribution (GWD) and replenish them to Fulfillment by Amazon (FBA) fulfillment centers in the US.” Eligible sellers in Health and Personal Care, Beauty, Baby Products, or other eligible categories can send expiration-dated products with 365 days or more of remaining shelf life when creating the shipment to GWD facilities in Shenzhen, Shanghai, or Ningbo. “When they leave GWD, products must have 180 days or more of remaining shelf life…” Meltable and temperature-sensitive items among otherwise eligible categories cannot be stored.",
     "plain": "这是啥：以前带保质期的货（美妆、个护、母婴等）不能进亚马逊在中国的 GWD 仓，现在可以了，但进仓时保质期至少还剩 1 年，从 GWD 补去美国 FBA 时至少还剩半年。\n跟你有没有关系：只有你卖带保质期的商品、又想先在国内囤货再慢慢补到美国时才有关系；没有保质期商品就无关。\n你要做的事：有这类货的，先在 GWD 发货流程里查具体 ASIN 能不能进；按销量算好进仓数量，别让货在 GWD 里放到保质期不足 180 天出不去。",
     "outlook": "主要服务亚马逊：把更多类目的货留在中国仓，按需补到美国，减轻美国仓压力、多卖 GWD 仓储和物流服务；对中国卖家是省美国仓储费的选项。推测：后续会随 GWD 扩到英国、日本、欧洲、加拿大，这类保质期商品也会跟着开放。库内相关：《全球仓配扩展与一次送检试点》《美国 FBA 按品类分时段重新接收可融化库存》《2026 年旺季履约费：10 月 15 日至 1 月 14 日》。",
-    "sourceName": "EHP Consulting 转贴 Seller Central News：Store expiration-dated products in Global Warehousing and Distribution（2026-10-12）",
-    "sourceUrl": "https://ehpconsultinggroup.com/store-expiration-dated-products-in-global-warehousing-and-distribution/"
+    "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Store expiration-dated products in Global Warehousing and Distribution",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/9a72bca8-b354-44ea-bbf5-0f738dbb297f"
   },
   {
     "id": "eu-fbm-customs-identifiers-2026-11-01",
@@ -487,8 +508,8 @@
   {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；英国论坛官方帖可达；1.5%→2%、FBA 11/2、MCF 11/19、十国名单与平均约 £0.02/€0.02 一致",
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；英国论坛燃油附加费 2% 官方帖可达；轮换复查无断链",
     "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
     "regions": [
       "EU"
@@ -754,8 +775,8 @@
     "sourceName": "亚马逊全球开店（韩国）官方动态：11월 2일부터 확대되는 미국 상업 책임 보험 가입 의무（2026-09-18）",
     "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/us-liability-insurance-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；韩国官方页复查：11/2、增强安全类目不论是否满月销 1 万美元、事件/累计各 100 万美元保额与原文一致；中国大陆 Accelerator 要求沿用前次美国论坛核实"
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；sell.amazon.co.jp 美国责任保险扩围页可达；轮换复查无断链"
   },
   {
     "id": "title-75",
@@ -944,8 +965,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；aboutamazon 新闻页仍可打开"
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；aboutamazon 全球拓展工具新闻页可达；轮换复查无断链，关键事实未改"
   },
   {
     "id": "fba-export",
@@ -1008,8 +1029,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-30",
-    "verifyNote": "200；帮助页仍可打开"
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；Seller Central GPSR 帮助页可达；轮换复查无断链，关键事实未改"
   },
   {
     "id": "ppwr",
@@ -1048,8 +1069,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/95297f6b-e7f9-48be-84a9-5e540a4770bc",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；已从第三方追踪页升级为美国卖家论坛官方帖（B 级）；200 笔/$5,000、核验项与停用后果与原文一致"
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；美国论坛 INFORM Act 官方帖可达；轮换复查无断链"
   },
   {
     "id": "safe-t",
@@ -1109,8 +1130,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；黄金购物车去资格门槛已换美国论坛 News_Amazon 官方帖并升 B；变体向导 8 月底停用另有美国论坛官方帖 25e1f3ea 交叉核实；处理时间匹配实际发货速度一项官方公开帖仍未找到，zh/plain 已标明"
+    "verifiedAt": "2026-11-07",
+    "verifyNote": "200；美国论坛 Featured Offer 官方帖可达；轮换复查无断链"
   },
   {
     "id": "us-apparel-ref-2024",

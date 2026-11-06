@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-07",
+    "status": "完成",
+    "finishedAt": "2026-11-07 06:14",
+    "summary": "检索 2026-10-31～2026-11-07：Seller Central 美/加/墨/英/德公告论坛（Chrome）、加拿大帮助页 G201411300（Chrome）、sellingpartners、SP-API changelog（含 11/4 Release 索引）、press/aboutamazon、Marketplace Officer/PPC Land/PPC Spider/Niceggie/ZONSEO/迪迪跨境等线索。新增 1 条：加拿大 2027 FBA/仓储/低库存费用包（帮助页 A 级，与美国 11/5 费用信同结构）。跳过：美国 2027 费用论坛镜像（库内 us-fees-2027 已有）、3D 打印机推荐费、MX ISR、保险 11/2、欧洲附加费 2%、AVTR、假日退货（美/欧）、国际入仓放宽、VMP、预付退货、黑五 Deal、DVA 曝光口径、IVP 扩容、英国 VAT 平台代收、Shop Direct Merchant Workspace（非 3P）、SP-API 结算报告下线（开发者向）、Attain DVA+ 受众（广告产品功能）、德国纺织鞋靴销毁限制论坛帖（约 5 个月前/ESPR 7 月起已生效提醒）、UK Seller Assistant/参考价旧帖等。状态自动翻转 1 条（mx-isr-per-order-2026-11-07 effective≤今天 →已生效）。链接复查 10 条（verifiedAt 最旧）：全部 HTTP 200，失效 0，事实修正 0；升级 1（gwd-expiration-dated-2026-10-12 C→B，换 News_Amazon 美国论坛官方帖）。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "ca-fees-2027",
+        "title": "2027 年加拿大 FBA 费平均每件上调约 0.21 加元；2 月起仓储并成按库龄一价、低库存费改 28 天供需"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "status": "完成",
     "finishedAt": "2026-11-06 06:12",

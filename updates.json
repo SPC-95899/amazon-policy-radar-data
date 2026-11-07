@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-08",
+    "status": "完成",
+    "finishedAt": "2026-11-08 06:11",
+    "summary": "检索 2026-10-31～2026-11-08：Seller Central 美/加/墨/英/德/法公告论坛（Chrome）、sellingpartners（含 11/5 美国 2027 费用信）、SP-API changelog（11/4 Release 索引）、press/aboutamazon、Federal Register/USTR（301 排除延期核对）、PPC Spider/Marketplace Officer/ZONSEO/wortfilter/Niceggie/The Conveyor 等线索。新增 0 条：美国/加拿大 2027 费用、3D 打印机推荐费、保险 11/2、欧洲附加费 2%（含 MCF 11/19）、AVTR、假日退货（美/欧）、国际入仓放宽、MX ISR、VMP、预付退货、黑五 Deal、DVA 曝光口径、IVP 扩容、英国 VAT 平台代收、EU 海关标识/€2、退款不退货、不可售 14 天、IOR、NWD、危险品问答等均已在库；Shop Direct Merchant Workspace（非 3P）未入库；Attain DVA+ 受众（广告产品功能）未入库；SP-API 结算报告 11/11 下线（开发者向）未入库；德国纺织鞋靴销毁限制旧帖未入库；Variation 拆分子体/解绑家庭仅见 LinkedIn/第三方、无带日期官方 A/B 公告未入库；Section 301 共 178 条中国排除至 2026-11-09 23:59 EDT 到期（FR 2025-21671 已核实），属 2025-12 已公告之既有期限、非本窗口新政策，且仅覆盖特定 HTS 排除行，未强行入库；EU ECGT/绿色声明/法定保修提示论坛帖（约 9 月起已生效）不在本窗口新公告，未入库。状态自动翻转 0 条（无 effective≤今天 的即将生效/待生效项；VMP 11/11、英欧黑五 11/18 等仍待生效）。链接复查 10 条（verifiedAt 最旧）：可达 9、失效/拦截 1（ltl-buy-shipping Supply Chain Dive 403，已换 The Conveyor 200，仍 C 级）；事实修正 0；升级 0。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-07",
     "status": "完成",
     "finishedAt": "2026-11-07 06:14",

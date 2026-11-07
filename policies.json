@@ -361,8 +361,8 @@
   {
     "id": "seller-central-passkey-required-2026-09-18",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；韩国官方页可达；逐步强制 Passkey、密码仅用于找回、共用账号须开子用户等与原文一致；无统一全网截止日",
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；韩国官方页再核可达（首次偶发 404，重试 200）；标题「패스키 적용 안내」；逐步强制 Passkey 表述与条目一致；无统一全网截止日；事实修正 0",
     "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号",
     "regions": [
       "US",
@@ -607,8 +607,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；英国论坛官方帖可达；三档考核、10/30 起、标准件 25% 一日达、超大件 97% 准时送达等与前次核对一致；今日起 status 已为已生效"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；英国论坛官方帖 Chrome 渲染可达；Starting 30 October 2026、三档、25% 等与原文一致；事实修正 0"
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
@@ -735,8 +735,8 @@
     "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7",
     "sourceTier": "B",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；美国论坛官方帖可达；锂电池智能家居/电子须经认可 TIC、不再直交亚马逊等与原文一致"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；美国论坛官方帖可达；锂电池智能家居/电子须经认可 TIC、不再直交亚马逊、9/30 起等与原文一致；事实修正 0"
   },
   {
     "id": "eu-fbm-delivery-2026",
@@ -921,8 +921,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；aboutamazon 多渠道工具页可打开，与条目一致；事实修正 0。"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；aboutamazon 多渠道工具页可达；eBay/Shopify/TikTok/Walmart 连接能力仍在；事实修正 0"
   },
   {
     "id": "claude-plugin",
@@ -1420,8 +1420,8 @@
     "sourceName": "Amazon 美国卖家论坛官方公告：New requirement for products with lithium-ion batteries shipped by air",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2ba13eab-a0e9-43c4-b5e5-0305ae77e945",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；论坛官方帖可打开，meta description 仍含 Effective January 1, 2026 / lithium-ion / ICAO / 2.7 Wh / 30% state of charge，与条目一致；事实修正 0。"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；论坛官方帖可达；Effective January 1, 2026 / ICAO / 2.7 Wh / 30% state of charge 与条目一致；事实修正 0"
   },
   {
     "id": "related-accounts-2026",
@@ -1546,8 +1546,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；Accelerate 回顾页可达；AHA 卖家违规处理期间链接保持在售、年底前覆盖美国等描述一致"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；Accelerate 回顾页可达；Listing Protection / 违规处理期间保持在售等描述仍在；灰度推广不变；事实修正 0"
   },
   {
     "id": "ltl-buy-shipping-2026",
@@ -1564,11 +1564,11 @@
     "orig": "Supply Chain Dive, 30 September 2026, quoting Ripley MacDonald (VP, Amazon Supply Chain Services) at Accelerate 2026: “Starting in October, sellers can acquire the LTL labels through Amazon Buy Shipping… via Seller Central and their third-party shipping software.” “When you use LTL through Buy Shipping, you take advantage of Amazon's special negotiated rates and receive protection from late deliveries.” Regional delivery pricing for heavy and bulky items planned for early 2027.",
     "plain": "这是啥：美国自己发的重货和超大件，从10月起可以在后台直接买零担卡车面单。\n跟你有没有关系：只影响美国、而且自己发重货或超大件的人。走亚马逊仓发货的、不发重货的，不用管。按区域计价是2027年初的计划，不是现在这张面单要改的。\n你要做的事：要发这类货的，到后台买卡车面单。不发就不用做。",
     "outlook": "推测是大件也要送到买家家里，所以卡车发货被收进亚马逊的面单。和发货时间必须填真实是一件事：重货一样会被计时，慢了会影响购物车。",
-    "sourceName": "Supply Chain Dive：Amazon rolls out new capabilities for bulky package shippers（引述亚马逊副总裁 Accelerate 2026 发言）",
-    "sourceUrl": "https://www.supplychaindive.com/news/amazon-rolls-out-new-capabilities-for-bulky-package-shippers/831661/",
+    "sourceName": "The Conveyor",
+    "sourceUrl": "https://www.theconveyor.co/p/amazon-ltl-labels-bulky-sellers",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "403（Supply Chain Dive 拦截脚本 UA）；The Conveyor 2026-10-01 交叉证实 Accelerate 宣布 10 月起 Buy Shipping 可买 LTL 面单、议价与晚点保护；官方 A/B 原文仍未找到，保持 C。"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "原 Supply Chain Dive 403；改挂 The Conveyor 2026-10-01（HTTP 200）交叉报道：Accelerate 宣布 10 月起 Buy Shipping 可买 LTL 面单、协议价与晚点保护；June 官方新闻稿为 ASCS 对公 LTL 网络（非同一产品），Buy Shipping LTL 官方 A/B 原文仍未找到，保持 C"
   },
   {
     "id": "lending-2026",
@@ -1588,8 +1588,8 @@
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-10-31",
-    "verifyNote": "200；Accelerate 回顾页可达；年底前开放 Lending、SBA 最高约 500 万美元仍在；灰度推广状态不变"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；Accelerate 回顾页可达；年底前开放 Lending、取消邀请、含 SBA 支持贷款（页内可见）仍在；灰度推广不变；事实修正 0"
   },
   {
     "id": "ads-agent-2026",
@@ -1651,8 +1651,8 @@
     "sourceName": "About Amazon 新闻稿：MCF Prime delivery 与 MCF Preferred Pricing",
     "sourceUrl": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；aboutamazon 新闻稿可打开，Prime 配送/履约费优惠表述仍在，与条目一致；事实修正 0。"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；aboutamazon 新闻稿可达；自有站 Prime 配送、履约费最高约 25% 优惠表述仍在；事实修正 0"
   },
   {
     "id": "multichannel-tools-2026",
@@ -1672,8 +1672,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；与 multichannel 同源 aboutamazon 页 200，内容一致；事实修正 0。"
+    "verifiedAt": "2026-11-08",
+    "verifyNote": "200；与 multichannel 同源 aboutamazon 页 200，内容一致；事实修正 0"
   },
   {
     "id": "at-parcel-tax-2026-10-01",

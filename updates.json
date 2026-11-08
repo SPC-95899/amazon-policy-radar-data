@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-09",
+    "status": "完成",
+    "finishedAt": "2026-11-09 06:12",
+    "summary": "检索 2026-11-01～2026-11-09：Seller Central 美/加/墨/英/德公告论坛（Chrome，含最新列表）、sellingpartners（仍以 11/5 美国 2027 费用信为最新政策稿）、press/aboutamazon、SP-API changelog 索引、Federal Register/CBP（含 11/6 外国 IOR 暂行最终规则）、GOV.UK、PPC Spider/Marketplace Officer/Daily Heads Up/ZONSEO/Niceggie/迪迪跨境等线索。新增 0 条。更新 1 条：us-foreign-ior-import-rule-2026-10-19——CBP 11/5 新闻稿、11/6 联邦公报（91 FR 69977 / 2026-22735）发布外国 IOR 暂行最终规则，2027-01-05 起须自己是 CTPAT 认证或指定 CTPAT 认证持牌报关行；美国 IOR 定义、报关单声明与报关行核验一并写入；status 政策说明→即将生效，sourceTier B→A，sourceUrl 换联邦公报。跳过：美国/加拿大 2027 费用、3D 打印机推荐费、保险 11/2、欧洲附加费 2%（含 MCF 11/19）、AVTR、假日退货（美/欧）、国际入仓放宽、MX ISR、VMP（11/11 开卖）、预付退货、黑五 Deal（美 11/13、英欧 11/18）、DVA 曝光口径、IVP 扩容、英国 VAT 平台代收、EU 海关标识/€2、退款不退货、不可售 14 天、NWD、危险品问答等均已在库；Shop Direct Merchant Workspace（非 3P）未入库；Attain DVA+ 受众（广告产品功能）未入库；SP-API 结算报告 11/11 下线（开发者向）未入库；日本 11/9 FBM OTDR 豁免不在美加墨欧范围未入库；欧洲 2027 费用尚未见官方公告未入库；Variation 拆分子体/解绑家庭仅见 LinkedIn/第三方、无带日期官方 A/B 公告未入库；加拿大 11/23 退货政策/无退货退款规则仅见迪迪跨境转述，加拿大公告论坛未见对应 News_Amazon 帖、官方原文未找到，未入库；Section 301 共 178 条中国排除至 2026-11-09 23:59 EDT 到期（FR 2025-21671 已核实），属 2025-12 已公告之既有期限、本窗口未见延期新公告，未强行入库；CBP Form 5106 数据准确性/部分 IOR 编号或于 11/18 作废，依据为 2026-08-19 联邦公报（2026-16911）及此后执行函，非本窗口新政策，未强行入库。状态自动翻转 0 条（无 effective≤今天 的即将生效/待生效项；VMP 11/11、英欧黑五 11/18、美国预付退货 12/18 等仍待生效）。链接复查 10 条（verifiedAt 最旧）：mx-zero-fee、pan-eu-nl-2026、peak-fees-2026、uk-vat-marketplace-liability-2027-10、us-fee-category-reassign-2026-10-31、us-foreign-ior-import-rule-2026-10-19、eu-compliance-fast-track-2026-10-20、eu-uk-unfulfillable-14day-disposal-2026-10-28、ppwr、related-accounts-2026。可达 10、失效 0；事实修正 1（peak-fees-2026：帮助页旺季句现为远程履约至加拿大和墨西哥，不再写巴西，已按原文修正 orig/zh/plain）；升级 1（us-foreign-ior B→A，换联邦公报）。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-08",
     "status": "完成",
     "finishedAt": "2026-11-08 06:11",

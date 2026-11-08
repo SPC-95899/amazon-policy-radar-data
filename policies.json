@@ -166,8 +166,8 @@
     "sourceName": "GOV.UK：Extending VAT online marketplace liability（Budget 2026 税改说明，2026-10-28）",
     "sourceUrl": "https://www.gov.uk/government/publications/vat-online-marketplace-liability-extension/extending-vat-online-marketplace-liability",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；GOV.UK 税改说明与事实表均可打开；October 2027、£90,000、VAT 注册/平台门槛、排除个人/二手/B2B 与原文一致；未编造具体日。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；GOV.UK 税改说明可达；October 2027、£90,000、online marketplace 等与库内一致，事实修正 0"
   },
   {
     "id": "us-fba-intl-inbound-extension-2026-10-30",
@@ -280,8 +280,8 @@
   {
     "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-11-02 复查可达，含 Oct 28 2026、14 days、Belgium/Ireland；关键数字与库内一致，事实修正 0。",
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；爱尔兰帮助页经 headless Chrome 渲染可达；October 28, 2026、14 days' notice、Belgium/Ireland 与库内一致，事实修正 0",
     "title": "欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）",
     "regions": [
       "EU",
@@ -320,23 +320,24 @@
   },
   {
     "id": "us-foreign-ior-import-rule-2026-10-19",
-    "sourceTier": "B",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；美国论坛官方帖可打开，外国 IOR、EO 14411、询问货代等要点与条目一致；事实修正 0。",
-    "title": "美国进口新规在路上：进口商（IOR）是外国公司的卖家可能要多交担保、多证明资质，亚马逊提醒现在就问货代",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；联邦公报 2026-22735（91 FR 69977）与 CBP 2026-11-05 新闻稿均可打开。按原文把原「政策说明／日期未定」更新为：生效日 2027-01-05、外国 IOR 须自己是 CTPAT 认证或指定 CTPAT 认证持牌报关行、美国 IOR 定义（公民/绿卡，或美国实体且受益所有人至少 51% 为美国公民或绿卡并有控制权，或直接拥有足量无重大负担的美国不动产）、报关单声明与报关行核验（记录保存 5 年）、评论截止同日、报关行核验可申请延期并最迟 2027-05-06 全部合规。sourceTier B→A，sourceUrl 换成联邦公报。亚马逊 2026-10-19 论坛旧帖仍 200，作交叉。",
+    "title": "美国外国进口商（IOR）新规落地：2027 年 1 月 5 日起须自己通过 CTPAT 认证，或指定 CTPAT 认证报关行报关",
     "regions": [
       "US"
     ],
     "category": "合规与安全",
-    "status": "政策说明",
-    "announced": "2026-10-19",
-    "effective": "2026-10-19",
-    "zh": "美国卖家论坛官方公告（2026-10-19）：美国政府正在落实第 14411 号行政令《加强海关执法》，其中一项针对“外国进口商（Importer of Record，IOR）”的新规正在政府审核中，可能很快实施。IOR 是在美国海关正式负责你这批货进口的人或公司。按未来规则，如果你的 IOR 被认定为外国实体，可能要满足额外的海关要求（帖中提到资产、担保 bond、良好信誉等）；IOR 是美国本土实体的，变化会少很多。亚马逊称目前一切照旧，但强烈建议现在就确认 IOR 身份：去问货代/报关行“我的 IOR 是美国实体还是外国实体？”；如果是外国实体，再问他们打算怎么满足新要求，必要时提前找替代方案。生效日期未公布，亚马逊会继续更新。",
-    "orig": "Amazon Services team (US Seller Forums), 19 October 2026: “a new rule for foreign importers of record is under government review and could be implemented quickly.” “While nothing changes for you today and your current import operations continue as usual, we strongly recommend that you take the time to review your customs arrangements and prepare now.” “If your IOR is classified as a foreign entity under the future rules, additional customs requirements could apply.”",
-    "plain": "这是啥：美国要出针对“外国进口商”的海关新规，用外国公司（比如中国公司）当进口商（IOR）的，以后可能要多交担保、证明资产和信誉，啥时候生效还没定。\n跟你有没有关系：大概率有。你做美国 FBA、货从国外进来，如果货代用的是你的中国公司或他们的海外公司当进口商，新规一落地就可能卡你的头程。\n你要做的事：这周就问货代一句“我的 IOR 是美国实体还是外国实体？”；如果是外国的，问清他们怎么应对新要求，同时备一个美国 IOR 的方案，别等新规生效那天才找。",
-    "outlook": "主要服务美国政府（海关执法、防低报关税和查不到人的进口商），其次是亚马逊（避免旺季因清关出问题断货）。推测：新规落地后，用外国 IOR、无担保的 DDP 小货代会被大量淘汰，头程成本可能上涨，拥有美国 IOR 的货代更吃香。库内相关：《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国高销量卖家 INFORM 消费者法信息核验》《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》。",
-    "sourceName": "Seller Central 美国论坛：Prepare now for U.S. regulatory import changes（2026-10-19）",
-    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/6d1315cf-6bc5-40ee-83ab-3a061706af50"
+    "status": "即将生效",
+    "announced": "2026-11-06",
+    "effective": "2027-01-05",
+    "zh": "美国海关与边境保护局（CBP）在联邦公报发布暂行最终规则《Heightened Requirements for Foreign Importers of Record》（2026-11-06，91 FR 69977）。自 2027 年 1 月 5 日起，外国进口商（foreign IOR）要以消费入境方式把货报进美国，必须满足下列之一：① 该外国 IOR 自己已通过 CTPAT 认证（validated）；或 ② 指定一家同时持有执照且已通过 CTPAT 认证的报关行代为报关。只持有报关行执照但未通过 CTPAT 认证，不能再给未认证的外国 IOR 报关。如果委托方本身不是货主或买方，该 CTPAT 认证报关行还必须自己充当这票货的 IOR。规则同时给出“美国 IOR”定义：自然人须是美国公民或合法永久居民；公司须依美国法律设立、位于美国，并且始终满足：受益所有人中至少 51% 是美国公民或绿卡持有人且对公司有控制权，或者直接拥有足量无重大负担的美国不动产。不符合者一律视为外国 IOR。从 2027 年 1 月 5 日起，每份报关单（CBP Form 3461 / 7501 及其电子等同文件）须声明是否符合美国 IOR；报关行在勾选前必须核验证件，相关记录保存 5 年。虚报可能被要求“即时完税放行”（live entry）并取消即刻提货资格。公众可在 2027 年 1 月 5 日前通过 regulations.gov 案卷 USCBP-2026-1387 发表意见。报关行就其核验义务可申请延期合规，但所有报关行最迟须在 2027 年 5 月 6 日全部合规。联邦公报经济分析写道，目前可自行申请 CTPAT 认证的外国 IOR 主要是加拿大进口商。亚马逊曾在 2026 年 10 月 19 日美国卖家论坛提醒卖家向货代确认 IOR 身份。",
+    "orig": "Federal Register, Heightened Requirements for Foreign Importers of Record, published November 6, 2026 (91 FR 69977; Document Number 2026-22735): “This interim final rule is effective on January 5, 2027.” “Comments on the rule must be received on or before January 5, 2027.” “CBP will only allow a foreign IOR to enter goods for consumption on its own behalf, i.e., to serve as the IOR for the entry, whether an informal or formal entry, if the foreign IOR is CTPAT validated. Further, consistent with Section (2)(c) of the E.O., the only way for a foreign IOR who is not CTPAT validated to secure the entry and release of goods is by designating a CTPAT validated and licensed customs broker to make entry on the foreign IOR’s behalf.” A U.S. IOR is “an individual who is a United States citizen or lawful permanent resident, or an entity that is organized under the laws of the United States, is located in the United States, and maintains at all times: (i) at least 51% of beneficial owner(s) who are United States citizens or lawful permanent residents and have control of the entity; or (ii) direct ownership of a significant amount of unencumbered real property in the United States.” “All customs brokers are expected to be in full compliance with the requirements of this rule no later than May 6, 2027.” CBP news release dated November 5, 2026 confirms the same effective date and comment deadline.",
+    "plain": "这是啥：美国海关正式发布外国进口商（IOR）新规，2027年1月5日起，用外国公司当进口商的，必须自己通过 CTPAT 认证，或指定一家已通过 CTPAT 认证的持牌报关行来报关，否则货进不了美国。\n跟你有没有关系：做美国站、货从国外进美国（包括发往 FBA 仓）的，大概率有关系。货代若用你的中国公司或其它外国公司当 IOR，又没走 CTPAT 认证报关行，新规一落地就可能卡清关。\n你要做的事：现在就问货代两句——“我的 IOR 算美国实体还是外国实体？”以及“报关行是不是已通过 CTPAT 认证？”如果是外国 IOR，尽快换成 CTPAT 认证报关行，或评估自己是否符合美国 IOR 的定义；同时备好身份和地址证明，别等 1 月的柜子到港才改。",
+    "outlook": "服务对象：主要是美国政府（海关执法、收税、防空壳公司逃税和危险品入境），其次是美国本土进口商（公平竞争）和消费者（减少假货和违禁品）。推测：用外国 IOR、又不走 CTPAT 认证报关行的 DDP 小货代会被大量淘汰，头程成本和资料审查会上升；联邦公报分析称目前可自行申请 CTPAT 的外国 IOR 主要是加拿大进口商，多数跨境卖家更现实的路径是换 CTPAT 认证报关行，或改由符合定义的美国实体当 IOR。库内相关：《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国高销量卖家 INFORM 消费者法信息核验》《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》。",
+    "sourceName": "Federal Register：Heightened Requirements for Foreign Importers of Record（2026-11-06）",
+    "sourceUrl": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+    "dateNote": "亚马逊 2026-10-19 美国论坛已提醒外国 IOR 新规在政府审核中。CBP 于 2026-11-05 发新闻稿，2026-11-06 在联邦公报发布暂行最终规则（91 FR 69977，文档号 2026-22735，CBP Dec. 26-19，案卷 USCBP-2026-1387）。规则自 2027-01-05 起生效；公众评论截止同日。报关行就核验客户是否符合美国 IOR 的新要求，可在 2027-01-05 前提交延期合规申请，CBP 要求所有报关行最迟于 2027-05-06 全部合规。"
   },
   {
     "id": "brand-registry-report-violation-2026-10-22",
@@ -445,8 +446,8 @@
   {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，英国论坛帖标题含 Compliance Fast-Track；关键内容与库内一致，事实修正 0。",
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；英国论坛官方帖可达；Compliance Fast-Track 内容与库内一致，事实修正 0",
     "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
     "regions": [
       "EU"
@@ -586,8 +587,8 @@
     "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
     "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；beBOLD 原文可打开，10/31 费用类别重分配与 Fee Preview/争议建议一致；官方公开公告仍未找到，保持 C；3D Printers 独立类别官方原文仍未核实。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；beBOLD 原文可达；10/31 费用类别重分配表述仍在；再次检索官方 A/B 公告仍未找到，保留 C 级"
   },
   {
     "id": "uk-sfp-tier-2026-10-30",
@@ -901,8 +902,8 @@
     "sourceName": "Amazon.com.mx 卖家论坛（Kris_Amazon 官方帖）：¿Sabías que puedes vender con CERO tarifas por tres meses?",
     "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/f5ce894e-124a-4267-a1b1-5bd365a692eb",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；墨西哥论坛官方帖可打开，零佣金/零订阅/FBA 物流费活动表述仍在；事实修正 0。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；墨西哥论坛官方帖可达；零佣金/新卖家活动表述仍在，与库内一致，事实修正 0"
   },
   {
     "id": "multichannel",
@@ -1049,8 +1050,8 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200（帮助页经 headless Chrome 渲染）；2026-11-02 复查可达，包装/生产者责任相关内容在页；关键日期与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；帮助页经 headless Chrome 渲染可达；Packaging and Packaging Waste / collection and recycling 仍在，事实修正 0"
   },
   {
     "id": "inform",
@@ -1392,15 +1393,15 @@
     "announced": "2026-04-17",
     "effective": "2026-10-15",
     "dateNote": "生效日 2026-10-15 是帮助页写的旺季区间起点，终点是 2027-01-14。发布日记成附加费同一页上已经写明的 2026-04-17，因为这份帮助页没有单独的新闻稿日期。若你按发布时间筛选，它会出现在 2026 年 4 月，而不是 10 月。",
-    "zh": "远程履行帮助页：2026年10月15日到 2027年1月14日，旺季履约费适用于 FBA、从美国远程履行到加拿大、墨西哥和巴西、MCF，以及 Buy with Prime。页面写旺季费率相对非旺季的每件加幅，平均与上一年相同。燃油与物流附加费照样加在这些费用上。",
-    "orig": "Amazon help: “holiday peak fulfilment fees will apply from October 15, 2026 to January 14, 2027 for FBA, Remote Fulfilment with FBA into Canada, Mexico and Brazil, Multi-Channel Fulfilment (MCF) and Buy with Prime. On average, the rate cards for holiday peak fulfilment fees will have the same per unit increase over non-peak rates as last year.”",
-    "plain": "这是啥：2026年10月15日到2027年1月14日，配送费按旺季加价，平均每件比淡季多出来的幅度和上一年一样。\n跟你有没有关系：只影响走FBA、从美国远程履约到加拿大墨西哥巴西、多渠道发货、或Buy with Prime的人。完全自己发货、不走这些的不用管。油价和物流附加费仍会叠在上面。\n你要做的事：10月中之后用这些配送的，按旺季价重算。自己发货就不用做。",
+    "zh": "远程履行帮助页：2026年10月15日到 2027年1月14日，旺季履约费适用于 FBA、从美国远程履行到加拿大和墨西哥、MCF，以及 Buy with Prime。燃油与物流附加费照样加在这些费用上。页面这次旺季句没有写入巴西；巴西仍有远程履行费率表（2026 年与 2027 年），但未列入上述旺季区间。墨西哥表仍分淡季与旺季两档。",
+    "orig": "Amazon help (Remote fulfilment with FBA fees, verified 2026-11-09): “Holiday peak fulfilment fees apply from October 15, 2026, to January 14, 2027, for FBA, Remote Fulfilment with FBA into Canada and Mexico, Multi-Channel Fulfilment (MCF) and Buy with Prime. The fuel and logistics-related surcharge applies to these fees.” The same page still lists Remote Fulfilment fee tables for Brazil (2026 and 2027 rates) but does not include Brazil in that holiday-peak sentence; Mexico’s table is split into 2026 non-peak and 2026 peak columns.",
+    "plain": "这是啥：2026年10月15日到2027年1月14日，配送费按旺季加价，覆盖 FBA、从美国远程履约到加拿大或墨西哥、多渠道发货（MCF）和 Buy with Prime。\n跟你有没有关系：走这些配送的有关系；完全自己发货、不走这些的不用管。油价和物流附加费仍会叠在上面。页面这次没有把巴西写进旺季加价范围。\n你要做的事：10月中之后用这些配送的，按旺季价重算。自己发货就不用做。",
     "outlook": "推测是旺季运力贵，成本转给卖家，买家仍要快送达。和3.5%燃油费叠在一起，10月中之后这些配送每件会再跳一档。",
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；加拿大帮助页可达（体积较大），旺季履约费 2026-10-15 至 2027-01-14 口径与条目及美国论坛 Holiday 2026 公告交叉一致；事实修正 0。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；旺季区间 2026-10-15 至 2027-01-14 仍在。帮助页旺季句现为 Remote Fulfilment with FBA into Canada and Mexico（不再写 Brazil），已按原文修正 orig/zh/plain；墨西哥表仍分淡旺季，巴西表为 2026/2027 费率、未列入该旺季句。"
   },
   {
     "id": "lithium-air-2026",
@@ -1441,8 +1442,8 @@
     "sourceName": "Amazon Seller Forums (News_Amazon)：How to address multiple account policy violations",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/c6536ec9-400e-488f-88dc-2bd73ac7becc",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达；已换美国论坛 News_Amazon 官方帖，C→B；关键申诉顺序与原文一致，事实修正 0。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；美国论坛 News_Amazon 官方帖可达；关联账户须先申诉责任账户等要点与库内一致，事实修正 0"
   },
   {
     "id": "account-id-roles",
@@ -1504,8 +1505,8 @@
     "sourceName": "Amazon 英国卖家论坛：Pan-EU FBA to require Netherlands and Belgium offer",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/61296686-3581-4d1a-b3c2-dacbef755b22",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-01",
-    "verifyNote": "200；升级 C→B：改用英国卖家论坛官方帖（Pan-EU FBA to require Netherlands and Belgium offer），确认 2026-09-03 荷兰报价、2027-02-26 比利时报价；原 Seller Magnet 文仍可打开作交叉。"
+    "verifiedAt": "2026-11-09",
+    "verifyNote": "200；英国论坛官方帖可达；荷兰 2026-09-03 / 比利时 2027-02-26 报价要求与库内一致，事实修正 0"
   },
   {
     "id": "bundles-2027",

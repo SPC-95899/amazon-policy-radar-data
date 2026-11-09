@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-10",
+    "status": "完成",
+    "finishedAt": "2026-11-10 06:16",
+    "summary": "检索 2026-11-02～2026-11-10：Seller Central 美/加/墨/英/德公告论坛（Chrome，按发布时间排序）、WebSearch 卖家新闻（PPC Land、Mr. Jeff、SellerKey、Niceggie、AMZ Sellers Attorney 等线索）。新增 2 条：①加拿大 11/23 起跨境自发货新退货政策（无加拿大退货地址时 CAD 25 及以下自动退款不退货）＋退款不退货自动规则——昨日仅见第三方转述，今日在加拿大公告论坛找到 News_Amazon 原帖（B 级）；②英国发爱尔兰本地 FBA 通道（11/5 英国公告论坛，B 级）。跳过：墨西哥 FBM 卖家自定义节假日（11/6，后台工具功能）未入库；“AI 辅助举报知识产权侵权”公告（美/加/墨/英/德 11/3–11/5）与库内《品牌备案「举报违规」工具改版》为同一件事，未新增；美国/加拿大 2027 费用、保险 11/2、黑五、IOR、VMP（11/11 开卖）等均已在库。状态自动翻转 0 条（无 effective≤今天 的即将生效/待生效项）。链接复查 10 条（verifiedAt 最旧）：review-requests-2026、safe-t、sc-provider-2026-09-01、tic-direct、us-fbm-prepaid-return-2026-12-18、us-holiday-returns-2026-11-01、eu-uk-holiday-returns-2026-11-01、mx-isr-per-order-2026-11-07、title-75、us-apparel-ref-2024。可达 10、失效 0；事实修正 0；升级 0（美国自发货预付退货标签仅找到卖家帖下的版主回复，仍非官方公告，保留 C 级）。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "ca-cross-border-returns-2026-11-23",
+        "title": "加拿大 11 月 23 日起：从加拿大境外发货、没设加拿大退货地址的，CAD 25 以下退货直接退款不退货；同日可设自动“退款不退货”规则"
+      },
+      {
+        "id": "uk-ireland-local-fba-lane-2026-11-05",
+        "title": "英国卖家可把货送到爱尔兰本地 FBA：拿爱尔兰站 Prime 标和本地费率，需爱尔兰 VAT 号，注册费 2026 年底前由亚马逊承担"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "status": "完成",
     "finishedAt": "2026-11-09 06:12",

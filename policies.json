@@ -1,5 +1,48 @@
 [
   {
+    "id": "ca-cross-border-returns-2026-11-23",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "Seller Central 加拿大公告论坛 News_Amazon 帖可打开（headless Chrome 渲染，createdAt 2026-11-06T20:16:28Z）；11/23 日期、CAD 25 自动退款不退货、超过 CAD 25 建议 48 小时内给预付退货标签或退款不退货、退货规则设置路径与原文一致。对应加拿大帮助页全文未打开核对；“建议”原文为 recommend，未写超过 CAD 25 不处理的后果。",
+    "title": "加拿大 11 月 23 日起：从加拿大境外发货、没设加拿大退货地址的，CAD 25 以下退货直接退款不退货；同日可设自动“退款不退货”规则",
+    "regions": [
+      "CA"
+    ],
+    "category": "自发货",
+    "status": "即将生效",
+    "announced": "2026-11-06",
+    "effective": "2026-11-23",
+    "dateNote": "论坛帖 2026-11-06（UTC）发布；退款不退货规则功能与新退货政策均写 2026-11-23 起。",
+    "zh": "亚马逊加拿大卖家论坛 News_Amazon（2026-11-06）：自 2026年11月23日起，卖家可以按价格区间、商品类目或退货原因设置规则，自动触发“退款不退货”（returnless resolution，退款后买家保留商品）。同时，若你从加拿大境外履约加拿大订单、且没有设置默认的加拿大退货地址，将适用新的退货政策：价值 CAD 25 及以下的退货会自动退款、不要求退回商品；超过 CAD 25 的退货，亚马逊建议在 48 小时内提供预付退货标签，或给予退款不退货。设置路径：Return settings → Resolutions 标签 → Create a returnless resolution rule → 命名并设置价格区间与条件 → Save。",
+    "orig": "News_Amazon, Amazon.ca Seller Forums, November 6, 2026: “Starting November 23, 2026, you can set rules to trigger these automatically based on price range, product category, or return reason. Also, a new return policy will apply if you fulfill orders in Canada from outside Canada without a default Canadian return address. Under the new policy, returns valued at CAD 25 or less will be refunded automatically without the item being returned. For returns above CAD 25, we recommend offering a pre-paid return label within 48 hours or a returnless refund.”",
+    "plain": "这是啥：11月23日起，从加拿大境外给加拿大买家发货、又没设加拿大退货地址的，CAD 25 及以下的退货亚马逊直接给买家退钱、货不用寄回；超过 CAD 25 的，建议 48 小时内给预付退货标签或直接退款不退货。同日起还能设规则自动“退款不退货”。\n跟你有没有关系：在加拿大站做跨境自发货（从中国或美国直发）的就有关系，低价货的退货等于白送；纯 FBA 加拿大仓发货的基本不受影响。\n你要做的事：11月23日前决定要不要设加拿大本地退货地址；没有的话到 Return settings → Resolutions 设好退款不退货规则，并把 CAD 25 以下退货的损失算进加拿大站利润。",
+    "outlook": "服务对象：主要是消费者（跨境退货不用自己寄回国外）和亚马逊（少处理难退的跨境件、减少投诉）。推测：低价跨境自发货卖家退货成本上升，可能逼更多卖家用加拿大本地退货地址或改走 FBA；规则与美国自发货预付退货标签要求方向一致。库内相关：《美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款》《欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货》《FBA 部分退款可以按退货原因来设》。",
+    "sourceName": "Amazon.ca Seller Forums（News_Amazon）：Set returnless rules + new CA return policy coming November 23",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/3c9f642c-ae06-420a-89ea-72cc99508bd3"
+  },
+  {
+    "id": "uk-ireland-local-fba-lane-2026-11-05",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "Seller Central 英国公告论坛 News_Amazon 帖可打开（headless Chrome 渲染，createdAt 2026-11-05T14:41:18Z）；英国发爱尔兰本地履约、Prime 标、本地 FBA 费、需爱尔兰 VAT 号、AVASK、优惠至 2026-12-31 与原文一致。具体 FBA 费率与 Amazon 承担 VAT 注册费的细则在 UPS AVASK 指南，未打开核对。",
+    "title": "英国卖家可把货送到爱尔兰本地 FBA：拿爱尔兰站 Prime 标和本地费率，需爱尔兰 VAT 号，注册费 2026 年底前由亚马逊承担",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-11-05",
+    "effective": "2026-11-05",
+    "dateNote": "论坛帖 2026-11-05（UTC）发布，写“now”即日可用；VAT 注册与报关优惠价至 2026-12-31。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon（2026-11-05）：从英国发货的卖家现在可以把库存送到爱尔兰做本地履约，商品可在爱尔兰亚马逊站获得 Prime 标，并按本地 FBA 费用计费。该通道通过 Amazon Customs Clearance and Shipping Services 提供，从英国发出跨境货件（仅限小包裹），在爱尔兰本地配送。需要爱尔兰 VAT 号，没有的可在入驻流程中注册第三方清关服务商 AVASK；爱尔兰 VAT 注册有持续申报义务。已用 AVASK 的可添加爱尔兰线路。VAT 注册与报关优惠价至 2026年12月31日，爱尔兰 VAT 注册费用由亚马逊承担。",
+    "orig": "News_Amazon, Amazon.co.uk Seller Forums, November 5, 2026: “If you ship from the UK, you can now send inventory to Ireland for local fulfilment. Your products become eligible for the Prime badge on the Ireland Amazon store, and you access local Fulfilment by Amazon (FBA) fees.” “To ship to Ireland, you need an Irish VAT number.” “Promotional pricing for VAT registration and brokerage is available through 31 December 2026. Your Ireland VAT registration cost will be covered by Amazon.”",
+    "plain": "这是啥：英国站卖家现在能把货（只限小包裹）从英国送进爱尔兰仓，在爱尔兰站拿 Prime 标、按本地 FBA 收费；前提是有爱尔兰 VAT 号，2026 年底前注册费亚马逊出。\n跟你有没有关系：只跟做英国站、想顺带卖爱尔兰的有关系；主做美国站的可以先不管。\n你要做的事：做英国站的，评估爱尔兰销量值不值得多一个 VAT 号的长期申报成本；想做就在 12 月 31 日前通过 AVASK 办理，享受优惠。",
+    "outlook": "服务对象：主要是亚马逊（给爱尔兰站补货源、提高 Prime 覆盖）和消费者（送得更快），卖家可多一个小站点。推测：脱欧后英国到爱尔兰的清关麻烦是主要障碍，亚马逊用代付 VAT 注册来拉卖家，后面可能把这条线扩到更多尺寸。库内相关：《泛欧 FBA：9 月 3 日起必须有有效荷兰报价，比利时 2027 年 2 月 26 日起同样要有》《欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起》《英国 2027 年 10 月起：亚马逊等平台要替达标英国卖家代收 VAT（VAT 注册或单平台年销超 £90,000）》。",
+    "sourceName": "Amazon.co.uk Seller Forums（News_Amazon）：Reach customers in Ireland with Prime-eligible, locally fulfilled products",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/6a0fdb64-79b7-4485-884d-fab96ecfa5a8"
+  },
+  {
     "id": "ca-fees-2027",
     "sourceTier": "A",
     "verifiedAt": "2026-11-07",
@@ -109,8 +152,8 @@
   {
     "id": "eu-uk-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；News_Amazon 英国论坛帖可打开（createdAt 2026-10-30 UTC）；含 Nov 1–Dec 25 2026 可退至 Jan 31 2027、西班牙延至 Feb 6、德意法部分类目 Jan 15；与原文一致。",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-10-30，11/1–12/25 购买可退至 2027-01-31 或送达后 30 天、十国范围与原文一致",
     "title": "欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）",
     "regions": [
       "UK",
@@ -131,8 +174,8 @@
   {
     "id": "mx-isr-per-order-2026-11-07",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；News_Amazon 墨西哥论坛帖可打开（createdAt 2026-10-29 UTC）；写明 2026-11-07 起按订单自动计算/展示 ISR 预提，原为月度一次扣款；与原文一致。",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-10-29，11/7 起按订单计算 ISR 预提与原文一致",
     "title": "墨西哥所得税（ISR）预提 11 月 7 日起按订单自动计算并展示（不再只看月度一笔）",
     "regions": [
       "MX"
@@ -530,8 +573,8 @@
   {
     "id": "us-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，帖文含 Nov 1–Dec 31 2026 可退至 Jan 31 2027；关键日期与库内一致，事实修正 0。",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖，11/1–12/31 购买可退至 2027-01-31、Apple 至 2027-01-15 与原文一致",
     "title": "美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日",
     "regions": [
       "US"
@@ -551,8 +594,8 @@
   {
     "id": "us-fbm-prepaid-return-2026-12-18",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，内容与库内一致（12/18、7天、重货大件暂不含）。再次检索官方论坛 UUID 仍未定位（仅见高价值件旧帖），官方原文未找到，保留 C 级。",
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200；PPC Land 原文可打开。美国论坛卖家帖 60d44d60-a781-4e6b-8a61-166ff5fa082d 有亚马逊版主回复确认 12/18、7 天、亚马逊生成的预付标签不变，但仍非 News_Amazon 正式公告，官方原文未找到，保留 C 级",
     "title": "美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款",
     "regions": [
       "US"
@@ -800,8 +843,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Answers to your product title update questions",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/302aaac6-6f2b-4d86-bcd2-36fe24f0e6cd",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 75 字符标题与 Item Highlights 125 字符要点，与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 问答帖（版主更新）可打开，Item name / Item highlights 与 7/27 起推荐修改与原文一致"
   },
   {
     "id": "ai-people-tag",
@@ -840,8 +883,8 @@
     "sourceName": "Amazon Seller Forums (News_Amazon)：Understand testing, inspection, and certification requirements",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f09dda4e-f582-483a-974c-47ccc89b0f09",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达；已换美国论坛 News_Amazon 官方帖，C→B；关键表述（直接回传、不可自传、约30天）与原文一致，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-07-21，报告须由认可第三方直接回传、不能自行上传与原文一致"
   },
   {
     "id": "fuel-surcharge",
@@ -1090,8 +1133,8 @@
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，论坛帖标题含 30 days；关键数字与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-01-21，SAFE-T 窗口 60→30 天、2026-02-16 生效与原文一致"
   },
   {
     "id": "commingle",
@@ -1151,8 +1194,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；服装 ≤$20 推荐费相关表述仍在，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200；sellingpartners 费用页可打开，内容未变"
   },
   {
     "id": "us-sipp-2024",
@@ -1631,8 +1674,8 @@
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，Amazon Ads 页含 Review Requests；关键日期与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200；advertising.amazon.com 页面可打开，内容未变"
   },
   {
     "id": "mcf-prime-2026",
@@ -1736,8 +1779,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-02",
-    "verifyNote": "200；2026-11-02 复查可达，帖文含 September 1, 2026 与 365 days；关键数字与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-10",
+    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖，2026-09-01、商业核验、授权 365 天与原文一致"
   },
   {
     "id": "fba-partial-refund-2026-10-13",

@@ -1,5 +1,47 @@
 [
   {
+    "id": "uk-seller-wallet-gbp-2026-11-05",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；About Amazon UK 官方新闻页可打开（发布日 2026-11-05）；GBP 钱包、转英国银行快速免费、20 多种货币国际转账、按量阶梯费率与原文一致。具体国际转账费率未在页面列出，未核实。",
+    "title": "英国站 Seller Wallet 支持英镑（GBP）：英国站回款可留在亚马逊钱包里，转英国银行免费，也能换 20 多种货币转出",
+    "regions": [
+      "UK"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-11-05",
+    "effective": "2026-11-05",
+    "dateNote": "官方新闻 2026-11-05 发布，写“now available”即日可用。",
+    "zh": "About Amazon UK（2026-11-05）：亚马逊 Seller Wallet（卖家钱包）现已支持英镑，英国境内或海外卖家都可以把英国站回款以英镑存放、直接付款给英国供应商、快速免费转到英国银行账户，或换成 20 多种货币转到国际账户。国际转账按业务量收取阶梯费用，业务越大费率越低，亚马逊称无隐藏加价。此前已上线美元和欧元钱包，三种货币钱包都在 Seller Central 里分开管理；可一次性转账，也可设每周/每两周/每月定额自动转账。",
+    "orig": "About Amazon UK, 05 November 2026: “Amazon Seller Wallet is now available for GBP through Amazon.co.uk, giving selling partners a simple way to hold, convert, transfer, and use their UK store proceeds.” “GBP transfers to UK bank accounts are fast and free, with international transfers available in more than 20 currencies.” “A volume-based fee applies to international transfers and decreases as a seller’s business with Amazon grows.”",
+    "plain": "这是啥：英国站的回款现在可以先放进亚马逊自己的“英镑钱包”，转到英国银行不收钱，要换成人民币/美元等 20 多种货币转出也行，但跨境转账要收手续费（卖得越多费率越低）。\n跟你有没有关系：做英国站、用第三方收款工具（如 PingPong、连连、万里汇）收英镑的有关系；只做美国站的基本无关。\n你要做的事：做英国站的，到 Seller Central 的 Seller Wallet 里看一下英镑钱包的换汇价和手续费，跟现在用的收款工具比一比，哪个便宜用哪个；不急着换。",
+    "outlook": "服务对象：主要是亚马逊（把卖家资金留在自家体系、赚换汇和转账费）和卖家（少一个第三方收款环节）。推测：美元、欧元、英镑钱包都齐了以后，亚马逊可能继续扩到加拿大元、墨西哥比索等币种，并把钱包和亚马逊贷款等金融服务绑在一起推。库内相关：《亚马逊贷款年底前对所有美国卖家开放》《英国卖家可把货送到爱尔兰本地 FBA：拿爱尔兰站 Prime 标和本地费率，需爱尔兰 VAT 号，注册费 2026 年底前由亚马逊承担》。",
+    "sourceName": "About Amazon UK：It’s now easier for sellers in the UK to manage their money on Amazon",
+    "sourceUrl": "https://www.aboutamazon.co.uk/news/small-businesses/its-now-easier-for-uk-sellers-to-manage-their-money-on-amazon"
+  },
+  {
+    "id": "us-fba-estimated-lead-times-2026-11",
+    "sourceTier": "C",
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；SellersAskSellers 论坛转贴亚马逊 FBA 团队通知（帖子 2026-11-10 UTC）可打开；仅美国、可分拣货件、直发 FBA 或 AWD/GWD 补货、显示在 Manage Shipments、非保证等与转贴原文一致。官方原文未找到（论坛/帮助页未检索到对应公开页），保留 C 级。",
+    "title": "美国 FBA 货件开始显示「预计入仓时长」：11 月起在 Manage Shipments 里看货多久能上架、拿到 Prime（逐步开放）",
+    "regions": [
+      "US"
+    ],
+    "category": "FBA与物流",
+    "status": "灰度推广",
+    "announced": "2026-11-10",
+    "effective": "2026-11-10",
+    "dateNote": "通知写“Starting in November … over the coming weeks”逐步开放；announced 取转贴日期 2026-11-10（UTC），官方原始发送日未知。",
+    "zh": "亚马逊 FBA 团队通知（SellersAskSellers 转贴，2026-11-10）：11 月起逐步为 FBA 货件提供预计时长，显示货件多久能被接收并变成 Prime 可售，未来几周陆续在 Manage Shipments 页面开放。仅限发往美国的货件，适用于直接发往 FBA 的可分拣（sortable）货件，以及从 AWD 或 GWD 补货到 FBA 的货件。预计时长按目的地和季节个性化，例如 1 月 5 天的货件在假日季可能要 12 天；表示大部分货物达到节点的时间，不是保证。",
+    "orig": "Amazon FBA notice (reposted on SellersAskSellers, Nov 10, 2026): “Starting in November, we’re rolling out estimated lead times for your Fulfillment by Amazon (FBA) shipments. These estimates show how long it takes for your shipment to be received and become Prime eligible.” “Estimated lead times are only available for shipments to the US. Eligible shipments include sortable shipments sent directly to FBA, replenished from Amazon Warehousing and Distribution (AWD), or replenished from Global Warehousing and Distribution (GWD) to FBA.” “Estimates reflect typical timelines and aren’t guarantees.”",
+    "plain": "这是啥：亚马逊开始在发货页面告诉你“这批货大概多少天能入仓上架、拿到 Prime”，按仓库和季节算（比如平时 5 天、旺季可能 12 天），只是参考不打包票。\n跟你有没有关系：发美国 FBA（直发、AWD 或中国 GWD 补货）的标准件都有关系，对管补货节奏的员工最有用；大件不可分拣的暂时看不到。\n你要做的事：让发货的员工这几周在 Manage Shipments 里留意新出现的预计时长，按它倒推补货日期，旺季多留几天；超过预计时长还没入仓的货件要及时开 case 追。",
+    "outlook": "服务对象：主要是卖家（补货更好算）和亚马逊（减少因不知道入仓进度而重复发货、乱开 case）。推测：这是给 AWD/GWD 自动补货铺路，以后可能和库存绩效、入库配置费联动，也可能扩到加拿大、欧洲。库内相关：《美国 FBA 旺季临时放宽国际入仓：多仓后续货 45 天内到、货件自动关闭延到 90 天（8/1–11/30 建的国际计划）》《有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天》《全球仓配扩展与一次送检试点》。",
+    "sourceName": "SellersAskSellers 转贴亚马逊 FBA 通知：See estimated lead times for your FBA shipments",
+    "sourceUrl": "https://sellersasksellers.com/t/see-estimated-lead-times-for-your-fba-shipments/7712"
+  },
+  {
     "id": "ca-cross-border-returns-2026-11-23",
     "sourceTier": "B",
     "verifiedAt": "2026-11-10",
@@ -344,8 +386,8 @@
   {
     "id": "us-bfcm-deal-deadline-extended-2026-10-22",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 Black Friday / November 13 延期，与库内一致，事实修正 0。",
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；美国论坛 News_Amazon 帖可达；提报截止延至 11 月 13 日、入仓截止未延与原文一致；事实修正 0（2026-11-11 复查）",
     "title": "美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日：还能补报，但入仓截止没延",
     "regions": [
       "US"
@@ -704,7 +746,7 @@
       "US"
     ],
     "category": "Listing与目录",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-13",
     "effective": "2026-11-11",
     "dateNote": "2026-10-13 是亚马逊 FBA 团队给部分品牌卖家发通知的日子（卖家在论坛转贴原文）。亚马逊 10 月 28 日前建好，11 月 10 日前可删，11 月 11 日没删的开卖。",
@@ -757,8 +799,8 @@
     "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查论坛帖可达；含 90% Business Hour、October 30，与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；美国论坛官方帖可达；9/30 起营业时间送达率 ≥90%、10/30 未改善可能下架企业买家报价与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "li-device-tic-2026-09-30",
@@ -1235,8 +1277,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；inbound placement 相关内容仍在，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；sellingpartners 2024 费用页可达；3/1 生效、入库 45 天后收、$0.27/$1.58 均值与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "us-low-inventory-2024",
@@ -1255,8 +1297,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；low inventory 相关内容仍在，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；sellingpartners 2024 费用页可达；4/1 生效、保持 4 周以上库存可免与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "us-storage-2024",
@@ -1295,8 +1337,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查 sellingpartners 费用更新页可达；FBA fulfillment 相关内容仍在，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；sellingpartners 2024 费用页可达；标准件 -$0.20、大件 -$0.61、4/15 生效与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "us-returns-fee-2024",
@@ -1357,8 +1399,8 @@
     "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；2026-11-03 复查 sellingpartners 2025 费用页可达；“not increase”等表述仍在，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；sellingpartners 官方页可达；不上调推荐费与 FBA 费、大件入库配置费等数字与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "us-fees-2026",
@@ -1372,14 +1414,14 @@
     "effective": "2026-01-15",
     "dateNote": "生效日 2026-01-15 来自帮助页：“除非另有说明，变更自 2026年1月15日起。”公布日 2025-10-15 来自政策追踪对卖家新闻的记载，帮助页页眉没有印这个日期。",
     "zh": "美国帮助页：2026 年 FBA 费平均每件售出上调 0.08 美元，不到商品均价的 0.5%。2025 年推荐费和 FBA 费没有上调。不新增 FBA 费种。除非另有说明，变更自 2026年1月15日起，且上调前至少给 90 天。标准尺寸、售价 10 到 50 美元这一档，小号标准件平均加 0.25 美元，大号标准件平均加 0.05 美元。",
-    "orig": "Amazon Seller Central help: “In 2026, FBA fees will increase by an average of $0.08 per unit sold, or less than 0.5% of an average item’s selling price.” “Unless otherwise noted, all changes will be effective January 15, 2026.” Autopilot dates the announcement October 15, 2025.",
+    "orig": "Amazon Selling Partners, October 15, 2025: “…only make a slight average increase in our fees – about $0.08 per unit sold in our store, or less than 0.5% of an average item’s selling price.” “Unless otherwise noted, all changes will be effective January 15, 2026.”",
     "plain": "这是啥：2026年美国FBA费平均每件大约多8美分，不到商品均价的0.5%，没有新的FBA费种。\n跟你有没有关系：只影响美国FBA。自己发货的不用管。10到50美元的标准件里，小号平均多0.25美元，大号平均多0.05美元，不是每件都正好多8美分。\n你要做的事：按你的尺寸和价格档重算每件利润。不走美国FBA就不用做。",
     "outlook": "推测是用很小的涨幅盖住人工和运费，避免一次大改价。和4月燃油附加费、10月旺季价是三笔，不要只看这8美分。",
-    "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
-    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
+    "sourceName": "Amazon Selling Partners：Update to U.S. Referral and Fulfillment by Amazon fees for 2026（2025-10-15）",
+    "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-u-s-referral-and-fulfillment-by-amazon-fees-for-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；帮助页经 headless Chrome 渲染后可达；可见 2026 / 0.08 相关表述，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "原帮助页 201411300 已改为 2027 年费用内容、不再含 2026 原句；换为 sellingpartners 官方 2026 费用信（200，2025-10-15）：约 $0.08/件、低于均价 0.5%、2026-01-15 生效与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "us-coupon-cap-2025",
@@ -1393,14 +1435,14 @@
     "effective": "2025-11-05",
     "dateNote": "生效日是帮助页写的“2025年11月5日及之后创建的优惠券”。公布日沿用 2026 年费用公告被追踪到的 2025-10-15。",
     "zh": "同一份美国 2026 费用帮助页：2025年11月5日及之后创建的优惠券，可变费用单券封顶 2000 美元。页面写这是为了黑色星期五和网络星期一之前让预算更可预期。",
-    "orig": "Amazon help: “Coupons variable fees will be capped at $2000 per coupon, effective for coupons created on or after November 5, 2025.”",
+    "orig": "亚马逊全球开店官方新闻（2026 年美国站费用变更）：“单张优惠券的可变费用将设定上限：自2025年11月5日起创建的优惠券，可变费用上限为每张优惠券$2,000。此项变更在黑五网一前生效。”",
     "plain": "这是啥：美国在2025年11月5日及以后新开的优惠券，浮动手续费一张最多收到2000美元。\n跟你有没有关系：只影响美国、而且会开优惠券的人。不开券的不用管。这是为了黑色星期五和网络星期一之前，预算更好估。\n你要做的事：开大促券的，按最多2000美元来做预算。不开券就不用做。",
     "outlook": "推测是让大促费用可预期，也防止一张券把钱花穿。和加拿大优惠券最多500加元是同一招，只是上限不同。",
-    "sourceName": "Seller Central Help：2026 年美国推荐费与 FBA 费",
-    "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201411300?locale=en-US",
+    "sourceName": "Amazon Global Selling 官方新闻：2026年亚马逊美国站销售佣金和亚马逊物流费用变更",
+    "sourceUrl": "https://globalselling.amazon.com/en/news/news-notices-251016",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-03",
-    "verifyNote": "200；帮助页经 headless Chrome 渲染后可达；可见 coupon / 2000 相关费用说明，事实修正 0。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "原帮助页 201411300 已改为 2027 年费用内容、不再含优惠券上限原句；换为亚马逊全球开店官方新闻页（200）：自 2025-11-05 起创建的优惠券可变费用上限每张 $2,000 与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "ca-fees-2026",
@@ -1506,8 +1548,8 @@
     "sourceName": "Autopilot Amazon Policy Tracker",
     "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；第三方追踪页仍可打开并含 Account ID 角色变更条目；官方原文仍未找到，保留 C；事实未改。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；Autopilot 第三方追踪页可达，日期与引文一致；官方原文仍未找到，保留 C 级（2026-11-11 复查）"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -1653,8 +1695,8 @@
     "sourceName": "Amazon Ads：Reach new audiences using DVA+",
     "sourceUrl": "https://advertising.amazon.com/resources/whats-new/dva-plus-display-video-audio-campaigns",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；已升级为 Amazon Ads 官方 DVA+ 页（2026-09-29）；页内写 US 延长封闭测试、open beta 预计 2026 年 10 月底、35 市场 GA 目标 2027 Q1；原 SellerKit「全漏斗已对全部美国广告主开放」未在本页出现，zh 已按官方口径收紧。"
+    "verifiedAt": "2026-11-11",
+    "verifyNote": "200；Amazon Ads 官方页可达；DVA+ 美国扩展封闭测试等表述与原文一致；事实修正 0（2026-11-11 复查）"
   },
   {
     "id": "review-requests-2026",

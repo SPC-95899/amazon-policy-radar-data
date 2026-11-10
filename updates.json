@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-11",
+    "status": "完成",
+    "finishedAt": "2026-11-11 06:10",
+    "summary": "检索 2026-11-03～2026-11-11：Seller Central 美/加/墨/英/德论坛（Chrome，最新列表）、About Amazon / About Amazon UK / sellingpartners、SellersAskSellers 亚马逊公告转贴区、WebSearch（PPC Land、ecommsphere、amazonbrandguide、Mediovsky、go2market 等线索）。新增 2 条：①英国站 Seller Wallet 支持英镑（About Amazon UK 11/5，A 级）；②美国 FBA 货件显示预计入仓时长（亚马逊 FBA 通知 11/10 转贴，官方原文未找到，C 级）。跳过：Shop Direct Merchant Workspace（11/4，面向非亚马逊卖家的外部商家）未入库；Seller Assistant Workflows（LinkedIn 11/4 再推）与库内《卖家助手 / Amazon Quick / 外部 AI 插件》为同一批 9/23 发布，未新增；YTD 税务报表下载（11/3，报表功能）未入库；锂电池 TIC 通知 11/16 完成、保险 11/2、VMP、黑五 Deal、EU 海关 €2/PID、印度站动态（不在范围）均已在库或不在范围；墨西哥 Oferta destacada 资格放宽为 2026-07 旧帖。状态自动翻转 1 条（vmp-wave-2026-10-13）。链接复查 10 条（verifiedAt 最旧）：us-bfcm-deal-deadline-extended-2026-10-22、us-coupon-cap-2025、us-fbm-business-hour-2026、us-fees-2025、us-fees-2026、us-fulfillment-cut-2024、us-inbound-placement-2024、us-low-inventory-2024、account-id-roles、ads-agent-2026。可达 10、失效 0；修正 2：帮助页 201411300 已换成 2027 年费用内容，us-fees-2026 改链到 sellingpartners 2026 费用信、us-coupon-cap-2025 改链到亚马逊全球开店官方新闻（均为 A 级，事实不变）；升级 0。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "uk-seller-wallet-gbp-2026-11-05",
+        "title": "英国站 Seller Wallet 支持英镑（GBP）：英国站回款可留在亚马逊钱包里，转英国银行免费，也能换 20 多种货币转出"
+      },
+      {
+        "id": "us-fba-estimated-lead-times-2026-11",
+        "title": "美国 FBA 货件开始显示「预计入仓时长」：11 月起在 Manage Shipments 里看货多久能上架、拿到 Prime（逐步开放）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "status": "完成",
     "finishedAt": "2026-11-10 06:16",

@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-12",
+    "status": "完成",
+    "finishedAt": "2026-11-12 06:08",
+    "summary": "检索 2026-11-04～2026-11-12：Seller Central 美/加/墨/欧公告论坛（Chrome）、sellingpartners / About Amazon、SP-API changelog、欧盟税务与海关总司新闻、WebSearch（PPC Spider、PPC Land、Mr. Jeff、SellersAskSellers、Gloriads 等线索）。新增 2 条：①欧盟成员国 11/9 就取消 IOSS €150 门槛达成共同立场，计划 2028-07-01 起平台对所有价值的进口远程销售代收增值税（欧盟委员会官方页，A 级，尚未正式通过）；②SP-API 旧版 XML / Flat File 结算报告 11/11 下线，改用 Flat File V2（官方 changelog，A 级）。跳过：Amazon Ads 11/11 起创作者店铺点击在 SP 广告位报告中从 Off Amazon 改记为 Other on-Amazon（仅第三方转述广告主邮件、纯报表归类，未入库）；捆绑新规转贴（库内《大多数实物捆绑须原厂包装，2027 年 1 月 11 日》已有）；美国论坛“Win the holidays with AI”（营销内容）；美/加 2027 费用、保险 11/2、欧盟 PID 与 €2 手续费、FBA 预计入仓时长、英国 GBP 钱包均已在库。状态自动翻转 0 条。链接复查 10 条（verifiedAt 最旧）：ads-dva-onscreen-impressions-2027-01-01、ai-people-tag、at-parcel-tax-2026-10-01、bundles-2027、bundles-consumable-2024、business-discount-badge-2026-10-16、sp-api-ivp-eu-jp-ca-2026-10-29、us-nwd-brand-rep-2026-10-27、us-restore-to-new-2026-10-21、us-returns-fee-2024。可达 10、失效 0；事实修正 0；升级 0（4 条 C 级官方原文仍未找到）。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "eu-ioss-150-threshold-removal-2028-07-01",
+        "title": "欧盟计划取消进口一站式申报（IOSS）€150 上限：2028 年 7 月起，从欧盟外卖给欧盟消费者的货不论多贵，都由亚马逊等平台代收增值税（成员国已达成一致，尚未正式通过）"
+      },
+      {
+        "id": "sp-api-settlement-report-v1-removal-2026-11-11",
+        "title": "旧版结算报告 11 月 11 日起下线：XML 结算报告和旧版 Flat File 结算报告停用，统一改用 Flat File V2（所有站点）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "status": "完成",
     "finishedAt": "2026-11-11 06:10",

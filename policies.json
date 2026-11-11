@@ -1,5 +1,47 @@
 [
   {
+    "id": "eu-ioss-150-threshold-removal-2028-07-01",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；欧盟委员会税务与海关总司官方新闻页（2026-11-09）可打开；取消 IOSS €150 门槛、平台“视同供应商”扩到所有价值、计划 2028-07-01 适用与原文一致。尚需征询欧洲议会后由理事会正式通过，亚马逊尚未发布对卖家的执行说明，未核实。",
+    "title": "欧盟计划取消进口一站式申报（IOSS）€150 上限：2028 年 7 月起，从欧盟外卖给欧盟消费者的货不论多贵，都由亚马逊等平台代收增值税（成员国已达成一致，尚未正式通过）",
+    "regions": [
+      "EU"
+    ],
+    "category": "税务与包装",
+    "status": "政策说明",
+    "announced": "2026-11-09",
+    "effective": "2028-07-01",
+    "dateNote": "2026-11-09 欧盟理事会成员国达成“共同立场”（general approach），欧盟委员会同日发文；计划 2028-07-01 在欧盟海关数据中心上线时适用，仍需正式通过，日期可能变。",
+    "zh": "欧盟委员会（2026-11-09）：欧盟成员国在理事会就取消 VAT 进口一站式（IOSS）€150 门槛达成共同立场。通过后，IOSS 和“视同供应商”规则（平台对其促成的销售负责增值税）将适用于所有从欧盟外远程销售给欧盟消费者的进口商品，不再只限 €150 以下；应税消费品（excise）仍除外。IOSS 还将覆盖从新设“远程销售海关仓”发出的货物，并加强对代理非欧盟卖家的中间人资格管控。新规计划在欧盟海关数据中心上线时（2028-07-01）适用，2030-12-01 前委员会复盘。",
+    "orig": "European Commission, 9 November 2026: “Removal of the €150 threshold. The IOSS and the deemed supplier rules, under which online marketplaces and platforms are responsible for the VAT on the sales they facilitate, will apply to all distance sales of imported goods. Products subject to excise duty remain excluded.” “1 July 2028: new rules apply when the EU Customs Data Hub is operational.”",
+    "plain": "这是啥：欧盟打算把“€150 以下才由平台代收增值税”的上限取消，以后从欧盟外直接发给欧盟消费者的货，不管单价多高，增值税都由亚马逊这样的平台在结账时代收代缴，计划 2028 年 7 月开始，目前还没正式立法。\n跟你有没有关系：从中国直发欧盟（自发货/跨境直邮）、尤其卖 €150 以上高客单价的有关系；货先进欧洲 FBA 仓、在欧盟境内发货的基本不受这条影响；只做美国站的无关。\n你要做的事：现在不用动；做欧洲直发的记一下 2028 年 7 月这个时间点，算高客单价产品利润时把增值税直接从售价里扣掉；等欧盟正式通过和亚马逊发通知再调整。",
+    "outlook": "服务对象：主要是欧盟政府（堵住高价跨境包裹的增值税漏洞、统一由平台收税）和欧盟本地商家（与境外卖家公平竞争）。推测：正式通过后，亚马逊会在 2028 年前发通知，把欧盟外直发订单的增值税全部改为平台代扣，并可能配合海关数据中心要求更多商品数据；跨境直发的价格优势会进一步缩小，推动卖家改走欧洲本地仓。库内相关：《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》《欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）》《英国 2027 年 10 月起：亚马逊等平台要替达标英国卖家代收 VAT（VAT 注册或单平台年销超 £90,000）》。",
+    "sourceName": "European Commission – Taxation and Customs Union：Commission welcomes Council agreement on removing the €150 threshold for the VAT Import One-Stop Shop",
+    "sourceUrl": "https://taxation-customs.ec.europa.eu/news/commission-welcomes-council-agreement-removing-eur150-threshold-vat-import-one-stop-shop-2026-11-09_en"
+  },
+  {
+    "id": "sp-api-settlement-report-v1-removal-2026-11-11",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；SP-API 官方 changelog 可打开（2026-03-09 发布，移除日改为 2026-11-11）；被移除的两个报告名称、替代报告 Flat File V2、适用所有站点与原文一致。Seller Central 网页端结算报告下载是否同步变化原文未说明，未核实。",
+    "title": "旧版结算报告 11 月 11 日起下线：XML 结算报告和旧版 Flat File 结算报告停用，统一改用 Flat File V2（所有站点）",
+    "regions": [
+      "GLOBAL"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-03-09",
+    "effective": "2026-11-11",
+    "dateNote": "SP-API changelog 2026-03-09 发布，移除日期改为 2026-11-11。",
+    "zh": "Amazon SP-API 官方更新日志：2026 年 11 月 11 日起，向卖家移除 XML 结算报告（GET_V2_SETTLEMENT_REPORT_DATA_XML）和 Flat File 结算报告（GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE），由 Flat File V2 结算报告（GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE_V2）替代，信息相同但列更少、格式更精简，没有 XML 替代版。适用所有站点。使用这些报告的应用需迁移到 V2，字段对应如 price/fee type 改为 amount-type、amount-description，金额统一为 amount。",
+    "orig": "SP-API changelog (March 9th, 2026): “On November 11, 2026, the following settlement reports will be removed for sellers: XML Settlement Report (GET_V2_SETTLEMENT_REPORT_DATA_XML); Flat File Settlement Report (GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE). The Flat File V2 Settlement Report (GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE_V2) replaces these reports.” “This change applies to all marketplaces.”",
+    "plain": "这是啥：亚马逊把两种老格式的结算报告（XML 版和旧 Flat File 版）在 11 月 11 日停掉了，以后只剩 Flat File V2 这一种，内容一样、列更少。\n跟你有没有关系：用 ERP、财务软件或自己写的脚本自动拉结算报告对账的有关系（老报告拉不到会导致对账、利润表出错）；只在后台手动看回款的基本无关。\n你要做的事：问一下你们用的 ERP/财务工具是否已切到 Flat File V2；这几天检查 11 月的回款对账、利润报表有没有缺数据，缺了就让服务商升级。",
+    "outlook": "服务对象：主要是亚马逊（减少维护多套报告格式）。推测：后续还会继续清理老旧报告和接口，统一到新版报告/数据接口，靠第三方工具对账的卖家要定期关注服务商是否跟上。库内相关：《SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项》《企业购行业垂直定价（IVP）扩到加/欧/日：10 月 29 日起可用 API 按教育/医疗/政府等行业设 B2B 价》。",
+    "sourceName": "Amazon SP-API Changelog：Update: Removal of XML Settlement Report and Flat File Settlement Report date changed to November 11, 2026",
+    "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/update-removal-of-xml-settlement-report-and-flat-file-settlement-report-date-changed-to-november-11-2026"
+  },
+  {
     "id": "uk-seller-wallet-gbp-2026-11-05",
     "sourceTier": "A",
     "verifiedAt": "2026-11-11",
@@ -149,8 +191,8 @@
   {
     "id": "sp-api-ivp-eu-jp-ca-2026-10-29",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；SP-API 官方 changelog 可打开；生效 2026-10-29；覆盖 UK/DE/FR/IT/ES/JP/CA；须已加入 Amazon Business Industry Vertical Pricing；与原文一致。",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；SP-API 官方 changelog 可打开；2026-10-29 生效、覆盖站点与库内一致；事实修正 0。",
     "title": "企业购行业垂直定价（IVP）扩到加/欧/日：10 月 29 日起可用 API 按教育/医疗/政府等行业设 B2B 价",
     "regions": [
       "CA",
@@ -173,8 +215,8 @@
   {
     "id": "ads-dva-onscreen-impressions-2027-01-01",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；PPC Land 2026-11-03 文可打开，文中引用广告主收到的亚马逊 Ads 通知原文要点（含 63%、页面范围、生效日）；官方公开帮助页未找到，故保留 C，verifyNote 标明。",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；PPC Land 文可打开，2027-01-01、约 63% 与库内一致；亚马逊公开官方页仍未找到，保留 C；事实修正 0。",
     "title": "DVA 展示广告曝光改成「出现在屏幕上才算」：2027-01-01 起，站内展示曝光量预计平均少约 63%",
     "regions": [
       "US"
@@ -552,8 +594,8 @@
   {
     "id": "us-nwd-brand-rep-2026-10-27",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；论坛帖可打开，发帖人为普通卖家（非 News_Amazon），Roberto_Amazon 有跟帖；官方公告帖仍未找到，保留 C；事实修正 0。",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；论坛帖可打开，发帖人为普通卖家、有亚马逊版主跟帖；官方公告帖仍未找到，保留 C；事实修正 0。",
     "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）",
     "regions": [
       "US"
@@ -573,8 +615,8 @@
   {
     "id": "us-restore-to-new-2026-10-21",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；SellersAskSellers 转贴页可打开，含 Restore to New / Sell as Used；官方原文仍未找到，保留 C；事实修正 0。",
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文未找到，保留 C；事实修正 0。",
     "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖",
     "regions": [
       "US"
@@ -736,8 +778,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
     "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文仍未找到，保留 C；5% 徽章阈值未改。"
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文未找到，保留 C；5% 阈值未变。"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -905,8 +947,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；Seller Central 论坛帖可打开；关键要求与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；Seller Central 论坛帖可打开；IPTC 标记要求与库内一致；事实修正 0。"
   },
   {
     "id": "tic-direct",
@@ -1357,8 +1399,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；sellingpartners.aboutamazon.com 费用更新页可打开；高退货处理费表述仍在；事实修正 0。"
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；sellingpartners 2023-12-05 费用信可打开（未被新内容替换），退货处理费扩到服装鞋类以外的表述仍在；事实修正 0。"
   },
   {
     "id": "bundles-consumable-2024",
@@ -1378,7 +1420,7 @@
     "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-04",
+    "verifiedAt": "2026-11-12",
     "verifyNote": "200；论坛帖可打开；消耗品捆绑原厂包装要求仍在；事实修正 0。"
   },
   {
@@ -1611,8 +1653,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；News_Amazon 论坛帖可打开；2027-01-11 原厂包装要求仍在；事实修正 0。"
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；News_Amazon 论坛帖（headless Chrome）可打开；2027-01-11 起多数捆绑须原厂包装、授权信/礼品与相机类目/虚拟捆绑例外与库内一致；事实修正 0。"
   },
   {
     "id": "listing-protection-2026",
@@ -1779,8 +1821,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-04",
-    "verifyNote": "200；奥地利 BMF 官方页可打开，含 parcel delivery tax / EUR 2 相关内容；关键数字与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-12",
+    "verifyNote": "200；奥地利 BMF 官方页可打开；EUR 2 包裹税内容仍在；事实修正 0。"
   },
   {
     "id": "fba-meltable-2026-08-31",

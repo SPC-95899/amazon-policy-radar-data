@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-13",
+    "status": "完成",
+    "finishedAt": "2026-11-13 06:09",
+    "summary": "检索 2026-11-05～2026-11-13：Seller Central 美/加/墨/欧公告论坛（Chrome）、sellingpartners / About Amazon、欧盟委员会新闻、WebSearch（PPC Spider、PPC Land、Mr. Jeff、My Amazon Guy 等线索）。新增 1 条：欧盟委员会 11/11 提出《数字公平法》提案（禁止“快卖完了”等虚假紧迫感、价格透明、最高罚全球年营业额 6%；欧盟委员会官方页，A 级，尚未通过、适用日期未定）。跳过：Manage Inventory 新增“Detach from Family / Ungroup Variation Family”一键拆变体（仅第三方报道，亚马逊未发帮助页，未入库）；日本公平交易委员会批准亚马逊日本放宽比价规则（日本站，不在范围）；FBA 预计入仓时长（PPC Land 11/12 新报道，库内已有）；保险 11/2、2027 美/加费用、捆绑新规、IOSS、墨西哥 ISR 均已在库。状态自动翻转 0 条。链接复查 10 条（verifiedAt 最旧）：ca-fees-2026、commingle、eu-fbm-customs-identifiers-2026-11-01、eu-fbm-delivery-2026、eu-handling-fee-2026-11-01、eu-uk-avtr-anytime-2026-11-03、eu-uk-fba-returnless-resolutions-2026-10-27、nsp-2026-confirm-2026-10-31、us-fba-intl-inbound-extension-2026-10-30、us-sipp-2024。可达 10、失效 0；修正 1：加拿大费用帮助页 G201411300 已换成 2027 年内容，ca-fees-2026 改链到加拿大论坛 News_Amazon 2026 费用官方公告（A→B，事实不变）；升级 0。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "eu-digital-fairness-act-proposal-2026-11-11",
+        "title": "欧盟提出《数字公平法》（Digital Fairness Act）：拟禁止“仅剩几件”等虚假紧迫感和误导性定价，大案最高罚全球年营业额 6%（仅为提案，尚未通过）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "status": "完成",
     "finishedAt": "2026-11-12 06:08",

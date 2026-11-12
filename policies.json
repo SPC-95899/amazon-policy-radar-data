@@ -1,5 +1,26 @@
 [
   {
+    "id": "eu-digital-fairness-act-proposal-2026-11-11",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；欧盟委员会《数字公平法》官方页（2026-11-11 提案及 PDF）与委员会驻塞浦路斯代表处官方新闻可打开；禁止“快卖完了”等虚假紧迫感、价格透明、取消订阅更容易、CPC 修订下最高全球年营业额 6% 罚款、要求非欧盟企业在欧盟指定法律代表，与原文一致。目前仅为提案，需欧洲议会和理事会讨论通过，适用日期官方未定，未核实；亚马逊尚未发布对卖家的说明。",
+    "title": "欧盟提出《数字公平法》（Digital Fairness Act）：拟禁止“仅剩几件”等虚假紧迫感和误导性定价，大案最高罚全球年营业额 6%（仅为提案，尚未通过）",
+    "regions": [
+      "EU"
+    ],
+    "category": "合规与安全",
+    "status": "政策说明",
+    "announced": "2026-11-11",
+    "effective": "2026-11-11",
+    "dateNote": "2026-11-11 欧盟委员会通过提案；卡片“生效”栏填的是提案日，不是适用日。下一步由欧洲议会和理事会讨论，正式通过及适用日期官方尚未确定，不编造。",
+    "zh": "欧盟委员会（2026-11-11）提出《数字公平法》提案及配套的消费者保护合作条例（CPC）修订：禁止操纵性营销（“暗黑模式”），如谎称商品快卖完以施压购买；要求价格清晰透明；消费者可关闭诱导过度消费的设计；网红营销须明确披露；限制针对未成年人或利用敏感数据的个性化广告和定价；订阅更易取消、终结自动续费和免费试用转付费陷阱；消费者有权联系真人客服，并对用 AI 代理购物有明确权利。CPC 修订拟赋予委员会直接调查大规模案件的权力，罚款最高达企业全球年营业额 6%，并要求非欧盟企业在欧盟指定法律代表。提案需经欧洲议会和理事会讨论。",
+    "orig": "European Commission, 11 November 2026: “A ban on manipulative marketing tactics (so-called “dark patterns”) such as fake claims that a product is almost sold out that pressure consumers into purchasing decisions they might not otherwise make.” “Give the Commission direct powers to investigate large-scale cases with a major impact on consumers across the Single Market, with fines of up to 6% of a company's worldwide annual turnover.” “Strengthen enforcement against non-EU companies, by requiring them to appoint a legal representative in the EU…” “The proposals will now be discussed by the European Parliament and Council.”",
+    "plain": "这是啥：欧盟出了个新消费者保护法草案，打算禁止“只剩 3 件”这类假紧迫感、误导性价格玩法和难取消的订阅陷阱，违规大案最高罚全球年营业额 6%，非欧盟企业还可能要在欧盟指定法律代表；现在只是提案，还没通过、没定生效日。\n跟你有没有关系：做欧洲站的有关系，尤其在标题、五点、A+ 或图片里写“库存告急/最后几件/限时最低价”等制造紧迫感的话术；只做美国、加拿大、墨西哥的暂时无关。\n你要做的事：现在不用改；欧洲站文案以后别写编出来的“快卖完了”“仅剩 X 件”，划线价只用真实卖过的价格；等正式通过和亚马逊通知再全面检查。",
+    "outlook": "服务对象：主要是欧盟消费者（少被假紧迫感和价格套路误导），其次是欧盟政府（统一 27 国规则、加强对境外企业的执法）。推测：正式通过可能要一两年，亚马逊届时会收紧欧洲站对文案中紧迫感用语和参考价（划线价）的审核，跨境卖家被要求提供欧盟代表信息的可能性增加。库内相关：《欧盟 GPSR：责任人、标签与卖家平台提交》《欧盟计划取消进口一站式申报（IOSS）€150 上限：2028 年 7 月起，从欧盟外卖给欧盟消费者的货不论多贵，都由亚马逊等平台代收增值税（成员国已达成一致，尚未正式通过）》。",
+    "sourceName": "European Commission：Digital Fairness Act（2026-11-11 提案）",
+    "sourceUrl": "https://commission.europa.eu/law/law-topic/consumer-protection-law/digital-fairness-act_en"
+  },
+  {
     "id": "eu-ioss-150-threshold-removal-2028-07-01",
     "sourceTier": "A",
     "verifiedAt": "2026-11-12",
@@ -314,8 +335,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Temporary peak season extensions for international FBA shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f25ba535-e06e-4fa3-8bb0-cb3a095fd696",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；News_Amazon 美国论坛官方帖可打开（约 5 天前）；45 天多仓后续到货、90 天自动关闭、2026-08-01～11-30 国际计划、缺陷仍标但费豁免/已收费退回，与原文一致；由 C 镜像升 B。"
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
   },
   {
     "id": "uk-bfcm-deal-deadline-2026-11-18",
@@ -363,8 +384,8 @@
   {
     "id": "eu-uk-fba-returnless-resolutions-2026-10-27",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；英国论坛官方帖可达；轮换复查无断链；与库内一致。",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
     "title": "欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货",
     "regions": [
       "UK",
@@ -385,8 +406,8 @@
   {
     "id": "eu-uk-avtr-anytime-2026-11-03",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；英国论坛官方帖可达；轮换复查无断链；与库内一致。",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
     "title": "欧洲 VAT 交易报告（AVTR）11 月 3 日起月中随时可下，不用再等下月 3 号，还多两列",
     "regions": [
       "UK",
@@ -532,8 +553,8 @@
   {
     "id": "eu-fbm-customs-identifiers-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；SP-API changelog 可达；轮换复查无断链；与库内一致。",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
     "title": "欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）",
     "regions": [
       "EU"
@@ -552,8 +573,8 @@
   {
     "id": "eu-handling-fee-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；欧盟海关改革官方页可达；轮换复查无断链；与库内一致。",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
     "title": "欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费",
     "regions": [
       "EU"
@@ -757,8 +778,8 @@
     "sourceName": "Amazon 美国卖家论坛：Enroll in New Selection Program 2026 by March 31",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/0350c06a-2b11-4a24-b489-f608fb83fc47",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；美国论坛官方帖可达；轮换复查无断链；与库内一致。"
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
   },
   {
     "id": "business-discount-badge-2026-10-16",
@@ -883,8 +904,8 @@
     "sourceName": "Amazon SP-API Changelog：EU FBM Requirements",
     "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；SP-API changelog 可达；轮换复查无断链；与库内一致。"
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
   },
   {
     "id": "ins-2026-11-02",
@@ -1237,8 +1258,8 @@
     "sourceName": "Amazon Seller Forums：Commingling practices will end effective March 31, 2026",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/106d0747-e5c6-44d8-86f3-7669f11238fe",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；美国论坛官方帖可达；轮换复查无断链；与库内一致。"
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
   },
   {
     "id": "handling-featured-variation",
@@ -1298,8 +1319,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；sellingpartners 费用更新页经 Chrome 可达；轮换复查无断链；与库内一致。"
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
   },
   {
     "id": "us-inbound-placement-2024",
@@ -1498,14 +1519,14 @@
     "effective": "2025-11-05",
     "dateNote": "帮助页没有印新闻稿日期。2025-11-05 是页上写明的优惠券封顶和清算计划生效日，所以发布和生效都记这一天。2026 年费率本身不上调，MCF 结构调整的生效日是 2026-01-15，写在正文里，没有单独占卡片生效日。",
     "zh": "加拿大帮助页：2026 年不上调加拿大推荐费和 FBA 费。自 2025年11月5日起，优惠券可变费用单券封顶 500 加元；同时推出 FBA Liquidations，费用是 15% 推荐费加按尺寸重量的处理费，0 到 5 公斤处理费 0.25 到 1.90 加元，超过 5 公斤每公斤再加 0.20 加元。加拿大 MCF 自 2026年1月15日起改为按尺寸分段，并按一单多件给递减折扣。",
-    "orig": "Amazon.ca help: “For 2026, we’re pleased to announce there will be no increases to Canada Referral and Fulfilment by Amazon fees.” “effective November 5, 2025” variable coupon fees are capped at CAD 500 per coupon. MCF structure changes “will be effective January 15, 2026.”",
+    "orig": "News_Amazon (Canada Seller Forums): “For 2026, we’re pleased to announce there will be no increases to Canada Referral and Fulfilment by Amazon fees.” “effective November 5, 2025” variable coupon fees are capped at CAD 500 per coupon. MCF structure changes “will be effective January 15, 2026.”",
     "plain": "这是啥：2026年加拿大佣金和FBA费不涨；11月5日起新优惠券浮动手续费一张最多500加元；另外上了FBA清货。\n跟你有没有关系：只影响加拿大卖家。不在加拿大卖的不用管。清货是15%佣金再加按重量的处理费，只有走清货的才付。多渠道发货从2026年1月15日起改成按尺寸算，一单多件有递减折扣。\n你要做的事：会开券或会清货的，按新上限和新处理费算。只是正常卖、不用这两样的，不用做。",
     "outlook": "推测是加拿大用不上调基础费来留卖家。和美国小涨再加燃油费相比，加拿大基础表更稳，但燃油附加费仍然会加上。",
-    "sourceName": "Amazon.ca 卖家帮助：2026 年加拿大费用",
-    "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/G201411300?locale=en-CA",
-    "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；加拿大 SC 费用帮助页经 Chrome 渲染可达；轮换复查无断链；关键表述与库内一致，未改事实。"
+    "sourceName": "Amazon.ca 卖家论坛官方公告（News_Amazon）：2026 Updates to Canada referral and Fulfilment by Amazon fees",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/a9383e96-87ef-484e-bbe7-cc07584331bb",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-13",
+    "verifyNote": "200；原帮助页 G201411300 已换成 2027 年加拿大费用内容，改链到加拿大卖家论坛 News_Amazon 官方公告（Chrome 渲染）；“2026 年不上调”、2025-11-05 优惠券封顶 500 加元、清算费用与原文一致，事实未改；来源级别由 A 调为 B。"
   },
   {
     "id": "peak-fees-2026",

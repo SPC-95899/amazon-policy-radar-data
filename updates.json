@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-14",
+    "status": "完成",
+    "finishedAt": "2026-11-14 06:08",
+    "summary": "检索 2026-11-06～2026-11-14：Seller Central 美/加/墨/英/德公告论坛（Chrome）、WebSearch（PPC Land、Mr. Jeff、My Amazon Guy、Amazon Brand Guide、SellerBites、Vonson Trade 等线索）、亚马逊墨西哥官方条款页。新增 0 条。跳过：Amazon Haul 商品进入主站搜索结果、约 18.4 万卖家被自动跨列到 Haul（About Amazon 11/9 + Marketplace Pulse 研究，属消费者端功能/第三方估算，非卖家新政策，未入库）；Manage Inventory 一键拆变体（仍无官方帮助页）；FBA 预计入仓时长、保险 11/2、欧洲附加费 2%（含 MCF 11/19）、黑五提报 11/13 截止等库内已有；Amazon「World Product Graph」（路透社内部文件报道，非政策）；日本 JFTC 比价规则（日本站不在范围）。状态自动更新 0 条。链接复查 11 条（us-storage-2024、claude-plugin、dg-questions、eu-fee-cut-2025、eu-fees-2026、fba-export、fba-meltable-2026-08-31、fba-partial-refund-2026-10-13、fba-return-grading-2026-10-14、fuel-surcharge + mx-zero-fee）：可达 11、失效 0；修正 1：mx-zero-fee 累计减免上限按官方条款页改为 200,000 墨西哥比索（原第三方报道 5 万有误），并注明自发货只免佣金不免物流费，来源 B→A。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-13",
     "status": "完成",
     "finishedAt": "2026-11-13 06:09",

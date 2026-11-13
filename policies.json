@@ -841,8 +841,8 @@
     "sourceName": "Seller Central 美国论坛官方公告：Customize how your FBA returns are graded for resale",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/731e6e69-5bfa-4a4f-9685-acb9da76153b",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；美国论坛官方帖可达；退货 grading / condition 相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -1010,8 +1010,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；3.5% fuel、April 17 相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；帮助页 headless Chrome 渲染后核对，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "eu-fees-2026",
@@ -1030,12 +1030,12 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；与 eu-fee-cut-2025 同帖可达；欧洲 2026 费用相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "mx-zero-fee",
-    "title": "墨西哥新卖家推荐费与部分物流费减免，上限 5 万比索",
+    "title": "墨西哥新卖家推荐费与部分物流费减免，每家上限 20 万比索",
     "regions": [
       "MX"
     ],
@@ -1043,15 +1043,15 @@
     "status": "已生效",
     "announced": "2026-07-15",
     "effective": "2026-07-15",
-    "zh": "亚马逊墨西哥卖家论坛官方帖（2026-08-28）：首件商品在 2026 年 7 月 15 日及之后发布的新卖家，以及停售至少 12 个月后在活动期内重新开卖的卖家（须为墨西哥税务住所），可享三个月 0 月租、0 推荐佣金、0 物流费（FBA、Easy Ship、Seller Flex）。前 90 天 TACoS（广告花费÷销售额）保持 5.0% 可多一个月，FBA 销量占比 80.0% 可再多一个月，最多五个月。无需手动报名，亚马逊自动登记；登记期 2026 年 7 月 15 日至 12 月 30 日。每家累计减免上限 5 万墨西哥比索出自 Merca2.0 报道，官方帖未提。",
-    "orig": "Kris_Amazon (Amazon.com.mx forums), 28 August 2026: “Nuevos vendedores: cuentas con su primer producto publicado a partir del 15 de julio de 2026.” “+1 mes: Mantener un TACoS del 5.0% … +1 mes: Mantener un 80.0% de Compromiso FBA.” “No necesitas registrarte manualmente. Amazon inscribe automáticamente a los vendedores elegibles. El periodo de inscripción va del 15 de julio de 2026 al 30 de diciembre de 2026.”",
-    "plain": "这是啥：墨西哥新卖家前三个月免月租、免佣金、免物流费，做得好最多免五个月，据报道每家累计最多免 5 万比索。\n跟你有没有关系：只限 2026 年 7 月 15 日及以后第一次上架、或停售满 12 个月后回来的墨西哥税务住所卖家，12 月 30 日前登记；老店和其他站点不用管。\n你要做的事：不用报名，亚马逊自动识别；新店前 90 天把 TACoS 控在 5%、FBA 销量占到 80%，就能多拿两个月免费期。",
+    "zh": "亚马逊墨西哥官方活动条款页（vender.amazon.com.mx）：首件商品在 2026 年 7 月 15 日及之后上架的新卖家，以及停售满 12 个月后在活动期内重新开卖的卖家（须为墨西哥税务住所、账户合规），可享 3 个月（90 天）100% 免推荐佣金（FBA、Easy Ship、Seller Flex、自发货都算）和 100% 免物流费（仅 FBA、Easy Ship、Seller Flex，自发货不算）。前 90 天 TACoS（广告花费÷销售额）保持 5% 多 1 个月，FBA 销量占比保持 80% 再多 1 个月，最多 5 个月。无需手动报名，亚马逊自动登记（需有至少一个在售 ASIN，审核最长约 2 周，审核期间已收的费用不退）；登记期 2026 年 7 月 15 日至 12 月 30 日。每家累计减免上限 200,000 墨西哥比索，到顶后即按标准费率收费。另：墨西哥站新注册专业卖家首年免月租（见官方价格页）。",
+    "orig": "Amazon México, Programs Policy – Exención de tarifas: “100% de exención de tarifa por referencia durante 3 meses (90 días) en ventas realizadas a través de cualquier canal logístico (FBA, Easy Ship, Seller Flex o MFN).” “Duración del periodo de inscripción (únicamente): del 15 de julio de 2026 al 30 de diciembre de 2026.” “El beneficio otorgado bajo este programa está sujeto a un límite máximo total de $200,000 MXN (doscientos mil pesos mexicanos) por vendedor.”",
+    "plain": "这是啥：墨西哥新卖家前三个月免佣金、FBA 等物流费也免，做得好最多免五个月，每家累计最多免 20 万比索。\n跟你有没有关系：只限 2026 年 7 月 15 日及以后第一次上架、或停售满 12 个月后回来的墨西哥税务住所卖家，12 月 30 日前登记；老店和其他站点不用管。\n你要做的事：不用报名，有在售 ASIN 亚马逊就自动登记；新店前 90 天把 TACoS 控在 5%、FBA 销量占到 80%，就能多拿两个月免费期。",
     "outlook": "推测是亚马逊用免费用换墨西哥新卖家，并把货往FBA里赶。美加同期主要是不涨或小涨，墨西哥是在花钱拉新店。",
-    "sourceName": "Amazon.com.mx 卖家论坛（Kris_Amazon 官方帖）：¿Sabías que puedes vender con CERO tarifas por tres meses?",
-    "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/f5ce894e-124a-4267-a1b1-5bd365a692eb",
-    "sourceTier": "B",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；墨西哥论坛官方帖可达；零佣金/新卖家活动表述仍在，与库内一致，事实修正 0"
+    "sourceName": "Amazon México 官方活动条款：Programs Policy - Fee Waiver for new and reactivated sellers",
+    "sourceUrl": "https://vender.amazon.com.mx/exencion-de-tarifas-nuevos-vendedores",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；官方条款页可达。修正：累计上限按官方条款为 200,000 MXN（原据 Merca2.0 写 5 万比索，有误）；自发货只免佣金不免物流费；来源由论坛帖（B）升级为官方条款页（A）"
   },
   {
     "id": "multichannel",
@@ -1090,8 +1090,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/467718ca-3e4d-42d2-b934-1e6771af99d3",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；美国论坛官方帖可达；Seller Assistant / AI 工具假期说明仍在，事实修正 0",
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0",
     "dateNote": "Accelerate 2026-09 宣布；美国论坛假期提醒帖约三周前（引用为当前 B 级来源）"
   },
   {
@@ -1137,8 +1137,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：FBA Export expands to new destinations",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d2908c90-b115-4777-90d7-dc6e74197566",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；英国论坛官方帖可达；175+ 新目的地表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "dg-questions",
@@ -1158,8 +1158,8 @@
     "sourceName": "Amazon 美国卖家论坛 News_Amazon（德国站同题公告已交叉核对）",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；美国论坛官方帖可达；危险品合规问卷相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "gpsr",
@@ -1380,8 +1380,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-05",
-    "verifyNote": "200；sellingpartners 费用更新页经 Chrome 可达；轮换复查无断链；与库内一致。"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "us-fulfillment-cut-2024",
@@ -1632,8 +1632,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；论坛官方帖可达；欧洲履约费下调相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "pan-eu-nl-2026",
@@ -1863,8 +1863,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；美国论坛官方帖可达；可融化库存相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "sc-provider-2026-09-01",
@@ -1907,7 +1907,7 @@
     "sourceName": "Amazon Seller Central：FBA Partial Refunds",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；帮助页经 headless Chrome 渲染可达；partial refund / return reason 相关表述仍在，事实修正 0"
+    "verifiedAt": "2026-11-14",
+    "verifyNote": "200；帮助页 headless Chrome 渲染后核对，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-11-15",
+    "status": "完成",
+    "finishedAt": "2026-11-15 06:17",
+    "summary": "检索 2026-11-07～2026-11-15：Seller Central 美/加/墨/英/爱/德/法/意/西/荷/波/瑞/比公告论坛（Chrome，按发布时间排序 sortBy=createdAt）、SP-API changelog、sellingpartners / About Amazon、WebSearch（PPC Land、Mr. Jeff、My Amazon Guy、wortfilter、SellerMagnet 等线索）。新增 4 条：①欧洲 8 国旺季临时放宽 Prime 资格 11/15–2027/1/9（法/德/西/荷/比论坛 11/12 官方帖，B 级；德语版超大件境内 45% 写 ≤10 天，其余版本 ≤6 天，已在条目注明）；②加拿大 FBA 退款不退货 11/6 起可报名（加拿大论坛 11/12，B 级）；③墨西哥自发货卖家自定义休息日（墨西哥论坛 11/6，B 级）；④SP-API 11/16 起 Listing 属性与枚举值更新（官方 changelog 11/11，A 级）。修改 1 条：企业购 Business Discount 徽章补加加拿大站，来源换为加拿大论坛 11/9 官方帖（C→B）。跳过：美国 Reporter Assistant AI 举报助手（11/3，与库内《品牌备案「举报违规」工具改版》同一功能）；Win the holidays with AI（与库内卖家助手/Amazon Quick 条目同批）；Manage Inventory 一键拆变体（仍无官方帮助页）；Amazon Ads 合作伙伴状态冻结、DSP 代理费设置 1/31 截止（面向广告代理商，非卖家政策）；日本 JFTC 比价规则（日本站不在范围）。状态自动更新 0 条。链接复查 10 条（verifiedAt 最旧：us-3d-printers-referral、us-fees-2027、vmp-wave、brand-registry-report-violation、ca-fees-2027、eu-uk-surcharge-2pct、gpsr、gwd-compliance、gwd-expiration-dated、handling-featured-variation）：可达 10、失效 0、修正 0（vmp-wave 仍为 C 级，官方原文未找到）。",
+    "addedCount": 4,
+    "items": [
+      {
+        "id": "eu-seller-prime-peak-2026-11-15",
+        "title": "欧洲 8 国旺季临时放宽 Prime 资格：11 月 15 日至 2027 年 1 月 9 日，FBA/自配送 Prime 的配送速度要求降低（德法西荷波瑞比爱）"
+      },
+      {
+        "id": "ca-fba-returnless-resolutions-2026-11-06",
+        "title": "加拿大 FBA「退款不退货」开放：11 月 6 日起 FBA 卖家可选全部或指定 ASIN，买家退款后不用寄回商品"
+      },
+      {
+        "id": "mx-fbm-seller-holidays-2026-11-06",
+        "title": "墨西哥自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延"
+      },
+      {
+        "id": "sp-api-listing-attrs-2026-11-16",
+        "title": "SP-API 11 月 16 日起：多站点 Listing 属性与枚举值再次更新，用 API / JSON 表格新建或修改带报价链接可能要补新必填项"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "status": "完成",
     "finishedAt": "2026-11-14 06:08",

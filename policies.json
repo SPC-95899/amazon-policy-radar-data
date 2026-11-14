@@ -1,5 +1,92 @@
 [
   {
+    "id": "eu-seller-prime-peak-2026-11-15",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central 法国论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-12T04:40Z），德/西/荷/比论坛同日发布同内容；8 国、11/15–2027/1/9、各尺寸配送速度比例、准时送达率 92%/90%、1/10 恢复常规与原文一致。注意：德语版写超大件（Übergröße）境内 45% ≤10 天，法/西/荷/比版均写 ≤6 天，以多数版本为准、存在官方译文不一致；英国站未见此帖，未核实英国是否同步调整。",
+    "title": "欧洲 8 国旺季临时放宽 Prime 资格：11 月 15 日至 2027 年 1 月 9 日，FBA/自配送 Prime 的配送速度要求降低（德法西荷波瑞比爱）",
+    "regions": [
+      "EU"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-11-12",
+    "effective": "2026-11-15",
+    "dateNote": "论坛帖 2026-11-12（UTC）发布；临时规则 2026-11-15 起至 2027-01-09，2027-01-10 恢复常规 Prime 资格要求。",
+    "zh": "亚马逊欧洲卖家论坛 News_Amazon（2026-11-12）：为应对假日高峰配送延误，在德国、法国、西班牙、荷兰、波兰、瑞典、比利时、爱尔兰临时调整 FBA、卖家自配送（FBM / Seller Prime）及亚马逊自营报价的 Prime 资格要求。2026-11-15 至 2027-01-09 期间：标准件和低价商品境内配送——德国 10% ≤1 天、35% ≤2 天、65% ≤4 天，其余 7 国 25% ≤2 天、65% ≤4 天；跨境 5% ≤3 天、15% ≤4 天、35% ≤6 天。特大件境内 5% ≤5 天、15% ≤6 天，跨境 5% ≤5 天、10% ≤6 天。超大件境内 10% ≤3 天、30% ≤4 天、45% ≤6 天（德语版写 ≤10 天），跨境 5% ≤5 天、10% ≤6 天。同时所有类目准时送达率须至少 92%（德法西）或 90%（荷波瑞比爱）。2027-01-10 起恢复常规要求。可在 Seller Prime 仪表板或 FBA 库存报告跟踪表现。",
+    "orig": "News_Amazon (Amazon.fr Seller Forums), 12 novembre 2026 : « nous adapterons temporairement les exigences de ce programme pour les offres Expédié par Amazon (FBA), Expédié par le vendeur (FBM) et les offres de vente au détail Amazon en Allemagne, en France, en Espagne, aux Pays-Bas, en Pologne, en Suède, en Belgique et en Irlande. Du 15 novembre 2026 au 9 janvier 2027, vos offres doivent respecter les engagements de délai de livraison suivants pour être éligibles à Prime … vous devez également respecter un taux de livraisons dans les délais d'au moins 92 % pour l'Allemagne, la France et l'Espagne, et d'au moins 90 % pour les Pays-Bas, la Pologne, la Suède, la Belgique et l'Irlande … Les exigences d'éligibilité Prime habituelles reprendront le 10 janvier 2027. »",
+    "plain": "这是啥：欧洲 8 个站（德法西荷波瑞比爱）旺季期间（11月15日到明年1月9日）临时降低 Prime 的配送速度门槛，送慢一点也能保住 Prime 标，但准时送达率要守住 92%（德法西）或 90%（其他 5 国）。\n跟你有没有关系：在这些欧洲站做卖家自配送 Prime（Seller Prime）或关心 FBA 商品 Prime 标的有关系；只做美国、加拿大、墨西哥或英国站的基本无关。\n你要做的事：不用申请，自动生效；旺季照常发货，重点盯 Seller Prime 仪表板里的准时送达率别掉线，1月10日后速度要求恢复原样，提前安排好人手和物流。",
+    "outlook": "服务对象：主要是亚马逊和消费者（旺季物流拥堵时 Prime 商品数量不缩水，买家仍有足够 Prime 货可选），其次是卖家（避免因承运商延误丢 Prime 标）。推测：这是每年旺季的惯例性放宽，1 月 10 日后恢复，届时速度不达标的 Seller Prime 报价可能集中掉标。库内相关：《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》《欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）》《美国 FBA 旺季临时放宽国际入仓：多仓后续货 45 天内到、货件自动关闭延到 90 天（8/1–11/30 建的国际计划）》。",
+    "sourceName": "Amazon.fr Seller Forums（News_Amazon）：Exigences du programme Seller Prime adaptées à la période de forte activité",
+    "sourceUrl": "https://sellercentral.amazon.fr/seller-forums/discussions/t/6bb8301b-6c87-4382-a13e-813865641857"
+  },
+  {
+    "id": "ca-fba-returnless-resolutions-2026-11-06",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central 加拿大论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-12T18:18Z）；2026-11-06 起可报名、建议 $100 以下商品、CSV 最多 10,000 个 ASIN、设置路径与原文一致。帖子未写可设的金额上限，对应加拿大帮助页未打开核对。",
+    "title": "加拿大 FBA「退款不退货」开放：11 月 6 日起 FBA 卖家可选全部或指定 ASIN，买家退款后不用寄回商品",
+    "regions": [
+      "CA"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-11-12",
+    "effective": "2026-11-06",
+    "dateNote": "论坛帖 2026-11-12（UTC）发布，原文写 2026-11-06 起即可报名，故生效日早于公告日。",
+    "zh": "亚马逊加拿大卖家论坛 News_Amazon（2026-11-12）：自 2026-11-06 起，加拿大 FBA 卖家可报名 FBA Returnless Resolutions（退款不退货）：给买家退款并允许其保留商品，免去实物退货。亚马逊称对部分商品（尤其售价低于 100 美元的商品）可能更划算，可省下高退货率费、退货处理费、仓储费和移除费。设置路径：设置 → 亚马逊物流 → FBA returns evaluations and ownership settings → Returnless Resolutions 旁点 Edit → 选择对全部 ASIN 或指定 ASIN 开启 → Update；指定 ASIN 需上传每行一个 ASIN 的 CSV，最多 10,000 个，修改时须上传包含全部 ASIN 的新文件。未列入的 ASIN 仍按原流程退回运营中心。",
+    "orig": "News_Amazon (Amazon.ca Seller Forums), November 12, 2026: “Starting November 6, 2026, Canada Fulfilment By Amazon (FBA) sellers can enrol in FBA Returnless Resolutions. This option gives customers a refund and allows them to keep the item.” “Granting Returnless options to customers may be more cost-effective for some of your products, especially for items below a $100 selling price.” “You can include up to 10,000 ASINs. ASINs not included in the CSV file will follow the existing process where customers must return items to Amazon fulfilment centres.”",
+    "plain": "这是啥：加拿大 FBA 也能开「退款不退货」了——买家要退货，亚马逊直接退钱，货留给买家，不用寄回仓库。\n跟你有没有关系：做加拿大 FBA、卖低价小件（尤其 100 加元以下）、退回来也基本不能再卖的有关系；不做加拿大 FBA 的无关。这是自愿开关，不开就照旧。\n你要做的事：算一笔账，退回来的处理费+仓储费+移除费比货值还高的 ASIN，到 FBA 设置里的 Returnless Resolutions 用 CSV 选中开启；贵的、退回来还能卖的别开，防止被薅羊毛。",
+    "outlook": "服务对象：主要是消费者（退货不用跑腿）和亚马逊（少处理低价退货件、省仓储运力），其次帮卖家省掉不值钱退货的处理成本。推测：亚马逊会继续把退款不退货推到更多站点，并可能用退货数据识别滥用退货的买家；卖家开启后退货率数字不变但退回实物减少。库内相关：《欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货》《加拿大 11 月 23 日起：从加拿大境外发货、没设加拿大退货地址的，CAD 25 以下退货直接退款不退货；同日可设自动“退款不退货”规则》《FBA 部分退款可以按退货原因来设》。",
+    "sourceName": "Amazon.ca Seller Forums（News_Amazon）：Enrolling in Returnless Resolutions",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/2a5952ec-fb51-4dab-a91e-ccf0da54f4f3"
+  },
+  {
+    "id": "mx-fbm-seller-holidays-2026-11-06",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central 墨西哥论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-06T11:02Z）；自定义休息日、订单照收、发货和保证送达日自动顺延、国家法定假日可改为营业日、FBM 订单报告新增备货时间/运输时间列与原文一致。帖子未写具体上线日期，按发帖日记；美国站是否同样开放未核实。",
+    "title": "墨西哥自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延",
+    "regions": [
+      "MX"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": "2026-11-06",
+    "effective": "2026-11-06",
+    "dateNote": "论坛帖 2026-11-06（UTC）发布，写“现在可以”设置；原文未给单独上线日期，生效日按发帖日记。",
+    "zh": "亚马逊墨西哥卖家论坛 News_Amazon（2026-11-06）：卖家可在 Seller Central 为卖家自配送（FBM）商品设置自定义休息日。与假期模式不同，设定休息日期间商品仍对买家展示、继续接单，但发货日期和保证送达日期会自动扣除这些休息日。亚马逊设定的节假日不变，但如果你在国家法定假日照常营业，可改为营业日。FBM 订单报告新增每笔订单的备货时间（tiempo de preparación）和运输时间（tiempo en tránsito）列，方便核对送达日期如何计算。设置入口：节假日设置（Administrar la configuración de días festivos）。",
+    "orig": "News_Amazon (Amazon.com.mx Seller Forums), 6 de noviembre de 2026: “Puedes crear días festivos personalizados para tus productos gestionados por el vendedor (FBM) en Seller Central.” “En lugar de usar el modo de vacaciones para administrar tu horario de operaciones, puedes definir qué días tu negocio estará cerrado sin dejar de mostrar tus productos a los clientes. Seguirás recibiendo pedidos en los días festivos establecidos por el vendedor, pero las fechas de envío y de entrega garantizada se ajustarán automáticamente…” “tus reportes de pedidos de FBM ahora incluyen columnas que muestran el tiempo de preparación y el tiempo en tránsito de cada pedido.”",
+    "plain": "这是啥：墨西哥站自发货可以自己设“哪天放假”，放假那天链接不下架、照样接单，只是发货和送达日期自动往后推。\n跟你有没有关系：做墨西哥站自发货（FBM）、仓库或团队有固定休息日（比如中国春节、周末）的有关系；纯 FBA 的无关。\n你要做的事：到 Seller Central 的节假日设置里把仓库休息日填上，以后短期放假就别再开假期模式（会把链接藏起来）；顺便看订单报告新加的备货时间、运输时间列，确认送达日期算得对。",
+    "outlook": "服务对象：主要是卖家（放假不丢曝光、不因迟发扣绩效）和消费者（看到的送达日期更准）。推测：亚马逊想减少卖家用假期模式下架导致的缺货和迟发，同时让准时送达率考核更公平；类似功能可能已在或将在其他北美站开放。库内相关：《自发货处理时间、黄金购物车资格门、变体向导下线》《美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架》。",
+    "sourceName": "Amazon.com.mx Seller Forums（News_Amazon）：Crear días festivos definidos por el vendedor para gestionar las fechas de entrega de FBM",
+    "sourceUrl": "https://sellercentral.amazon.com.mx/seller-forums/discussions/t/524f59b2-ff00-455d-ac41-ae7c55cd3bc4"
+  },
+  {
+    "id": "sp-api-listing-attrs-2026-11-16",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；SP-API 官方 changelog 页可打开（2026-11-11 发布）；2026-11-16 生效、影响 Listings Items API 与 JSON_LISTINGS_FEED 新建/编辑带报价商品、新增必填属性须填值、仅商品无报价与 XSD/XML 上传不受影响，与原文一致。具体哪些品类、哪些站点变化须看官方 product metadata changes 列表，未逐项核对。",
+    "title": "SP-API 11 月 16 日起：多站点 Listing 属性与枚举值再次更新，用 API / JSON 表格新建或修改带报价链接可能要补新必填项",
+    "regions": [
+      "US",
+      "CA",
+      "MX",
+      "EU"
+    ],
+    "category": "Listing与目录",
+    "status": "即将生效",
+    "announced": "2026-11-11",
+    "effective": "2026-11-16",
+    "dateNote": "官方 changelog 2026-11-11 发布，2026-11-16 生效；原文写“across Amazon stores”，具体站点见官方元数据变更清单。",
+    "zh": "SP-API 官方更新（2026-11-11）：自 2026-11-16 起，亚马逊将更新多个站点大量商品类型（product type）的属性用法与枚举值，完整清单见“SP-API product metadata changes”。受影响的是用 Listings Items API v2021-08-01 和 JSON_LISTINGS_FEED 新建或编辑带报价商品的开发者（含使用第三方铺货/ERP 工具的卖家）；仅商品信息（无报价）的上传、XSD 与 XML 上传不受影响。新建或编辑时须为新增的必填属性填值；可选属性可自愿填写；若新枚举值更贴切可改用新的下拉值。",
+    "orig": "SP-API changelog, November 11, 2026: “Effective November 16, 2026, Amazon will update the attribute usage and enumeration values of numerous product types across Amazon stores.” “Both private and public developers who use the Listings Items API v2021-08-01 and JSON_LISTINGS_FEED feed type to create and edit products with offers are affected by this change. Product-only listings, XSD feed uploads, and XML feed uploads are not affected by this change.” “It requires you to provide values for the newly added attributes with required usage.”",
+    "plain": "这是啥：11月16日起，亚马逊又一次调整很多品类的上架字段——有的字段变成必填，下拉选项也换了一批，影响用 API 或 JSON 表格批量上架。\n跟你有没有关系：铺货卖家很有关系，尤其用 ERP / 铺货软件或 AI 流水线通过 API 批量上新、改价改库存；纯手动在后台一个个建链接的影响小一些。\n你要做的事：16号后批量上新报错先看是不是缺了新必填字段；让 ERP / 开发更新品类模板（product type definitions），把上新模板里的下拉值按新清单核一遍。",
+    "outlook": "服务对象：主要是亚马逊和消费者（商品属性更全、搜索筛选更准），代价是卖家和开发者要不断跟进模板。推测：这类属性更新已变成每月例行，铺货流程应把“拉最新品类定义”做成自动步骤；字段越来越多也和标题精简、Item Highlights 要求配套。库内相关：《SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项》《标题 75 字符 + Item Highlights 125 字符》。",
+    "sourceName": "Amazon SP-API Changelog：November Updates to Listing Attribute Usage and Enumeration Values",
+    "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/november-updates-to-listing-attribute-usage-and-enumeration-values"
+  },
+  {
     "id": "eu-digital-fairness-act-proposal-2026-11-11",
     "sourceTier": "A",
     "verifiedAt": "2026-11-13",
@@ -150,8 +237,8 @@
   {
     "id": "ca-fees-2027",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；Seller Central 加拿大帮助页 G201411300「2027 Canada Referral and Fulfilment by Amazon fees」与 News_Amazon 加拿大论坛帖（createdAt 2026-11-05T20:02:05Z）均可打开；平均 +CAD 0.21、2027-01-15、仓储/低库存 2027-02-01、燃油附加费不变等与原文一致",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central 加拿大帮助页 G201411300（headless Chrome）可达；平均 +CAD 0.21、2027-01-15 与原文一致",
     "title": "2027 年加拿大 FBA 费平均每件上调约 0.21 加元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
     "regions": [
       "CA"
@@ -171,8 +258,8 @@
   {
     "id": "us-fees-2027",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；sellingpartners 公告页与 Seller Central 帮助页 G201411300 均可达；平均 +$0.19、2027-01-15、仓储/低库存 2027-02-01 等与原文一致",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；sellingpartners 公告页可达；平均 +$0.19、2027-01-15、2027-02-01 仓储/低库存调整与原文一致",
     "title": "2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
     "regions": [
       "US"
@@ -192,8 +279,8 @@
   {
     "id": "us-3d-printers-referral-2026-11-05",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-06",
-    "verifyNote": "200；Seller Central 帮助页 G201411300「Referral fees」节可达；3D printers 新档 12%/5%、生效 2026-11-05 与原文一致",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central 帮助页 G201411300（headless Chrome）可达；3D printers 新档 12%/5%、生效 2026-11-05 与原文一致",
     "title": "美国 3D 打印机单独推荐费档：首 200 美元 12%、超出部分 5%，2026-11-05 起",
     "regions": [
       "US"
@@ -490,8 +577,8 @@
   {
     "id": "brand-registry-report-violation-2026-10-22",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；sell.amazon.co.jp 违规举报改版页可达；轮换复查无断链",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；sell.amazon.co.kr 违规举报改版页可达，Report Assistant 等关键词与原文一致；另见美国论坛 News_Amazon 2026-11-03 帖「Report intellectual property infringement with AI-powered help」（f28cb12e）确认 AI 举报助手在美国上线，与本条为同一功能，未新增",
     "title": "品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手",
     "regions": [
       "GLOBAL"
@@ -533,8 +620,8 @@
   {
     "id": "gwd-expiration-dated-2026-10-12",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；升级 C→B：换美国 Seller Forums News_Amazon 官方帖（createdAt 2026-10-12）；365/180 天、深圳/上海/宁波、美妆个护母婴等与原文一致",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；美国论坛 News_Amazon 帖（headless Chrome）可达；365/180 天、深圳/宁波等与原文一致",
     "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天",
     "regions": [
       "US"
@@ -657,8 +744,8 @@
   {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；英国论坛燃油附加费 2% 官方帖可达；轮换复查无断链",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；英国论坛 News_Amazon 帖（headless Chrome）可达；1.5%→2%、FBA 11/2、MCF 11/19 与原文一致",
     "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
     "regions": [
       "EU"
@@ -783,24 +870,25 @@
   },
   {
     "id": "business-discount-badge-2026-10-16",
-    "title": "企业购 Business Discount 徽章：单件企业价满 5% 即可展示",
+    "title": "企业购 Business Discount 徽章：单件企业价满 5% 即可展示（美国、加拿大）",
     "regions": [
-      "US"
+      "US",
+      "CA"
     ],
     "category": "平台工具",
     "status": "已生效",
     "announced": "2026-10-16",
     "effective": "2026-10-30",
-    "dateNote": "2026-10-16 是卖家论坛转贴的亚马逊 Business 通知日期。原文写「未来两周内」上线徽章，故生效日按约 2026-10-30 记，以实际铺开为准。",
-    "zh": "亚马逊 Business 通知：未来两周内，企业购将推出新的「Business Discount」徽章。单件企业价相对核定参考价（VRP）至少优惠 5% 时，自动获得徽章，并在搜索和详情页展示划线价与红色优惠百分比。该徽章取代单件企业价上的旧版 Business Savings Blue Badge（BSBB）；单件企业价不再要求 4 星评分。企业价相对 VRP 至少优惠 2% 时，搜索页可显示划线价、详情页显示划线价和优惠百分比，但只有满 5% 才拿徽章。数量折扣的 BSBB 规则不变：首档至少 3% 且 4 星仍可获得旧蓝标。商品须存在 VRP 才会显示徽章、划线价和优惠百分比。",
+    "dateNote": "2026-10-16 是卖家论坛转贴的亚马逊 Business 通知日期。原文写「未来两周内」上线徽章，故生效日按约 2026-10-30 记，以实际铺开为准。 加拿大论坛官方帖 2026-11-09（UTC）发布，写徽章已上线。",
+    "zh": "亚马逊 Business 通知：未来两周内，企业购将推出新的「Business Discount」徽章。单件企业价相对核定参考价（VRP）至少优惠 5% 时，自动获得徽章，并在搜索和详情页展示划线价与红色优惠百分比。该徽章取代单件企业价上的旧版 Business Savings Blue Badge（BSBB）；单件企业价不再要求 4 星评分。企业价相对 VRP 至少优惠 2% 时，搜索页可显示划线价、详情页显示划线价和优惠百分比，但只有满 5% 才拿徽章。数量折扣的 BSBB 规则不变：首档至少 3% 且 4 星仍可获得旧蓝标。商品须存在 VRP 才会显示徽章、划线价和优惠百分比。 加拿大站论坛 2026-11-09 发布同内容公告，称徽章现已上线。",
     "orig": "Amazon Business notice (reposted): “A new ‘Business Discount’ badge will be available on Amazon Business in the next two weeks. When your single-unit Business Price offers at least 5% savings against a validated reference price (VRP), your offer automatically earns the badge and displays strikethrough price with savings percentage (%).” “Star rating removed: Products no longer need a 4-star rating to qualify.” “When your Business Price offers at least 2% savings against VRP… but only savings of at least 5% earn the badge.” “Quantity Discounts: BSBB for Quantity Discounts is not affected. Offers with at least 3% Quantity Discount on the first tier and a 4-star rating will continue to earn the BSBB as before.”",
-    "plain": "这是啥：卖给企业买家时，单件企业价比参考价便宜至少 5%，商品会戴上新的「企业折扣」徽章，并显示划线价和便宜了百分之几。\n跟你有没有关系：做美国站 Amazon Business、愿意给企业价的卖家有用；不做企业购的不用管。数量折扣还是老规矩（首档 3% + 4 星）。\n你要做的事：想拿徽章，把单件企业价设到比普通零售价至少低 5%，并确认商品有核定参考价（VRP）；数量折扣想保留蓝标就继续满足 3% 和 4 星。",
+    "plain": "这是啥：卖给企业买家时，单件企业价比参考价便宜至少 5%，商品会戴上新的「企业折扣」徽章，并显示划线价和便宜了百分之几。\n跟你有没有关系：做美国或加拿大站 Amazon Business、愿意给企业价的卖家有用；不做企业购的不用管。数量折扣还是老规矩（首档 3% + 4 星）。\n你要做的事：想拿徽章，把单件企业价设到比普通零售价至少低 5%，并确认商品有核定参考价（VRP）；数量折扣想保留蓝标就继续满足 3% 和 4 星。",
     "outlook": "推测主要服务企业买家和亚马逊：让企业采购更快认出「真的便宜」，推卖家多设企业价。徽章本身不强制。库内相关：《美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架》《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》。",
-    "sourceName": "SellersAskSellers 论坛转贴亚马逊 Business 通知：Earn new Business Discount badge for always-on visibility",
-    "sourceUrl": "https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638",
-    "sourceTier": "C",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文未找到，保留 C；5% 阈值未变。"
+    "sourceName": "Amazon.ca Seller Forums（News_Amazon）：Earn the new Business Discount badge to get always-on visibility",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/aaa31c50-6f04-4367-b651-c48ed512d2e6",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；升级 C→B：换加拿大 Seller Forums News_Amazon 官方帖（createdAt 2026-11-09T23:02Z，写“now available”），5% 徽章、2% 划线价、取消 4 星要求、数量折扣 BSBB 首档 3%+4 星不变、须有 VRP 与原文一致；地区补加 CA。美国版仍只有 SellersAskSellers 转贴（https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638），美国官方原文未找到。"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -820,7 +908,7 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
     "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-06",
+    "verifiedAt": "2026-11-15",
     "verifyNote": "200；第三方 SellersAskSellers 转贴仍可达；11/10 审核、11/11 开卖、VMP_ 筛选与条目一致；公开官方 A/B 仍未找到，保留 C 级"
   },
   {
@@ -1114,8 +1202,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；aboutamazon 全球拓展工具新闻页可达；轮换复查无断链，关键事实未改"
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；aboutamazon 全球拓展工具新闻页可达；玩具一次送检规范、GWD 年底前扩到另外 7 国与原文一致"
   },
   {
     "id": "fba-export",
@@ -1178,8 +1266,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；Seller Central GPSR 帮助页可达；轮换复查无断链，关键事实未改"
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；Seller Central GPSR 帮助页（headless Chrome）可达；Responsible Person 等要求未变"
   },
   {
     "id": "ppwr",
@@ -1279,8 +1367,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-07",
-    "verifyNote": "200；美国论坛 Featured Offer 官方帖可达；轮换复查无断链"
+    "verifiedAt": "2026-11-15",
+    "verifyNote": "200；美国论坛 Featured Offer 官方帖（headless Chrome）可达；2026 年底前全球完成取消资格门与原文一致"
   },
   {
     "id": "us-apparel-ref-2024",

@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-16",
+    "status": "未完成",
+    "finishedAt": "2026-11-16 06:15",
+    "summary": "【未完成原因：本次运行环境访问 sellercentral / amazon.com 域名超时，headless Chrome 无法按 createdAt 抓取美/加/墨/欧各站官方公告论坛列表，step 1 的论坛检索未能执行，论坛新帖可能漏检；其余步骤已完成，仅供参考，建议下次运行补查 11/8–11/16 论坛公告。】检索 2026-11-08～2026-11-16：WebSearch 与行业线索（PPC Land、PPC Spider、Amazon Brand Guide、ZONSEO、Law360 等，仅作线索）、SP-API changelog（WebFetch，无新于 11/11 的公告）、Amazon Ads 官方 BFCM 指南与政策页、国会/GovInfo 法案页。限制：本次运行环境访问 sellercentral/amazon.com 域名超时，无法用 headless Chrome 按 createdAt 排序抓取各站公告论坛（美/加/墨/欧）列表页，论坛新帖可能有漏检（已用搜索线索补查，复查的论坛帖改用 WebFetch 打开）。新增 2 条：①品牌旗舰店大促期措辞与 Featured Deals 规则（Amazon Ads 官方指南，A 级；2026-11-13 更新日仅据 PPC Land 报道，已在条目注明）；②美国《海关通知法》H.R.4930 国会通过待总统签字（GovInfo/国会，A 级，尚非法律）。修改：无（除状态自动更新）；状态自动更新 1 条（sp-api-listing-attrs-2026-11-16 → 已生效）。跳过：锂电池 TIC 通知 11/16 发完（库内已有 li-device-tic-2026-09-30）、AI 人物图片标签（库内 ai-people-tag）、捆绑新规 2027/1/11（库内 bundles-2027）、责任险 11/2（库内 ins-2026-11-02）、Amazon Ad Tag aatSession cookie（面向广告主网站，非卖家政策）、ASIN 创建政策 11/12 移除提醒（仅个案论坛帖，非新政策）、Haul/Audible 广告/DVA+ 扩展至爱尔兰等（面向广告主或消费者端）。链接复查 10 条（inform、ins-2026-11-02、sp-api-listing-attrs-2026-10-26、uk-bfcm-deal-deadline-2026-11-18、lending-2026、li-device-tic-2026-09-30、listing-protection-2026、lithium-air-2026、ltl-buy-shipping-2026、mcf-prime-2026）：可达 10（其中 4 个 Seller Central 论坛帖本机 curl 超时，改用 WebFetch 打开确认）、失效 0、修正 0；ltl-buy-shipping-2026 仍为 C 级（官方原文未找到）；其余 6 条中 lending-2026、listing-protection-2026、mcf-prime-2026 仅确认链接可达未逐条重读。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "us-brand-store-peak-wording-2026-11-13",
+        "title": "品牌旗舰店（Brand Store）大促期新规矩：店里不能写 Prime Day、Save 50% 这类词，促销只能走 Featured Deals 组件，黑五版要提前 48 小时提交"
+      },
+      {
+        "id": "us-customs-notification-act-hr4930-2026-11-10",
+        "title": "美国《海关通知法》（H.R.4930）国会通过、等总统签字：海关可把可疑假冒货的发货资料（含电商平台、货代提供给海关的非公开信息）分享给品牌方"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "status": "完成",
     "finishedAt": "2026-11-15 06:17",

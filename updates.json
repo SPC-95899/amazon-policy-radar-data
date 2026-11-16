@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-17",
+    "status": "完成",
+    "finishedAt": "2026-11-17 06:29",
+    "summary": "检索 2026-11-09～2026-11-17：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（Chrome，按创建时间 sortBy=createdAt；加拿大页首次渲染失败后已重试成功），SP-API changelog（WebFetch，无新于 11/11 的公告）、sellingpartners / About Amazon、Amazon Ads、联邦公报/国会（H.R.4930 仍待总统签字）、WebSearch 行业线索（PPC Land、Mr. Jeff、Marketplace Pulse、ecommercenews 等，仅作线索）。新增 1 条：①欧洲虚拟捆绑限时减免 FBA 配送费（2026-11-16 至 2027-02-16，邀约制；英国官方帮助页 A 级，英/德/法/意/西/爱论坛同日官方公告交叉；官方未公布减免幅度）。修改 1 条：美国外国 IOR 新规条目补记亚马逊 11/16 美国论坛官方卖家指引（在途货清关也适用、仅有美国地址不够），来源仍为联邦公报。状态自动更新 0 条。跳过：美国 IOR 论坛新帖（与库内已有规则同一件事，已改原条目）；Win the holidays with AI（与库内卖家助手/Amazon Quick 同批工具宣传）；欧洲 Haul Distributed Fulfilment（ecommercenews 11/16 转述 Seller Central 站内通知，官方公告论坛与可打开帮助页未找到，未入库）；Shop Direct Merchant Workspace（约 11/4 发布，超出本次检索窗口，且面向站外商家接入亚马逊搜索，非传统卖家政策）；H.R.4930《海关通知法》仍待总统签字；锂电池 TIC、责任险、黑五截止、欧洲旺季 Prime、加墨已有条目等不再重复入库。链接复查 10 条（verifiedAt 最旧：multichannel、multichannel-tools-2026、seller-central-passkey-required-2026-09-18、uk-sfp-tier-2026-10-30、eu-compliance-fast-track-2026-10-20、eu-uk-unfulfillable-14day-disposal-2026-10-28、pan-eu-nl-2026、peak-fees-2026、ppwr、related-accounts-2026）：可达 10、失效 0、修正 0。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "eu-uk-virtual-bundle-fee-discount-2026-11-16",
+        "title": "欧洲虚拟捆绑限时减免 FBA 配送费：2026 年 11 月 16 日至 2027 年 2 月 16 日，受邀品牌卖家给套装打折即可少付配送费（英/德/法/意/西/爱）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "status": "未完成",
     "finishedAt": "2026-11-16 06:15",

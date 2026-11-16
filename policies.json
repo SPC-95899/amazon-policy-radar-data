@@ -1,5 +1,27 @@
 [
   {
+    "id": "eu-uk-virtual-bundle-fee-discount-2026-11-16",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "官方英国帮助页经 headless Chrome 渲染可达（标题 Multi-Unit Fulfilment Fee Discount Programme for Virtual Bundles；HTTP 200），写明邀约制、2026-11-16 至 2027-02-16、须按邀请邮件给出价格折扣否则取消该 ASIN 的配送费优惠、优惠按件自动记在履约费上；官方未写优惠幅度。英国/爱尔兰论坛 News_Amazon 2026-11-16 英文公告、德国/法国/意大利/西班牙论坛同日官方公告内容一致（WebFetch/Chrome/curl 均可打开）。帮助页标注适用于英国站；荷/波/瑞/比公告栏按创建时间排序的首页未见此帖。",
+    "title": "欧洲虚拟捆绑限时减免 FBA 配送费：2026 年 11 月 16 日至 2027 年 2 月 16 日，受邀品牌卖家给套装打折即可少付配送费（英/德/法/意/西/爱）",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "费用",
+    "status": "灰度推广",
+    "announced": "2026-11-16",
+    "effective": "2026-11-16",
+    "dateNote": "优惠期为 2026-11-16 至 2027-02-16。官方帮助页与英/爱/德/法/意/西卖家论坛 2026-11-16 公告一致；须收到邀请邮件，且套装价折扣要达到邮件要求。荷兰、波兰、瑞典、比利时公告栏首页未见同步发帖。官方未公布配送费能少多少。",
+    "zh": "亚马逊推出「虚拟捆绑多件配送费优惠」试点（官方帮助页名称为 Multi-Unit Fulfilment Fee Discount Programme for Virtual Bundles）：受邀卖家在 2026 年 11 月 16 日至 2027 年 2 月 16 日期间，把 2–5 个已有 FBA 商品组成虚拟捆绑（一个详情页、分开发货），并按邀请邮件要求把套装价打到低于单件总价后，购买该套装时会自动减免 FBA 配送费，按件计算。这是邀约制：要有品牌（品牌代表或授权经销商）并走 FBA，且必须收到邀请邮件；若试点期间套装折扣达不到邮件要求，该 ASIN 会被取消优惠。可在「管理所有商品」里搜 bundle / Virtual Bundle 创建或改价；每周可在利润分析（Profit Analytics）的 promotions 列查看省下的配送费。官方没有公布具体减免比例。英、德、法、意、西、爱尔兰卖家论坛 2026 年 11 月 16 日有官方公告；帮助页标注适用于英国站。",
+    "orig": "Amazon Seller Central help, Multi-Unit Fulfilment Fee Discount Programme for Virtual Bundles (United Kingdom): “The multi-unit fee discount programme is an invite-only programme that allows eligible sellers to save on Fulfilment by Amazon (FBA) fulfilment fees for virtual bundle orders with qualifying price discounts. This programme is available for selected sellers who have received an email to participate and runs from 16 November 2026 to 16 February 2027.” “To qualify for the fee discount, you must provide a price discount on a virtual bundle as stated in your invite email.” “If the price discount requirement is not met at any time during the pilot, we will unenrol your ASIN from the fee discount.” “The fee discount is applied per unit.” Official News_Amazon posts on 16 November 2026 in the UK, Ireland, Germany, France, Italy and Spain seller forums announce the same window and requirements (brand owner selling with FBA, invite email, bundle price lower than the total of the individual products).",
+    "plain": "这是啥：亚马逊在英国和部分欧洲站做了一场限时活动：受邀的品牌 FBA 卖家，把现有单件货组成「虚拟捆绑」（一个页面、货还是分开发），只要套装价按邀请邮件打了折，2026年11月16日到2027年2月16日买这套装时，FBA 配送费会自动少收一截。\n跟你有没有关系：只有收到邀请邮件、有品牌、走 FBA、并且在英/德/法/意/西/爱尔兰卖的才有；没收到邀请、没品牌备案，或只做美/加/墨西哥站的，这次基本无关。官方没说能少多少钱。\n你要做的事：先查邮箱有没有邀请。有的话，到后台搜 Virtual Bundle 或 bundle，按邮件要求把套装价降到低于单件总价并保存；不想参加就别打折，优惠会自动取消。之后每周可在利润分析里看省了多少配送费。",
+    "outlook": "服务对象：主要是亚马逊和消费者（用配送费优惠推动套装下单、提高客单价），其次是受邀的品牌卖家。推测：这是限时试点，不一定会扩到荷/波/瑞/比或在 2027 年 2 月 16 日后延续；优惠幅度写在邀请邮件里，公开页没写，不同卖家可能不一样。虚拟捆绑是分开发货，和库内《大多数实物捆绑须原厂包装，2027 年 1 月 11 日》不是同一件事。库内相关：《FBA 虚拟多件装：11 月 10 日前审核，11 月 11 日自动上架》《大多数实物捆绑须原厂包装，2027 年 1 月 11 日》《欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起》。",
+    "sourceName": "Amazon 英国卖家帮助页：Multi-Unit Fulfilment Fee Discount Programme for Virtual Bundles",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/help/hub/reference/external/GXXMGUK7UMXFTETC?locale=en-GB"
+  },
+  {
     "id": "us-brand-store-peak-wording-2026-11-13",
     "sourceTier": "A",
     "verifiedAt": "2026-11-16",
@@ -557,8 +579,8 @@
   {
     "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；爱尔兰帮助页经 headless Chrome 渲染可达；October 28, 2026、14 days' notice、Belgium/Ireland 与库内一致，事实修正 0",
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；爱尔兰帮助页经 headless Chrome 渲染可达；Starting October 28, 2026、14 days' notice、覆盖英德法意西瑞典波兰荷兰比利时爱尔兰，与库内一致；事实修正 0",
     "title": "欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）",
     "regions": [
       "EU",
@@ -608,13 +630,13 @@
     "status": "即将生效",
     "announced": "2026-11-06",
     "effective": "2027-01-05",
-    "zh": "美国海关与边境保护局（CBP）在联邦公报发布暂行最终规则《Heightened Requirements for Foreign Importers of Record》（2026-11-06，91 FR 69977）。自 2027 年 1 月 5 日起，外国进口商（foreign IOR）要以消费入境方式把货报进美国，必须满足下列之一：① 该外国 IOR 自己已通过 CTPAT 认证（validated）；或 ② 指定一家同时持有执照且已通过 CTPAT 认证的报关行代为报关。只持有报关行执照但未通过 CTPAT 认证，不能再给未认证的外国 IOR 报关。如果委托方本身不是货主或买方，该 CTPAT 认证报关行还必须自己充当这票货的 IOR。规则同时给出“美国 IOR”定义：自然人须是美国公民或合法永久居民；公司须依美国法律设立、位于美国，并且始终满足：受益所有人中至少 51% 是美国公民或绿卡持有人且对公司有控制权，或者直接拥有足量无重大负担的美国不动产。不符合者一律视为外国 IOR。从 2027 年 1 月 5 日起，每份报关单（CBP Form 3461 / 7501 及其电子等同文件）须声明是否符合美国 IOR；报关行在勾选前必须核验证件，相关记录保存 5 年。虚报可能被要求“即时完税放行”（live entry）并取消即刻提货资格。公众可在 2027 年 1 月 5 日前通过 regulations.gov 案卷 USCBP-2026-1387 发表意见。报关行就其核验义务可申请延期合规，但所有报关行最迟须在 2027 年 5 月 6 日全部合规。联邦公报经济分析写道，目前可自行申请 CTPAT 认证的外国 IOR 主要是加拿大进口商。亚马逊曾在 2026 年 10 月 19 日美国卖家论坛提醒卖家向货代确认 IOR 身份。",
+    "zh": "美国海关与边境保护局（CBP）在联邦公报发布暂行最终规则《Heightened Requirements for Foreign Importers of Record》（2026-11-06，91 FR 69977）。自 2027 年 1 月 5 日起，外国进口商（foreign IOR）要以消费入境方式把货报进美国，必须满足下列之一：① 该外国 IOR 自己已通过 CTPAT 认证（validated）；或 ② 指定一家同时持有执照且已通过 CTPAT 认证的报关行代为报关。只持有报关行执照但未通过 CTPAT 认证，不能再给未认证的外国 IOR 报关。如果委托方本身不是货主或买方，该 CTPAT 认证报关行还必须自己充当这票货的 IOR。规则同时给出“美国 IOR”定义：自然人须是美国公民或合法永久居民；公司须依美国法律设立、位于美国，并且始终满足：受益所有人中至少 51% 是美国公民或绿卡持有人且对公司有控制权，或者直接拥有足量无重大负担的美国不动产。不符合者一律视为外国 IOR。从 2027 年 1 月 5 日起，每份报关单（CBP Form 3461 / 7501 及其电子等同文件）须声明是否符合美国 IOR；报关行在勾选前必须核验证件，相关记录保存 5 年。虚报可能被要求“即时完税放行”（live entry）并取消即刻提货资格。公众可在 2027 年 1 月 5 日前通过 regulations.gov 案卷 USCBP-2026-1387 发表意见。报关行就其核验义务可申请延期合规，但所有报关行最迟须在 2027 年 5 月 6 日全部合规。联邦公报经济分析写道，目前可自行申请 CTPAT 认证的外国 IOR 主要是加拿大进口商。亚马逊曾在 2026 年 10 月 19 日美国卖家论坛提醒卖家向货代确认 IOR 身份。 亚马逊于 2026 年 11 月 16 日在美国卖家论坛发布官方指引，提醒卖家向货代书面确认 IOR 身份和报关行是否已通过 CTPAT 认证，并写明：货物在 2027 年 1 月 5 日或之后清关即适用（含在途货物）；仅有美国地址不足以构成美国 IOR；不符合规则的进口可能被拒。",
     "orig": "Federal Register, Heightened Requirements for Foreign Importers of Record, published November 6, 2026 (91 FR 69977; Document Number 2026-22735): “This interim final rule is effective on January 5, 2027.” “Comments on the rule must be received on or before January 5, 2027.” “CBP will only allow a foreign IOR to enter goods for consumption on its own behalf, i.e., to serve as the IOR for the entry, whether an informal or formal entry, if the foreign IOR is CTPAT validated. Further, consistent with Section (2)(c) of the E.O., the only way for a foreign IOR who is not CTPAT validated to secure the entry and release of goods is by designating a CTPAT validated and licensed customs broker to make entry on the foreign IOR’s behalf.” A U.S. IOR is “an individual who is a United States citizen or lawful permanent resident, or an entity that is organized under the laws of the United States, is located in the United States, and maintains at all times: (i) at least 51% of beneficial owner(s) who are United States citizens or lawful permanent residents and have control of the entity; or (ii) direct ownership of a significant amount of unencumbered real property in the United States.” “All customs brokers are expected to be in full compliance with the requirements of this rule no later than May 6, 2027.” CBP news release dated November 5, 2026 confirms the same effective date and comment deadline.",
     "plain": "这是啥：美国海关正式发布外国进口商（IOR）新规，2027年1月5日起，用外国公司当进口商的，必须自己通过 CTPAT 认证，或指定一家已通过 CTPAT 认证的持牌报关行来报关，否则货进不了美国。\n跟你有没有关系：做美国站、货从国外进美国（包括发往 FBA 仓）的，大概率有关系。货代若用你的中国公司或其它外国公司当 IOR，又没走 CTPAT 认证报关行，新规一落地就可能卡清关。\n你要做的事：现在就问货代两句——“我的 IOR 算美国实体还是外国实体？”以及“报关行是不是已通过 CTPAT 认证？”如果是外国 IOR，尽快换成 CTPAT 认证报关行，或评估自己是否符合美国 IOR 的定义；同时备好身份和地址证明，别等 1 月的柜子到港才改。",
     "outlook": "服务对象：主要是美国政府（海关执法、收税、防空壳公司逃税和危险品入境），其次是美国本土进口商（公平竞争）和消费者（减少假货和违禁品）。推测：用外国 IOR、又不走 CTPAT 认证报关行的 DDP 小货代会被大量淘汰，头程成本和资料审查会上升；联邦公报分析称目前可自行申请 CTPAT 的外国 IOR 主要是加拿大进口商，多数跨境卖家更现实的路径是换 CTPAT 认证报关行，或改由符合定义的美国实体当 IOR。库内相关：《FBA 等履约费加收 3.5% 燃油与物流附加费》《美国高销量卖家 INFORM 消费者法信息核验》《欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费》。",
     "sourceName": "Federal Register：Heightened Requirements for Foreign Importers of Record（2026-11-06）",
     "sourceUrl": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
-    "dateNote": "亚马逊 2026-10-19 美国论坛已提醒外国 IOR 新规在政府审核中。CBP 于 2026-11-05 发新闻稿，2026-11-06 在联邦公报发布暂行最终规则（91 FR 69977，文档号 2026-22735，CBP Dec. 26-19，案卷 USCBP-2026-1387）。规则自 2027-01-05 起生效；公众评论截止同日。报关行就核验客户是否符合美国 IOR 的新要求，可在 2027-01-05 前提交延期合规申请，CBP 要求所有报关行最迟于 2027-05-06 全部合规。"
+    "dateNote": "亚马逊 2026-10-19 美国论坛已提醒外国 IOR 新规在政府审核中。CBP 于 2026-11-05 发新闻稿，2026-11-06 在联邦公报发布暂行最终规则（91 FR 69977，文档号 2026-22735，CBP Dec. 26-19，案卷 USCBP-2026-1387）。规则自 2027-01-05 起生效；公众评论截止同日。报关行就核验客户是否符合美国 IOR 的新要求，可在 2027-01-05 前提交延期合规申请，CBP 要求所有报关行最迟于 2027-05-06 全部合规。 亚马逊美国卖家论坛 News_Amazon 于 2026-11-16 发布卖家指引，重申 2027-01-05 生效，并写明：在途货物只要在该日或之后清关也适用；仅有美国地址不足以构成美国 IOR；不符合规则的进口可能被拒。"
   },
   {
     "id": "brand-registry-report-violation-2026-10-22",
@@ -639,8 +661,8 @@
   {
     "id": "seller-central-passkey-required-2026-09-18",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-08",
-    "verifyNote": "200；韩国官方页再核可达（首次偶发 404，重试 200）；标题「패스키 적용 안내」；逐步强制 Passkey 表述与条目一致；无统一全网截止日；事实修正 0",
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；韩国官方页「아마존 계정 패스키 적용 안내」可达；密码仅作恢复、登录须用通行密钥的表述仍在；无统一全网截止日；事实修正 0",
     "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号",
     "regions": [
       "US",
@@ -723,7 +745,7 @@
   {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-09",
+    "verifiedAt": "2026-11-17",
     "verifyNote": "200；英国论坛官方帖可达；Compliance Fast-Track 内容与库内一致，事实修正 0",
     "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
     "regions": [
@@ -885,8 +907,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-08",
-    "verifyNote": "200；英国论坛官方帖 Chrome 渲染可达；Starting 30 October 2026、三档、25% 等与原文一致；事实修正 0"
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；英国论坛官方帖可达；Starting 30 October 2026、25% 等与原文一致；事实修正 0"
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
@@ -1200,7 +1222,7 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-08",
+    "verifiedAt": "2026-11-17",
     "verifyNote": "200；aboutamazon 多渠道工具页可达；eBay/Shopify/TikTok/Walmart 连接能力仍在；事实修正 0"
   },
   {
@@ -1328,7 +1350,7 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-09",
+    "verifiedAt": "2026-11-17",
     "verifyNote": "200；帮助页经 headless Chrome 渲染可达；Packaging and Packaging Waste / collection and recycling 仍在，事实修正 0"
   },
   {
@@ -1678,8 +1700,8 @@
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；旺季区间 2026-10-15 至 2027-01-14 仍在。帮助页旺季句现为 Remote Fulfilment with FBA into Canada and Mexico（不再写 Brazil），已按原文修正 orig/zh/plain；墨西哥表仍分淡旺季，巴西表为 2026/2027 费率、未列入该旺季句。"
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；旺季履约费区间仍为 2026-10-15 至 2027-01-14，适用于 FBA、Remote Fulfilment with FBA into Canada and Mexico、MCF 和 Buy with Prime；事实修正 0"
   },
   {
     "id": "lithium-air-2026",
@@ -1720,8 +1742,8 @@
     "sourceName": "Amazon Seller Forums (News_Amazon)：How to address multiple account policy violations",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/c6536ec9-400e-488f-88dc-2bd73ac7becc",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；美国论坛 News_Amazon 官方帖可达；关联账户须先申诉责任账户等要点与库内一致，事实修正 0"
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；美国论坛官方帖可达；关联账户须先申诉责任账户等要点与库内一致；事实修正 0"
   },
   {
     "id": "account-id-roles",
@@ -1783,8 +1805,8 @@
     "sourceName": "Amazon 英国卖家论坛：Pan-EU FBA to require Netherlands and Belgium offer",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/61296686-3581-4d1a-b3c2-dacbef755b22",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；英国论坛官方帖可达；荷兰 2026-09-03 / 比利时 2027-02-26 报价要求与库内一致，事实修正 0"
+    "verifiedAt": "2026-11-17",
+    "verifyNote": "200；英国论坛官方帖可达；荷兰 2026-09-03 / 比利时 2027-02-26 报价要求与库内一致；事实修正 0"
   },
   {
     "id": "bundles-2027",
@@ -1951,7 +1973,7 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-08",
+    "verifiedAt": "2026-11-17",
     "verifyNote": "200；与 multichannel 同源 aboutamazon 页 200，内容一致；事实修正 0"
   },
   {

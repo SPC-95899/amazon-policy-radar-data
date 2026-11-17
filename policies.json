@@ -1,5 +1,48 @@
 [
   {
+    "id": "eu-gpsr-account-health-bulk-upload-2026-11-17",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；Seller Central 德国公告论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-17T13:43:54Z）；法/比/西/意/荷/波/瑞论坛同日发布同内容。账户状况看板批量上传、预填模板、制造商/责任人/警告与安全信息、须保持原模板格式与表头、同一侧边栏跟踪提交状态与原文一致。对应帮助页“提交制造商、责任人、警告和安全信息”未单独打开核对。英国、爱尔兰过去一个月公告栏未见此帖。",
+    "title": "欧洲账户状况看板新增 GPSR 批量上传：一次可补多个 SKU 的制造商、责任人和安全信息（按站点分别提交）",
+    "regions": [
+      "EU"
+    ],
+    "category": "合规与安全",
+    "status": "已生效",
+    "announced": "2026-11-17",
+    "effective": "2026-11-17",
+    "dateNote": "德/法/意/西/荷/波/瑞/比论坛 2026-11-17 同步发布，原文写“现在可以”使用，生效日按发帖日。英国、爱尔兰过去一个月公告栏未见此帖，未核实英国是否同步上线。这与 2024 年起目录批量上传（Add products via upload）不是同一条路径。",
+    "zh": "亚马逊欧洲卖家论坛 News_Amazon（2026-11-17）宣布：卖家现在可以在账户状况（Account Health / 卖家绩效）看板使用新的批量上传功能，按店铺分别一次性处理多个商品的《通用产品安全法规》（GPSR）合规问题。可下载预填模板、线下填写后一次提交，以补齐多个 SKU 的制造商信息、责任人信息以及警告与安全信息。操作路径：打开账户状况看板并按原流程进入 GPSR 问题，下载批量模板并线下填好，再将填好的模板连同产品文件一并上传提交。须保持原模板格式和列标题不变，否则可能无法处理。可在同一侧边栏跟踪提交状态；如被拒绝，会显示原因和需要采取的措施。",
+    "orig": "News_Amazon (Amazon.de Seller Forums), 17. November 2026: „Sie können nun über das Dashboard Verkäuferleistung eine neue Mengen-Upload-Funktion nutzen, um Compliance-Probleme der General Product Safety Regulation (GPSR) für mehrere Angebote gleichzeitig, Store für Store, zu beheben. Sie können eine vorab ausgefüllte Vorlage herunterladen, offline ausfüllen und in einer einzigen Übermittlung hochladen, um GPSR-Anforderungen zu erfüllen, einschließlich Herstellerinformationen, Angaben zur verantwortlichen Person und Warn- sowie Sicherheitsinformationen für mehrere SKU. … Lassen Sie das ursprüngliche Vorlagenformat und die Spaltenüberschriften unverändert, damit Ihr Upload erfolgreich verarbeitet wird. Sie können den Status Ihrer Übermittlung im gleichen Seitenpanel verfolgen. Wenn eine Übermittlung abgelehnt wird, sehen Sie den Grund und die erforderliche Maßnahme, um das Problem zu beheben.“",
+    "plain": "这是啥：欧洲站账户状况看板新加了 GPSR 批量上传，可以下载预填模板、线下填好，一次提交多个 SKU 的制造商、欧盟责任人和警告安全信息，并且要按站点分别处理。\n跟你有没有关系：在欧盟站点卖货、账户状况里还有 GPSR 合规问题要补的，有关系；只做美加墨、或者资料已经补齐的，基本不用管。英国站公告栏未见同步通知，是否同样开放未核实。\n你要做的事：打开账户状况看板，按提示进入 GPSR 问题，下载批量模板（不要改格式和表头），填好后连同产品文件一起上传；可在同一侧边栏看结果，被拒了按原因改完再交。",
+    "outlook": "服务对象：主要是政府和消费者（把欧盟 GPSR 要求真正落到每条链接的制造商、责任人和安全信息上），其次是卖家（收到账户状况问题后不必一条条补）。推测：这是处理 GPSR 问题的新工具，并不等于 GPSR 本身的法律要求有变；以前目录里“表格上传”那条路径仍然可能并存。库内相关：《欧盟 GPSR：责任人、标签与卖家平台提交》《受管制类目检测报告须由认可实验室直接回传》《欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）》。",
+    "sourceName": "Amazon.de Seller Forums（News_Amazon）：GPSR-Probleme schneller mit der neuen Mengen-Upload-Funktion lösen",
+    "sourceUrl": "https://sellercentral.amazon.de/seller-forums/discussions/t/23d2d8fa-b6e3-4e12-a4b4-8945a01bccf0"
+  },
+  {
+    "id": "eu-uk-b2b-pallet-delivery-2026-11-17",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；Seller Central 英国公告论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-17T00:38:31Z）；德/法/意/西/爱论坛同日发布同内容。10/7 起可配置、覆盖英德法意西、订单超过 1 件且重量≥45 kg 或体积≥0.28 m³、送到商业地址、运费模板勾选托盘配送、可单独设置托盘处理时间与原文一致。对应帮助页“Amazon Business Pallet Delivery”公开 URL 未找到。美国站 2026-07-14 已有同类公告但门槛为 500 磅/30 立方英尺，不并入本条。",
+    "title": "英国和欧洲五国企业购自发货可开通托盘配送：10 月 7 日起，够重量或体积的 B2B 订单可按托盘报价（英/德/法/意/西）",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": "2026-11-17",
+    "effective": "2026-10-07",
+    "dateNote": "论坛帖 2026-11-17 发布；原文写 2026-10-07 起即可配置，故生效日早于公告日。覆盖英国、德国、法国、意大利、西班牙。美国站 2026-07-14 已先开通类似选项，但门槛不同（500 磅或 30 立方英尺），不并入本条。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon（2026-11-17）宣布：托盘配送现已作为配送选项，适用于英国、德国、法国、意大利和西班牙的亚马逊企业购（Amazon Business）卖家自发货订单。自 2026 年 10 月 7 日起，可为符合条件的商品配置托盘配送，以便服务希望大批量采购的企业买家。试点期间，80% 的企业买家在可选时选择了托盘配送。订单资格：订购数量大于 1 件，重量达到 45 公斤（100 磅）或以上，或体积达到 0.28 立方米（10 立方英尺）或以上，并且配送至商业地址。开通步骤：进入配送设置，新建或选择已有的货运/包裹运费模板，在模板编辑器中勾选托盘配送，然后添加区域、运输时间和运费。由于托盘通常需要更长处理时间，可在通用配送设置中单独增加托盘处理时间，以保护准时送达率。",
+    "orig": "News_Amazon (Amazon.co.uk Seller Forums), 17 November 2026: “Pallet delivery is now available as a delivery option for your Fulfilled by Merchant Amazon Business orders in the UK, Germany, France, Italy and Spain. Starting 7 October 2026, you can configure pallet delivery for eligible products, helping you reach business customers who prefer to purchase large quantities. … During our pilot programme, 80% of business customers chose pallet delivery when it was offer. Orders qualify for pallet delivery when the order quantity is greater than one unit, weight of 45 kg or more, or volume of 0.28 cubic metres or more, and delivery is to a commercial address. … You can add pallet-specific handling times in the General Shipping settings to protect your on-time delivery rate (OTDR), as pallets typically require longer handling time.”",
+    "plain": "这是啥：英国、德国、法国、意大利、西班牙的企业购自发货订单，从 2026 年 10 月 7 日起可以开通“托盘配送”。订单超过 1 件，并且重量达到 45 公斤或体积达到 0.28 立方米、送到商业地址的，买家就能选托盘。\n跟你有没有关系：在这 5 个站做自发货、又卖给企业客户、货比较重或比较大的，有关系；只做 FBA、或只做美加墨、或不做企业购的，基本无关。\n你要做的事：去配送设置里新建或编辑运费模板，勾选托盘配送，填覆盖区域、时效和运费；托盘备货通常更慢，建议同时在通用配送设置里单独加托盘处理时间，免得准时送达率被拖累。",
+    "outlook": "服务对象：主要是亚马逊和企业买家（大件一次送到、鼓励加单），其次是自发货卖家（客单价可能更高）。推测：美国站 2026 年 7 月已先开通类似选项（门槛更高：500 磅或 30 立方英尺），这次是英/欧五国跟进；官方称试点中 80% 企业买家在可选时选了托盘。库内相关：《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》《墨西哥自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延》《欧洲 8 国旺季临时放宽 Prime 资格：11 月 15 日至 2027 年 1 月 9 日，FBA/自配送 Prime 的配送速度要求降低（德法西荷波瑞比爱）》。",
+    "sourceName": "Amazon.co.uk Seller Forums（News_Amazon）：New pallet delivery option for B2B customers",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9731f62-59c4-4a7d-8984-fe65a231cfae"
+  },
+  {
     "id": "eu-uk-virtual-bundle-fee-discount-2026-11-16",
     "sourceTier": "A",
     "verifiedAt": "2026-11-17",
@@ -258,8 +301,8 @@
   {
     "id": "ca-cross-border-returns-2026-11-23",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "Seller Central 加拿大公告论坛 News_Amazon 帖可打开（headless Chrome 渲染，createdAt 2026-11-06T20:16:28Z）；11/23 日期、CAD 25 自动退款不退货、超过 CAD 25 建议 48 小时内给预付退货标签或退款不退货、退货规则设置路径与原文一致。对应加拿大帮助页全文未打开核对；“建议”原文为 recommend，未写超过 CAD 25 不处理的后果。",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题与 11/23、CAD 25 自动退款不退货要点仍在，与原文一致。",
     "title": "加拿大 11 月 23 日起：从加拿大境外发货、没设加拿大退货地址的，CAD 25 以下退货直接退款不退货；同日可设自动“退款不退货”规则",
     "regions": [
       "CA"
@@ -408,8 +451,8 @@
   {
     "id": "eu-uk-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-10-30，11/1–12/25 购买可退至 2027-01-31 或送达后 30 天、十国范围与原文一致",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Changes to returns window for holiday sales 仍在，与库内一致。",
     "title": "欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）",
     "regions": [
       "UK",
@@ -430,8 +473,8 @@
   {
     "id": "mx-isr-per-order-2026-11-07",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-10-29，11/7 起按订单计算 ISR 预提与原文一致",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题仍写 11/7 起按订单展示墨西哥所得税预提，与原文一致。",
     "title": "墨西哥所得税（ISR）预提 11 月 7 日起按订单自动计算并展示（不再只看月度一笔）",
     "regions": [
       "MX"
@@ -465,8 +508,8 @@
     "sourceName": "GOV.UK：Extending VAT online marketplace liability（Budget 2026 税改说明，2026-10-28）",
     "sourceUrl": "https://www.gov.uk/government/publications/vat-online-marketplace-liability-extension/extending-vat-online-marketplace-liability",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；GOV.UK 税改说明可达；October 2027、£90,000、online marketplace 等与库内一致，事实修正 0"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；GOV.UK 税改说明可达，标题 Extending VAT online marketplace liability 仍在；October 2027、£90,000、online marketplace 等与库内一致，事实修正 0。"
   },
   {
     "id": "us-fba-intl-inbound-extension-2026-10-30",
@@ -500,7 +543,7 @@
       "EU"
     ],
     "category": "平台工具",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-10-23",
     "effective": "2026-11-18",
     "zh": "亚马逊英国卖家论坛《Black Friday Week 2026》备战指南（与更早的 Peak season 2026 公告一致）：面向黑五周与网一的 Lightning Deals、Best Deals 提报窗口在 11 月 18 日关闭。Deal 活动期全程展示，开始时为 Prime 专享。另有 Price Discounts、Vouchers，以及新增的 Amazon Business Deals（面向企业买家的限时促销，无额外报名费，有邮件/推送与企业购活动页曝光）。须是活动推荐的可售 ASIN，费用在创建 Deal 时可见。入仓提醒：英国站黑五相关 FBA 库存应在 10 月 28 日前到达运营中心（备战帖重申）。",
@@ -620,8 +663,8 @@
   {
     "id": "us-foreign-ior-import-rule-2026-10-19",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；联邦公报 2026-22735（91 FR 69977）与 CBP 2026-11-05 新闻稿均可打开。按原文把原「政策说明／日期未定」更新为：生效日 2027-01-05、外国 IOR 须自己是 CTPAT 认证或指定 CTPAT 认证持牌报关行、美国 IOR 定义（公民/绿卡，或美国实体且受益所有人至少 51% 为美国公民或绿卡并有控制权，或直接拥有足量无重大负担的美国不动产）、报关单声明与报关行核验（记录保存 5 年）、评论截止同日、报关行核验可申请延期并最迟 2027-05-06 全部合规。sourceTier B→A，sourceUrl 换成联邦公报。亚马逊 2026-10-19 论坛旧帖仍 200，作交叉。",
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；联邦公报 2026-22735 原文页可打开，2027-01-05、外国 IOR / CTPAT 要点仍在。亚马逊美国论坛 News_Amazon 帖 e9dc1aa7（createdAt 2026-11-16T18:33Z）仍可打开，卖家指引与库内 11/16 补记一致，事实修正 0。",
     "title": "美国外国进口商（IOR）新规落地：2027 年 1 月 5 日起须自己通过 CTPAT 认证，或指定 CTPAT 认证报关行报关",
     "regions": [
       "US"
@@ -886,8 +929,8 @@
     "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
     "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-09",
-    "verifyNote": "200；beBOLD 原文可达；10/31 费用类别重分配表述仍在；再次检索官方 A/B 公告仍未找到，保留 C 级"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；beBOLD 原文可达，10/31 费用类别重分配表述仍在。再次检索官方 A/B 公告仍未找到，保留 C 级。"
   },
   {
     "id": "uk-sfp-tier-2026-10-30",
@@ -1140,8 +1183,8 @@
     "sourceName": "Amazon Seller Forums (News_Amazon)：Understand testing, inspection, and certification requirements",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f09dda4e-f582-483a-974c-47ccc89b0f09",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-07-21，报告须由认可第三方直接回传、不能自行上传与原文一致"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Understand testing, inspection, and certification requirements 仍在，与库内一致。"
   },
   {
     "id": "fuel-surcharge",
@@ -1390,8 +1433,8 @@
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖 2026-01-21，SAFE-T 窗口 60→30 天、2026-02-16 生效与原文一致"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 US SAFE-T claim filing window changes to 30 days on Feb 16 仍在，与库内一致。"
   },
   {
     "id": "commingle",
@@ -1931,8 +1974,8 @@
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200；advertising.amazon.com 页面可打开，内容未变"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200；advertising.amazon.com 页面可打开，标题 Introducing Branded Conversations and Review Requests 仍在，内容未发现需要修正的关键数字。"
   },
   {
     "id": "mcf-prime-2026",
@@ -2036,8 +2079,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖，2026-09-01、商业核验、授权 365 天与原文一致"
+    "verifiedAt": "2026-11-18",
+    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Enhanced security for service provider access on Seller Central 仍在，与库内一致。"
   },
   {
     "id": "fba-partial-refund-2026-10-13",

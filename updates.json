@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-18",
+    "status": "完成",
+    "finishedAt": "2026-11-18 06:20",
+    "summary": "检索 2026-11-10～2026-11-18：Seller Central 美/加/墨/英/爱/德/法/意/西/荷/波/瑞/比公告论坛（curl 获取 __NEXT_DATA__，categories=News and Announcements，按创建时间 sortBy=createdAt）、SP-API changelog（最新仍为 11/16 Listing 属性更新与 11/4 版本发布，无更新公告）、sellingpartners / About Amazon、WebSearch（PPC Land、PPC Spider、Mr. Jeff、ChannelUnity、Marketplace Pulse 等线索）。新增 2 条：①欧洲账户状况看板 GPSR 批量上传（11/17，德法意西荷波瑞比官方论坛）；②英国和欧洲五国企业购自发货托盘配送（11/17 公告，10/7 起可配置）。跳过：PPC Land 11/17 报道 Amazon Ads《Pricing and Promotions》页 11/15 更新（禁止广告里手写“最低价”等并要求价格由亚马逊动态渲染），但 advertising.amazon.com 官方页 404/无法打开，不以二手博客为唯一来源，未入库；巴西站 FBA 索赔 90 天窗口改从建仓日算起（11/27）不在本站覆盖范围；Amazon Haul 出现在主搜索为消费者营销稿，无卖家义务官方公告；美国 IOR 新规的 11/16 卖家论坛指引已在既有条目中，不重复入库。状态自动更新 1 条：uk-bfcm-deal-deadline-2026-11-18 即将生效→已生效（生效日 2026-11-18）。轮换复查 10 条（verifiedAt 最旧优先），失效链接 0，事实修正 0。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "eu-gpsr-account-health-bulk-upload-2026-11-17",
+        "title": "欧洲账户状况看板新增 GPSR 批量上传：一次可补多个 SKU 的制造商、责任人和安全信息（按站点分别提交）"
+      },
+      {
+        "id": "eu-uk-b2b-pallet-delivery-2026-11-17",
+        "title": "英国和欧洲五国企业购自发货可开通托盘配送：10 月 7 日起，够重量或体积的 B2B 订单可按托盘报价（英/德/法/意/西）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "status": "完成",
     "finishedAt": "2026-11-17 06:29",

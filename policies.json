@@ -259,8 +259,8 @@
   {
     "id": "uk-seller-wallet-gbp-2026-11-05",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；About Amazon UK 官方新闻页可打开（发布日 2026-11-05）；GBP 钱包、转英国银行快速免费、20 多种货币国际转账、按量阶梯费率与原文一致。具体国际转账费率未在页面列出，未核实。",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；About Amazon UK 官方页可达，Seller Wallet 支持 GBP、发布日 2026-11-05 与原文一致；事实修正 0（2026-11-19 复查）",
     "title": "英国站 Seller Wallet 支持英镑（GBP）：英国站回款可留在亚马逊钱包里，转英国银行免费，也能换 20 多种货币转出",
     "regions": [
       "UK"
@@ -322,8 +322,8 @@
   {
     "id": "uk-ireland-local-fba-lane-2026-11-05",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "Seller Central 英国公告论坛 News_Amazon 帖可打开（headless Chrome 渲染，createdAt 2026-11-05T14:41:18Z）；英国发爱尔兰本地履约、Prime 标、本地 FBA 费、需爱尔兰 VAT 号、AVASK、优惠至 2026-12-31 与原文一致。具体 FBA 费率与 Amazon 承担 VAT 注册费的细则在 UPS AVASK 指南，未打开核对。",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；英国论坛 News_Amazon 帖可达，爱尔兰本地 FBA、需爱尔兰 VAT、AVASK、2026-12-31 前注册费由亚马逊承担与原文一致；事实修正 0（2026-11-19 复查）",
     "title": "英国卖家可把货送到爱尔兰本地 FBA：拿爱尔兰站 Prime 标和本地费率，需爱尔兰 VAT 号，注册费 2026 年底前由亚马逊承担",
     "regions": [
       "UK",
@@ -643,8 +643,8 @@
   {
     "id": "us-bfcm-deal-deadline-extended-2026-10-22",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；美国论坛 News_Amazon 帖可达；提报截止延至 11 月 13 日、入仓截止未延与原文一致；事实修正 0（2026-11-11 复查）",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；美国论坛 News_Amazon 帖可达，提报截止延至 11 月 13 日、入仓截止未延与原文一致；事实修正 0（2026-11-19 复查）",
     "title": "美国黑五网一促销提报截止从 10 月 20 日延到 11 月 13 日：还能补报，但入仓截止没延",
     "regions": [
       "US"
@@ -872,8 +872,8 @@
   {
     "id": "us-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 帖，11/1–12/31 购买可退至 2027-01-31、Apple 至 2027-01-15 与原文一致",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；美国论坛 News_Amazon 帖可达，11/1–12/31 购买可退至 2027-01-31、Apple 至 2027-01-15 与原文一致；事实修正 0（2026-11-19 复查）",
     "title": "美国假日延长退货：11–12 月买的东西可退到 2027 年 1 月 31 日",
     "regions": [
       "US"
@@ -893,8 +893,8 @@
   {
     "id": "us-fbm-prepaid-return-2026-12-18",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200；PPC Land 原文可打开。美国论坛卖家帖 60d44d60-a781-4e6b-8a61-166ff5fa082d 有亚马逊版主回复确认 12/18、7 天、亚马逊生成的预付标签不变，但仍非 News_Amazon 正式公告，官方原文未找到，保留 C 级",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "curl 403（Cloudflare 挑战页）；WebFetch 200，PPC Land 原文可打开，12/18、7 个自然日、大件重货暂时例外与原文一致。美国论坛卖家帖 60d44d60 仍非 News_Amazon 正式公告，官方原文未找到，保留 C 级（2026-11-19 复查）",
     "title": "美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款",
     "regions": [
       "US"
@@ -1143,8 +1143,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Answers to your product title update questions",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/302aaac6-6f2b-4d86-bcd2-36fe24f0e6cd",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200（Chrome 渲染）；News_Amazon 问答帖（版主更新）可打开，Item name / Item highlights 与 7/27 起推荐修改与原文一致"
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；美国论坛 News_Amazon 帖可达，标题 75 + Item Highlights 125、8/10 展示、9.84 亿条已更新与原文一致；事实修正 0（2026-11-19 复查）"
   },
   {
     "id": "ai-people-tag",
@@ -1494,8 +1494,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-10",
-    "verifyNote": "200；sellingpartners 费用页可打开，内容未变"
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；sellingpartners 2024 年费用页可达，$15 以下 17%→5%、$15–$20 17%→10%、2024-01-15 生效与原文一致；事实修正 0（2026-11-19 复查）"
   },
   {
     "id": "us-sipp-2024",
@@ -1699,8 +1699,8 @@
     "sourceName": "Amazon Global Selling 官方新闻：2026年亚马逊美国站销售佣金和亚马逊物流费用变更",
     "sourceUrl": "https://globalselling.amazon.com/en/news/news-notices-251016",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "原帮助页 201411300 已改为 2027 年费用内容、不再含优惠券上限原句；换为亚马逊全球开店官方新闻页（200）：自 2025-11-05 起创建的优惠券可变费用上限每张 $2,000 与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；亚马逊全球开店官方新闻页可达，自 2025-11-05 起创建的优惠券可变费用上限每张 $2,000 与原文一致；事实修正 0（2026-11-19 复查）"
   },
   {
     "id": "ca-fees-2026",
@@ -1790,7 +1790,7 @@
   },
   {
     "id": "account-id-roles",
-    "title": "品牌权限改用 Account ID，不再只用邮箱",
+    "title": "品牌销售角色改用 Account ID 分配，不再使用 Merchant Token（店铺令牌）",
     "regions": [
       "GLOBAL"
     ],
@@ -1798,16 +1798,16 @@
     "status": "已生效",
     "announced": "2026-08-05",
     "effective": "2026-07-29",
-    "dateNote": "生效日 2026-07-29 早于公布日 2026-08-05。追踪页把 8月5日当成新闻日期，把 7月29日当成规则已经生效的日子。按发布时间排序和按生效时间排序，这条的位置会不同。",
-    "zh": "追踪页：2026年8月5日新闻，权限分配自 7月29日起改用 Account ID。品牌备案管理员和有销售角色的人，在设置、管理账户里找到 Account ID，用它分配角色。",
-    "orig": "Autopilot tracker: announced August 5, 2026; effective July 29, 2026. “Find your Account ID under Settings, then Manage Accounts, and use it for role assignments.” Applies to Brand Registry administrators and selling-role holders.",
-    "plain": "这是啥：给人开品牌后台权限时要填账户编号，只发邮箱不行。\n跟你有没有关系：只影响品牌备案管理员、以及有销售角色、要给别人开权限的人。从不给人开权限的不用管。规则从7月29日已经生效。\n你要做的事：开权限时改用账户编号，在设置里的管理账户可以找到。不开权限就不用做。",
-    "outlook": "推测是邮箱可以借，账户编号才能对上真实店主。和关联账户、美国身份年审同一目的：谁在操作必须查得到人。",
-    "sourceName": "Autopilot Amazon Policy Tracker",
-    "sourceUrl": "https://www.autopilotbrand.com/resources/amazon-policy-tracker",
-    "sourceTier": "C",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；Autopilot 第三方追踪页可达，日期与引文一致；官方原文仍未找到，保留 C 级（2026-11-11 复查）"
+    "dateNote": "官方论坛帖创建于 2026-08-05（晚于生效日 2026-07-29）。按发布时间排序和按生效时间排序，这条的位置会不同。",
+    "zh": "亚马逊美国卖家论坛官方公告（News_Amazon，2026-08-05）：为简化品牌销售角色管理，自 2026 年 7 月 29 日起，品牌备案管理员分配或修改销售角色时改用 Account ID，不再使用 Merchant Token（店铺令牌）。销售角色可开通 A+ 页面、品牌旗舰店（Stores）、Vine 等品牌权益。Account ID 是全球统一标识，管理员不必再管理多个 Merchant Token。账户所有者可在设置（齿轮）→ 设置 → 管理账户中查找 Account ID；也可在用户权限里查看显示为 Owner 的账户所有者。",
+    "orig": "News_Amazon (Amazon.com forums), 5 August 2026: “To simplify how brands manage selling roles, Brand Registry Administrators will use Account IDs instead of Merchant Tokens, effective July 29, 2026. A selling role gives you access to brand selling benefits that can enhance your product listings and drive sales, like A+ Content, Stores, and Vine.” “Brand Registry Administrators will use the Account ID to assign or modify selling roles.” “Account IDs provide a single, worldwide identifier so brand Administrators don’t have to manage multiple Merchant Tokens.” Account Owners can find the Account ID under Settings → Manage Accounts.",
+    "plain": "这是啥：品牌备案管理员给人开销售角色（A+、品牌旗舰店、Vine 等）时，要填全球统一的 Account ID，不再用原来的 Merchant Token（店铺令牌）。\n跟你有没有关系：品牌备案管理员、已被分配销售角色、或想要这些品牌权益的人有关系。从不给人开品牌权限的不用管。规则从 2026 年 7 月 29 日已经生效。\n你要做的事：开权限前到设置 → 管理账户里找到 Account ID，用它来分配或修改销售角色。",
+    "outlook": "服务对象：主要是亚马逊（把品牌权限对到唯一账户，减少令牌错配和盗用）。推测：邮箱可以转借，Account ID 才能对上真实店主，和关联账户、美国身份年审是同一方向。库内相关：《关联账户政策》《美国高销量卖家 INFORM 消费者法信息核验》。",
+    "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Use Account IDs to manage selling roles after July 29",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/41966990-ec31-441d-a7d2-d194f7f483b4",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "官方原文已找到：美国论坛 News_Amazon 帖 41966990（createdAt 2026-08-05T17:02Z）HTTP 200 可打开。按原文把「邮箱」更正为 Merchant Token（店铺令牌）；生效日 2026-07-29、Account ID 在设置→管理账户中查找，与原文一致。sourceUrl 由 Autopilot 第三方追踪页升级为官方论坛，sourceTier C→B（2026-11-19 复查）"
   },
   {
     "id": "eu-fee-cut-2025",
@@ -1953,8 +1953,8 @@
     "sourceName": "Amazon Ads：Reach new audiences using DVA+",
     "sourceUrl": "https://advertising.amazon.com/resources/whats-new/dva-plus-display-video-audio-campaigns",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；Amazon Ads 官方页可达；DVA+ 美国扩展封闭测试等表述与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-19",
+    "verifyNote": "200；Amazon Ads 官方 DVA+ 页可达，美国扩展封闭测试、10 月底开放测试、2027 Q1 约 35 市场与原文一致；事实修正 0（2026-11-19 复查）"
   },
   {
     "id": "review-requests-2026",

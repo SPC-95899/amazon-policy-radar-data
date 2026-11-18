@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-19",
+    "status": "完成",
+    "finishedAt": "2026-11-19 06:17",
+    "summary": "检索 2026-11-11～2026-11-19：Seller Central 美/英/爱/德/西/荷/瑞/比公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt）；加/墨/法/意/波论坛 curl 超时（解析到 198.18.0.1），改用 WebFetch 获取同样的公告列表；SP-API changelog / Release Notes（含 11/18 版本发布）、sellingpartners / About Amazon / Amazon Ads What’s new、WebSearch（Ecommerce News、Beyond the Basket、PPC Land、Marketplace Pulse 等线索）。未新增条目。已有官方公告（欧洲 GPSR 批量上传、英欧 B2B 托盘配送、虚拟捆绑配送费减免、欧洲旺季 Seller Prime 放宽、美国 IOR 11/16 卖家指引、加/墨近期退货与自发货休息日等）均已在库。跳过：①欧洲/英国 Amazon Haul Distributed Fulfilment（多家媒体 11/16–11/17 称亚马逊可把本地 FBA 货自动上架到当地 Haul，卖家只能整户退出），未找到可公开打开的官方 A/B 页面，不以二手报道为唯一来源，未入库；②SP-API 11/18 Release Notes 仅为开发者接口字段/沙箱更新（如 FBA From Origin 枚举、订阅优惠字段），不是卖家政策，未入库。状态自动更新 0 条（无即将生效/待生效且生效日≤今天的条目；欧洲 MCF 附加费 11/19 上路已写在既有条目 dateNote，主生效日为 11/2、状态已是已生效）。轮换复查 10 条（verifiedAt 最旧优先）：失效链接 0（ppc.land curl 遇 Cloudflare 403，WebFetch 仍可打开原文）；升级 1 条：account-id-roles 由 C 级 Autopilot 追踪页改为美国论坛 News_Amazon 官方帖（B 级），并按原文把「邮箱」更正为 Merchant Token（店铺令牌）。事实修正 1。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-18",
     "status": "完成",
     "finishedAt": "2026-11-18 06:20",

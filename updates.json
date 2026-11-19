@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-20",
+    "status": "完成",
+    "finishedAt": "2026-11-20 06:16",
+    "summary": "检索 2026-11-12～2026-11-20：Seller Central 美/加/墨/英/法/西/荷/爱/波/瑞/比公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt）；德/意论坛 curl 超时，意站改用 WebFetch、德站结合 WebSearch，未见未入库新公告。SP-API changelog（含 11/18 版本，为开发者接口变更，未入库）、sellingpartners / About Amazon / press、Global Selling 新闻、WebSearch 与行业线索（PPC Spider、Marketplace Officer、Seller Magnet、AdModifier、Supply Chain Dive 等）。新增 1 条：加拿大自发货「卖家自定义休息日」（加拿大论坛 News_Amazon，B 级，北京时间 11/20 发布）。跳过：11/18 SP-API Release（财务/Listing/补货/报告接口字段与沙盒，无新卖家政策义务）；企业购 Business Discount 徽章（库内已有 10/16 条目，加拿大 11/10 帖为同一来源）；欧英 MCF 燃油附加费 11/19 起改 2%（已写入 eu-uk-surcharge-2pct-2026-11-02，不另增条）；第三方报道美国 2027-02-01 起 3.5% 燃油附加费或扩至 AWD/MCD 运输费（出自 11/5 费用信“详见帮助页”，公开帮助页未能核到原文数字，未改 us-fees-2027）。状态自动更新：0 条（即将生效条目生效日均晚于今日）。链接复查 10 条：失效 0；C 级 DVA 条目 curl 遇拦截、WebFetch 仍可打开，官方 A/B 仍未找到，保留 C；其余 9 条链接有效，关键数字未见需改之处。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "ca-fbm-seller-holidays-2026-11-20",
+        "title": "加拿大自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "status": "完成",
     "finishedAt": "2026-11-19 06:17",

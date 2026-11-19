@@ -1,5 +1,26 @@
 [
   {
+    "id": "ca-fbm-seller-holidays-2026-11-20",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；Seller Central 加拿大论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-19T18:47:23Z，北京时间 2026-11-20 02:47）；自定义休息日、不用假期模式、链接仍展示、送达日期自动调整、FBM 订单报告新增备货时间/运输时间列与原文一致。原文未写单独上线日期，按发帖日记。美国、英国、墨西哥论坛此前已有同类功能公告，本次为加拿大站通知。",
+    "title": "加拿大自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延",
+    "regions": [
+      "CA"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": "2026-11-20",
+    "effective": "2026-11-20",
+    "dateNote": "加拿大论坛帖 2026-11-19T18:47:23Z（北京时间 2026-11-20 02:47）发布，写“现在可以”设置；原文未给单独上线日期，生效日按北京时间发帖日记。",
+    "zh": "亚马逊加拿大卖家论坛 News_Amazon（北京时间 2026-11-20，帖子创建于 2026-11-19T18:47:23Z）宣布：已为卖家自配送（FBM）增加新功能，让卖家更好地管理假期和配送设置。卖家现在可以自行设置休息日：店铺关闭当天商品仍对买家可见。以前只能用假期模式（vacation mode）休假，链接会被暂时隐藏。现在系统会按休息日自动调整送达日期。设置入口：配送设置（Shipping Settings）中的假期设置（Manage Holiday Settings）。另外，FBM 订单报告新增列，显示每笔订单所用的备货时间（handling）和运输时间（transit times），便于理解送达日期如何计算。",
+    "orig": "News_Amazon (Amazon.ca Seller Forums), 19 November 2026 (18:47 UTC): “We’ve introduced new Fulfilled by Merchant (FBM) features to give you more control over your holiday and delivery settings. These improvements can help you manage delivery dates more accurately and keep your products visible even when your business is closed.” “You can now set your own holidays, which are days when your business is closed while keeping your products visible to customers. Previously, you had to use vacation mode to manage time off, which temporarily hid your listings from customers. Now, the system automatically adjusts delivery dates to account for your holiday schedule. Go to Shipping Settings to configure your holiday dates.” “To help you understand how delivery dates are calculated, we’ve added new columns to your FBM order reports. These show the handling and transit times used for each order.”",
+    "plain": "这是啥：加拿大站自发货可以自己设“哪天放假”，放假那天链接不下架、照样展示，系统会自动把送达日期往后推；订单报告也新加了备货时间和运输时间两列。\n跟你有没有关系：做加拿大站自发货（FBM）、仓库或团队有固定休息日的有关系；纯 FBA、或不做加拿大站的不用管。\n你要做的事：到 Seller Central 的配送设置里打开假期设置，把仓库休息日填上，以后短期放假就别再开假期模式（会把链接藏起来）；顺便核对订单报告新加的备货时间、运输时间列，确认送达日期算得对。",
+    "outlook": "服务对象：主要是卖家（放假不丢曝光）和消费者（看到的送达日期更准）。推测：这是墨西哥 11 月 6 日已上线同类功能在加拿大的跟进开放，并不新增合规义务。美国、英国卖家论坛此前已有同类功能公告。库内相关：《墨西哥自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延》《美国自发货：企业买家营业时间送达率须达 90%，10 月 30 日起可能下架》。",
+    "sourceName": "Amazon.ca Seller Forums（News_Amazon）：New features for Fulfilled by Merchant sellers",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/9ad91b98-3225-470c-912d-78ea4436523e"
+  },
+  {
     "id": "eu-gpsr-account-health-bulk-upload-2026-11-17",
     "sourceTier": "B",
     "verifiedAt": "2026-11-18",
@@ -280,8 +301,8 @@
   {
     "id": "us-fba-estimated-lead-times-2026-11",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；SellersAskSellers 论坛转贴亚马逊 FBA 团队通知（帖子 2026-11-10 UTC）可打开；仅美国、可分拣货件、直发 FBA 或 AWD/GWD 补货、显示在 Manage Shipments、非保证等与转贴原文一致。官方原文未找到（论坛/帮助页未检索到对应公开页），保留 C 级。",
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；SellersAskSellers 转贴仍可打开；今日检索 Seller Central / sellingpartners 仍未找到对应官方公开页，保留 C 级。关键限定（美国、Manage Shipments）与转贴一致，事实修正 0。",
     "title": "美国 FBA 货件开始显示「预计入仓时长」：11 月起在 Manage Shipments 里看货多久能上架、拿到 Prime（逐步开放）",
     "regions": [
       "US"
@@ -430,8 +451,8 @@
   {
     "id": "ads-dva-onscreen-impressions-2027-01-01",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；PPC Land 文可打开，2027-01-01、约 63% 与库内一致；亚马逊公开官方页仍未找到，保留 C；事实修正 0。",
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "curl 遇拦截（403，Just a moment）；WebFetch 仍可打开 PPC Land 原文，2027-01-01、约 63%、count-on-download 改 on-screen 与库内一致。今日检索 advertising.amazon.com 等仍未找到亚马逊公开官方页，保留 C 级。事实修正 0。",
     "title": "DVA 展示广告曝光改成「出现在屏幕上才算」：2027-01-01 起，站内展示曝光量预计平均少约 63%",
     "regions": [
       "US"
@@ -1057,8 +1078,8 @@
     "sourceName": "Amazon Seller Forums（US）：New business hour delivery requirement for seller-fulfilled shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；美国论坛官方帖可达；9/30 起营业时间送达率 ≥90%、10/30 未改善可能下架企业买家报价与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；美国论坛官方帖可达（标题 New business hour delivery requirement for seller-fulfilled shipments）；事实修正 0。"
   },
   {
     "id": "li-device-tic-2026-09-30",
@@ -1163,8 +1184,8 @@
     "sourceName": "Amazon Seller Forums：You must now tag AI-generated people in listings and A+ content",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/aa0aee06-aff4-497a-a4b6-9b2ebe06f715",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；Seller Central 论坛帖可打开；IPTC 标记要求与库内一致；事实修正 0。"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；美国论坛官方帖可达（标题 You must now tag AI-generated people in listings and A+ content）；事实修正 0。"
   },
   {
     "id": "tic-direct",
@@ -1535,8 +1556,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；sellingpartners 2024 费用页可达；3/1 生效、入库 45 天后收、$0.27/$1.58 均值与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；sellingpartners 2024 费用页可达（与履约费下调等同页）；事实修正 0。"
   },
   {
     "id": "us-low-inventory-2024",
@@ -1555,8 +1576,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；sellingpartners 2024 费用页可达；4/1 生效、保持 4 周以上库存可免与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；sellingpartners 2024 费用页可达（与履约费下调等同页）；事实修正 0。"
   },
   {
     "id": "us-storage-2024",
@@ -1595,8 +1616,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；sellingpartners 2024 费用页可达；标准件 -$0.20、大件 -$0.61、4/15 生效与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；sellingpartners 2024 费用页可达（标题 Update to US referral and Fulfillment by Amazon fees）；事实修正 0。"
   },
   {
     "id": "us-returns-fee-2024",
@@ -1657,8 +1678,8 @@
     "sourceName": "Amazon Selling Partners：2025 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-us-referral-and-fulfillment-by-amazon-fees-for-2025",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "200；sellingpartners 官方页可达；不上调推荐费与 FBA 费、大件入库配置费等数字与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；sellingpartners 2025 费用页可达（标题含 2025 Amazon Referral & FBA Fee Updates）；事实修正 0。"
   },
   {
     "id": "us-fees-2026",
@@ -1678,8 +1699,8 @@
     "sourceName": "Amazon Selling Partners：Update to U.S. Referral and Fulfillment by Amazon fees for 2026（2025-10-15）",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/update-to-u-s-referral-and-fulfillment-by-amazon-fees-for-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-11",
-    "verifyNote": "原帮助页 201411300 已改为 2027 年费用内容、不再含 2026 原句；换为 sellingpartners 官方 2026 费用信（200，2025-10-15）：约 $0.08/件、低于均价 0.5%、2026-01-15 生效与原文一致；事实修正 0（2026-11-11 复查）"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；sellingpartners 2026 费用页可达（标题含 2026 Amazon Referral & FBA Fee Updates）；事实修正 0。"
   },
   {
     "id": "us-coupon-cap-2025",
@@ -2037,8 +2058,8 @@
     "sourceName": "奥地利财政部包裹税说明",
     "sourceUrl": "https://www.bmf.gv.at/en/topics/taxation/parcel_delivery_tax_overview_and_faq.html",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；奥地利 BMF 官方页可打开；EUR 2 包裹税内容仍在；事实修正 0。"
+    "verifiedAt": "2026-11-20",
+    "verifyNote": "200；奥地利 BMF 官方页可打开（Parcel Delivery Tax: Overview and FAQs）；事实修正 0。"
   },
   {
     "id": "fba-meltable-2026-08-31",

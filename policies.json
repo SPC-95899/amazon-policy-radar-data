@@ -1,5 +1,49 @@
 [
   {
+    "id": "eu-uk-premium-shipping-opt-in-2026-11-21",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；Seller Central 英国论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-20T17:11:17Z，北京时间 2026-11-21 01:11）；德/法/意/西/爱尔兰论坛同日官方同文交叉（法站单帖 curl 超时，列表页已见 News_Amazon 同题）。新达标须自行报名、已开通者不用再操作、入口为账户状况→Eligibilities、报后需改配送模板提供当天/1日/2日达，与原文一致。英国帮助页 G201503640（headless Chrome 可打开）是优质配送既有说明（90 天以上、近 30 天满 10 单、追踪 100%、准时达≥92% 等），未写本次「取消自动开通、改为自行报名」的变化，故来源仍用论坛公告（B 级）。",
+    "title": "英国和欧洲四国「优质配送选项」改为自行开通：新达标卖家不再自动开通，须在账户状况里报名（英/德/法/意/西）",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "自发货",
+    "status": "已生效",
+    "announced": "2026-11-21",
+    "effective": "2026-11-21",
+    "dateNote": "英国论坛帖 2026-11-20T17:11:17Z（北京时间 2026-11-21 01:11）发布，写“现在需要自行报名、不再自动开通”；已开通卖家不用再操作。原文未给另外的切换日，生效日按北京时间发帖日记。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon（北京时间 2026-11-21，帖子创建于 2026-11-20T17:11:17Z）宣布：在英国、德国、法国、意大利、西班牙站，新达到「优质配送选项」（Premium Shipping Options）资格的卖家，现在必须自己到 Seller Central 报名开通，不再被自动开通。已经开通的卖家不用再操作。亚马逊称此举是为了让卖家先看清项目要求再提供加急配送，以便兑现给买家看的送达日期、保护账户健康。报名路径：账户状况（Account Health）→ Eligibilities（资格）→ Premium Shipping Options → 确认资格后点 Enrol。开通后需更新配送模板，提供当天达、1 日达或 2 日达，并选择承运商、运输方式和运输时效。如果看不到该入口，可能是尚未达标。德、法、意、西、爱尔兰论坛同日有官方同文。帮助页「Premium Shipping and guaranteed delivery」（G201503640）可打开，但是既有项目说明，并未记载这次报名方式的变化。",
+    "orig": "News_Amazon (Amazon.co.uk Seller Forums), 20 November 2026 (17:11 UTC): “If you’re newly eligible for Premium Shipping Options in the UK, Germany, France, Italy or Spain stores, you now need to opt in through Seller Central instead of being enrolled automatically. If you’re already enrolled, you don’t need to do anything.” “We made this change so you can review the program requirements before you start offering faster delivery. This helps you meet the delivery dates you show customers and protect your account health.” “To enrol in Premium Shipping Options: Log in to Seller Central. From the main menu, select Account Health, then Eligibilities. Select Premium Shipping Options. Confirm your eligibility, then select Enrol.” “After you enrol, update your shipping templates to offer same-day, one-day or two-day delivery. Choose your carrier and shipping methods, then set your transit times. If you don’t see Premium Shipping Options, you may not be eligible yet.”",
+    "plain": "这是啥：在英国、德国、法国、意大利、西班牙，新达到「优质配送选项」（当天达/1日达/2日达）资格的卖家，不再被自动开通，要自己到账户状况里报名；已经开通的不用再操作。\n跟你有没有关系：在这五国做自发货、想提供或已经在提供加急配送的有关系；纯 FBA、或不卖这五国的不用管。\n你要做的事：到 Seller Central「账户状况 → Eligibilities（资格）」看有没有 Premium Shipping Options。新达标的先读完要求再点 Enrol，然后改配送模板（承运商和时效）；已经开通的不用再报，但仍要兑现送达日期，否则可能伤账户健康。看不到入口就是还没达标，不用硬报。",
+    "outlook": "服务对象：主要是消费者（加急配送承诺更靠谱）和亚马逊（减少自动开通后履约不达标、伤及账户健康）。推测：这是把优质配送从“达标即自动开通”改成“先确认再开通”，避免卖家还没准备好就被加上当天/1日/2日达。库内相关：《欧洲 8 国旺季临时放宽 Prime 资格：11 月 15 日至 2027 年 1 月 9 日，FBA/自配送 Prime 的配送速度要求降低（德法西荷波瑞比爱）》《英国 Seller Fulfilled Prime：按尺寸分三档考核，10 月 30 日起》《欧洲自发货：准时送达率与企业营业时间送达率须达 90%》。",
+    "sourceName": "Amazon.co.uk Seller Forums（News_Amazon）：Enrol for Premium Shipping Options in Seller Central",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/4799683b-8915-4994-b95e-efcac8e6e57c"
+  },
+  {
+    "id": "de-awd-without-pan-eu-2026-11-20",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；Seller Central 英国论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-20T09:12:29Z，北京时间 2026-11-20 17:12）；德/法/意/西/爱尔兰论坛同日官方同文交叉。德国站在售商品可大宗存入 AWD、即使未加入泛欧 FBA，以及建议从中国补货的卖家提前预订以应对 2027-02-06 春节，与原文一致。英国帮助页 GHV89YC29VWN6SBM（AWD 项目政策，headless Chrome 可打开）只写 AWD 适用于德/法/意/西/英，未写本次取消「须先加入泛欧」的变化，故来源仍用论坛公告（B 级）。",
+    "title": "德国站商品入 AWD 不再要求先报名泛欧 FBA：没加入 Pan-EU 也能把德国在售商品大宗存进 AWD，再自动补到 FBA",
+    "regions": [
+      "EU",
+      "UK"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-11-20",
+    "effective": "2026-11-20",
+    "dateNote": "英国论坛帖 2026-11-20T09:12:29Z（北京时间 2026-11-20 17:12）发布，写“现在可以”把德国站在售商品存入 AWD、即使未加入泛欧 FBA；原文未给另外的上线日，生效日按北京时间发帖日记。官方仅写适用于德国站在售商品。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon（北京时间 2026-11-20，帖子创建于 2026-11-20T09:12:29Z）宣布：现在可以把德国站在售商品大宗存放在亚马逊仓储配送（AWD, Amazon Warehousing and Distribution），即使这些商品没有加入泛欧 FBA（Pan-European Fulfilment by Amazon）。AWD 可做大宗仓储并自动补货到 FBA；仓储按统一费率、不限存放时长、无长期承诺；与其他符合条件的亚马逊服务一起用，可在仓储和运输上获得折扣。如果从中国补货，官方建议提前预订 AWD 货件，以便在 2027 年 2 月 6 日农历新年期间仍有库存。建货件入口为「发送到 AWD」（Send to AWD）；使用 AWD 即表示同意 AWD 项目政策。德、法、意、西、爱尔兰论坛同日有官方同文。官方只写了德国站在售商品，没有说其他站点也取消「须先加入泛欧」的要求。",
+    "orig": "News_Amazon (Amazon.co.uk Seller Forums), 20 November 2026 (09:12 UTC): “You can now store your products listed in Germany in bulk at Amazon Warehousing and Distribution (AWD), even if they aren't enrolled in Pan-European Fulfilment by Amazon (Pan-EU FBA).” “With AWD, you get: Simpler supply chain management: AWD handles bulk storage and automatic FBA replenishment in one solution. Simplified storage costs: Pay a flat rate, no matter how long you store inventory. There are no long-term commitments. Savings across Amazon services: Get discounts on storage and transportation when you use AWD with other eligible Amazon services.” “If you source inventory from China, we recommend booking your AWD shipments in advance to keep inventory available during Lunar New Year (6 February 2027). To create your shipment, go to Send to AWD and follow the prompts. By using AWD, you agree to the Amazon Warehousing and Distribution Programme Policy.”",
+    "plain": "这是啥：以前要把德国站在售的商品存进亚马逊仓储配送（AWD），往往得先加入泛欧 FBA；现在即使没加入泛欧，也可以把德国站商品大宗存进 AWD，再由 AWD 自动补货到 FBA。\n跟你有没有关系：在德国站卖 FBA、想用 AWD 做大宗仓储和自动补货，但还没开（或不想开）泛欧的有关系；不做德国站、或不用 AWD 的不用管。\n你要做的事：如果计划用 AWD 备货（尤其从中国补货、要赶 2027 年 2 月 6 日春节），可以直接去「发送到 AWD」建货件，不必先报名泛欧。用 AWD 即表示同意项目政策。官方没说这项放宽适用于德国站以外的商品。",
+    "outlook": "服务对象：主要是卖家（降低使用 AWD 的门槛，便于春节前提前备货）和亚马逊（提高 AWD/FBA 仓容利用）。推测：这只是针对德国站 listing 的放宽，并不等于泛欧 FBA 本身的报名条件变了；其他欧洲站点是否同样取消“先加入泛欧”的要求，原文未写。库内相关：《泛欧 FBA：9 月 3 日起必须有有效荷兰报价，比利时 2027 年 2 月 26 日起同样要有》《英国卖家可把货送到爱尔兰本地 FBA：拿爱尔兰站 Prime 标和本地费率，需爱尔兰 VAT 号，注册费 2026 年底前由亚马逊承担》。",
+    "sourceName": "Amazon.co.uk Seller Forums（News_Amazon）：Your products listed in Germany no longer need Pan-EU FBA enrolment for AWD",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/25f01e67-60ad-4d5e-a779-8301f59bbb91"
+  },
+  {
     "id": "ca-fbm-seller-holidays-2026-11-20",
     "sourceTier": "B",
     "verifiedAt": "2026-11-20",
@@ -238,8 +282,8 @@
   {
     "id": "eu-ioss-150-threshold-removal-2028-07-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；欧盟委员会税务与海关总司官方新闻页（2026-11-09）可打开；取消 IOSS €150 门槛、平台“视同供应商”扩到所有价值、计划 2028-07-01 适用与原文一致。尚需征询欧洲议会后由理事会正式通过，亚马逊尚未发布对卖家的执行说明，未核实。",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；欧盟委员会税务与海关总司官方新闻页（2026-11-09）可打开；取消 IOSS €150 门槛、计划 2028-07-01 适用（欧盟海关数据中枢投入运行时）、2030-12-01 委员会复盘、尚需征询欧洲议会后由理事会正式通过，与库内一致；亚马逊尚未发布对卖家的执行说明，未核实。事实修正 0。",
     "title": "欧盟计划取消进口一站式申报（IOSS）€150 上限：2028 年 7 月起，从欧盟外卖给欧盟消费者的货不论多贵，都由亚马逊等平台代收增值税（成员国已达成一致，尚未正式通过）",
     "regions": [
       "EU"
@@ -259,8 +303,8 @@
   {
     "id": "sp-api-settlement-report-v1-removal-2026-11-11",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；SP-API 官方 changelog 可打开（2026-03-09 发布，移除日改为 2026-11-11）；被移除的两个报告名称、替代报告 Flat File V2、适用所有站点与原文一致。Seller Central 网页端结算报告下载是否同步变化原文未说明，未核实。",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；SP-API 官方 changelog 可打开；XML 结算报告与旧版 Flat File 结算报告移除日为 2026-11-11、改用 Flat File V2，与库内一致；事实修正 0。",
     "title": "旧版结算报告 11 月 11 日起下线：XML 结算报告和旧版 Flat File 结算报告停用，统一改用 Flat File V2（所有站点）",
     "regions": [
       "GLOBAL"
@@ -427,8 +471,8 @@
   {
     "id": "sp-api-ivp-eu-jp-ca-2026-10-29",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；SP-API 官方 changelog 可打开；2026-10-29 生效、覆盖站点与库内一致；事实修正 0。",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；SP-API 官方 changelog 可打开；2026-10-29 起 Listings Items API 在欧/日/加接受 Industry Vertical Pricing audience 值，与库内一致；事实修正 0。",
     "title": "企业购行业垂直定价（IVP）扩到加/欧/日：10 月 29 日起可用 API 按教育/医疗/政府等行业设 B2B 价",
     "regions": [
       "CA",
@@ -830,8 +874,8 @@
   {
     "id": "us-nwd-brand-rep-2026-10-27",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；论坛帖可打开，发帖人为普通卖家、有亚马逊版主跟帖；官方公告帖仍未找到，保留 C；事实修正 0。",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；美国论坛帖《No Wholesale Distribution (NWD)》可打开，发帖人为普通卖家（非 News_Amazon），内容为品牌代表仍收到 NWD 下架通知的求助；今日检索仍未找到可公开打开的官方 A/B 公告帖或帮助页，保留 C 级。事实修正 0。",
     "title": "部分品牌商品 10 月 27 日起只许「品牌代表」卖：没有 Brand Representative 角色的卖家链接会被下架（NWD 通知）",
     "regions": [
       "US"
@@ -851,8 +895,8 @@
   {
     "id": "us-restore-to-new-2026-10-21",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；SellersAskSellers 转贴页可打开；官方原文未找到，保留 C；事实修正 0。",
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；SellersAskSellers 转贴亚马逊邮件页可打开；Restore to New / Sell as Used 更名、10 月 21 日起、翻新加工费 $1.50–$4.10 与库内一致。今日检索仍未找到可公开打开的官方 A/B 页面，保留 C 级。事实修正 0。",
     "title": "FBA 退货翻新改名扩容：10 月 21 日起「Restore to New」翻新当新品卖，「Sell as Used」按二手卖",
     "regions": [
       "US"
@@ -1474,8 +1518,8 @@
     "sourceName": "Amazon Seller Forums：Commingling practices will end effective March 31, 2026",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/106d0747-e5c6-44d8-86f3-7669f11238fe",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；美国论坛官方帖《Commingling practices will end effective March 31, 2026》可打开；2026-03-31 起混储结束、转售商须贴亚马逊条码、品牌代表可用原厂条码，与库内一致；事实修正 0。"
   },
   {
     "id": "handling-featured-variation",
@@ -1636,8 +1680,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；sellingpartners 2023-12-05 费用信可打开（未被新内容替换），退货处理费扩到服装鞋类以外的表述仍在；事实修正 0。"
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；sellingpartners 2023-12-05 费用信可打开；退货处理费扩到服装鞋类以外的高退货率商品（excluding apparel and shoes），与库内一致；事实修正 0。"
   },
   {
     "id": "bundles-consumable-2024",
@@ -1657,8 +1701,8 @@
     "sourceName": "Amazon Seller Forums：Updated Product Bundling policy for consumables",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/44a087bd-f831-4635-9c46-21a153705af9",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；论坛帖可打开；消耗品捆绑原厂包装要求仍在；事实修正 0。"
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；美国论坛官方帖（《Updated Product Bundling policy for consumables》）可打开；2024-10-14 起消耗品（食品杂货、宠物、母婴、个护美妆）捆绑须原厂且品牌方包装，不得混不同厂家或自有/Generic 品牌，与库内一致；事实修正 0。"
   },
   {
     "id": "us-fees-2025",
@@ -1741,8 +1785,8 @@
     "sourceName": "Amazon.ca 卖家论坛官方公告（News_Amazon）：2026 Updates to Canada referral and Fulfilment by Amazon fees",
     "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/a9383e96-87ef-484e-bbe7-cc07584331bb",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；原帮助页 G201411300 已换成 2027 年加拿大费用内容，改链到加拿大卖家论坛 News_Amazon 官方公告（Chrome 渲染）；“2026 年不上调”、2025-11-05 优惠券封顶 500 加元、清算费用与原文一致，事实未改；来源级别由 A 调为 B。"
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；加拿大论坛 News_Amazon 官方公告《2026 Updates to Canada referral and Fulfilment by Amazon fees》可打开；2026 年推荐费与 FBA 费不上调、2025-11-05 起优惠券费封顶 CAD 500、清算 15% 推荐费加按件处理费（0–5 kg 为 CAD 0.25–1.90，超过 5 kg 每公斤再加 CAD 0.20）与库内一致；事实修正 0。"
   },
   {
     "id": "peak-fees-2026",
@@ -1890,8 +1934,8 @@
     "sourceName": "Amazon Seller Forums：New requirements for product bundles starting January 11",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/da850a57-839d-4e38-a96f-298dbc450b69",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-12",
-    "verifyNote": "200；News_Amazon 论坛帖（headless Chrome）可打开；2027-01-11 起多数捆绑须原厂包装、授权信/礼品与相机类目/虚拟捆绑例外与库内一致；事实修正 0。"
+    "verifiedAt": "2026-11-21",
+    "verifyNote": "200；美国论坛官方帖（News_Amazon，《New requirements for product bundles starting January 11》）可打开；2027-01-11 起多数实物捆绑须原厂包装，授权信/礼品与相机类目/虚拟捆绑例外，以及不合规链接将被下架并记入账户状况，与库内一致；事实修正 0。"
   },
   {
     "id": "listing-protection-2026",

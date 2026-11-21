@@ -261,8 +261,8 @@
   {
     "id": "eu-digital-fairness-act-proposal-2026-11-11",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；欧盟委员会《数字公平法》官方页（2026-11-11 提案及 PDF）与委员会驻塞浦路斯代表处官方新闻可打开；禁止“快卖完了”等虚假紧迫感、价格透明、取消订阅更容易、CPC 修订下最高全球年营业额 6% 罚款、要求非欧盟企业在欧盟指定法律代表，与原文一致。目前仅为提案，需欧洲议会和理事会讨论通过，适用日期官方未定，未核实；亚马逊尚未发布对卖家的说明。",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；commission.europa.eu 提案页可打开，仍为欧盟委员会 Digital Fairness Act 提案说明。本次页面正文未见“6% 全球年营业额”罚款数字及“仅剩几件”等示例（或在提案文本/新闻稿子页），未改正文。",
     "title": "欧盟提出《数字公平法》（Digital Fairness Act）：拟禁止“仅剩几件”等虚假紧迫感和误导性定价，大案最高罚全球年营业额 6%（仅为提案，尚未通过）",
     "regions": [
       "EU"
@@ -594,8 +594,8 @@
     "sourceName": "Amazon.com 卖家论坛（News_Amazon）：Temporary peak season extensions for international FBA shipments",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f25ba535-e06e-4fa3-8bb0-cb3a095fd696",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；Seller Central 美国论坛官方帖可打开。2026-08-01 至 11-30 创建的国际计划：关联货件到仓窗口 30 天延至 45 天、自动关闭延至 90 天，符合条件的缺陷费自动豁免或退回，与原文一致。"
   },
   {
     "id": "uk-bfcm-deal-deadline-2026-11-18",
@@ -643,8 +643,8 @@
   {
     "id": "eu-uk-fba-returnless-resolutions-2026-10-27",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；Seller Central 英国论坛官方帖可打开。德/法/意/西/英可报名，按最高售价 €1.00–€75.00（英国 £1.00–£75.00）设置退款不退货，与原文一致。",
     "title": "欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货",
     "regions": [
       "UK",
@@ -665,8 +665,8 @@
   {
     "id": "eu-uk-avtr-anytime-2026-11-03",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200（初次 GET 超时后重试成功）；Seller Central 英国论坛官方帖可打开。2026-11-03 起可在月中随时下载 AVTR（可取请求日前最多三天），并新增 TRANSACTION_UPDATED_DATE、GOV_INVOICE_ID（目前仅波兰 KSeF）两列，与原文一致。",
     "title": "欧洲 VAT 交易报告（AVTR）11 月 3 日起月中随时可下，不用再等下月 3 号，还多两列",
     "regions": [
       "UK",
@@ -812,8 +812,8 @@
   {
     "id": "eu-fbm-customs-identifiers-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；SP-API changelog 可打开。2026-11-01 起从欧盟外寄往欧盟的 B2C 包裹须报 ASIN、型号/零件号（无则条码）及标准商品标识（如有），与原文一致。",
     "title": "欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）",
     "regions": [
       "EU"
@@ -832,8 +832,8 @@
   {
     "id": "eu-handling-fee-2026-11-01",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；欧盟税务海关总司改革页可打开。2026-11-01 起征收 €2 Union handling fee（另有 €3 关税指引），与原文一致。",
     "title": "欧盟 11 月 1 日起：从欧盟外直发给消费者的每件商品再加收 2 欧元海关手续费",
     "regions": [
       "EU"
@@ -1037,8 +1037,8 @@
     "sourceName": "Amazon 美国卖家论坛：Enroll in New Selection Program 2026 by March 31",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/0350c06a-2b11-4a24-b489-f608fb83fc47",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200（初次请求超时后重试成功）；Seller Central 美国论坛官方帖可打开。报名窗口延至 2027-03-31；首 100 件佣金封顶 10%、次 100 件 5%，以及前 200 件 120 天免仓储等优惠，与原文一致。"
   },
   {
     "id": "business-discount-badge-2026-10-16",
@@ -1164,8 +1164,8 @@
     "sourceName": "Amazon SP-API Changelog：EU FBM Requirements",
     "sourceUrl": "https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；SP-API changelog 可打开。德/法/意/西自 2026-07-15 起准时送达率须达 90% 或以上，否则可能下架或不能再上新自发货链接，与原文一致。"
   },
   {
     "id": "ins-2026-11-02",
@@ -1350,8 +1350,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/467718ca-3e4d-42d2-b934-1e6771af99d3",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0",
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；Seller Central 美国论坛官方帖可打开。主账号须在 2026-12-31 前注册方可领取 12 个月 Quick Plus（另含两名被授权用户）；Selling partner plugin 可接到 Amazon Quick 与 Anthropic Claude（均为 beta），与原文一致。",
     "dateNote": "Accelerate 2026-09 宣布；美国论坛假期提醒帖约三周前（引用为当前 B 级来源）"
   },
   {
@@ -1579,8 +1579,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-13",
-    "verifyNote": "200；2026-11-13 轮换复查可达（Seller Central 页经 Chrome 渲染）；关键日期与数字与原文一致，未改事实。"
+    "verifiedAt": "2026-11-22",
+    "verifyNote": "200；sellingpartners.aboutamazon.com 2024 年美国费用公告页可打开。SIPP 履约费折扣 $0.04–$1.32，自 2024-02-05 起，与原文一致。"
   },
   {
     "id": "us-inbound-placement-2024",

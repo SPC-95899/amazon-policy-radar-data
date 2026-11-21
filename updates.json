@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-22",
+    "status": "完成",
+    "finishedAt": "2026-11-22 06:15",
+    "summary": "检索 2026-11-14～2026-11-22：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt；加/英/德列表页首次超时后重试成功）。SP-API changelog 与 Release Notes（最新仍为 11/18 版本发布，无更新公告）、sellingpartners / press.aboutamazon / advertising.amazon.com / sell.amazon.com 博客、WebSearch 行业线索（PPC Land、SellerKit、EcomGuru、Marketplace Pulse、360KJT 等，仅作线索）。新增 0 条。窗口内官方 News_Amazon 公告（优质配送自行报名、德国商品入 AWD 不再要求泛欧、GPSR 批量上传、B2B 托盘配送、虚拟捆绑费减免、欧洲旺季放宽 Prime、加拿大 FBM 休息日、美国外国 IOR 新规等）均已在库。跳过：11/18 SP-API Release 为开发者接口增量（Finances 增加 FBA From Origin 标记、Listings/Replenishment 订阅购字段、FBA 移除报告沙盒），卖家后台无新义务，未入库；sell.amazon.com 11/19 Selling Partner plugin / Ads MCP 与库内已有「卖家助手/Quick/插件」为同一工具宣传，未重复入库；欧盟多站 Seller Wallet 欧元账户黑五提醒为既有产品推广（非 News_Amazon 政策帖），未入库；美国 Audible 上线 Sponsored Products 广告开放测试仅针对有声书广告，未入库；评价邀请 7–150 天窗口仅见 PPC Land 等转述，官方 advertising.amazon.com what’s new 页未写该数字，未改原条目；H.R.4930《海关通知法》检索结果仍为递交总统待签，未改原条目。状态自动更新：0 条（即将生效条目生效日均晚于今日；最近一条为加拿大跨境退货 2026-11-23）。链接复查 10 条（verifiedAt 最旧优先：eu-digital-fairness-act-proposal-2026-11-11、eu-fbm-customs-identifiers-2026-11-01、eu-fbm-delivery-2026、eu-handling-fee-2026-11-01、eu-uk-avtr-anytime-2026-11-03、eu-uk-fba-returnless-resolutions-2026-10-27、nsp-2026-confirm-2026-10-31、us-fba-intl-inbound-extension-2026-10-30、us-sipp-2024、claude-plugin）：可达 10、失效 0、事实修正 0；其中 AVTR 与新品入仓计划帖初次请求超时，重试后 200。欧盟数字公平法提案页可达，但本次正文未见 6% 罚款数字，保留原文、未改正文。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-21",
     "status": "完成",
     "finishedAt": "2026-11-21 06:24",

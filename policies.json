@@ -373,7 +373,7 @@
       "CA"
     ],
     "category": "自发货",
-    "status": "即将生效",
+    "status": "已生效",
     "announced": "2026-11-06",
     "effective": "2026-11-23",
     "dateNote": "论坛帖 2026-11-06（UTC）发布；退款不退货规则功能与新退货政策均写 2026-11-23 起。",
@@ -1101,8 +1101,8 @@
     "sourceName": "Seller Central 美国论坛官方公告：Customize how your FBA returns are graded for resale",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/731e6e69-5bfa-4a4f-9685-acb9da76153b",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "headless Chrome 可打开（标题：Customize how your FBA returns are graded for resale）；自定义「sellable as new」分级表述与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "us-fbm-business-hour-2026",
@@ -1270,8 +1270,8 @@
     "sourceName": "Amazon.ca 卖家帮助：2026 Global Store Seller Supervised 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GNN4PAXSGE3K9GNV?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；帮助页 headless Chrome 渲染后核对，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "帮助页 headless Chrome 渲染后可打开（帮助 ID GNN4PAXSGE3K9GNV 仍有效）。页面标题现为「2027 Fees for Global Store Seller Supervised」，但正文仍写 As of April 17, 2026, a 3.5% fuel and logistics-related surcharge applies to fulfilment fees across FBA in the US and Canada as well as Global Store Seller Supervised offers from the US into Canada, Mexico and Brazil。3.5%/2026-04-17 事实未变，未改条目。轮换复查无断链，事实修正 0"
   },
   {
     "id": "eu-fees-2026",
@@ -1290,8 +1290,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "与 eu-fee-cut-2025 同一官方论坛帖，headless Chrome 可打开；关键费用下调表述与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "mx-zero-fee",
@@ -1310,8 +1310,8 @@
     "sourceName": "Amazon México 官方活动条款：Programs Policy - Fee Waiver for new and reactivated sellers",
     "sourceUrl": "https://vender.amazon.com.mx/exencion-de-tarifas-nuevos-vendedores",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；官方条款页可达。修正：累计上限按官方条款为 200,000 MXN（原据 Merca2.0 写 5 万比索，有误）；自发货只免佣金不免物流费；来源由论坛帖（B）升级为官方条款页（A）"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "官方条款页可打开（标题：Programs Policy - Fee Waiver for new and reactivates sellers）；页内仍见 200,000 MXN 上限；与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "multichannel",
@@ -1397,8 +1397,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：FBA Export expands to new destinations",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d2908c90-b115-4777-90d7-dc6e74197566",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "headless Chrome 可打开（标题：FBA Export expands to new destinations）；正文仍写 expanding to more than 175 new destinations；与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "dg-questions",
@@ -1418,8 +1418,8 @@
     "sourceName": "Amazon 美国卖家论坛 News_Amazon（德国站同题公告已交叉核对）",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/ad12f62b-df95-42bf-a342-10fd3ddad196",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "headless Chrome 可打开（标题：New compliance questions for dangerous goods listings apply October 26）；关键日期 10 月 26 日与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "gpsr",
@@ -1640,8 +1640,8 @@
     "sourceName": "Amazon Selling Partners：2024 年美国推荐费与 FBA 费用",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/Update%20to%20US%20referral%20and%20Fulfillment%20by%20Amazon%20fees",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "原文页可打开（标题：Update to US referral and Fulfillment by Amazon fees - Amazon Selling Partners）；轮换复查无断链，事实修正 0"
   },
   {
     "id": "us-fulfillment-cut-2024",
@@ -1892,8 +1892,8 @@
     "sourceName": "Seller Central 论坛：2026 European referral and FBA fee updates",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/b3ec0524-ae08-4f43-85fe-81988e194d7c?mons_sel_locale=en_US",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "headless Chrome 可打开（标题：2026 updates to European referral and Fulfilment by Amazon fees）；正文仍写 2026 年平均下调约 £0.15/€0.17；与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "pan-eu-nl-2026",
@@ -2123,8 +2123,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/a46c87eb-1acf-4fa7-98ef-d58666caa358",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；原文页可达，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "headless Chrome 可打开（标题：Send meltable inventory to FBA starting August 31, 2026）；生效日 8 月 31 日与库内一致；轮换复查无断链，事实修正 0"
   },
   {
     "id": "sc-provider-2026-09-01",
@@ -2167,7 +2167,7 @@
     "sourceName": "Amazon Seller Central：FBA Partial Refunds",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-14",
-    "verifyNote": "200；帮助页 headless Chrome 渲染后核对，关键数字/日期与库内一致；轮换复查无断链，事实修正 0"
+    "verifiedAt": "2026-11-23",
+    "verifyNote": "帮助页 headless Chrome 渲染后可打开（标题：FBA Partial Refunds）；轮换复查无断链，事实修正 0"
   }
 ]

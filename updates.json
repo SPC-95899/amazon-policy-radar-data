@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-23",
+    "status": "完成",
+    "finishedAt": "2026-11-23 06:41",
+    "summary": "检索 2026-11-15～2026-11-23：Seller Central 美/加/墨/英/德/法/意/西/荷/波/比/爱公告论坛（headless Chrome，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt；瑞典论坛两次超时，已用德/法/英/爱/荷/波/比同文交叉，未见未入库新公告）。SP-API changelog（最新仍为 11/18 版本发布，无更新公告）、sellingpartners / About Amazon、congress.gov（H.R.4930）、WebSearch 行业线索。新增 0 条。状态自动更新 1 条：ca-cross-border-returns-2026-11-23 于 2026-11-23 生效，由「即将生效」改为「已生效」。跳过：Amazon Ads「Pricing and Promotions」支持页（行业媒体称 11/15 更新，advertising.amazon.com/help/GE5QEBS6QRJJAT3A，headless Chrome 打开为需登录的 Support Center 首页，未能核对原文，未入库）；欧洲 Haul Distributed Fulfilment 扩展至英德法意西（行业媒体 11/16，未找到官方 A/B 原文，未入库）；H.R.4930 仍为 11/17 呈交总统、尚未签署，不另增条目。轮换复查 10 条（verifiedAt 最旧优先）：失效链接 0，事实修正 0；fuel-surcharge 帮助页标题已改为「2027 Fees for Global Store Seller Supervised」，页内仍保留 2026-04-17 起 3.5% 燃油与物流附加费原文，未改条目事实。",
+    "addedCount": 0,
+    "items": []
+  },
+  {
     "date": "2026-11-22",
     "status": "完成",
     "finishedAt": "2026-11-22 06:15",

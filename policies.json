@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-manage-amazon-inventory-2026-11-24",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "200；美国论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-23T20:03:50Z，北京时间 2026-11-24 04:03）。帮助页 GTMXYZN64UJL7TT6（headless Chrome）标题为「Manage Amazon inventory overview」，页内有 Total inventory、Inbound、global/domestic storage（GWD/AWD）、Restock settings 等，与公告一致。帮助页本身未写「FBA 库存页已搬迁/改名」，故来源仍用论坛公告（B 级）。",
+    "title": "美国「FBA 库存」页已改名为「管理亚马逊库存」：一个页面查看全球仓、国内仓和 FBA 库存，还能改补货设置",
+    "regions": [
+      "US"
+    ],
+    "category": "平台工具",
+    "status": "已生效",
+    "announced": "2026-11-24",
+    "effective": "2026-11-24",
+    "dateNote": "美国论坛帖 createdAt 2026-11-23T20:03:50Z（北京时间 2026-11-24 04:03），原文用现在时（has moved / is now called），按已上线处理，生效日取北京时间发帖日。",
+    "zh": "亚马逊美国卖家论坛 News_Amazon（北京时间 2026-11-24 04:03，帖子创建于 2026-11-23T20:03:50Z）宣布：美国站原来的 Fulfillment by Amazon（FBA）库存页已迁到新版 Seller Central，并改名为 Manage Amazon inventory（管理亚马逊库存）。新页面可在同一处查看全球仓储（GWD）、国内仓储（AWD，即 Amazon Warehousing and Distribution）以及 FBA 履约网络中的库存。新增「总库存」（Total inventory）列，把在途（inbound）和各环节库存加总；在页面右上角设置中取消隐藏后，可分别看到 Inbound、At global storage、At domestic storage、At fulfillment 四列。还新增「补货设置」（Restock settings）列，可按单个商品或批量查看、修改提前期、补货频率、生命周期结束等规划指标。了解更多见帮助页「Manage Amazon inventory overview」（GTMXYZN64UJL7TT6）。",
+    "orig": "News_Amazon (Amazon.com Seller Forums), 23 November 2026 (20:03 UTC): “Your Fulfillment by Amazon (FBA) inventory page in the US store has moved to the new Seller Central experience and is now called Manage Amazon inventory. In this new experience, you can see your inventory across global storage (GWD), domestic storage (Amazon Warehousing and Distribution or AWD), and the Amazon fulfillment network (Fulfillment by Amazon or FBA) — all in one place.” “The new Total inventory column gives you a single view of all your inventory across Amazon’s supply chain, including inventory on its way to Amazon (inbound).” “To see where each unit is, select the Settings icon on the top right and unhide the columns Inbound, At global storage, At domestic storage, and At fulfillment.” “We've also added a Restock settings column, where you can view and edit your current planning setting metrics such as lead time, restock frequency, end-of-life, etc. — per product or in bulk.” “To learn more, go to Manage Amazon inventory overview.”",
+    "plain": "这是啥：美国站原来的 FBA 库存页搬到新版后台，改名叫「管理亚马逊库存」。现在同一页能看到全球仓（GWD）、国内仓（AWD）和 FBA 的货，还有在途库存，并能直接改补货设置。\n跟你有没有关系：做美国 FBA，或货还在 GWD/AWD 的有关系；只做自发货、不走亚马逊仓的不用管。\n你要做的事：打开新页面看「总库存」；如果看不到在途/全球仓/国内仓/履约仓分列，点右上角设置把这些列显示出来。补货的提前期、频次等可在「补货设置」里改。收藏夹若还指着旧的 FBA 库存入口，改成新页面。",
+    "outlook": "服务对象：主要是亚马逊（把卖家留在新版 Seller Central，把全球仓、国内仓和 FBA 收进同一张库存表）和卖家（少切几个库存页）。推测：旧版 FBA 库存页会逐步停用，补货和库龄相关操作会更多集中到这一页。库内相关：《全球仓配扩展与一次送检试点》《有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天》《德国站商品入 AWD 不再要求先报名泛欧 FBA：没加入 Pan-EU 也能把德国在售商品大宗存进 AWD，再自动补到 FBA》《美国 FBA 货件开始显示「预计入仓时长」：11 月起在 Manage Shipments 里看货多久能上架、拿到 Prime（逐步开放）》。",
+    "sourceName": "Amazon.com Seller Forums（News_Amazon）：Your FBA inventory page is now Manage Amazon inventory",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2d8620b9-04de-40b4-bf46-c9466cee3f97"
+  },
+  {
     "id": "eu-uk-premium-shipping-opt-in-2026-11-21",
     "sourceTier": "B",
     "verifiedAt": "2026-11-21",
@@ -174,8 +195,8 @@
   {
     "id": "eu-seller-prime-peak-2026-11-15",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central 法国论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-12T04:40Z），德/西/荷/比论坛同日发布同内容；8 国、11/15–2027/1/9、各尺寸配送速度比例、准时送达率 92%/90%、1/10 恢复常规与原文一致。注意：德语版写超大件（Übergröße）境内 45% ≤10 天，法/西/荷/比版均写 ≤6 天，以多数版本为准、存在官方译文不一致；英国站未见此帖，未核实英国是否同步调整。",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，法国论坛 News_Amazon 帖可打开；8 国、2026-11-15 至 2027-01-09、德国境内 10%≤1 天 / 35%≤2 天 / 65%≤4 天、其余 7 国 25%≤2 天 / 65%≤4 天等与原文一致。事实修正 0。",
     "title": "欧洲 8 国旺季临时放宽 Prime 资格：11 月 15 日至 2027 年 1 月 9 日，FBA/自配送 Prime 的配送速度要求降低（德法西荷波瑞比爱）",
     "regions": [
       "EU"
@@ -195,8 +216,8 @@
   {
     "id": "ca-fba-returnless-resolutions-2026-11-06",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central 加拿大论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-12T18:18Z）；2026-11-06 起可报名、建议 $100 以下商品、CSV 最多 10,000 个 ASIN、设置路径与原文一致。帖子未写可设的金额上限，对应加拿大帮助页未打开核对。",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，加拿大论坛 News_Amazon 帖可打开；2026-11-06 起可报名、建议 $100 以下商品、CSV 最多 10,000 个 ASIN、设置路径与原文一致。事实修正 0。",
     "title": "加拿大 FBA「退款不退货」开放：11 月 6 日起 FBA 卖家可选全部或指定 ASIN，买家退款后不用寄回商品",
     "regions": [
       "CA"
@@ -409,8 +430,8 @@
   {
     "id": "ca-fees-2027",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central 加拿大帮助页 G201411300（headless Chrome）可达；平均 +CAD 0.21、2027-01-15 与原文一致",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "headless Chrome 打开加拿大帮助页「2027 Canada Referral and Fulfilment by Amazon fees」成功；CAD 0.21、约 0.6%、2027-01-15、2 月 1 日仓储/低库存（28 天供需）、Remote +CAD 0.80、PanAmericas +CAD 0.18、Buy X Get Y CAD 2+1%（上限 CAD 300）与原文一致。事实修正 0。",
     "title": "2027 年加拿大 FBA 费平均每件上调约 0.21 加元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
     "regions": [
       "CA"
@@ -749,8 +770,8 @@
   {
     "id": "brand-registry-report-violation-2026-10-22",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；sell.amazon.co.kr 违规举报改版页可达，Report Assistant 等关键词与原文一致；另见美国论坛 News_Amazon 2026-11-03 帖「Report intellectual property infringement with AI-powered help」（f28cb12e）确认 AI 举报助手在美国上线，与本条为同一功能，未新增",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，sell.amazon.co.kr 页可达，标题仍为「브랜드 레지스트리 위반 신고 도구 개편 안내」；headless Chrome 本次 SSL 握手失败，未再全文渲染。关键主题（违规举报工具改版）与标题一致，事实修正 0。",
     "title": "品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手",
     "regions": [
       "GLOBAL"
@@ -792,8 +813,8 @@
   {
     "id": "gwd-expiration-dated-2026-10-12",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；美国论坛 News_Amazon 帖（headless Chrome）可达；365/180 天、深圳/宁波等与原文一致",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，美国论坛 News_Amazon 帖可打开；入仓剩余保质期 ≥365 天、离开 GWD 时 ≥180 天、深圳/上海/宁波、美妆个护母婴等类目与原文一致。事实修正 0。",
     "title": "有保质期的商品现在能放进中国 GWD 仓再补货到美国 FBA：入仓时剩余保质期要 ≥365 天，补货出仓时 ≥180 天",
     "regions": [
       "US"
@@ -916,8 +937,8 @@
   {
     "id": "eu-uk-surcharge-2pct-2026-11-02",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；英国论坛 News_Amazon 帖（headless Chrome）可达；1.5%→2%、FBA 11/2、MCF 11/19 与原文一致",
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "本次对该帖 curl 首次超时，headless Chrome 打开英国论坛 News_Amazon 帖成功；1.5%→2%、FBA 自 2026-11-02 起适用于英/法/德/意/西/波/瑞/荷/爱/比，MCF 自 2026-11-19 起适用于英/法/德/意/西，平均约 £0.02/€0.02，与原文一致。事实修正 0。",
     "title": "欧洲和英国 FBA 燃油与物流附加费从 1.5% 涨到 2%，11 月 2 日起",
     "regions": [
       "EU"
@@ -1059,8 +1080,8 @@
     "sourceName": "Amazon.ca Seller Forums（News_Amazon）：Earn the new Business Discount badge to get always-on visibility",
     "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/aaa31c50-6f04-4367-b651-c48ed512d2e6",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；升级 C→B：换加拿大 Seller Forums News_Amazon 官方帖（createdAt 2026-11-09T23:02Z，写“now available”），5% 徽章、2% 划线价、取消 4 星要求、数量折扣 BSBB 首档 3%+4 星不变、须有 VRP 与原文一致；地区补加 CA。美国版仍只有 SellersAskSellers 转贴（https://sellersasksellers.com/t/earn-new-business-discount-badge-for-always-on-visibility/7638），美国官方原文未找到。"
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，加拿大论坛 News_Amazon 帖可打开（__NEXT_DATA__）；5% 徽章、2% 划线价、单件取消 4 星要求与原文一致。事实修正 0。"
   },
   {
     "id": "vmp-wave-2026-10-13",
@@ -1374,8 +1395,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；aboutamazon 全球拓展工具新闻页可达；玩具一次送检规范、GWD 年底前扩到另外 7 国与原文一致"
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 与 headless Chrome 均为 200，About Amazon 页可达，标题仍为 “Amazon launches new global selling tools for compliance, listings, and supply chain”。事实修正 0。"
   },
   {
     "id": "fba-export",
@@ -1438,8 +1459,8 @@
     "sourceName": "Seller Central Help：提交 GPSR 信息",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/GWJNNZQD3Y4U3PAK?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central GPSR 帮助页（headless Chrome）可达；Responsible Person 等要求未变"
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "headless Chrome 打开帮助页「How to submit compliance information for the GPSR」成功（200）。页内写本帮助仅适用于有资格在欧盟 Amazon Haul 上架的卖家，并列出欧盟责任人、标签联系方式及在账户状况提交信息的路径。未改正文（原条目覆盖更广的 GPSR 义务，此页是 Haul 提交路径说明）。事实修正 0。"
   },
   {
     "id": "ppwr",
@@ -1539,8 +1560,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/7336583f-09ac-41de-99d1-667017a88db2",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；美国论坛 Featured Offer 官方帖（headless Chrome）可达；2026 年底前全球完成取消资格门与原文一致"
+    "verifiedAt": "2026-11-24",
+    "verifyNote": "curl 200，美国论坛 News_Amazon 帖「Updates to Featured Offer eligibility requirements」可打开；2026 年 7 月起逐步取消 Featured Offer 卖家资格前置门槛、全球站点滚动、年底完成、选购车仍看价格/配送速度/表现，与原文一致。事实修正 0。"
   },
   {
     "id": "us-apparel-ref-2024",

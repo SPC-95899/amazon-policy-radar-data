@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-24",
+    "status": "完成",
+    "finishedAt": "2026-11-24 06:24",
+    "summary": "检索 2026-11-16～2026-11-24：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt；加/墨/英/波/瑞/比/爱列表页首次超时后重试成功）。SP-API changelog / Release Notes（最新仍为 11/18 版本发布，无更新公告）、sellingpartners / About Amazon、congress.gov（H.R.4930）、WebSearch 行业线索（PPC Spider、PPC Land、360KJT、Seller Magnet 等，仅作线索）。新增 1 条：美国 FBA 库存页改名为「管理亚马逊库存」（11/24，美国论坛 News_Amazon；帮助页 GTMXYZN64UJL7TT6 交叉核对功能列）。窗口内其余官方公告（优质配送自行报名、德国商品入 AWD 不再要求泛欧、GPSR 批量上传、B2B 托盘配送、虚拟捆绑费减免、加拿大自发货休息日、美国外国 IOR 指引等）均已在库。跳过：Amazon Ads「Pricing and Promotions」支持页（行业媒体称 11/15 更新，advertising.amazon.com/help/GE5QEBS6QRJJAT3A，本次 curl/Chrome 仍落到需登录的 Support Center，未能核对原文，未入库）；品牌旗舰店自动 All Deals 页（官方指南 advertising.amazon.com/library/guides/key-events-store-prep 可打开并写明默认生成、可在 Store Settings 关闭，但该指南页无发布/更新日期；行业媒体称帮助页 11/21 更新，未能独立打开带日期的帮助页，不以二手日期入库）；欧洲/英国 Amazon Haul Distributed Fulfilment 仍只有二手报道、无可公开打开的官方 A/B 页，未入库；H.R.4930《海关通知法》最新动作仍为 11/17 呈交总统、尚未签署，不另增条目；11/18 SP-API Release 为开发者接口增量，未入库；sell.amazon.com 11/19 Selling Partner plugin / Ads MCP 与库内已有卖家助手/Quick/插件为同一工具宣传，未重复入库；巴西站 FBA 索赔 90 天窗口改从建仓日算起不在本站覆盖范围。状态自动更新 0 条（即将生效条目生效日均晚于今日）。轮换复查 10 条（verifiedAt 最旧优先：brand-registry-report-violation-2026-10-22、business-discount-badge-2026-10-16、ca-fba-returnless-resolutions-2026-11-06、ca-fees-2027、eu-seller-prime-peak-2026-11-15、eu-uk-surcharge-2pct-2026-11-02、gpsr、gwd-compliance、gwd-expiration-dated-2026-10-12、handling-featured-variation）：可达 10、失效链接 0、事实修正 0；其中 eu-uk-surcharge 帖首次 curl 超时，Chrome 重试后可达；gpsr 帮助页注明仅适用于有资格在欧盟 Amazon Haul 上架的卖家，保留原条目、未改范围。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "us-manage-amazon-inventory-2026-11-24",
+        "title": "美国「FBA 库存」页已改名为「管理亚马逊库存」：一个页面查看全球仓、国内仓和 FBA 库存，还能改补货设置"
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "status": "完成",
     "finishedAt": "2026-11-23 06:41",

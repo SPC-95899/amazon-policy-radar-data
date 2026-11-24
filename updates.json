@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-25",
+    "status": "完成",
+    "finishedAt": "2026-11-25 06:06",
+    "summary": "检索 2026-11-17～2026-11-25：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt，13 站全部取到）、SP-API changelog（最新仍为 11/18 Release，无新公告）、sell.amazon.com 公告博客（最新 11/19 插件/Ads MCP，已处理过）、sellingpartners.aboutamazon.com（11/23 为卖家故事，非政策）、About Amazon 新闻（11/23–24 无卖家政策）、advertising.amazon.com、WebSearch 行业线索（PPC Land、Marketplace Pulse、VEONIB、Market Wize 等，仅作线索）。新增 1 条：加拿大 FBA 危险品专用仓 YKF1 于 11/15 开仓（加拿大论坛 News_Amazon，北京时间 11/25 05:02 发帖）。窗口内其余官方公告（美国「管理亚马逊库存」、优质配送自行报名、德国入 AWD 不再要求泛欧、GPSR 批量上传、B2B 托盘配送、加拿大自发货休息日、美国 IOR 指引等）均已在库。跳过：维多利亚的秘密 11/26 起限品牌代表销售（仅 LinkedIn 转贴的个别卖家通知 + PPC Land 报道，属库内《NWD 品牌代表》规则的单个品牌个案，无公开官方原文，未入库）；Manage Inventory 一键拆变体（仍仅视频/第三方，无官方帮助页）；Amazon Ads 地域化互动视频广告扩展欧洲、DVA+ 新增比利时/波兰/爱尔兰、Twitch 可购物广告（面向广告主，非卖家政策）；Haul 跨列（此前已判定为消费者端/第三方估算）。状态自动更新 0 条（即将生效条目生效日均晚于今日）。轮换复查 10 条（verifiedAt 最旧优先：mx-fbm-seller-holidays-2026-11-06、sp-api-listing-attrs-2026-11-16、us-3d-printers-referral-2026-11-05、us-fees-2027、vmp-wave-2026-10-13、inform、ins-2026-11-02、lending-2026、li-device-tic-2026-09-30、listing-protection-2026）：可达 10、失效链接 0、事实修正 0；修正项 2：lending-2026 与 listing-protection-2026 的 zh/orig 原引自 SellerKit，改为直接引用 sourceUrl 官方回顾页原文（事实不变）；vmp-wave 再查官方原文仍未找到，保留 C。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "ca-dangerous-goods-fc-ykf1-2026-11-15",
+        "title": "加拿大开了 FBA 危险品专用仓 YKF1（安省布兰普顿）：11 月 15 日起启用，危险品要先获批、再单独申请库容"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "status": "完成",
     "finishedAt": "2026-11-24 06:24",

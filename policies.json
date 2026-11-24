@@ -1,5 +1,26 @@
 [
   {
+    "id": "ca-dangerous-goods-fc-ykf1-2026-11-15",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "200；Seller Central 加拿大论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-24T21:02:36Z，北京时间 2026-11-25 05:02）；开仓日期 2026 年 11 月 15 日、仓库代码 YKF1、地址 3495 Steeles Ave E, Brampton, ON L6T 5W8、须先获北美危险品计划批准并另行申请危险品库容、美国已获批自动覆盖北美均与原文一致。原文未提危险品仓储费或库容具体数字，本条不写。",
+    "title": "加拿大开了 FBA 危险品专用仓 YKF1（安省布兰普顿）：11 月 15 日起启用，危险品要先获批、再单独申请库容",
+    "regions": [
+      "CA"
+    ],
+    "category": "FBA与物流",
+    "status": "已生效",
+    "announced": "2026-11-25",
+    "effective": "2026-11-15",
+    "dateNote": "加拿大论坛帖 2026-11-24T21:02:36Z（北京时间 2026-11-25 05:02）发布；原文写仓库已于 2026 年 11 月 15 日开仓，生效日按开仓日记。",
+    "zh": "亚马逊加拿大卖家论坛 News_Amazon（北京时间 2026-11-25，帖子创建于 2026-11-24T21:02:36Z）宣布：2026 年 11 月 15 日，亚马逊在加拿大开设一座新的 FBA 危险品运营中心，帮助卖家更快把危险品送到买家手中。运营中心代码 YKF1，地址 3495 Steeles Ave E, Brampton, ON L6T 5W8。要使用加拿大危险品仓储，必须获得北美危险品计划的批准；除获准在加拿大销售危险品外，还须申请危险品库容。步骤：进入 FBA 危险品（有害物品）计划页 → 管理危险品分类 → 申请危险品计划选「FBA Dangerous Goods Program」，申请库容选「Increase Dangerous Goods Storage Limit」。已获准在美国销售危险品的卖家，自动获准整个北美（含加拿大）。",
+    "orig": "News_Amazon (Amazon.ca Seller Forums), 24 November 2026 (21:02 UTC): “On 15 November 2026, we opened a new Fulfilment By Amazon (FBA) fulfilment centre in Canada for dangerous goods to help you deliver these products to customers faster. Fulfilment centre YKF1 is located at 3495 Steeles Ave E, Brampton, ON L6T 5W8.” “To access storage for dangerous goods in Canada, you must be approved for the dangerous goods program in North America. In addition to being approved to sell dangerous goods in Canada, you must also request dangerous goods space.” “If you’re approved to sell dangerous goods in the US, you’re automatically approved for all of North America, including Canada.”",
+    "plain": "这是啥：亚马逊在加拿大安省布兰普顿开了一个专门放危险品（比如带电池、喷雾、易燃液体这类）的 FBA 仓，代码 YKF1，11 月 15 日已经启用，危险品在加拿大能放得下、送得更快了。\n跟你有没有关系：做加拿大 FBA、手里有被判成危险品的货（带锂电池、气雾剂、香水、指甲油等）有关系；只做美国站或不卖危险品的不用管。美国危险品已获批的，加拿大自动算获批。\n你要做的事：想把危险品发到加拿大 FBA，先到后台「管理危险品分类」确认自己已获危险品计划批准，再点「Increase Dangerous Goods Storage Limit」单独申请危险品库容；没申请库容的话，光获批还是放不进去。",
+    "outlook": "服务对象：主要是亚马逊和消费者（加拿大危险品类商品库容更多、送得更快），其次是卖家（危险品在加拿大更好入仓）。推测：之后加拿大危险品类的入仓限额可能会逐步放宽，但原文没给库容数字，以后台显示为准。库内相关：《美欧四类商品新建或编辑链接须回答危险品合规问题》《带锂离子电池的 FBA 商品：空运合规，否则改走陆运》《锂电池智能家居和电子产品：须经亚马逊认可的第三方检测机构核验》《2027 年加拿大 FBA 费平均每件上调约 0.21 加元；2 月起仓储并成按库龄一价、低库存费改 28 天供需》。",
+    "sourceName": "Amazon.ca Seller Forums（News_Amazon）：New dangerous goods fulfilment centre opens in Canada",
+    "sourceUrl": "https://sellercentral.amazon.ca/seller-forums/discussions/t/cc44341a-ac09-487d-9c59-d54919e67c4a"
+  },
+  {
     "id": "us-manage-amazon-inventory-2026-11-24",
     "sourceTier": "B",
     "verifiedAt": "2026-11-24",
@@ -237,8 +258,8 @@
   {
     "id": "mx-fbm-seller-holidays-2026-11-06",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central 墨西哥论坛 News_Amazon 官方帖可打开（headless Chrome 渲染，createdAt 2026-11-06T11:02Z）；自定义休息日、订单照收、发货和保证送达日自动顺延、国家法定假日可改为营业日、FBM 订单报告新增备货时间/运输时间列与原文一致。帖子未写具体上线日期，按发帖日记；美国站是否同样开放未核实。",
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；墨西哥论坛帖可打开（createdAt 2026-11-06T11:02Z），自定义休息日、不用假期模式等与原文一致，未修正。",
     "title": "墨西哥自发货可设「卖家自定义休息日」：不用开假期模式，链接照常在售，发货和送达日自动顺延",
     "regions": [
       "MX"
@@ -258,8 +279,8 @@
   {
     "id": "sp-api-listing-attrs-2026-11-16",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；SP-API 官方 changelog 页可打开（2026-11-11 发布）；2026-11-16 生效、影响 Listings Items API 与 JSON_LISTINGS_FEED 新建/编辑带报价商品、新增必填属性须填值、仅商品无报价与 XSD/XML 上传不受影响，与原文一致。具体哪些品类、哪些站点变化须看官方 product metadata changes 列表，未逐项核对。",
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；changelog 页可打开，11 月 11 日发布、11 月 16 日生效、Listings Items API / JSON_LISTINGS_FEED 受影响与原文一致，未修正。",
     "title": "SP-API 11 月 16 日起：多站点 Listing 属性与枚举值再次更新，用 API / JSON 表格新建或修改带报价链接可能要补新必填项",
     "regions": [
       "US",
@@ -451,8 +472,8 @@
   {
     "id": "us-fees-2027",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；sellingpartners 公告页可达；平均 +$0.19、2027-01-15、2027-02-01 仓储/低库存调整与原文一致",
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；sellingpartners 页可打开，FBA 平均每件 +0.19 美元、2027-01-15 生效、2027-02-01 取消仓储利用率附加费、燃油物流附加费不变与原文一致，未修正。",
     "title": "2027 年美国 FBA 费平均每件上调约 0.19 美元；2 月起仓储并成按库龄一价、低库存费改 28 天供需",
     "regions": [
       "US"
@@ -472,8 +493,8 @@
   {
     "id": "us-3d-printers-referral-2026-11-05",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；Seller Central 帮助页 G201411300（headless Chrome）可达；3D printers 新档 12%/5%、生效 2026-11-05 与原文一致",
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；帮助页 G201411300 经 headless Chrome 渲染后可读，3D 打印机 2026-11-05 起佣金 12%（前 200 美元）/5%（超出部分）与原文一致，未修正。",
     "title": "美国 3D 打印机单独推荐费档：首 200 美元 12%、超出部分 5%，2026-11-05 起",
     "regions": [
       "US"
@@ -1101,8 +1122,8 @@
     "sourceName": "SellersAskSellers 论坛转贴亚马逊 FBA 通知：Review your virtual multipack listings by November 10",
     "sourceUrl": "https://sellersasksellers.com/t/review-your-virtual-multipack-listings-by-november-10/7630",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-15",
-    "verifyNote": "200；第三方 SellersAskSellers 转贴仍可达；11/10 审核、11/11 开卖、VMP_ 筛选与条目一致；公开官方 A/B 仍未找到，保留 C 级"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；SellersAskSellers 转贴可打开，10/28 建立、11/10 前审核、11/11 上线与原文一致。再次检索官方 A/B 原文（论坛 News_Amazon / 帮助页）未找到，官方原文未找到，保留 C。"
   },
   {
     "id": "fba-return-grading-2026-10-14",
@@ -1165,8 +1186,8 @@
     "sourceName": "Amazon Seller Forums（US）：New Lithium Battery Requirements (US)；加拿大版同日发布",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/483ea000-f93a-4a64-8f88-fad211b5f2e7",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 本机超时；WebFetch 打开论坛官方帖（Kris_Amazon）成功，9 月 30 日起、通知 11 月 16 日前全部发完、需 TIC 认证服务商等要点与原文一致。"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；美国论坛官方帖可打开，须经亚马逊认可 TIC 机构核验、不合规链接可能下架与原文一致，未修正。"
   },
   {
     "id": "eu-fbm-delivery-2026",
@@ -1205,8 +1226,8 @@
     "sourceName": "亚马逊全球开店（韩国）官方动态：11월 2일부터 확대되는 미국 상업 책임 보험 가입 의무（2026-09-18）",
     "sourceUrl": "https://sell.amazon.co.kr/update/amazon-new-updates/us-liability-insurance-2026",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；页面（亚马逊全球开店韩国官方，2026-09-18）确认 11 月 2 日起、增强安全类目不论月销是否达 1 万美元均需 100 万美元商业责任险，免赔额上限 1 万美元，与条目一致。"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；亚马逊全球开店韩国官方页可打开，11 月 2 日起、100 万美元保额、AIA 与原文一致；另见美国论坛官方帖 287d5c33（New Commercial Liability Insurance Requirements effective November 2, 2026）内容一致。未修正。"
   },
   {
     "id": "title-75",
@@ -1499,8 +1520,8 @@
     "sourceName": "Amazon 美国卖家论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/95297f6b-e7f9-48be-84a9-5e540a4770bc",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 本机超时（box 访问 amazon.com 域不通）；WebFetch 打开美国论坛官方帖成功，200 笔/5000 美元门槛、所需资料清单、年度认证与原文一致。"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；美国论坛官方帖可打开，200 笔交易且 5,000 美元以上的高销量卖家门槛与原文一致，未修正。"
   },
   {
     "id": "safe-t",
@@ -1969,15 +1990,15 @@
     "announced": "2026-09-29",
     "effective": "2026-12-31",
     "dateNote": "2026-09-29 是 Accelerate 上的公布日。2026-12-31 不是开关日，是“覆盖全部美国账户健康保障卖家”的目标日。按生效时间排序时，它会排到 2026 年底。",
-    "zh": "SellerKit 记 2026年9月29日：Listing Protection 在违规被标出后，卖家处理期间链接保持在售，并给出步骤和申诉错误的路径。亚马逊说 2026 年底前覆盖全部美国账户健康保障（AHA）卖家，2027 年扩到全球。",
-    "orig": "SellerKit, 29 September 2026: “When a violation is flagged, the listing stays live while the seller works to resolve it.” The program “will reach all Account Health Assurance (AHA) sellers in the US by year-end and expand worldwide in 2027.”",
+    "zh": "Amazon Selling Partners 官方 Accelerate 2026 回顾（2026年9月29日大会）：亚马逊在账户健康中推出 Listing Protection，违规被标出后，卖家处理期间链接保持在售，并给出明确步骤和申诉错误的途径。亚马逊称年底前覆盖全部美国账户健康保障（AHA）卖家，2027 年扩到全球。",
+    "orig": "Amazon Selling Partners, Accelerate 2026 recap: “Amazon is building more due process into Account Health with a program called Listing Protection, which Claire O’Donnell… said will reach all Account Health Assurance sellers in the U.S. by year-end and worldwide in 2027. When a violation is flagged, the listing stays live while the seller resolves it, with clear steps and a way to challenge errors.”",
     "plain": "这是啥：违规被标出来之后，有账户健康保障的卖家在处理期间，链接先保持在售，并给步骤和申诉路径。\n跟你有没有关系：先给美国有账户健康保障的卖家，目标是2026年底覆盖全部这类美国卖家，2027年再扩到全球。没有这个保障的，先不用管。年底这个日期是覆盖目标，不是统一开关日。\n你要做的事：被点名违规时按给出的步骤去改。没被点名就不用做。",
     "outlook": "推测是误下架会同时伤到买家和卖家，所以有保障的店先卖着改。和关联停用相反：处罚还在，但不再先把链接拿掉。",
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；未逐条重读，仅确认链接可达。"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；Accelerate 2026 回顾页可打开，原文为“will reach all Account Health Assurance sellers in the U.S. by year-end and worldwide in 2027”。修正：zh/orig 原先引自 SellerKit，改为直接引用官方页原文；事实不变。"
   },
   {
     "id": "ltl-buy-shipping-2026",
@@ -2011,15 +2032,15 @@
     "announced": "2026-09-29",
     "effective": "2026-12-31",
     "dateNote": "2026-09-29 是公布日。2026-12-31 是“对所有卖家开放、不再要邀请”的目标日，不是已经对每个人打开的日子。",
-    "zh": "SellerKit 2026年9月29日：Amazon Lending 将在 2026 年底前对所有卖家开放，不再需要邀请，并增加最高 500 万美元的 SBA 支持贷款。站点记为美国。",
-    "orig": "SellerKit, 29 September 2026: Amazon Lending will open to every seller by the end of 2026 without an invitation, and adds SBA-backed loans up to $5 million. US.",
+    "zh": "Amazon Selling Partners 官方 Accelerate 2026 回顾（2026年9月29日大会）：亚马逊将在年底前向所有卖家开放贷款计划，不再需要邀请，并新增合作方，包括最高 500 万美元的 SBA（美国小企业管理局）支持贷款。站点记为美国。",
+    "orig": "Amazon Selling Partners, Accelerate 2026 recap: “Amazon is opening its lending program to every seller by year-end, dropping the required invitation, and added partners including SBA-backed loans up to $5 million, a substantive change for businesses that struggle to secure conventional capital.”",
     "plain": "这是啥：年底前美国卖家不用等邀请，也能申请亚马逊贷款，并增加最高500万美元、有小企业局支持的贷款。\n跟你有没有关系：只面向美国卖家，而且是年底前逐步放开，不是今天每个人都能申请。不在美国卖、或不需要这笔钱的，不用管。\n你要做的事：需要钱的，年底前再看申请入口开了没有。不需要就不用做。",
     "outlook": "推测是用贷款把备货和广告留在站内。和低库存要罚款、FBA要你提前压货是一套：有货才能卖，钱也可以从亚马逊这边出。",
     "sourceName": "Amazon Selling Partners：Accelerate 2026 回顾",
     "sourceUrl": "https://sellingpartners.aboutamazon.com/accelerate-2026-recap",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；未逐条重读，仅确认链接可达。"
+    "verifiedAt": "2026-11-25",
+    "verifyNote": "2026-11-25 复查：200；Accelerate 2026 回顾页可打开，原文为“opening its lending program to every seller by year-end, dropping the required invitation… SBA-backed loans up to $5 million”。修正：zh/orig 原先引自 SellerKit，改为直接引用官方页原文；事实（年底前、免邀请、最高 500 万美元 SBA 贷款）不变。"
   },
   {
     "id": "ads-agent-2026",

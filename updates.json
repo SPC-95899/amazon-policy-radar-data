@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-26",
+    "status": "完成",
+    "finishedAt": "2026-11-26 06:13",
+    "summary": "检索 2026-11-18～2026-11-26：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt，13 站全部取到）、SP-API changelog（最新仍为 11/18 Release，无新公告）、sell.amazon.com 公告博客（最新仍为 11/19，已处理过）、sellingpartners.aboutamazon.com（11/25 为卖家故事，非政策）、About Amazon 新闻（无卖家政策）、advertising.amazon.com（What's new 页无新条目可解析）、WebSearch 行业线索（PPC Land、Ecommerce Paradise、EcomGuru、SellerKit、Mr. Jeff 等，仅作线索）。新增 2 条：①美国捆绑新规 30 天宽限期（美国论坛 News_Amazon，北京时间 11/26 02:32；2027-01-11 起，违规通知后 30 天补授权信或清货，每品牌一封授权信）；②英德法意西自发货 APRL 预付标签退货丢件/拒收自动退款（英国论坛 News_Amazon，北京时间 11/25 14:09，德法意西同步；12/10 起）。跳过：Amazon Transparency 品牌防伪推广帖（11/25 美/加/英/欧多站，属项目介绍、无规则变化）；维多利亚的秘密 11/26 起限品牌代表销售（仍仅第三方转述个别卖家通知，无公开官方原文，未入库）；窗口内其余官方公告（管理亚马逊库存、加拿大 YKF1 危险品仓、优质配送自行报名、德国入 AWD 不再要求泛欧、GPSR 批量上传、加拿大自发货休息日等）均已在库。状态自动更新 0 条。轮换复查 10 条（verifiedAt 最旧优先：lithium-air-2026、ltl-buy-shipping-2026、mcf-prime-2026、sp-api-listing-attrs-2026-10-26、uk-bfcm-deal-deadline-2026-11-18、us-brand-store-peak-wording-2026-11-13、us-customs-notification-act-hr4930-2026-11-10、eu-compliance-fast-track-2026-10-20、eu-uk-unfulfillable-14day-disposal-2026-10-28、eu-uk-virtual-bundle-fee-discount-2026-11-16）：可达 10、失效链接 0；修正项 2：H.R.4930 已于 2026-11-23 由总统签署成为 Public Law 119-148（白宫声明 + congress.gov），标题/状态改为已生效、effective 记 2026-11-23、zh/plain/dateNote 同步更新；mcf-prime-2026 的 zh/orig 原引自 SellerKit，改为直接引用 press.aboutamazon.com 官方新闻稿原文（事实不变）。ltl-buy-shipping 再查官方原文仍未找到，保留 C。",
+    "addedCount": 2,
+    "items": [
+      {
+        "id": "us-bundling-30day-grace-2026-11-26",
+        "title": "美国捆绑新规（2027 年 1 月 11 日起）加 30 天宽限期：收到违规通知后还有 30 天补授权信或清货，每个品牌只要一封授权信"
+      },
+      {
+        "id": "eu-uk-fbm-aprl-auto-refund-2026-12-10",
+        "title": "欧洲五国自发货 12 月 10 日起：用亚马逊预付退货标签（APRL）的退货途中丢了或被你拒收，亚马逊直接给买家退款（英/德/法/意/西）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "status": "完成",
     "finishedAt": "2026-11-25 06:06",

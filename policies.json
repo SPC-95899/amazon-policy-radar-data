@@ -1,5 +1,48 @@
 [
   {
+    "id": "us-bundling-30day-grace-2026-11-26",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；Seller Central 美国论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-25T18:32:53Z，北京时间 2026-11-26 02:32）；2027-01-11 起新捆绑规则、违规通知后 30 天宽限期扩至亚马逊检测到的所有捆绑 ASIN、宽限期内账户状况显示 Listing at risk of removal、品牌方举报时可能不适用宽限期、多件装不适用本政策、每个品牌只需一封授权信，均与原文一致。原文未给受影响链接数量，本条不写。",
+    "title": "美国捆绑新规（2027 年 1 月 11 日起）加 30 天宽限期：收到违规通知后还有 30 天补授权信或清货，每个品牌只要一封授权信",
+    "regions": [
+      "US"
+    ],
+    "category": "Listing与目录",
+    "status": "即将生效",
+    "announced": "2026-11-26",
+    "effective": "2027-01-11",
+    "dateNote": "美国论坛帖 2026-11-25T18:32:53Z（北京时间 2026-11-26 02:32）发布；宽限期随 2027-01-11 新捆绑规则执行起算，每条链接的 30 天从各自收到违规通知之日算起。",
+    "zh": "亚马逊美国卖家论坛 News_Amazon（北京时间 2026-11-26）：2027 年 1 月 11 日起，捆绑政策要求大多数以单个 ASIN 上架的捆绑商品由原品牌或制造商包装。为减少影响、方便卖家收集授权信或申诉，亚马逊对受新政策影响的大多数捆绑链接再给 30 天宽限期：此前该宽限期只适用于 FBA 捆绑和旧政策下销量高的消耗品捆绑，现扩展到亚马逊按新政策检测到的所有捆绑 ASIN。若被判不合规，卖家会收到违规通知，自通知起 30 天内解决问题或卖完库存，否则链接下架；这 30 天内账户状况页会显示「Listing at risk of removal」。通知可能在 2027-01-11 之后任何时间发出，当天没收到也不代表合规。补充说明：若品牌方举报你的链接，宽限期可能不适用；多件装（同一商品多件）不适用本政策（2024 年起已有类似要求，见 ASIN 创建政策）；每个品牌只需一封授权信，不必每个捆绑一封。建议 1 月 11 日前就开始办授权信，有客户成功经理的可先提交材料预审。",
+    "orig": "News_Amazon (Amazon.com Seller Forums), 25 November 2026 (18:32 UTC), “Grace period and clarifications for the product bundling policy”: “Starting January 11, 2027, the product bundling policy will require most product bundles listed as a single ASIN to be packaged by the original brand or manufacturer.” “we're giving you an additional 30-day grace period for most bundle listings affected by the updated policy.” “It now extends to all bundle ASINs that Amazon detects under the updated policy.” “You'll have 30 days from that notice to resolve the issue or sell all the inventory before the listing is deactivated.” “If a brand owner reports your listing, the 30-day grace period might not apply.” “This policy doesn't apply to multipacks” “You only need one letter of authorization per brand, not one for every bundle.”",
+    "plain": "这是啥：明年 1 月 11 日起美国站自己拼的实物套装大多要原厂包装，亚马逊现在多给一条缓冲：哪条套装链接被判违规，从收到通知那天起还有 30 天时间去补授权信或把库存卖完，过了才下架。\n跟你有没有关系：在美国站卖自己拼的套装（把不同商品装一起当一个 ASIN 卖）的有关系；只卖单品、同一商品的多件装、或用虚拟套装工具做组合的，不受这条影响。注意被品牌方投诉的链接可能没有这 30 天。\n你要做的事：现在就把在售套装列个清单，按品牌去要授权信（每个品牌一封就够，不用每个套装一封）；1 月 11 日后常看账户状况里有没有「Listing at risk of removal」，一出现就在 30 天内补材料或清库存。",
+    "outlook": "服务对象：主要是消费者（套装来源更正规、更安全）和品牌方，其次照顾卖家（给 30 天缓冲，避免旺季后集中下架）。推测：1 月 11 日后会有一波违规通知，没授权信的自拼套装会在 30 天后陆续下架，虚拟套装可能成为替代方案。库内相关：《大多数实物捆绑须原厂包装，2027 年 1 月 11 日》《消耗品捆绑：必须原厂包装》《欧洲虚拟捆绑限时减免 FBA 配送费：2026 年 11 月 16 日至 2027 年 2 月 16 日，受邀品牌卖家给套装打折即可少付配送费（英/德/法/意/西/爱）》。",
+    "sourceName": "Amazon.com Seller Forums（News_Amazon）：Grace period and clarifications for the product bundling policy",
+    "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/845c15e6-c47b-4dd5-b515-c0dea03fd087"
+  },
+  {
+    "id": "eu-uk-fbm-aprl-auto-refund-2026-12-10",
+    "sourceTier": "B",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；Seller Central 英国论坛 News_Amazon 官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-25T06:09:31Z，北京时间 2026-11-25 14:09），德/法/意/西论坛同一时间发布同题官方公告（德国帖 8f829e3d… 可打开）；2026-12-10 起、适用英德法意西自发货订单、APRL 退货运输丢失或卖家拒收即自动退款、亚马逊或代表亚马逊的承运商丢件可提 SAFE-T、其他承运商须找承运商、损坏/不符/欺诈退货 60 天内可提 SAFE-T、无需操作，均与原文一致。",
+    "title": "欧洲五国自发货 12 月 10 日起：用亚马逊预付退货标签（APRL）的退货途中丢了或被你拒收，亚马逊直接给买家退款（英/德/法/意/西）",
+    "regions": [
+      "UK",
+      "EU"
+    ],
+    "category": "自发货",
+    "status": "即将生效",
+    "announced": "2026-11-25",
+    "effective": "2026-12-10",
+    "dateNote": "英国论坛帖 2026-11-25T06:09:31Z（北京时间 2026-11-25 14:09）发布，德/法/意/西论坛同时发布；原文写 2026 年 12 月 10 日开始自动退款。",
+    "zh": "亚马逊英国卖家论坛 News_Amazon（北京时间 2026-11-25，德/法/意/西论坛同日发布）：自 2026 年 12 月 10 日起，使用亚马逊预付退货标签（APRL）寄回的退货若在运输途中丢失或在送达时被拒收，亚马逊将自动给买家退款，适用于英国、德国、法国、意大利和西班牙的自配送（FBM）订单。运输途中丢失：自动退款；若由亚马逊运营或代表亚马逊的承运商寄送，可提交 SAFE-T 索赔申请补偿；其他承运商寄送的，需直接联系承运商，亚马逊不予补偿。卖家拒收：自动退款，无需手动处理退款或回复买家；亚马逊建议签收，以保留获得补偿的资格。退货到货时损坏、与原商品明显不符或存在欺诈，可在 60 天内提交 SAFE-T 索赔；也可按条件或按 SKU 设置退款不退货。卖家无需操作；退款记录可在自配送退货报告中查看。",
+    "orig": "News_Amazon (Amazon.co.uk Seller Forums), 25 November 2026 (06:09 UTC), “Automated refunds for lost or rejected APRL returns starts on 10 December”: “Starting on 10 December 2026, we'll automatically refund customers when a return sent with an Amazon Pre-paid Return Label (APRL) is lost in transit or rejected at delivery. This applies to Fulfilled by Merchant (FBM) orders in the UK, Germany, France, Italy and Spain.” “If the return was sent by a delivery partner operated by or on behalf of Amazon, you can file a Seller Assurance for e-Commerce Transactions (SAFE-T) claim for reimbursement.” “If you reject the delivery of an APRL return, we'll automatically refund the customer.” “We recommend that you accept delivery instead, because this keeps you eligible for reimbursement.” “If a return arrives damaged, materially different or fraudulent, you can file a SAFE-T claim within 60 days.” “You don't need to take any action.”",
+    "plain": "这是啥：12 月 10 日起，英德法意西五个站的自发货订单，买家用亚马逊预付退货标签寄回的货，如果路上丢了，或者你拒收了，亚马逊不等你处理，直接把钱退给买家。\n跟你有没有关系：在英/德/法/意/西做自发货（FBM）、退货用亚马逊预付标签的有关系；只做 FBA 或只做美国站的不用管。拒收会让你白白损失货款，还拿不到补偿。\n你要做的事：不用改设置；跟仓库/收货人员说清楚，退货包裹别拒收，先签收再检查，坏了、不对版或被调包的，60 天内提 SAFE-T 索赔；亚马逊物流丢件也走 SAFE-T，别的快递丢件去找快递公司；低价货可以考虑直接设「退款不退货」。",
+    "outlook": "服务对象：主要是消费者（退货丢件或被拒收也能尽快拿到钱）和亚马逊（少处理这类客诉），对卖家是少一些客服工作但多一层损失风险。推测：之后美国站等其他站点可能也会对预付标签退货做类似自动退款。库内相关：《美国自发货：12 月 18 日起所有退货都要给预付退货标签，7 天不处理自动退款》《欧洲 FBA「退款不退货」开放：德法意西英五国，卖家可设 75 欧/英镑以下的商品退款后让买家留着货》《欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）》《美国自发货 SAFE-T 索赔窗口改为 30 天》。",
+    "sourceName": "Amazon.co.uk Seller Forums（News_Amazon）：Automated refunds for lost or rejected APRL returns starts on 10 December",
+    "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/5910415e-9e52-4296-bad4-d9f46fea07f9"
+  },
+  {
     "id": "ca-dangerous-goods-fc-ykf1-2026-11-15",
     "sourceTier": "B",
     "verifiedAt": "2026-11-25",
@@ -152,8 +195,8 @@
   {
     "id": "eu-uk-virtual-bundle-fee-discount-2026-11-16",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "官方英国帮助页经 headless Chrome 渲染可达（标题 Multi-Unit Fulfilment Fee Discount Programme for Virtual Bundles；HTTP 200），写明邀约制、2026-11-16 至 2027-02-16、须按邀请邮件给出价格折扣否则取消该 ASIN 的配送费优惠、优惠按件自动记在履约费上；官方未写优惠幅度。英国/爱尔兰论坛 News_Amazon 2026-11-16 英文公告、德国/法国/意大利/西班牙论坛同日官方公告内容一致（WebFetch/Chrome/curl 均可打开）。帮助页标注适用于英国站；荷/波/瑞/比公告栏按创建时间排序的首页未见此帖。",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；英国帮助页经 headless Chrome 渲染可达（Virtual Bundles 履约费减免），16 November 2026 至 16 February 2027、邀约制与库内一致；官方仍未写优惠幅度；事实修正 0。",
     "title": "欧洲虚拟捆绑限时减免 FBA 配送费：2026 年 11 月 16 日至 2027 年 2 月 16 日，受邀品牌卖家给套装打折即可少付配送费（英/德/法/意/西/爱）",
     "regions": [
       "UK",
@@ -174,8 +217,8 @@
   {
     "id": "us-brand-store-peak-wording-2026-11-13",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "WebFetch 打开 advertising.amazon.com 官方 BFCM 指南页成功（内容含 7 天/24 小时/48 小时/Featured Deals 至少 4 个 ASIN/禁用措辞清单），与 Amazon Ads 政策页 /resources/ad-policy/en 的 Featured deals 条款一致；该指南页本身无更新日期，2026-11-13 的日期来自 PPC Land 对 Amazon Ads 支持页“Create compliant Brand Store content for peak events”（页面显示 Updated Nov 13, 2026）的报道，该支持页原文本机未能直接打开（box 访问 amazon.com 域超时），未核实；“Prime Day 商标全年禁用”“审核最长 3 个工作日”仅见于 PPC Land 转述，未收录为确定事实。",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；advertising.amazon.com 官方 BFCM 指南页 curl 可打开，核对：促销信息只能配合 Featured Deals 组件、活动开始前不超过 7 天上线、结束后 24 小时内下线或更新、至少 4 个 ASIN、至少提前 48 小时提交，与库内一致；该页无更新日期，2026-11-13 仍据 PPC Land 对 Amazon Ads 支持页的报道，未能独立核实；事实修正 0。",
     "title": "品牌旗舰店（Brand Store）大促期新规矩：店里不能写 Prime Day、Save 50% 这类词，促销只能走 Featured Deals 组件，黑五版要提前 48 小时提交",
     "regions": [
       "US"
@@ -195,22 +238,22 @@
   {
     "id": "us-customs-notification-act-hr4930-2026-11-10",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "govinfo.gov 官方国会法案文本（H.R.4930 enrolled）curl 返回 200，条文已核对；congress.gov 官方法案页（本机 curl 403，经搜索结果摘要读到）显示众议院 2026-04-27 通过、参议院 2026-11-10 无修正一致同意通过、11-12 已通知众议院。尚未见总统签署，不是正式法律，生效日期未知。",
-    "title": "美国《海关通知法》（H.R.4930）国会通过、等总统签字：海关可把可疑假冒货的发货资料（含电商平台、货代提供给海关的非公开信息）分享给品牌方",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "govinfo.gov 官方法案文本（H.R.4930 enrolled）curl 200，条文已核对；白宫官网声明《Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law》（curl 200）写明总统于 2026-11-23（周一）签署 H.R.4930；congress.gov 公法列表（经搜索结果读到，本机 curl 403）显示为 Public Law No. 119-148，日期 11/23/2026。法案文本未另设生效日。修正：标题、status、effective、zh、plain 由“待总统签署”改为“已签署成为法律”。",
+    "title": "美国 H.R.4930（海关通知法）11 月 23 日已签署成为法律：海关可把可疑假冒货的发货资料（含电商平台、货代提供给海关的非公开信息）分享给品牌方",
     "regions": [
       "US"
     ],
     "category": "合规与安全",
-    "status": "政策说明",
+    "status": "已生效",
     "announced": "2026-11-10",
-    "effective": null,
-    "dateNote": "参议院 2026-11-10 通过（国会官网），此前众议院 2026-04-27 通过；尚待总统签署，签署后才成为法律，具体生效日未定，未编造。",
-    "zh": "H.R.4930（Customs Notification Act）修改《1930 年关税法》第 628A 条：海关（CBP）披露门槛由“怀疑”改为“有合理怀疑”存在侵犯商标或版权的进口；可分享的信息扩大到包装材料和集装箱的信息与图片；还可向权利人提供网络交易平台、快递运营商、货运代理等主体提供给或被 CBP 获取的货物非公开信息，并须通知对方分享了什么；可请求协助的主体扩大到“对该货物有利害关系的其他适当方”。国会官网显示：众议院 2026-04-27 通过，参议院 2026-11-10 无修正通过，待总统签署。",
+    "effective": "2026-11-23",
+    "dateNote": "参议院 2026-11-10 通过（众议院 2026-04-27 通过）；总统 2026-11-23 签署，成为 Public Law 119-148（白宫声明、congress.gov）。法案文本未另设生效日，按签署日记生效；海关具体执行细则（regulations）尚未发布。",
+    "zh": "H.R.4930（Customs Notification Act）修改《1930 年关税法》第 628A 条：海关（CBP）披露门槛由“怀疑”改为“有合理怀疑”存在侵犯商标或版权的进口；可分享的信息扩大到包装材料和集装箱的信息与图片；还可向权利人提供网络交易平台、快递运营商、货运代理等主体提供给或被 CBP 获取的货物非公开信息，并须通知对方分享了什么；可请求协助的主体扩大到“对该货物有利害关系的其他适当方”。国会官网显示：众议院 2026-04-27 通过，参议院 2026-11-10 无修正通过；白宫声明总统已于 2026-11-23 签署，成为第 119-148 号公法。",
     "orig": "Section 628A of the Tariff Act of 1930 (19 U.S.C. 1628a) is amended … “(3) may provide to the person nonpublic information about the merchandise that was generated by an online marketplace or other similar market platform, express consignment operator, freight forwarder, or any other entity that plays a role in the sale or importation of merchandise, or the facilitation thereof, into the United States that has been provided to, shared with, or obtained by U.S. Customs and Border Protection”",
-    "plain": "这是啥：美国国会通过一个新法案，让海关抓到疑似假冒、侵权的进口货时，可以把货物的包装、集装箱图片，以及电商平台、货代给海关的发货信息告诉品牌方；目前只等总统签字，还不是正式法律。\n跟你有没有关系：卖的是仿牌、侵权货、或者货源品牌授权不清的有关系，进口到美国走海运空运的更要留意；正规品牌或有授权的卖家影响很小。\n你要做的事：现在不用提交任何东西；检查自己在售商品的品牌授权、发票和进口资料是否齐全，把有侵权风险的链接尽早下架。",
-    "outlook": "服务对象：主要是品牌方和政府（让品牌方更快拿到证据去打假、帮海关查案），对亚马逊这类平台是新增的配合义务。推测：以后品牌投诉后，海关通报和平台数据可能更快串起来，侵权卖家被追查的概率上升；签署后的具体操作细则要等海关发规定。库内相关：《美国外国进口商（IOR）新规落地：2027 年 1 月 5 日起须自己通过 CTPAT 认证，或指定 CTPAT 认证报关行报关》《品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手》。",
-    "sourceName": "美国政府出版局 GovInfo：H.R.4930 国会通过文本（Customs Notification Act）；法案进度见 congress.gov/bill/119th-congress/house-bill/4930",
+    "plain": "这是啥：美国 11 月 23 日正式签了一部新法律，海关抓到疑似假冒、侵权的进口货时，可以把货物的包装、集装箱图片，以及电商平台、货代给海关的发货信息告诉品牌方。\n跟你有没有关系：卖的是仿牌、侵权货、或者货源品牌授权不清的有关系，进口到美国走海运空运的更要留意；正规品牌或有授权的卖家影响很小。\n你要做的事：现在不用提交任何东西；检查自己在售商品的品牌授权、发票和进口资料是否齐全，把有侵权风险的链接尽早下架。",
+    "outlook": "服务对象：主要是品牌方和政府（让品牌方更快拿到证据去打假、帮海关查案），对亚马逊这类平台是新增的配合义务。推测：以后品牌投诉后，海关通报和平台数据可能更快串起来，侵权卖家被追查的概率上升；已签署，但具体操作细则要等海关发规定。库内相关：《美国外国进口商（IOR）新规落地：2027 年 1 月 5 日起须自己通过 CTPAT 认证，或指定 CTPAT 认证报关行报关》《品牌备案「举报违规」工具改版：跟卖篡改、货不对板、虚假认证都能在一个地方举报，还加了 AI 举报助手》。",
+    "sourceName": "美国政府出版局 GovInfo：H.R.4930 法案文本；签署见白宫声明 whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
     "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr4930enr/html/BILLS-119hr4930enr.htm"
   },
   {
@@ -642,8 +685,8 @@
   {
     "id": "uk-bfcm-deal-deadline-2026-11-18",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 本机超时；WebFetch 打开英国论坛官方帖成功，Lightning/Best Deals 提报 11 月 18 日截止、Amazon Business Deals 等与原文一致。",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200（本次 curl 直接取到英国论坛官方帖）；Lightning Deals / Best Deals 黑五网一提报 18 November 截止等与库内一致；事实修正 0。",
     "title": "英国/欧洲黑五周促销提报截止 11 月 18 日：Lightning 与 Best Deals，还可报企业购专属 Deal",
     "regions": [
       "UK",
@@ -664,8 +707,8 @@
   {
     "id": "sp-api-listing-attrs-2026-10-26",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；SP-API changelog 仍列出该公告，未发现变动。",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；SP-API changelog 官方页仍可打开、该公告仍在列（最新公告为 2026-11-18 Release），内容未见变动；事实修正 0。",
     "title": "SP-API 10 月 26 日起：多站点 Listing 属性用法与枚举值更新，新建/改带报价的链接可能要填新必填项",
     "regions": [
       "GLOBAL"
@@ -729,8 +772,8 @@
   {
     "id": "eu-uk-unfulfillable-14day-disposal-2026-10-28",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；爱尔兰帮助页经 headless Chrome 渲染可达；Starting October 28, 2026、14 days' notice、覆盖英德法意西瑞典波兰荷兰比利时爱尔兰，与库内一致；事实修正 0",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；爱尔兰帮助页经 headless Chrome 渲染可达；October 28, 2026、14 days 通知、含比利时/爱尔兰等 10 国，与库内一致；事实修正 0。",
     "title": "欧洲 10 国 10 月 28 日起：没设置「不可售库存自动处理」的，亚马逊通知 14 天后直接销毁或捐掉（比利时、爱尔兰新加入）",
     "regions": [
       "EU",
@@ -895,8 +938,8 @@
   {
     "id": "eu-compliance-fast-track-2026-10-20",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；英国论坛官方帖可达；Compliance Fast-Track 内容与库内一致，事实修正 0",
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；英国论坛官方帖可达；Compliance Fast-Track 内容与库内一致；事实修正 0。",
     "title": "欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取",
     "regions": [
       "EU"
@@ -1871,8 +1914,8 @@
     "sourceName": "Amazon 美国卖家论坛官方公告：New requirement for products with lithium-ion batteries shipped by air",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/2ba13eab-a0e9-43c4-b5e5-0305ae77e945",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 本机超时；WebFetch 打开论坛官方帖成功，2026-01-01 起、2.7Wh 以上电池荷电状态 ≤30%、否则走陆运，与原文一致。"
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200（本次 curl 直接取到美国论坛官方帖）；2026-01-01 起、超过 2.7Wh 的随附锂离子电池荷电状态须 ≤30%、无法确认则仅走陆运，与库内一致；事实修正 0。"
   },
   {
     "id": "related-accounts-2026",
@@ -2018,8 +2061,8 @@
     "sourceName": "The Conveyor",
     "sourceUrl": "https://www.theconveyor.co/p/amazon-ltl-labels-bulky-sellers",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；仍为 C 级（第三方媒体），官方原文本次未再检索到，保留。"
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "curl 200；仍为 C 级（第三方媒体 The Conveyor，引亚马逊供应链服务副总裁 Accelerate 2026 发言；Supply Chain Dive 同期报道一致）。本次再搜官方原文（sell.amazon.com / Seller Central 公告 / aboutamazon）仍未找到，官方原文未找到，保留 C；事实修正 0。"
   },
   {
     "id": "lending-2026",
@@ -2094,16 +2137,16 @@
     "status": "已生效",
     "announced": "2026-09-24",
     "effective": "2026-09-24",
-    "dateNote": "2026-09-24 是 Accelerate 公布日。SellerKit 把它写成已经宣布可用，没有另给一个更晚的生效日。MCF Preferred Pricing 的 15% 到 25% 折扣是六个月，不是永久费率。",
-    "zh": "SellerKit 2026年9月24日：MCF 商户可以给自己的网站加上 Prime 配送，不另收费。MCF Preferred Pricing 在六个月内对履约费给 15% 到 25% 的折扣。站点记为美国。",
-    "orig": "SellerKit, 24 September 2026: MCF merchants can add Prime delivery to their own websites at no extra cost. MCF Preferred Pricing offers 15–25% off fulfillment fees for six months. US.",
+    "dateNote": "2026-09-24 是官方新闻稿发布日，原文写 Available now，生效日同日。MCF Preferred Pricing 的 15% 到 25% 节省是前六个月，不是永久费率。",
+    "zh": "About Amazon 新闻稿（2026-09-24）：亚马逊供应链服务（ASCS）宣布，加入多渠道配送（MCF）的商户（含已在用 MCF 的数十万美国商户）现在可以在自己的网站上免费加上 Prime 标识和 Prime 配送；同日上线的 MCF Preferred Pricing 计划把 MCF 履约费折扣和每件 FBA 积分结合，商户在自有网站、其他平台和社交渠道的订单，前六个月可节省 15% 到 25% 的履约费，无合同、可一键报名。站点为美国。",
+    "orig": "Amazon press release, 24 September 2026: “customers who enroll in Multichannel Fulfillment (MCF), along with the hundreds of thousands of U.S. merchants already using MCF, can add the Prime badge and delivery to their websites at no additional cost” “the MCF Preferred Pricing Program combines a discount on MCF fulfillment fees with FBA credits on each unit shipped. Together, merchants can save 15 to 25% on fulfillment fees for the first six months.”",
     "plain": "这是啥：用亚马逊多渠道发货的人，可以给自己的网站加上Prime配送，不另收费。\n跟你有没有关系：只影响美国、而且已经用多渠道发货、有自己网站的人。只在亚马逊站内卖、自己发货的，不用管。履约费的15%到25%折扣只给六个月，不是永久降价。\n你要做的事：已经用多渠道发货、又有自己网站的，去加上Prime配送。没有就不用做。",
     "outlook": "推测是让独立站的货也走亚马逊的仓和Prime标志。和多渠道工具、FBA出口是一套：货在它仓里，订单可以来自站外。",
     "sourceName": "About Amazon 新闻稿：MCF Prime delivery 与 MCF Preferred Pricing",
     "sourceUrl": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-16",
-    "verifyNote": "curl 200；未逐条重读，仅确认链接可达。"
+    "verifiedAt": "2026-11-26",
+    "verifyNote": "200；press.aboutamazon.com 官方新闻稿（2026-09-24）逐条核对：MCF 商户可在自有网站免费加 Prime 标和配送、MCF Preferred Pricing 首 6 个月节省 15–25% 履约费（折扣+FBA 积分组合）均与原文一致；修正：zh/orig 原引自 SellerKit，改为直接引用官方新闻稿原文（事实不变）。"
   },
   {
     "id": "multichannel-tools-2026",

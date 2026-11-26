@@ -1,5 +1,26 @@
 [
   {
+    "id": "us-ny-ai-chatbot-toy-ban-2027-02-22",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；纽约州州长官网新闻稿（2026-11-24）curl 可打开，写明州长当天签署 S.9408A/A.11144B、对内置或集成 AI 聊天机器人的儿童玩具在纽约的制造、分销和销售实施五年暂停、签署后 90 天生效、违者每天每次违规最高 1.5 万美元民事罚款由州检察长执行；纽约州议会官网法案页（curl 200）显示 11/24/2026 SIGNED CHAP.416，法案第 2 节写明“第 90 天生效、生效 5 年后自动废止”，儿童玩具定义引用联邦 CPSIA（15 USC §2057c(g)，12 岁及以下）。生效日 2027-02-22 为按签署日加 90 天推算，与美国玩具协会公告一致，州官方页未直接写出该日期。亚马逊尚未就此发布卖家公告。",
+    "title": "美国纽约州 2027 年 2 月 22 日起禁卖内置 AI 聊天机器人的儿童玩具（会说话的毛绒、娃娃、机器人等），禁 5 年，违者每天最高罚 1.5 万美元",
+    "regions": [
+      "US"
+    ],
+    "category": "合规与安全",
+    "status": "即将生效",
+    "announced": "2026-11-24",
+    "effective": "2027-02-22",
+    "dateNote": "纽约州州长 2026-11-24 签署（州议会记录：Chapter 416）；法案写明签署成为法律后第 90 天生效，按日历推算为 2027-02-22（美国玩具协会公告同此日期，州官方页只写“90 天后”）；生效满 5 年后自动失效。",
+    "zh": "纽约州州长 Kathy Hochul 于 2026 年 11 月 24 日签署 S.9408A/A.11144B（纽约州议会记录为 Chapter 416），在《一般商业法》新增第 48 条：对内置或集成 AI 陪伴聊天机器人的儿童玩具（如通过联网与孩子对话的毛绒玩具、娃娃、机器人）在纽约州的制造、交换、分销和销售实施为期五年的暂停。“儿童玩具”按联邦 CPSIA 定义，即设计给 12 岁及以下儿童玩耍的消费品；“AI 陪伴”指会记住以往互动和用户偏好、主动提出情感类问题、持续进行个人话题对话的 AI 系统。法律在签署后第 90 天生效（按日历为 2027 年 2 月 22 日），由纽约州检察长执法，可申请禁令，并对制造商、销售者或 AI 陪伴运营方处以每天每次违规最高 1.5 万美元的民事罚款。今年假期季尚未生效。",
+    "orig": "Governor of New York, November 24, 2026: “Governor Kathy Hochul today signed a bill establishing a five-year pause on AI chatbot toys… S.9408A/A.11144B will place a five-year moratorium on the manufacturing, distribution and sale of toys in New York with embedded or integrated AI chatbots, such as talking stuffed animals, dolls and robots that use the internet to hold conversations with kids. Since the new law takes effect 90 days after signing…” “Violators face civil penalties up to $15,000 per day for each violation that will be enforced by the Attorney General.” NY Assembly bill text A11144B §2: “This act shall take effect on the ninetieth day after it shall have become a law and shall expire and be deemed repealed 5 years after such effective date.”",
+    "plain": "这是啥：美国纽约州刚签了新法，明年 2 月 22 日起，在纽约卖内置 AI 聊天功能、能联网跟小孩聊天的儿童玩具（会说话的毛绒玩具、娃娃、机器人等）算违法，禁 5 年，被抓到每天每次最高罚 1.5 万美元。\n跟你有没有关系：在美国站卖给 12 岁以下孩子玩的 AI 对话玩具、智能陪伴机器人的有关系（买家在纽约就算）；普通玩具、只会放固定录音的玩具、或者不卖玩具的不受影响。\n你要做的事：现在把在售的 AI 对话类儿童玩具列出来，2 月 22 日前决定是清货、停止配送到纽约，还是改款去掉 AI 聊天功能；后面留意亚马逊会不会出类目限制通知。",
+    "outlook": "服务对象：主要是政府和消费者（保护儿童安全和隐私，由州检察长执法），对亚马逊和卖家是新增的合规成本。推测：亚马逊可能会在生效前对这类玩具按地区限制配送或要求卖家申报是否含 AI 聊天功能；其他州可能跟进类似立法，AI 玩具在美国的合规门槛会越来越高。库内相关：《增强安全类目商业责任险：取消 1 万美元月销售额门槛》（儿童用品属增强安全类目）、《受管制类目检测报告须由认可实验室直接回传》。",
+    "sourceName": "纽约州州长官网新闻稿（Governor Kathy Hochul）；法案文本与签署记录见纽约州议会 nyassembly.gov A11144B",
+    "sourceUrl": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+  },
+  {
     "id": "us-bundling-30day-grace-2026-11-26",
     "sourceTier": "B",
     "verifiedAt": "2026-11-26",
@@ -152,8 +173,8 @@
   {
     "id": "eu-gpsr-account-health-bulk-upload-2026-11-17",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；Seller Central 德国公告论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-17T13:43:54Z）；法/比/西/意/荷/波/瑞论坛同日发布同内容。账户状况看板批量上传、预填模板、制造商/责任人/警告与安全信息、须保持原模板格式与表头、同一侧边栏跟踪提交状态与原文一致。对应帮助页“提交制造商、责任人、警告和安全信息”未单独打开核对。英国、爱尔兰过去一个月公告栏未见此帖。",
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；德国公告论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-17T13:43:54Z）；GPSR 批量上传、预填模板（Vorlage）、保持原模板格式与表头等要点仍在，与原文一致；事实修正 0。对应帮助页未单独核对。",
     "title": "欧洲账户状况看板新增 GPSR 批量上传：一次可补多个 SKU 的制造商、责任人和安全信息（按站点分别提交）",
     "regions": [
       "EU"
@@ -451,8 +472,8 @@
   {
     "id": "ca-cross-border-returns-2026-11-23",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题与 11/23、CAD 25 自动退款不退货要点仍在，与原文一致。",
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；加拿大论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-06）；November 23, 2026、CAD 25 自动退款不退货、CAD 25 以上建议 48 小时内给预付退货标签等要点与原文一致；事实修正 0。",
     "title": "加拿大 11 月 23 日起：从加拿大境外发货、没设加拿大退货地址的，CAD 25 以下退货直接退款不退货；同日可设自动“退款不退货”规则",
     "regions": [
       "CA"
@@ -854,8 +875,8 @@
   {
     "id": "seller-central-passkey-required-2026-09-18",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；韩国官方页「아마존 계정 패스키 적용 안내」可达；密码仅作恢复、登录须用通行密钥的表述仍在；无统一全网截止日；事实修正 0",
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；韩国官方页「아마존 계정 패스키 적용 안내」可打开；通行密钥（패스키）分批强制、密码仅作恢复（복구용）的表述仍在；无统一全网截止日；事实修正 0。",
     "title": "卖家后台登录逐步强制用通行密钥（Passkey）：密码不能再用来登录，共用一个账号的员工要各开子账号",
     "regions": [
       "US",
@@ -1100,8 +1121,8 @@
     "sourceName": "Amazon 英国卖家论坛 News_Amazon：Update to UK Seller Fulfilled Prime eligibility criteria",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/f9935dd5-33d3-4f0a-80cc-c3edf4528291",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；英国论坛官方帖可达；Starting 30 October 2026、25% 等与原文一致；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；英国论坛官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-10-14）；30 October 2026、标准件 25% 一日达、超大件准时率 97%、6 January 2027 等与原文一致；事实修正 0。"
   },
   {
     "id": "nsp-2026-confirm-2026-10-31",
@@ -1415,8 +1436,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；aboutamazon 多渠道工具页可达；eBay/Shopify/TikTok/Walmart 连接能力仍在；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；aboutamazon 多渠道工具页可打开；eBay/Shopify/TikTok/Walmart、no additional cost、coming months 分批推出等表述仍在；事实修正 0。"
   },
   {
     "id": "claude-plugin",
@@ -1543,8 +1564,8 @@
     "sourceName": "Seller Central Help：欧洲 VAT 与包装；ppc.land 综述",
     "sourceUrl": "https://sellercentral.amazon.com/help/hub/reference/external/201468410?locale=en-US",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；帮助页经 headless Chrome 渲染可达；Packaging and Packaging Waste / collection and recycling 仍在，事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；美国帮助页 201468410 经 headless Chrome 渲染可读；“Packaged products you sell in the EU must comply with the European Packaging and Packaging Waste regulations”、加入包装 collection and recycling scheme 等原文仍在；事实修正 0。适用日 2026-08-12 来自法规本身（Regulation (EU) 2025/40），帮助页未写日期。"
   },
   {
     "id": "inform",
@@ -1887,14 +1908,14 @@
     "effective": "2026-10-15",
     "dateNote": "生效日 2026-10-15 是帮助页写的旺季区间起点，终点是 2027-01-14。发布日记成附加费同一页上已经写明的 2026-04-17，因为这份帮助页没有单独的新闻稿日期。若你按发布时间筛选，它会出现在 2026 年 4 月，而不是 10 月。",
     "zh": "远程履行帮助页：2026年10月15日到 2027年1月14日，旺季履约费适用于 FBA、从美国远程履行到加拿大和墨西哥、MCF，以及 Buy with Prime。燃油与物流附加费照样加在这些费用上。页面这次旺季句没有写入巴西；巴西仍有远程履行费率表（2026 年与 2027 年），但未列入上述旺季区间。墨西哥表仍分淡季与旺季两档。",
-    "orig": "Amazon help (Remote fulfilment with FBA fees, verified 2026-11-09): “Holiday peak fulfilment fees apply from October 15, 2026, to January 14, 2027, for FBA, Remote Fulfilment with FBA into Canada and Mexico, Multi-Channel Fulfilment (MCF) and Buy with Prime. The fuel and logistics-related surcharge applies to these fees.” The same page still lists Remote Fulfilment fee tables for Brazil (2026 and 2027 rates) but does not include Brazil in that holiday-peak sentence; Mexico’s table is split into 2026 non-peak and 2026 peak columns.",
+    "orig": "Amazon help (Remote fulfilment with FBA fees, re-verified 2026-11-27): “Holiday peak fulfilment fees apply from October 15, 2026, to January 14, 2027, for FBA, Remote Fulfilment with FBA into Canada and Mexico, Multichannel Fulfilment (MCF) and Buy with Prime. The fuel and logistics-related surcharge applies to these fees.” The same page still lists Remote Fulfilment fee tables for Brazil (2026 and 2027 rates) but does not include Brazil in that holiday-peak sentence; Mexico’s table is split into 2026 non-peak and 2026 peak columns.",
     "plain": "这是啥：2026年10月15日到2027年1月14日，配送费按旺季加价，覆盖 FBA、从美国远程履约到加拿大或墨西哥、多渠道发货（MCF）和 Buy with Prime。\n跟你有没有关系：走这些配送的有关系；完全自己发货、不走这些的不用管。油价和物流附加费仍会叠在上面。页面这次没有把巴西写进旺季加价范围。\n你要做的事：10月中之后用这些配送的，按旺季价重算。自己发货就不用做。",
     "outlook": "推测是旺季运力贵，成本转给卖家，买家仍要快送达。和3.5%燃油费叠在一起，10月中之后这些配送每件会再跳一档。",
     "sourceName": "Amazon 帮助：Remote fulfilment with FBA 费用",
     "sourceUrl": "https://sellercentral.amazon.ca/help/hub/reference/external/GZPT8XN3YNMRXFEZ?locale=en-CA",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可达；旺季履约费区间仍为 2026-10-15 至 2027-01-14，适用于 FBA、Remote Fulfilment with FBA into Canada and Mexico、MCF 和 Buy with Prime；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；加拿大帮助页经 headless Chrome 渲染可读；旺季履约费 2026-10-15 至 2027-01-14、适用 FBA、远程履约到加/墨、MCF、Buy with Prime 与库内一致。修正 1 项：页面现写作“Multichannel Fulfilment (MCF)”，orig 引文按当前原文更新（事实不变）。"
   },
   {
     "id": "lithium-air-2026",
@@ -1935,8 +1956,8 @@
     "sourceName": "Amazon Seller Forums (News_Amazon)：How to address multiple account policy violations",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/c6536ec9-400e-488f-88dc-2bd73ac7becc",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；美国论坛官方帖可达；关联账户须先申诉责任账户等要点与库内一致；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；美国论坛官方帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-03-26）；关联账户须先就责任账户（underlying account）逐项申诉、恢复后再申诉关联账户，与库内一致；事实修正 0。"
   },
   {
     "id": "account-id-roles",
@@ -1988,9 +2009,9 @@
     ],
     "category": "FBA与物流",
     "status": "已生效",
-    "announced": "2026-09-03",
+    "announced": "2026-08-21",
     "effective": "2026-09-03",
-    "dateNote": "2026-09-03 是帮助页写的“自该日起”适用日，新货和已有库存都算。比利时要到 2027-02-26 才加入同样要求，那是下一个日期，不是这一天。",
+    "dateNote": "英国论坛 News_Amazon 帖 createdAt 2026-08-21T02:08Z（北京时间 2026-08-21 10:08）发布；2026-09-03 是荷兰报价要求的适用日，新货和已有库存都算。比利时要到 2027-02-26 才加入同样要求，那是下一个日期，不是这一天。",
     "zh": "英国卖家论坛官方公告：自 2026 年 9 月 3 日起，所有泛欧 FBA 商品（新的和已有）必须额外有一个有效的荷兰报价，才能加入并继续享受泛欧权益；自 2027 年 2 月 26 日起，加入时还须有比利时有效报价（会提前至少 30 天通知）。受限品、当地标签包装不合规、站点账号暂时停用、尚无荷兰/比利时详情页等情形可申请有限期或无限期豁免。目前不要求必须把货存在荷兰或比利时仓。",
     "orig": "Amazon UK Seller Forums: “Starting 3 September 2026, all Pan-EU FBA products (new and existing) must have an active offer in the Netherlands in addition to existing listing requirements. Starting 26 February 2027, you must also have an active offer in Belgium for Pan-EU FBA products, at enrollment.” “You’re currently not required to store inventory in the Netherlands or Belgium to participate in Pan-EU FBA.”",
     "plain": "这是啥：做泛欧的商品必须有一个有效的荷兰在售，才能加入并继续用泛欧配送。\n跟你有没有关系：只影响欧洲泛欧FBA，新货和已经在计划里的都算。不做泛欧、自己发货的不用管。荷兰本身不算两国入库，入库仍要在德法意西或波兰。比利时要到2027年2月26日才同样要求。\n你要做的事：做泛欧的，给商品开一个荷兰在售。不做泛欧就不用做。",
@@ -1998,8 +2019,8 @@
     "sourceName": "Amazon 英国卖家论坛：Pan-EU FBA to require Netherlands and Belgium offer",
     "sourceUrl": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/61296686-3581-4d1a-b3c2-dacbef755b22",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；英国论坛官方帖可达；荷兰 2026-09-03 / 比利时 2027-02-26 报价要求与库内一致；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；英国论坛官方帖可打开（curl 获取 __NEXT_DATA__）；3 September 2026 荷兰报价、26 February 2027 比利时报价、无须在荷兰/比利时存货等与原文一致。修正 1 项：帖子 createdAt 为 2026-08-21T02:08Z（北京时间 2026-08-21 10:08），announced 由 2026-09-03（实为生效日）改为 2026-08-21，dateNote 同步说明。"
   },
   {
     "id": "bundles-2027",
@@ -2166,8 +2187,8 @@
     "sourceName": "About Amazon",
     "sourceUrl": "https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-17",
-    "verifyNote": "200；与 multichannel 同源 aboutamazon 页 200，内容一致；事实修正 0"
+    "verifiedAt": "2026-11-27",
+    "verifyNote": "200；与 multichannel 同源 aboutamazon 页可打开，内容一致；事实修正 0。"
   },
   {
     "id": "at-parcel-tax-2026-10-01",

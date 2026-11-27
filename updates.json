@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-28",
+    "status": "完成",
+    "finishedAt": "2026-11-28 06:09",
+    "summary": "检索 2026-11-20～2026-11-28：Seller Central 美/加/墨/英/德/法/意/西/荷/波/瑞/比/爱公告论坛（curl 获取 __NEXT_DATA__，categories=amzn1.spce.category.8b1ad9d2，sortBy=createdAt，13 站全部取到；自上次运行后新官方帖仅英国/爱尔兰 北京时间 11/28 02:38「Enrol in Seller Wallet GBP」，与库内《英国站 Seller Wallet 支持英镑（GBP）》同一件事，未新增）、SP-API changelog（最新仍为 11/18 Release）、sell.amazon.com 公告（最新仍为 11/19）、sellingpartners.aboutamazon.com（11/23、11/25 为卖家故事，非政策）、About Amazon 新闻（Amazon Autos 进英国等，非卖家政策）、政府/监管来源（德国 BLE、欧盟委员会 EUDR 页、CBP/联邦公报、墨西哥 DOF 相关线索）、WebSearch 行业线索（PPC Land、PPC Spider、SellerKit、amazonsellers.attorney、Distribution Strategy、VEONIB、Taxbf 等，仅作线索）。新增 1 条：欧盟毁林法规（EUDR）2026-12-30 起正式适用（德国主管机关 BLE 2026-11-20 官方公告 + 欧盟委员会 EUDR 官方页，A 级；微小企业 2027-06-30）。跳过：维多利亚的秘密 11/26 起限品牌代表销售（再查仍仅 LinkedIn 转贴通知与 PPC Land/SellerKit/MediaPost 等转述，无公开官方原文）；Amazon Ads 新广告主账户全部改按发票付款、广告单独开票（Support Center 页 11/24 更新，需登录，仅 PPC Land 转述，未能核对原文）；Seller Central 一键拆分变体（仍仅视频/第三方）；Amazon Business 黑五企业专享折扣至少 15%（属既有工具的活动规则，仅第三方转述）；墨西哥 2027 年平台 ISR/IVA 预提（第三方解读称税率与 2026 年相同，无新变化）；欧盟《简化指令》提案（同前，未单独入库）。状态自动更新 0 条。轮换复查 10 条（verifiedAt 最旧优先：eu-uk-b2b-pallet-delivery-2026-11-17、eu-uk-holiday-returns-2026-11-01、mx-isr-per-order-2026-11-07、review-requests-2026、safe-t、sc-provider-2026-09-01、tic-direct、uk-vat-marketplace-liability-2027-10、us-fee-category-reassign-2026-10-31、us-foreign-ior-import-rule-2026-10-19）：可达 10、失效链接 0；修正项 2：safe-t 的 orig 原引自第三方追踪站，改为直接引用美国论坛官方帖原文（事实不变）；tic-direct 的 zh 由“追踪页”表述改为按官方帖原文（事实不变）。us-fee-category-reassign 再查官方原文仍未找到，保留 C。",
+    "addedCount": 1,
+    "items": [
+      {
+        "id": "eu-eudr-application-2026-12-30",
+        "title": "欧盟毁林法规（EUDR）12 月 30 日起正式执行：木头、纸、橡胶、皮革、咖啡、可可等相关商品进欧盟要做“零毁林”尽职调查并提交声明（微小企业延到 2027 年 6 月 30 日）"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "status": "完成",
     "finishedAt": "2026-11-27 06:06",

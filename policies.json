@@ -1,5 +1,26 @@
 [
   {
+    "id": "eu-eudr-application-2026-12-30",
+    "sourceTier": "A",
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；德国联邦农业与食品局（BLE，德国 EUDR 主管机关）英文公告页 headless Chrome 渲染可打开，Date of issue 2026.11.20，写明 EUDR 已在欧盟层面两次推迟、市场参与者须自 2026-12-30 起履行尽职调查义务、符合条件的微型和小型企业可延至 2027-06-30；欧盟委员会 EUDR 官方页（curl 200）列明大中型经营者/贸易商 2026-12-30、微小企业 2027-06-30、新增产品 2027-12-30 起适用，七类商品为牛、可可、咖啡、油棕、橡胶、大豆、木材及其制品（完整清单见法规附件 I）。亚马逊尚未就此发布公开卖家公告；具体哪些 HS 编码/商品在范围内，本次未逐项核对附件 I。",
+    "title": "欧盟毁林法规（EUDR）12 月 30 日起正式执行：木头、纸、橡胶、皮革、咖啡、可可等相关商品进欧盟要做“零毁林”尽职调查并提交声明（微小企业延到 2027 年 6 月 30 日）",
+    "regions": [
+      "EU"
+    ],
+    "category": "合规与安全",
+    "status": "即将生效",
+    "announced": "2026-11-20",
+    "effective": "2026-12-30",
+    "dateNote": "BLE（德国主管机关）2026-11-20 发布开始适用提醒；法规本身 2023-06-29 生效，经 2024 年 12 月和 2025-12-19 两次修订推迟。大中型经营者及贸易商 2026-12-30 起适用；符合条件的微型和小型企业 2027-06-30 起（已受 EU 木材法规 EUTR 约束的微小企业仍为 2026-12-30）；通过授权法案新增的产品 2027-12-30 起。",
+    "zh": "德国联邦农业与食品局（BLE）2026 年 11 月 20 日发布公告：欧盟《无毁林产品法规》（EUDR）在欧盟层面已两次推迟，市场参与者须自 2026 年 12 月 30 日起履行新的尽职调查义务；符合条件的微型或小型企业可延至 2027 年 6 月 30 日。BLE 负责在德国执行和监督。欧盟委员会官方页说明：EUDR 覆盖与毁林关联最大的七类商品——牛、可可、咖啡、油棕、橡胶、大豆、木材，以及用它们做成的部分产品（完整清单见法规附件 I）；首次把相关产品投放欧盟市场或从欧盟出口的经营者，须做尽职调查，证明产品不来自 2020 年 12 月 31 日后被毁林的土地、在原产国合法生产，并通过 EUDR 信息系统（TRACES）提交尽职调查声明或简化声明（含原料种植地块地理位置等信息）。国家按低、标准、高三档风险分级。EUDR 将逐步取代欧盟木材法规（EUTR）。",
+    "orig": "BLE, Date of issue 2026.11.20: “The start of application of the EUDR has been postponed twice at EU level. Market participants must therefore comply with the new due diligence obligations from December 30, 2026. Under certain conditions, micro- or small undertakings will have more time to comply with the new obligations from 30 June 2027.” European Commission EUDR page: “Large & medium-sized operators and traders, 30 December 2026”; “Date of application for micro & small enterprises (SMEs), 30 June 2027”; “The Regulation covers the seven commodities most associated with deforestation or forest degradation: cattle, cocoa, coffee, oil palm, rubber, soy, wood, and certain products made from these. The full product scope list is found in Annex I of the Regulation.”",
+    "plain": "这是啥：欧盟“防毁林”新规 12 月 30 日起真正开始查：用木头、纸、橡胶、皮革（牛）、咖啡、可可、大豆、棕榈油做的部分商品，第一次卖进欧盟的人要证明原料不是砍森林种出来的、来源合法，并在欧盟系统里交一份声明；小微企业可以晚到明年 6 月 30 日。\n跟你有没有关系：你主做美国站，美国站不受影响；如果你开了欧洲站、自己当进口方把木制品、纸制品、皮具、橡胶制品等卖进欧盟，就有关系（具体哪些商品要对照法规附件 I 的清单）。\n你要做的事：卖欧洲站的，先把木头/纸/皮/橡胶类商品挑出来，问工厂要原料产地（最好有种植地块位置）和合法来源证明，12 月 30 日前确认谁是“首次投放欧盟”的经营者、由谁去交声明；只做美国站的暂时不用管。",
+    "outlook": "服务对象：主要是政府和消费者（欧盟应对气候变化和保护森林），对卖家和供应链是新增的合规成本。推测：执行初期各国检查重点会落在大宗原料和进口商身上，但亚马逊欧洲站可能像 GPSR 一样，后续要求卖家在后台补交尽职调查声明编号或对部分木制品、皮具等类目做合规拦截；德国 BLE 和各国海关的抽查也会影响清关速度。库内相关：《欧盟 GPSR：责任人、标签与卖家平台提交》《欧盟 11 月 1 日起：从欧盟外自发货寄往欧盟的包裹，每件商品要报 ASIN + 型号/零件号（有条码再报条码）》《欧盟合规快速通道：产品经合作认证机构认证后，合规文件由亚马逊自动调取》。",
+    "sourceName": "德国联邦农业与食品局（BLE）：Deforestation-Free Products (EUDR): Start of Application - December 2026；适用日期与商品范围见欧盟委员会 EUDR 官方页",
+    "sourceUrl": "https://www.ble.de/SharedDocs/Meldungen/EN/2026/261120_EUDR.html"
+  },
+  {
     "id": "us-ny-ai-chatbot-toy-ban-2027-02-22",
     "sourceTier": "A",
     "verifiedAt": "2026-11-27",
@@ -194,8 +215,8 @@
   {
     "id": "eu-uk-b2b-pallet-delivery-2026-11-17",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；Seller Central 英国公告论坛 News_Amazon 帖可打开（curl 获取 __NEXT_DATA__，createdAt 2026-11-17T00:38:31Z）；德/法/意/西/爱论坛同日发布同内容。10/7 起可配置、覆盖英德法意西、订单超过 1 件且重量≥45 kg 或体积≥0.28 m³、送到商业地址、运费模板勾选托盘配送、可单独设置托盘处理时间与原文一致。对应帮助页“Amazon Business Pallet Delivery”公开 URL 未找到。美国站 2026-07-14 已有同类公告但门槛为 500 磅/30 立方英尺，不并入本条。",
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；英国论坛 News_Amazon 帖可打开（__NEXT_DATA__ 解析），2026-10-07 起、45 kg / 0.28 立方米、商业地址、5 国范围与库内一致；事实修正 0（2026-11-28 复查）",
     "title": "英国和欧洲五国企业购自发货可开通托盘配送：10 月 7 日起，够重量或体积的 B2B 订单可按托盘报价（英/德/法/意/西）",
     "regions": [
       "UK",
@@ -622,8 +643,8 @@
   {
     "id": "eu-uk-holiday-returns-2026-11-01",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Changes to returns window for holiday sales 仍在，与库内一致。",
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；英国论坛 News_Amazon 帖可打开，11/1–12/25 可退至 2027-01-31、西班牙至 2027-02-06、德意法部分品类 2027-01-15 等与库内一致；事实修正 0（2026-11-28 复查）",
     "title": "欧洲/英国假日延长退货：11/1–12/25 买的多数可退到 2027-01-31（西班牙更长，德意法部分类目更短）",
     "regions": [
       "UK",
@@ -644,8 +665,8 @@
   {
     "id": "mx-isr-per-order-2026-11-07",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题仍写 11/7 起按订单展示墨西哥所得税预提，与原文一致。",
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；墨西哥论坛 News_Amazon 帖可打开，2026-11-07 起按订单计算并展示 ISR 预提、卖家无需操作与库内一致；事实修正 0（2026-11-28 复查）",
     "title": "墨西哥所得税（ISR）预提 11 月 7 日起按订单自动计算并展示（不再只看月度一笔）",
     "regions": [
       "MX"
@@ -679,8 +700,8 @@
     "sourceName": "GOV.UK：Extending VAT online marketplace liability（Budget 2026 税改说明，2026-10-28）",
     "sourceUrl": "https://www.gov.uk/government/publications/vat-online-marketplace-liability-extension/extending-vat-online-marketplace-liability",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；GOV.UK 税改说明可达，标题 Extending VAT online marketplace liability 仍在；October 2027、£90,000、online marketplace 等与库内一致，事实修正 0。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；GOV.UK 政策文件（Published 28 October 2026）可打开，October 2027、£90,000 门槛等与库内一致；事实修正 0（2026-11-28 复查）"
   },
   {
     "id": "us-fba-intl-inbound-extension-2026-10-30",
@@ -834,8 +855,8 @@
   {
     "id": "us-foreign-ior-import-rule-2026-10-19",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；联邦公报 2026-22735 原文页可打开，2027-01-05、外国 IOR / CTPAT 要点仍在。亚马逊美国论坛 News_Amazon 帖 e9dc1aa7（createdAt 2026-11-16T18:33Z）仍可打开，卖家指引与库内 11/16 补记一致，事实修正 0。",
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；联邦公报 2026-22735 原文页可打开，January 5, 2027 生效与评论截止、CTPAT validated、报关行 May 6, 2027 全部合规等与库内一致；事实修正 0（2026-11-28 复查）",
     "title": "美国外国进口商（IOR）新规落地：2027 年 1 月 5 日起须自己通过 CTPAT 认证，或指定 CTPAT 认证报关行报关",
     "regions": [
       "US"
@@ -1100,8 +1121,8 @@
     "sourceName": "beBOLD Digital：Amazon Is Reassigning Some ASINs to New Fee Categories on October 31",
     "sourceUrl": "https://www.bebolddigital.com/news/amazon-asin-fee-category-reassignment-october-31",
     "sourceTier": "C",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；beBOLD 原文可达，10/31 费用类别重分配表述仍在。再次检索官方 A/B 公告仍未找到，保留 C 级。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；beBOLD 原文可达（Published Oct 13, 2026 / Updated Oct 25, 2026），10/31 费用类别重分配表述仍在。2026-11-28 再次检索官方原文未找到（各第三方均称为亚马逊向受影响卖家单独发通知），保留 C 级，官方原文未找到。"
   },
   {
     "id": "uk-sfp-tier-2026-10-30",
@@ -1347,15 +1368,15 @@
     "status": "已生效",
     "announced": "2026-07-21",
     "effective": "2026-07-21",
-    "zh": "2026年7月21日卖家新闻被追踪为：膳食补充剂、儿童玩具、电动出行等需要 TIC 的类目，合规结果必须由认可的检测、检验、认证机构直接提供，卖家自行上传文件不再被接受。追踪页写检测从收到样品起通常约30天，路径是账户状况里的政策合规。站点范围本次材料没有逐国列出。",
+    "zh": "美国卖家论坛官方帖（2026年7月21日）：膳食补充剂、儿童玩具、电动出行等需走检测、检验、认证（TIC）流程的类目，合规结果必须由亚马逊认可的第三方检测、检验、认证机构直接提供，卖家不能再自行上传这些文件。检测从机构收到样品起通常约30天，建议尽早开始。收到合规通知后，路径为账户状况 > 政策合规 > 食品和商品安全问题 > 提交 > 验证商品，选择机构并申请实验室服务；机构会在两个工作日内联系卖家。如需申诉，可在“管理合规 > 添加或申诉合规”中提交。帖子未逐国列出站点。",
     "orig": "News_Amazon (Amazon.com forums): “Compliance results must come directly from an approved third-party testing, inspection, and certification provider. You’re no longer able to upload these documents yourself. Testing typically takes 30 days once your provider receives samples… This applies to categories including dietary supplements, children’s toys, and e-mobility products.”",
     "plain": "这是啥：膳食补充剂、儿童玩具、电动出行这类要检测的商品，结果必须由认可的检测机构直接交给亚马逊，自己上传文件不再算数。\n跟你有没有关系：只卖这些类目的人要改。不卖这些的不用管。材料没逐国写清站点。从收到样品算起，检测通常大约30天。\n你要做的事：让认可的实验室直接回传结果，不要自己上传。不卖这些类目就不用做。",
     "outlook": "推测是为了对上政府合规，避免卖家自己改报告。和责任险取消小卖家豁免、危险品问卷是一套：安全类目从检测、保险到问卷都要过第三方。",
     "sourceName": "Amazon Seller Forums (News_Amazon)：Understand testing, inspection, and certification requirements",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/f09dda4e-f582-483a-974c-47ccc89b0f09",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Understand testing, inspection, and certification requirements 仍在，与库内一致。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；美国论坛官方帖“Understand testing, inspection, and certification requirements”可打开（发帖日 2026-07-21），膳食补充剂/儿童玩具/电动出行、结果须由认可机构直接提供、检测约 30 天与库内一致；2026-11-28 复查修正：zh 原写“被追踪为/追踪页”，改为按官方帖原文表述（事实不变）"
   },
   {
     "id": "fuel-surcharge",
@@ -1598,14 +1619,14 @@
     "announced": "2026-01-21",
     "effective": "2026-02-16",
     "zh": "2026年1月21日宣布，2月16日起：美国自发货订单的 SAFE-T 索赔须在退货送达或退款较晚者之后30天内提交，原先为60天。进行中的索赔不受影响。",
-    "orig": "Autopilot tracker: “Claims for US seller-fulfilled orders must be filed within 30 days of return delivery or refund, whichever is later, down from 60 days.” Effective 16 February 2026.",
+    "orig": "Amazon.com Seller Forums official post, 21 January 2026: “Effective February 16, 2026, the SAFE-T claim filing window for US seller-fulfilled orders will change from 60 days to 30 days.” “With this change to the filing window, the 30-day window starts from either the return delivery scan at your warehouse or the refund date, whichever comes later. For lost shipments, the window begins from the last scan event.” “This change doesn't affect any claims that are currently in progress.”",
     "plain": "这是啥：美国自己发货的订单，退货索赔从60天改成30天，从退货送达或退款较晚的那天算起。\n跟你有没有关系：只影响美国站、自己发货的人。走FBA的不用管。已经在处理中的索赔不受影响。2月16日起按30天。\n你要做的事：自己发货的，在这30天内提交索赔。走FBA就不用做。",
     "outlook": "推测是亚马逊少背卖家拖很久才提的退货账，所以窗口砍半。和退货特别多也要付处理费同一方向：退货成本更多留给卖家。",
     "sourceName": "Amazon Seller Forums：US SAFE-T claim filing window changes to 30 days on Feb 16",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/d95b0e44-60fc-4c16-b690-3626c9a3c43c",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 US SAFE-T claim filing window changes to 30 days on Feb 16 仍在，与库内一致。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；美国论坛官方帖“US SAFE-T claim filing window changes to 30 days on Feb 16”可打开，2026-02-16 起 60 天改 30 天、按退货送达扫描或退款日较晚者起算、丢件按最后扫描起算、进行中索赔不受影响；2026-11-28 复查修正：orig 原引自第三方追踪站 Autopilot，改为直接引用官方帖原文（事实不变）"
   },
   {
     "id": "commingle",
@@ -2145,8 +2166,8 @@
     "sourceName": "Amazon Ads：Introducing Branded Conversations and Review Requests",
     "sourceUrl": "https://advertising.amazon.com/library/news/branded-conversations-review-requests",
     "sourceTier": "A",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200；advertising.amazon.com 页面可打开，标题 Introducing Branded Conversations and Review Requests 仍在，内容未发现需要修正的关键数字。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；advertising.amazon.com 官方新闻页可打开，“Review Requests will launch in November 2026”“Branded Conversations … January 2027 in the United States”与库内一致；事实修正 0（2026-11-28 复查）"
   },
   {
     "id": "mcf-prime-2026",
@@ -2250,8 +2271,8 @@
     "sourceName": "Amazon Seller Central 论坛",
     "sourceUrl": "https://sellercentral.amazon.com/seller-forums/discussions/t/439b42ab-7bae-4674-b5fb-3a39f5078ac2",
     "sourceTier": "B",
-    "verifiedAt": "2026-11-18",
-    "verifyNote": "200（curl 获取论坛 __NEXT_DATA__）；News_Amazon 帖标题 Enhanced security for service provider access on Seller Central 仍在，与库内一致。"
+    "verifiedAt": "2026-11-28",
+    "verifyNote": "200；美国论坛官方帖可打开，2026-09-01 起服务商须企业核验、授权 365 天过期、卖家勾选权限、未收邮件无需操作与库内一致；事实修正 0（2026-11-28 复查）"
   },
   {
     "id": "fba-partial-refund-2026-10-13",
